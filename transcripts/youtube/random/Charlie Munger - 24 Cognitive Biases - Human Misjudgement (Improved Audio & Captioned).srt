@@ -1,0 +1,3300 @@
+1
+00:00:00,000 --> 00:00:06,400
+Well, I am very interested in the subject of human misjudgment, and Lord knows I've
+
+2
+00:00:06,400 --> 00:00:09,360
+created my, well, a good bit of it.
+
+3
+00:00:09,360 --> 00:00:14,080
+I don't think I've created my full statistical share.
+
+4
+00:00:14,080 --> 00:00:21,540
+And I think that one of the reasons was I tried to do something about this terrible
+
+5
+00:00:21,540 --> 00:00:28,160
+ignorance I left the Harvard Law School with when I saw this patterned irrationality which
+
+6
+00:00:28,160 --> 00:00:30,280
+was so extreme.
+
+7
+00:00:30,280 --> 00:00:36,320
+And I had no theory or anything to deal with it, but I could see that it was extreme and
+
+8
+00:00:36,320 --> 00:00:38,040
+I could see that it was patterned.
+
+9
+00:00:38,040 --> 00:00:44,160
+I just started to create my own system of psychology, partly by casual reading, but
+
+10
+00:00:44,160 --> 00:00:46,240
+largely from personal experience.
+
+11
+00:00:46,240 --> 00:00:51,920
+And I used that pattern to help me get through life.
+
+12
+00:00:51,920 --> 00:00:57,480
+Fairly late in life, I stumbled into this book, Influence, by a psychologist named
+
+13
+00:00:57,480 --> 00:01:04,120
+Bob Cialdini, who became a super tenured hotshot on the 2000 person faculty at a very young
+
+14
+00:01:04,120 --> 00:01:05,120
+age.
+
+15
+00:01:05,120 --> 00:01:12,600
+And he wrote this book, which is now sold 300,000 copies, which is remarkable for semi
+
+16
+00:01:12,600 --> 00:01:16,520
+well, it's an academic book aimed at a popular audience.
+
+17
+00:01:16,520 --> 00:01:21,840
+And that filled in a lot of holes in my crude system.
+
+18
+00:01:21,840 --> 00:01:30,200
+And when those holes had filled in, I thought I had a system that was a good working tool
+
+19
+00:01:30,200 --> 00:01:33,360
+and I'd like to share that one with you.
+
+20
+00:01:33,360 --> 00:01:38,200
+And I came here because behavioral economics, how could economics not be behavioral?
+
+21
+00:01:38,200 --> 00:01:43,120
+If it isn't behavioral, what the hell is it?
+
+22
+00:01:43,120 --> 00:01:48,480
+And I think it's fairly clear that all reality has to respect all other reality.
+
+23
+00:01:48,880 --> 00:01:52,000
+If you come to inconsistencies, they have to be resolved.
+
+24
+00:01:52,000 --> 00:01:58,880
+And so the idea of if there's anything valid in psychology, economics has to recognize
+
+25
+00:01:58,880 --> 00:02:00,600
+it and vice versa.
+
+26
+00:02:00,600 --> 00:02:08,840
+So I think the people that are working on this fringe between economics and psychology
+
+27
+00:02:08,840 --> 00:02:11,640
+are absolutely right to be there.
+
+28
+00:02:11,640 --> 00:02:14,360
+And I think there's been plenty wrong over the years.
+
+29
+00:02:14,400 --> 00:02:21,800
+Well, let me romp through my as much of this list as I have time to get through 24 standard
+
+30
+00:02:21,800 --> 00:02:24,400
+causes of human misjudgment.
+
+31
+00:02:28,000 --> 00:02:34,560
+First, under recognition of the power of what psychologists call reinforcement and economic
+
+32
+00:02:34,560 --> 00:02:36,760
+and economists call incentives.
+
+33
+00:02:36,760 --> 00:02:38,520
+Well, you say everybody knows that.
+
+34
+00:02:38,520 --> 00:02:42,960
+Well, I think I've been in the top five percent of my age cohort all my life and understanding
+
+35
+00:02:42,960 --> 00:02:50,040
+the power of incentives and all my life I underestimated it and never a year passes.
+
+36
+00:02:50,040 --> 00:02:55,200
+But what I get some surprise that pushes my limit a little farther.
+
+37
+00:02:55,200 --> 00:03:01,080
+So one of my favorite cases about the power of incentives is the Federal Express case
+
+38
+00:03:01,080 --> 00:03:05,360
+where heart and soul of the integrity of the system is that all the packages have to be
+
+39
+00:03:05,360 --> 00:03:09,520
+shifted rapidly in one central location each night.
+
+40
+00:03:09,520 --> 00:03:13,480
+And the system has no integrity if the whole shift can't be done fast.
+
+41
+00:03:13,480 --> 00:03:18,280
+And Federal Express had one hell of a time getting the thing to work.
+
+42
+00:03:18,280 --> 00:03:20,560
+And they tried moral suasion.
+
+43
+00:03:20,560 --> 00:03:22,480
+They tried everything in the world.
+
+44
+00:03:22,480 --> 00:03:26,280
+And finally, somebody got the happy thought that they were paying the night shift by the
+
+45
+00:03:26,280 --> 00:03:31,600
+hour and that maybe if they paid them by the shift, the system would work better.
+
+46
+00:03:31,600 --> 00:03:35,880
+And lo and behold, that solution worked.
+
+47
+00:03:35,920 --> 00:03:39,360
+Early in the history of Xerox, Joe Wilson, who was then in the government, had to go
+
+48
+00:03:39,360 --> 00:03:43,680
+back to Xerox because he couldn't understand how their better new machine was selling so
+
+49
+00:03:43,680 --> 00:03:48,280
+poorly in relation to their older and inferior machine.
+
+50
+00:03:48,280 --> 00:03:52,400
+Of course, when he got there, he found out that the commission arrangement with the salesman
+
+51
+00:03:52,400 --> 00:03:56,440
+gave a tremendous incentive to the inferior machine.
+
+52
+00:03:56,440 --> 00:04:00,680
+And here at Harvard in the shadow of B.F.
+
+53
+00:04:01,680 --> 00:04:09,560
+There was a man who really was in the reinforcement as a powerful thought.
+
+54
+00:04:09,560 --> 00:04:16,000
+And you know, Skinner has lost his reputation in a lot of places.
+
+55
+00:04:16,000 --> 00:04:23,080
+But if you were to analyze the entire history of experimental science at Harvard, he'd be
+
+56
+00:04:23,080 --> 00:04:25,640
+in the top handful.
+
+57
+00:04:25,640 --> 00:04:29,240
+His experiments were very ingenious.
+
+58
+00:04:29,240 --> 00:04:32,800
+The results were counterintuitive and they were important.
+
+59
+00:04:32,800 --> 00:04:36,760
+It is not given to experimental science to do better.
+
+60
+00:04:36,760 --> 00:04:42,800
+What gummed up Skinner's reputation is that he developed a case of what I always call
+
+61
+00:04:42,800 --> 00:04:44,520
+man with a hammer syndrome.
+
+62
+00:04:44,520 --> 00:04:50,000
+To the man with a hammer, every problem tends to look pretty much like a nail.
+
+63
+00:04:50,000 --> 00:04:54,400
+And Skinner had one of the more extreme cases in the history of academia.
+
+64
+00:04:54,400 --> 00:04:57,520
+And this syndrome doesn't exempt right people.
+
+65
+00:04:57,520 --> 00:05:02,600
+It's just a man with a hammer and Skinner is an extreme example of that.
+
+66
+00:05:02,600 --> 00:05:08,200
+And later, as I get on my list, let's go back and try and figure out why people like Skinner
+
+67
+00:05:08,200 --> 00:05:10,040
+get man with a hammer syndrome.
+
+68
+00:05:10,040 --> 00:05:13,880
+Incidentally, when I was at the Harvard Law School, there was a professor naturally at
+
+69
+00:05:13,880 --> 00:05:21,560
+Yale who was derisively discussed at Harvard and they used to say, poor old Blanchard,
+
+70
+00:05:21,560 --> 00:05:24,800
+he thinks declaratory judgments will cure cancer.
+
+71
+00:05:24,800 --> 00:05:27,280
+And that's the way Skinner got.
+
+72
+00:05:28,040 --> 00:05:33,080
+And not only that, he was literary and he scorned opponents who had any different way
+
+73
+00:05:33,080 --> 00:05:35,920
+of thinking or thought anything else was important.
+
+74
+00:05:35,920 --> 00:05:40,660
+This is not a way to make a lasting reputation if the other people turn out to also be doing
+
+75
+00:05:40,660 --> 00:05:43,120
+something important.
+
+76
+00:05:43,120 --> 00:05:46,840
+My second factor is simple psychological denial.
+
+77
+00:05:46,840 --> 00:05:53,360
+This first really hit me between the eyes when a friend of our family had a super athlete
+
+78
+00:05:53,360 --> 00:05:58,080
+super student son who flew off a carrier in the North Atlantic and never came back.
+
+79
+00:05:58,080 --> 00:06:04,600
+And his mother, who was a very sane woman, just never believed that he was dead.
+
+80
+00:06:04,600 --> 00:06:09,440
+And of course, if you turn on the television, you find the mothers of the most obvious
+
+81
+00:06:09,440 --> 00:06:15,600
+premises man could ever diagnose and they all think their sons are innocent.
+
+82
+00:06:15,600 --> 00:06:16,600
+Simple psychological denial.
+
+83
+00:06:16,600 --> 00:06:22,520
+The reality is too painful to bear, so you just distort it until it's bearable.
+
+84
+00:06:22,520 --> 00:06:29,360
+We all do that to some extent, and it's a common psychological misjudgment that causes
+
+85
+00:06:29,360 --> 00:06:30,960
+terrible problems.
+
+86
+00:06:30,960 --> 00:06:36,640
+Third, incentive-caused bias, both in one's own mind and that of one's trusted advisor,
+
+87
+00:06:36,640 --> 00:06:41,440
+where it creates what economists call agency costs.
+
+88
+00:06:41,440 --> 00:06:46,880
+Here my early experience was a doctor who sent bushel baskets full of normal gallbladders
+
+89
+00:06:46,880 --> 00:06:52,000
+down to the pathology lab in a leading hospital in Lincoln, Nebraska.
+
+90
+00:06:52,160 --> 00:06:57,280
+With that quality control, for which community hospitals are famous, about five years after
+
+91
+00:06:57,280 --> 00:07:01,440
+he should have been removed from the staff, he was.
+
+92
+00:07:01,440 --> 00:07:06,000
+And one of the old doctors who participated in the removal was also a family friend.
+
+93
+00:07:06,000 --> 00:07:10,880
+And I asked him, I said, tell me, did he think here's a way for me to exercise my talents?
+
+94
+00:07:10,880 --> 00:07:16,840
+This guy was very skilled, technically, and make a high living by doing a few maimings
+
+95
+00:07:16,840 --> 00:07:19,880
+and murders every year, along with some frauds.
+
+96
+00:07:19,880 --> 00:07:21,680
+He said, hell no, Charlie.
+
+97
+00:07:21,680 --> 00:07:27,240
+He thought that the gallbladder was the source of all medical evil, and if you really loved
+
+98
+00:07:27,240 --> 00:07:30,800
+your patients, you couldn't get that organ out rapidly enough.
+
+99
+00:07:30,800 --> 00:07:43,200
+Now, that's an extreme case, but in lesser strength, it's present in every profession
+
+100
+00:07:43,200 --> 00:07:49,800
+and in every human being, and it causes perfectly terrible behavior.
+
+101
+00:07:50,040 --> 00:07:55,400
+If you take sales presentations of brokers of commercial real estate and businesses,
+
+102
+00:07:55,400 --> 00:07:56,400
+I'm 70 years old.
+
+103
+00:07:56,400 --> 00:08:01,400
+I've never seen one, I thought was even within hailing distance of objective truth.
+
+104
+00:08:01,400 --> 00:08:10,520
+And you want to talk about the power of incentives and the power to rationalize terrible behavior.
+
+105
+00:08:10,520 --> 00:08:15,400
+After the Defense Department had had enough experience with cost plus percentage of cost
+
+106
+00:08:15,400 --> 00:08:21,560
+contracts, the reaction of our republic was to make it a crime for the federal government
+
+107
+00:08:21,560 --> 00:08:25,680
+to write one, and not only a crime, but a felony.
+
+108
+00:08:25,680 --> 00:08:31,480
+And by the way, the government's right, but a lot of the way the world is run, including
+
+109
+00:08:31,480 --> 00:08:36,400
+most law firms and a lot of other places, they've still got a cost plus percentage of
+
+110
+00:08:36,400 --> 00:08:44,080
+cost system, and human nature, with its version of what I call incentive-caused bias, causes
+
+111
+00:08:44,080 --> 00:08:46,000
+this terrible abuse.
+
+112
+00:08:46,000 --> 00:08:49,080
+And many of the people who are doing it, you would be glad to have Mary into your family
+
+113
+00:08:49,080 --> 00:08:52,640
+compared to what you're otherwise going to get.
+
+114
+00:08:52,640 --> 00:09:01,680
+Now, there are huge implications from the fact that human mind is put together this
+
+115
+00:09:01,680 --> 00:09:02,680
+way.
+
+116
+00:09:02,680 --> 00:09:08,720
+And the idea is that people who create things like cash registers, which make misbehavior
+
+117
+00:09:08,720 --> 00:09:13,480
+hard, are some of the effective saints of our civilization.
+
+118
+00:09:13,480 --> 00:09:18,640
+And the cash register was a great moral instrument when it was created.
+
+119
+00:09:18,640 --> 00:09:20,800
+And Patterson knew that, by the way.
+
+120
+00:09:20,800 --> 00:09:25,080
+He had a little store, and the people were stealing him blind and never made any money,
+
+121
+00:09:25,080 --> 00:09:29,200
+and people sold him a couple of cash registers, and it went to profit immediately.
+
+122
+00:09:29,200 --> 00:09:35,160
+And of course, he closed the store and went into the cash register business, with results
+
+123
+00:09:36,160 --> 00:09:40,640
+So this is a huge, important thing.
+
+124
+00:09:40,640 --> 00:09:44,840
+If you read the psychology text, you will find that if they're a thousand pages long,
+
+125
+00:09:44,840 --> 00:09:51,520
+there's one sentence, somehow incentive-caused bias has escaped the standard survey course
+
+126
+00:09:51,520 --> 00:09:52,520
+in psychology.
+
+127
+00:09:52,520 --> 00:09:59,040
+Fourth, and this is a superpower in error-causing psychological tendency, bias from consistency
+
+128
+00:09:59,040 --> 00:10:05,080
+and commitment tendency, including the tendency to avoid or promptly resolve cognitive dissonance,
+
+129
+00:10:05,080 --> 00:10:09,880
+is the self-confirmation tendency of all conclusions, particularly expressed conclusions
+
+130
+00:10:09,880 --> 00:10:14,280
+and with a special persistence for conclusions that are hard won.
+
+131
+00:10:14,280 --> 00:10:18,160
+But what I'm saying here is that the human mind is a lot like the human egg, and the
+
+132
+00:10:18,160 --> 00:10:19,560
+human egg has a shutoff device.
+
+133
+00:10:19,560 --> 00:10:23,320
+When the sperm gets in, it shuts down, so the next one can't get in.
+
+134
+00:10:23,320 --> 00:10:27,280
+The human mind has a big tendency of the same sort.
+
+135
+00:10:27,280 --> 00:10:33,080
+And here again, it doesn't just catch ordinary mortals, it catches the deans of physics.
+
+136
+00:10:33,080 --> 00:10:37,800
+According to Max Planck, the really innovative, important new physics was never really accepted
+
+137
+00:10:37,800 --> 00:10:39,120
+by the old guard.
+
+138
+00:10:39,120 --> 00:10:45,080
+Instead, a new guard came along that was less brain blocked by its previous conclusions.
+
+139
+00:10:45,080 --> 00:10:52,600
+And if Max Planck's crowd had this consistency and commitment tendency that kept their old
+
+140
+00:10:52,600 --> 00:10:57,800
+conclusions intact in spite of disconfirming evidence, you can imagine what the crowd that
+
+141
+00:10:57,800 --> 00:11:03,400
+you and I are part of behaves like.
+
+142
+00:11:03,400 --> 00:11:07,800
+And of course, if you make a public disclosure of your conclusion, you're pounding it in
+
+143
+00:11:07,800 --> 00:11:09,240
+to your own head.
+
+144
+00:11:09,240 --> 00:11:12,800
+Many of these students that are screaming at us, you know, they aren't convincing us,
+
+145
+00:11:12,800 --> 00:11:16,720
+but they're forming mental chains for themselves because what they're shouting out, they're
+
+146
+00:11:16,720 --> 00:11:17,720
+pounding in.
+
+147
+00:11:17,720 --> 00:11:22,840
+And I think educational institutions that create a climate where too much of that goes
+
+148
+00:11:22,840 --> 00:11:29,920
+on are, in a fundamental sense, they're irresponsible institutions.
+
+149
+00:11:29,920 --> 00:11:37,740
+It's very important to not put your brain in chains too young by what you shout out.
+
+150
+00:11:37,740 --> 00:11:44,560
+And all these things like painful qualifying and initiation rituals, all those things pound
+
+151
+00:11:44,560 --> 00:11:49,640
+in your commitments and your ideas.
+
+152
+00:11:50,000 --> 00:11:53,580
+The Chinese brainwashing system, which was for war prisoners, which was way better than
+
+153
+00:11:53,580 --> 00:11:59,920
+anybody else's, they maneuvered people into making tiny little commitments and declarations.
+
+154
+00:11:59,920 --> 00:12:02,180
+And then they'd slowly build.
+
+155
+00:12:02,180 --> 00:12:04,640
+That worked way better than torture.
+
+156
+00:12:04,640 --> 00:12:11,920
+Sixth, bias from Pavlovian association, misconstruing past correlation as a reliable basis for decision
+
+157
+00:12:11,920 --> 00:12:13,160
+making.
+
+158
+00:12:13,160 --> 00:12:18,800
+I never took a course in psychology or economics either, for that matter, but I did learn about
+
+159
+00:12:18,800 --> 00:12:24,520
+Pavlovian high school biology and the way they taught it.
+
+160
+00:12:24,520 --> 00:12:26,480
+So the dog salivated when the bell rang.
+
+161
+00:12:26,480 --> 00:12:29,040
+So what?
+
+162
+00:12:29,040 --> 00:12:32,880
+Nobody made the least effort to tie that to the wide world.
+
+163
+00:12:32,880 --> 00:12:40,200
+The truth of the matter is that Pavlovian association is an enormously powerful psychological
+
+164
+00:12:40,200 --> 00:12:43,720
+force in the daily life of all of us.
+
+165
+00:12:43,720 --> 00:12:48,480
+And indeed in economics, we wouldn't have money without the role of so-called secondary
+
+166
+00:12:48,480 --> 00:12:57,600
+reinforcement, which is a pure psychological phenomenon demonstrated in the laboratory.
+
+167
+00:12:57,600 --> 00:13:03,280
+Practically, I'd say three quarters of advertising works on pure Pavlov.
+
+168
+00:13:03,280 --> 00:13:06,040
+Think how association, pure association works.
+
+169
+00:13:06,040 --> 00:13:09,360
+Take Coca-Cola Company, we're the biggest shareholder.
+
+170
+00:13:09,360 --> 00:13:15,160
+They want to be associated with every wonderful image, heroics in the Olympics, wonderful
+
+171
+00:13:15,160 --> 00:13:16,400
+music, you name it.
+
+172
+00:13:16,800 --> 00:13:19,600
+They don't want to be associated with president's funerals and so forth.
+
+173
+00:13:19,600 --> 00:13:23,560
+When have you seen a Coca-Cola ad?
+
+174
+00:13:23,560 --> 00:13:25,880
+And the association really works.
+
+175
+00:13:25,880 --> 00:13:31,920
+And all these psychological tendencies work largely or entirely on a subconscious level,
+
+176
+00:13:31,920 --> 00:13:33,640
+which makes them very insidious.
+
+177
+00:13:33,640 --> 00:13:36,480
+Then you've got Persian messenger syndrome.
+
+178
+00:13:36,480 --> 00:13:39,960
+The Persians really did kill the messenger who brought the bad news.
+
+179
+00:13:39,960 --> 00:13:40,960
+You think that is dead?
+
+180
+00:13:40,960 --> 00:13:44,560
+I mean, you should have seen Bill Paley in his last 20 years.
+
+181
+00:13:44,560 --> 00:13:45,840
+He didn't hear one damn thing.
+
+182
+00:13:45,840 --> 00:13:47,280
+He didn't want to hear.
+
+183
+00:13:47,280 --> 00:13:54,040
+People knew that it was bad for the messenger to bring Bill Paley things he didn't want
+
+184
+00:13:54,040 --> 00:13:55,040
+to hear.
+
+185
+00:13:55,040 --> 00:14:01,680
+Well, that means that the leader gets in a cocoon of unreality and is a great big enterprise.
+
+186
+00:14:01,680 --> 00:14:06,120
+And boy, did he make some dumb decisions in the last 20 years.
+
+187
+00:14:06,120 --> 00:14:09,840
+And Persian messenger syndrome is alive and well.
+
+188
+00:14:09,840 --> 00:14:16,320
+When I saw some years ago, ARCO and Exxon arguing over a few hundred millions of ambiguity
+
+189
+00:14:16,320 --> 00:14:22,840
+in their North Slope treaties, before a Superior Court judge in Texas with armies of lawyers
+
+190
+00:14:22,840 --> 00:14:26,280
+and experts on each side, this is a Mad Hatter's Tea Party.
+
+191
+00:14:26,280 --> 00:14:32,120
+Two engineering style companies can't resolve some ambiguity without spending tens of millions
+
+192
+00:14:32,120 --> 00:14:35,440
+of dollars in some Texas Superior Court.
+
+193
+00:14:35,440 --> 00:14:41,700
+In my opinion, what happens is that nobody wants to bring the bad news to the executives
+
+194
+00:14:41,700 --> 00:14:42,700
+up the line.
+
+195
+00:14:42,700 --> 00:14:47,200
+That here's a few hundred million dollars you thought you had that you don't, and it's
+
+196
+00:14:47,200 --> 00:14:53,920
+much safer to act like the Persian messenger who goes away to hide rather than bring home
+
+197
+00:14:53,920 --> 00:14:57,740
+the news of the battle lost.
+
+198
+00:14:57,740 --> 00:15:03,400
+Talking about economics, you get a very interesting phenomenon that I've seen over and over again
+
+199
+00:15:03,400 --> 00:15:04,680
+in a long life.
+
+200
+00:15:04,680 --> 00:15:09,640
+You've got two products, suppose they're complex technical product.
+
+201
+00:15:09,640 --> 00:15:19,320
+Now you think under the laws of economics that if product A costs X, if product Y costs
+
+202
+00:15:19,320 --> 00:15:25,280
+X minus something, it will sell better than if it sells at X plus something.
+
+203
+00:15:25,280 --> 00:15:26,280
+But that's not so.
+
+204
+00:15:26,280 --> 00:15:32,160
+In many cases, when you raise the price of the alternative product, it'll get a larger
+
+205
+00:15:32,200 --> 00:15:37,560
+market share than it would when you make it lower than your competitor's product.
+
+206
+00:15:37,560 --> 00:15:43,280
+That's because the bell, a Pavlovian bell, ordinarily there's a correlation between price
+
+207
+00:15:43,280 --> 00:15:44,360
+and value.
+
+208
+00:15:44,360 --> 00:15:48,400
+You have an information inefficiency.
+
+209
+00:15:48,400 --> 00:15:52,400
+When you raise the price, the sales go up relative to your competitor.
+
+210
+00:15:52,400 --> 00:15:53,720
+That happens again and again and again.
+
+211
+00:15:53,720 --> 00:15:59,120
+It's a pure Pavlovian phenomenon.
+
+212
+00:15:59,160 --> 00:16:02,360
+You can say, well, the economists have figured this sort of thing out when they started talking
+
+213
+00:16:02,360 --> 00:16:07,200
+about information inefficiencies, but that was fairly late in economics that they found
+
+214
+00:16:07,200 --> 00:16:08,920
+such an obvious thing.
+
+215
+00:16:08,920 --> 00:16:13,820
+Of course, most of them don't ask what causes the information inefficiencies.
+
+216
+00:16:13,820 --> 00:16:19,200
+One of the things that causes it is pure old Pavlov and his dog.
+
+217
+00:16:19,200 --> 00:16:23,800
+Now you've got bias from Skinnerian Association, operant conditioning, where you give the dog
+
+218
+00:16:23,960 --> 00:16:33,960
+a reward and pound in the behavior that preceded the dogs getting the award.
+
+219
+00:16:33,960 --> 00:16:41,240
+Of course, Skinner was able to create superstitious pigeons by having rewards come by accident
+
+220
+00:16:41,240 --> 00:16:42,880
+with certain occurrences.
+
+221
+00:16:42,880 --> 00:16:47,600
+Of course, we all know people who are the human equivalents of superstitious pigeons.
+
+222
+00:16:47,600 --> 00:16:49,920
+That's a very powerful phenomenon.
+
+223
+00:16:49,920 --> 00:16:53,360
+Of course, operant conditioning really works.
+
+224
+00:16:54,000 --> 00:17:00,280
+The people in the center who think that operant conditioning is important are very much right.
+
+225
+00:17:00,280 --> 00:17:04,600
+It's just that Skinner overdid it a little.
+
+226
+00:17:04,600 --> 00:17:15,880
+Where you see in business just perfectly horrible results from psychologically rooted tendencies
+
+227
+00:17:15,880 --> 00:17:16,880
+is in accounting.
+
+228
+00:17:16,880 --> 00:17:19,560
+If you take Westinghouse, which blew what?
+
+229
+00:17:19,560 --> 00:17:26,720
+$2 or $3 billion pre-tax at least, loaning developers to build hotels and virtually 100%
+
+230
+00:17:26,720 --> 00:17:27,720
+loans.
+
+231
+00:17:27,720 --> 00:17:31,320
+Now you say any idiot knows that there's one thing you don't like, it's a developer, another
+
+232
+00:17:31,320 --> 00:17:33,320
+you don't like, it's a hotel.
+
+233
+00:17:33,320 --> 00:17:39,840
+To make 100% loans, the developer is going to build a hotel.
+
+234
+00:17:39,840 --> 00:17:43,560
+But this guy, he probably was an engineer or something and he didn't take psychology
+
+235
+00:17:43,560 --> 00:17:45,040
+anymore and I did.
+
+236
+00:17:45,040 --> 00:17:49,400
+He got out there in the hands of these slick salesmen operating under their version of
+
+237
+00:17:49,400 --> 00:17:54,440
+incentive cost bias or any damn way of getting Westinghouse to do what was considered normal
+
+238
+00:17:54,440 --> 00:17:57,080
+business and they just blew it.
+
+239
+00:17:57,080 --> 00:18:01,880
+That would never have been possible if the accounting system hadn't been such that for
+
+240
+00:18:01,880 --> 00:18:09,280
+the initial phase of every transaction, it showed wonderful financial results.
+
+241
+00:18:09,280 --> 00:18:16,760
+So people who have loose accounting standards are just inviting perfectly horrible behavior
+
+242
+00:18:16,920 --> 00:18:20,160
+in other people and it's a sin.
+
+243
+00:18:20,160 --> 00:18:22,080
+It's an absolute sin.
+
+244
+00:18:22,080 --> 00:18:27,360
+If you carried bushel baskets full of money through the ghetto and made it easy to steal,
+
+245
+00:18:27,360 --> 00:18:32,560
+that would be a considerable human sin because you'd be causing a lot of bad behavior and
+
+246
+00:18:32,560 --> 00:18:34,480
+the bad behavior would spread.
+
+247
+00:18:34,480 --> 00:18:41,040
+Similarly, an institution that gets sloppy accounting commits a real human sin and it's
+
+248
+00:18:41,040 --> 00:18:45,320
+also a dumb way to do business as Westinghouse is so wonderfully prude.
+
+249
+00:18:45,320 --> 00:18:50,360
+Oddly enough, nobody mentions, at least nobody I've seen, what happened with Joe Jets and
+
+250
+00:18:50,360 --> 00:18:51,360
+Kidder Peabody.
+
+251
+00:18:51,360 --> 00:18:57,600
+The truth of the matter is the accounting system was such that by punching a few buttons,
+
+252
+00:18:57,600 --> 00:19:02,640
+the Joe Jets of the world could show profits and profits that showed up and things that
+
+253
+00:19:02,640 --> 00:19:06,040
+resulted in rewards and esteem and every other thing that human be.
+
+254
+00:19:06,040 --> 00:19:11,200
+Well, the Joe Jets are always with us and they're not really to blame in my judgment
+
+255
+00:19:11,200 --> 00:19:18,040
+at least, but that bastard who created that foolish accounting system, who so far as I
+
+256
+00:19:18,040 --> 00:19:24,680
+know has not been played alive, ought to be.
+
+257
+00:19:24,680 --> 00:19:31,480
+Seventh, bias from reciprocation tendency, including the tendency of one in a role to
+
+258
+00:19:31,480 --> 00:19:34,600
+act as other persons expect.
+
+259
+00:19:34,600 --> 00:19:40,160
+Well here again, Sealdini does a magnificent job at this and you're all going to be given
+
+260
+00:19:40,160 --> 00:19:45,680
+a copy of Sealdini's book and if you have half as much sense as I think you do, you
+
+261
+00:19:45,680 --> 00:19:51,280
+will immediately order copies for all of your children and several of your friends.
+
+262
+00:19:51,280 --> 00:19:54,760
+You will never make a better investment.
+
+263
+00:19:54,760 --> 00:20:01,240
+It is so easy to be a patsy for what he calls the compliance practitioners of this life.
+
+264
+00:20:01,240 --> 00:20:07,840
+But at any rate, reciprocation tendency is a very, very powerful phenomenon and Sealdini
+
+265
+00:20:07,920 --> 00:20:16,240
+demonstrated this by running around the campus and he asked people to take juvenile delinquents
+
+266
+00:20:16,240 --> 00:20:26,880
+to the zoo and it was a campus and so one in six actually agreed to do it.
+
+267
+00:20:26,880 --> 00:20:31,320
+And after he'd accumulated the statistical output, he went around on the same campus
+
+268
+00:20:31,320 --> 00:20:36,000
+and he asked other people, he said, Jay, would you devote two afternoons a week to taking
+
+269
+00:20:36,960 --> 00:20:41,800
+juvenile delinquents somewhere and suffering greatly yourself to help them?
+
+270
+00:20:41,800 --> 00:20:44,760
+And there he got 100% of the people to say no.
+
+271
+00:20:44,760 --> 00:20:48,080
+But after he'd made the first request, he backed off a little and he said, well, would
+
+272
+00:20:48,080 --> 00:20:50,720
+you at least take them to the zoo one afternoon?
+
+273
+00:20:50,720 --> 00:20:53,800
+He raised the compliance rate from a third to a half.
+
+274
+00:20:53,800 --> 00:21:00,040
+He got three times the success by just going through the little ask for a lot and back
+
+275
+00:21:00,040 --> 00:21:01,040
+off.
+
+276
+00:21:01,360 --> 00:21:07,000
+Now, the human mind on a subconscious level can be manipulated that way and you don't
+
+277
+00:21:07,000 --> 00:21:08,000
+know it.
+
+278
+00:21:10,320 --> 00:21:15,200
+I always use the phrase, you're like a one legged man in an ass kicking contest and you
+
+279
+00:21:15,200 --> 00:21:21,320
+are, I mean, you are really giving a lot of quarter to the external world that you you
+
+280
+00:21:21,320 --> 00:21:30,400
+can't afford to give and on this so-called role theory where you tend to act in the way
+
+281
+00:21:30,400 --> 00:21:31,520
+that other people expect.
+
+282
+00:21:32,080 --> 00:21:33,160
+That's reciprocation.
+
+283
+00:21:33,160 --> 00:21:38,600
+If you think about the way society is organized and a guy named Zimbardo had people at
+
+284
+00:21:38,600 --> 00:21:41,400
+Stanford divide into two pieces.
+
+285
+00:21:41,400 --> 00:21:43,120
+One were the guards and the other were the prisoners.
+
+286
+00:21:44,040 --> 00:21:48,080
+And they started acting out roles as people expected.
+
+287
+00:21:48,160 --> 00:21:50,480
+He had to stop the experiment after about five days.
+
+288
+00:21:51,320 --> 00:21:56,080
+He was getting into human misery and breakdown and pathological behavior.
+
+289
+00:21:56,080 --> 00:21:59,040
+I mean, it was it was it was awesome.
+
+290
+00:22:00,040 --> 00:22:03,520
+However, Zimbardo was greatly misinterpreted.
+
+291
+00:22:03,880 --> 00:22:07,600
+It's not just reciprocation, tendency and role theory that caused that.
+
+292
+00:22:08,680 --> 00:22:11,640
+It's consistency and commitment tendency.
+
+293
+00:22:12,080 --> 00:22:17,040
+Each person, as he acted as a guard or a prisoner, the action itself was pounding in.
+
+294
+00:22:18,520 --> 00:22:24,560
+The idea wherever you turn this consistency and commitment tendency is is affecting you.
+
+295
+00:22:25,520 --> 00:22:29,840
+In other words, what you think may change what you do, but perhaps even more important,
+
+296
+00:22:29,840 --> 00:22:32,320
+what you do will change what you think.
+
+297
+00:22:32,920 --> 00:22:34,400
+And you can say everybody knows that.
+
+298
+00:22:34,520 --> 00:22:36,920
+I want to tell you, I didn't know it well enough early enough.
+
+299
+00:22:38,840 --> 00:22:44,160
+Eight. Now, this is a lullabaloo, and Henry Kaufman wisely talked about this bias from
+
+300
+00:22:44,160 --> 00:22:49,240
+over influenced by social proof, that is the conclusions of others, particularly under
+
+301
+00:22:49,240 --> 00:22:51,440
+conditions of natural uncertainty and stress.
+
+302
+00:22:51,440 --> 00:22:55,800
+And here, one of the cases the psychologists use is Kitty Genovese, where all these people,
+
+303
+00:22:56,520 --> 00:23:01,000
+50, 60, 70 of them just sort of sat and did nothing while she was slowly murdered.
+
+304
+00:23:02,040 --> 00:23:06,280
+Now, one of the explanations is that everybody looked at everybody else and nobody else was
+
+305
+00:23:06,280 --> 00:23:10,600
+doing anything. And so there's automatic social proof that the right thing to do is nothing.
+
+306
+00:23:11,440 --> 00:23:15,920
+That's not a good enough explanation for Kitty Genovese in my judgment.
+
+307
+00:23:16,120 --> 00:23:17,120
+That's only part of it.
+
+308
+00:23:17,160 --> 00:23:22,840
+There are microeconomic ideas and gain loss ratios and so forth that also come into play.
+
+309
+00:23:22,880 --> 00:23:28,320
+I think time and time again, in reality, psychological notions and economic notions
+
+310
+00:23:28,360 --> 00:23:33,560
+interplay. And the man who doesn't understand both is a damn fool.
+
+311
+00:23:36,440 --> 00:23:40,040
+Big shot businessmen get into these waves of social proof.
+
+312
+00:23:40,040 --> 00:23:43,880
+You remember some years ago when one oil company bought a fertilizer company and every
+
+313
+00:23:43,880 --> 00:23:47,200
+other major oil company practically ran out and bought a fertilizer company.
+
+314
+00:23:47,720 --> 00:23:51,360
+And there was no more damn reason for all these oil companies to buy fertilizer companies.
+
+315
+00:23:51,840 --> 00:23:53,360
+But they didn't know exactly what to do.
+
+316
+00:23:53,360 --> 00:23:56,480
+And if Exxon was doing it, it was good enough for mobile or vice versa.
+
+317
+00:23:56,720 --> 00:23:59,080
+And of course, I think they're all gone now.
+
+318
+00:23:59,800 --> 00:24:01,200
+It was a total disaster.
+
+319
+00:24:02,200 --> 00:24:08,000
+Now, let's talk about efficient market theory, a wonderful economic doctrine that had a long
+
+320
+00:24:08,000 --> 00:24:10,480
+vogue in spite of the experience of Berkshire Hathaway.
+
+321
+00:24:10,560 --> 00:24:13,720
+In fact, one of the economists who won, he shared a Nobel Prize.
+
+322
+00:24:14,200 --> 00:24:18,160
+And as he looked at Berkshire Hathaway year after year, which people would throw in his
+
+323
+00:24:18,160 --> 00:24:21,440
+face as saying, maybe the market isn't quite as efficient as you think.
+
+324
+00:24:21,880 --> 00:24:23,840
+He said, well, it's a two sigma event.
+
+325
+00:24:24,560 --> 00:24:26,640
+And then he said we were a three sigma event.
+
+326
+00:24:26,880 --> 00:24:29,080
+And then he said we were a four sigma event.
+
+327
+00:24:29,720 --> 00:24:31,480
+And he finally got up to six segments.
+
+328
+00:24:31,960 --> 00:24:37,280
+Better to add a sigma than change the theory just because the evidence comes in differently.
+
+329
+00:24:37,280 --> 00:24:42,000
+And of course, when there's a share of a Nobel Prize winner, the money management himself,
+
+330
+00:24:42,000 --> 00:24:43,240
+he sank like a stone.
+
+331
+00:24:45,680 --> 00:24:52,720
+If you if you think about the doctrines I've talked about, namely one, the power of
+
+332
+00:24:52,720 --> 00:24:53,520
+reinforcement.
+
+333
+00:24:55,120 --> 00:24:58,720
+After all, you do something and the market goes up and you get paid and rewarded and
+
+334
+00:24:58,720 --> 00:25:04,520
+applauded and what have you getting a lot of reinforcement if you make a bet on a lot of
+
+335
+00:25:05,040 --> 00:25:08,840
+reinforcement, if you make a bet on a market and the market goes with you.
+
+336
+00:25:09,720 --> 00:25:11,520
+Also, there's social proof.
+
+337
+00:25:12,720 --> 00:25:16,920
+I mean, the the prices in the market are the ultimate form of social proof, reflecting
+
+338
+00:25:16,920 --> 00:25:17,840
+what other people think.
+
+339
+00:25:18,320 --> 00:25:20,520
+And so the combination is very powerful.
+
+340
+00:25:20,520 --> 00:25:27,400
+Why would you expect general market levels to always be totally efficient, say even in
+
+341
+00:25:27,440 --> 00:25:34,680
+1973, four at the pith or in 1972 or whatever it was when the nifty fifty were in their
+
+342
+00:25:34,680 --> 00:25:40,200
+heyday? If these psychological notions are correct, you would affect you would expect
+
+343
+00:25:41,720 --> 00:25:51,400
+some waves of irrationality, which which carry general levels to to to.
+
+344
+00:25:53,400 --> 00:25:56,520
+So they're inconsistent with with reason.
+
+345
+00:25:57,280 --> 00:26:03,240
+Nine, what made these economists love the efficient market theory is the math was
+
+346
+00:26:03,240 --> 00:26:06,240
+elegant. And after all, math is what they've learned to do.
+
+347
+00:26:06,760 --> 00:26:10,120
+The man with a hammer, every problem tends to look pretty much like a nail.
+
+348
+00:26:11,080 --> 00:26:15,800
+The alternative truth was a little messy and they'd forgotten the great economist Cain's,
+
+349
+00:26:15,800 --> 00:26:19,760
+whom I think said better to be roughly right than precisely wrong.
+
+350
+00:26:19,760 --> 00:26:26,880
+Nine bias from contrast caused distortions of sensation, perception and cognition.
+
+351
+00:26:27,600 --> 00:26:32,280
+Here, the great experiment that Sealdini does in his class, he takes three buckets of water,
+
+352
+00:26:32,920 --> 00:26:35,800
+one's hot, one's cold and one's room temperature.
+
+353
+00:26:36,280 --> 00:26:40,240
+He has the students stick his left hand in the hot water and his right hand in the cold
+
+354
+00:26:40,240 --> 00:26:46,520
+water. Then he has them remove the hands and put them both in the room temperature
+
+355
+00:26:46,600 --> 00:26:52,280
+bucket. And of course, with both hands in the same bucket of water, one seems hot and other seems
+
+356
+00:26:52,280 --> 00:26:57,720
+cold because the sensation apparatus of man is over influenced by contrast.
+
+357
+00:26:57,720 --> 00:27:01,640
+It has no absolute scale. It's got a contrast scale in it.
+
+358
+00:27:02,360 --> 00:27:04,600
+And it's a scale with quantum effects in it, too.
+
+359
+00:27:04,600 --> 00:27:07,800
+It takes a certain percentage change before it's noticed.
+
+360
+00:27:11,560 --> 00:27:15,080
+Maybe you've had a magician remove your watch.
+
+361
+00:27:15,160 --> 00:27:17,320
+I certainly have without your noticing it.
+
+362
+00:27:17,320 --> 00:27:26,840
+It's the same thing. He's taking advantage of your contrast type troubles in your sensory apparatus.
+
+363
+00:27:27,560 --> 00:27:31,000
+But here, the great truth is that cognition mimics sensation
+
+364
+00:27:31,560 --> 00:27:36,520
+and the cognition manipulators mimic the watch removing magician.
+
+365
+00:27:40,200 --> 00:27:44,440
+In other words, people are manipulating you all day long on this contrast phenomenon.
+
+366
+00:27:44,440 --> 00:27:47,320
+Cialdini cites the case of the real estate broker.
+
+367
+00:27:47,320 --> 00:27:50,200
+And you've got the room that's been transferred into your town.
+
+368
+00:27:50,840 --> 00:27:55,320
+And the first thing you do is you take the room out of the two of the most awful overpriced houses
+
+369
+00:27:55,320 --> 00:28:02,440
+you've ever seen. And then you take the room to some moderately overpriced house and then you
+
+370
+00:28:02,440 --> 00:28:07,480
+stick them. And it works pretty well, which is why the real estate salesmen do it.
+
+371
+00:28:08,120 --> 00:28:14,040
+And it's always going to work. And the accidents of life can do this to you and it can ruin your
+
+372
+00:28:14,040 --> 00:28:20,200
+life. In my generation, when women lived at home until they got married, I saw some perfectly
+
+373
+00:28:20,200 --> 00:28:26,120
+terrible marriages made by highly desirable women because they lived in terrible homes.
+
+374
+00:28:27,320 --> 00:28:32,440
+And I've seen some terrible second marriages which were made because there were slight
+
+375
+00:28:32,440 --> 00:28:39,000
+improvements over an even worse first marriage. And you think you're immune from these things and
+
+376
+00:28:39,000 --> 00:28:47,320
+you laugh and I want to tell you, you aren't. And my favorite analogy, I can't vouch for the
+
+377
+00:28:47,320 --> 00:28:53,320
+accuracy of. I have this worthless friend I like to play bridge with and he's a total intellectual
+
+378
+00:28:53,320 --> 00:28:58,120
+amateur that lives on inherited money. But he told me once something I really enjoyed hearing.
+
+379
+00:28:58,120 --> 00:29:05,240
+He said, Charlie, he says, if you throw a frog into very hot water, the frog will jump out.
+
+380
+00:29:06,200 --> 00:29:11,720
+But if you put the frog in room temperature water and just slowly heat the water up,
+
+381
+00:29:11,720 --> 00:29:15,800
+the frog will die there. Now, I don't know whether that's true about a frog,
+
+382
+00:29:16,440 --> 00:29:21,160
+but it sure as hell true about many of the businessmen I know. And there again,
+
+383
+00:29:24,200 --> 00:29:30,680
+it is the contrast phenomenon. These are hotshot high powered people. I mean, these are not
+
+384
+00:29:30,680 --> 00:29:38,920
+not fools. If it comes to you in small pieces, you're likely to miss. So you have to,
+
+385
+00:29:39,560 --> 00:29:44,600
+if you're going to be a person of good judgment, you have to do something about this warp in your
+
+386
+00:29:44,600 --> 00:29:50,920
+head where it's so misled by by mere contrast bias from over influenced by authority. Well,
+
+387
+00:29:50,920 --> 00:29:55,560
+here are the Milgram experiment as it's caused. I think there've been 1600 psychological papers
+
+388
+00:29:55,560 --> 00:30:00,920
+written about Milgram. And he had a person posing as an authority figure,
+
+389
+00:30:03,320 --> 00:30:09,560
+trick ordinary people into giving what they had every reason to expect was heavy torture by
+
+390
+00:30:09,560 --> 00:30:15,720
+electric shock to perfectly innocent fellow citizens. And the experiment has been he was
+
+391
+00:30:15,720 --> 00:30:24,040
+trying to show that why Hitler succeeded in a few other things. And, and so this really caught the
+
+392
+00:30:24,040 --> 00:30:31,000
+fancy of the world. They partly it's so politically correct. And, and, and
+
+393
+00:30:33,640 --> 00:30:40,040
+over influenced by authority as another very useful. You'll like this one. You got a pilot
+
+394
+00:30:40,040 --> 00:30:45,720
+and a co pilot. The pilot is the authority figure. They don't do this in airplanes,
+
+395
+00:30:45,720 --> 00:30:52,120
+but they've done it in simulators. They have the pilot do something where the co pilot who's
+
+396
+00:30:52,200 --> 00:30:56,120
+been trained in simulators a long time, he knows he's not to allow the plane to crash.
+
+397
+00:30:56,120 --> 00:31:01,480
+They have a pilot to do something where an idiot co pilot would know the plane was going to crash,
+
+398
+00:31:02,600 --> 00:31:06,680
+but the pilot's doing it and the co pilot is sitting there and the pilot is the authority figure
+
+399
+00:31:08,120 --> 00:31:18,040
+25% of the time the plane crashes. I mean, this is a very powerful psychological tendency.
+
+400
+00:31:18,760 --> 00:31:24,200
+It's not quite as powerful as some people think. And I'll get to that later. 11 bias from deprival
+
+401
+00:31:24,200 --> 00:31:29,800
+super reaction syndrome, including bias caused by present or threatened scarcity, including
+
+402
+00:31:29,800 --> 00:31:35,000
+threatened removal of something almost possessed, but never possessed. Here I took the monger dog,
+
+403
+00:31:35,960 --> 00:31:41,000
+lovely harmless dog. The one way, the only way to get that dog to bite you was to try and take
+
+404
+00:31:41,000 --> 00:31:45,480
+something out of its mouth after it was already there. And any of you who've tried to do tests
+
+405
+00:31:45,640 --> 00:31:51,160
+there and any of you who've tried to do takeaways and labor negotiations will know that the human
+
+406
+00:31:51,160 --> 00:31:58,360
+version of that dog is there in all of us. And I have a neighbor, a neighbor, a predecessor on a
+
+407
+00:31:58,360 --> 00:32:02,680
+little island where I have a house and his next door neighbor put a little pine tree on that was
+
+408
+00:32:02,680 --> 00:32:09,240
+about three feet high and it turned his 180 degree view of the harbor into 179 and three quarters.
+
+409
+00:32:10,200 --> 00:32:15,000
+Well, they had a blood feud like the Hatfields and McCoys and it went on and on and on.
+
+410
+00:32:15,080 --> 00:32:22,680
+I mean, people are really crazy about minor decrements down. And then if you act on them,
+
+411
+00:32:22,680 --> 00:32:27,800
+you get into reciprocation tendency because you don't just reciprocate affection, you reciprocate
+
+412
+00:32:27,800 --> 00:32:36,200
+animosity and the whole thing can escalate. And so huge insanities can come from just subconsciously
+
+413
+00:32:36,200 --> 00:32:40,040
+overweighing the importance of what you're losing or almost getting and not getting.
+
+414
+00:32:40,760 --> 00:32:43,800
+And the extreme business case here was New Coke.
+
+415
+00:32:45,720 --> 00:32:48,280
+Now, Coca-Cola has the most valuable trademark in the world.
+
+416
+00:32:49,640 --> 00:32:52,520
+We're the major shareholder. I mean, I think we understand that trademark.
+
+417
+00:32:53,400 --> 00:32:59,480
+Coke has armies of brilliant engineers, lawyers, psychologists, advertising executives, and so
+
+418
+00:32:59,480 --> 00:33:06,840
+forth. And they had a trademark on a flavor and they'd spent a better part of 100 years
+
+419
+00:33:06,840 --> 00:33:11,400
+getting people to believe that trademark had all these intangible values too.
+
+420
+00:33:12,520 --> 00:33:16,920
+And people associated it with a flavor. And so they were going to tell people not that it was
+
+421
+00:33:17,800 --> 00:33:23,640
+improved because you can't improve a flavor. If a flavor is a matter of taste, I mean,
+
+422
+00:33:23,640 --> 00:33:28,040
+you may improve a detergent or something, but telling you you're going to make a major change
+
+423
+00:33:28,040 --> 00:33:35,000
+in a flavor. I mean, so they got this huge depriveable super reaction syndrome. Pepsi was
+
+424
+00:33:35,000 --> 00:33:42,360
+within weeks of coming out with old Coke in a Pepsi bottle, which would have been
+
+425
+00:33:43,560 --> 00:33:50,600
+the biggest fiasco in modern times. Perfect, co-perfect insanity. And by the way,
+
+426
+00:33:50,600 --> 00:33:55,000
+both Goizuara and Kiyo are just wonderful about it. I mean, they just joke. I mean,
+
+427
+00:33:57,080 --> 00:34:00,760
+Kiyo always says, I must have been away on vacation. He participated in every single...
+
+428
+00:34:01,400 --> 00:34:04,760
+He's a wonderful guy. And by the way, Goizuara is a wonderful, smart guy, an engineer.
+
+429
+00:34:05,480 --> 00:34:10,920
+Smart people make these terrible boners. How can you not understand depriveable super reaction syndrome?
+
+430
+00:34:14,040 --> 00:34:20,600
+But people, I mean, people do not react symmetrically to loss and gain. Now, maybe
+
+431
+00:34:20,600 --> 00:34:26,680
+you have a great bridge player like Zekha, but that's a trained response. Ordinary people
+
+432
+00:34:27,320 --> 00:34:32,760
+subconsciously affected by their inborn tendencies.
+
+433
+00:34:34,600 --> 00:34:40,760
+Bias from envy jealousy. Well, envy jealousy made what? Two out of the ten commandments.
+
+434
+00:34:40,760 --> 00:34:45,480
+Those of you who have raised siblings, you know about, or tried to run a law firm or
+
+435
+00:34:45,480 --> 00:34:49,720
+investment bank or even a faculty. I've heard Warren say a half a dozen times,
+
+436
+00:34:49,720 --> 00:34:55,480
+it's not greed that drives the world, but envy. Here again, you go through the psychology survey
+
+437
+00:34:55,480 --> 00:35:02,040
+courses and you go to the index, envy, jealousy, thousand page book. It's blank.
+
+438
+00:35:05,000 --> 00:35:10,600
+There's some blind spots in academia, but it's an enormously powerful
+
+439
+00:35:12,520 --> 00:35:16,680
+thing and it operates to a considerable extent on a subconscious level.
+
+440
+00:35:16,680 --> 00:35:24,360
+And anybody who doesn't understand it is taking on defects he shouldn't have.
+
+441
+00:35:25,240 --> 00:35:29,560
+Bias from chemical dependency. Well, we don't have to talk about that. We've all seen so much
+
+442
+00:35:29,560 --> 00:35:36,040
+of it, but it's interesting how it always causes moral breakdown if there's any need
+
+443
+00:35:36,840 --> 00:35:43,480
+and always involves massive denial. See, it's just, it aggravates what we talked about earlier
+
+444
+00:35:43,480 --> 00:35:47,640
+in the aviator case, the tendency to distort reality so that it's endurable.
+
+445
+00:35:47,640 --> 00:35:57,480
+Bias from misgambling compulsion. Well, here Skinner made the only explanation you'll find in the
+
+446
+00:35:57,480 --> 00:36:03,480
+standard psychology survey course. He, of course, created a variable reinforcement
+
+447
+00:36:04,440 --> 00:36:10,840
+rate for his pigeons, his mice, and he found that that would pound in the behavior better
+
+448
+00:36:10,840 --> 00:36:16,760
+than any other enforcement pattern. And he says, aha, I've explained why gambling is such a powerful
+
+449
+00:36:16,760 --> 00:36:23,160
+addictive force in a civilization. I think that is to a very considerable extent true,
+
+450
+00:36:23,160 --> 00:36:27,880
+but being Skinner, he seemed to think that was the only explanation. But the truth of the matter is
+
+451
+00:36:27,880 --> 00:36:33,080
+that the divisors of these modern machines and techniques know a lot of things that Skinner didn't
+
+452
+00:36:33,080 --> 00:36:41,320
+know. For instance, a lottery. You have a lottery where you get your number by lot and then somebody
+
+453
+00:36:41,320 --> 00:36:47,240
+draws a number by lot. It gets lousy play. You get a lottery where people get to pick their number,
+
+454
+00:36:48,920 --> 00:36:53,800
+get big play. Again, it's this consistency and commitment thing. People think that if they
+
+455
+00:36:53,800 --> 00:36:58,440
+have committed to it, it has to be good. And the minute they've picked it themselves, it gets an
+
+456
+00:36:58,440 --> 00:37:05,240
+extra validity. After all, they thought it and they acted on it. And then you take slot machines,
+
+457
+00:37:05,960 --> 00:37:11,640
+you get bar, bar, lemon. That happens again and again and again. You get all these near misses.
+
+458
+00:37:12,840 --> 00:37:19,960
+Well, that's Deprival Super Reaction Central. And boy, do the people who create the machines
+
+459
+00:37:19,960 --> 00:37:26,920
+understand human psychology. And if you got to the high IQ crowd, they've got poker machines
+
+460
+00:37:26,920 --> 00:37:33,160
+where you make choices. So you can play blackjack, so to speak, with the machine.
+
+461
+00:37:34,120 --> 00:37:37,240
+It's wonderful what we've done with our computers to ruin a civilization.
+
+462
+00:37:39,400 --> 00:37:44,040
+But at any rate, misgambling compulsion is a very, very powerful and important thing. Look at what's
+
+463
+00:37:44,040 --> 00:37:50,440
+happening to our country. Every Indian has a reservation, every river town. And look at the
+
+464
+00:37:50,440 --> 00:37:57,640
+people who were ruined by it with the aid of their stockbrokers and others. And again, if you look in
+
+465
+00:37:57,640 --> 00:38:02,760
+the standard textbook of psychology, you'll find practically nothing on it except maybe one's
+
+466
+00:38:02,760 --> 00:38:09,640
+sentence talking about Skinner's rats. That is not an adequate coverage of the subject.
+
+467
+00:38:10,920 --> 00:38:15,000
+Bias from liking distortion, including the tendency to especially like oneself,
+
+468
+00:38:15,000 --> 00:38:20,360
+one's own kind and one's own idea structures, and the tendency to be especially susceptible
+
+469
+00:38:20,360 --> 00:38:26,840
+to being misled by someone like. Disliking distortion, bias from that. The reciprocal of
+
+470
+00:38:26,840 --> 00:38:30,920
+liking distortion and the tendency not to learn appropriately from someone disliked.
+
+471
+00:38:31,720 --> 00:38:36,840
+Well, here again, we've got hugely powerful tendencies. And if you look at the wars
+
+472
+00:38:37,560 --> 00:38:42,360
+in part of the Harvard Law School, as we say here, you can see the very brilliant people get into
+
+473
+00:38:42,360 --> 00:38:50,520
+this almost pathological behavior. And these are very, very powerful, basic, subconscious,
+
+474
+00:38:50,520 --> 00:38:56,200
+psychological tendencies, or at least partly subconscious. Now let's get back to B.F. Skinner,
+
+475
+00:38:56,200 --> 00:39:04,040
+man with a hammer syndrome revisited. Why is man with the hammer syndrome always present?
+
+476
+00:39:04,680 --> 00:39:10,280
+Well, he stopped to think about it. He's had caused bias. His professional reputation is all
+
+477
+00:39:10,280 --> 00:39:19,000
+tied up with what he knows. He likes himself and he likes his own ideas. And he's expressed them to
+
+478
+00:39:19,000 --> 00:39:24,200
+other people, consistency and commitment tendency. I mean, you have four or five of these elementary
+
+479
+00:39:24,200 --> 00:39:29,880
+psychological tendencies combining to create this man with a hammer syndrome.
+
+480
+00:39:33,960 --> 00:39:40,840
+Once you realize that you can't really buy your thinking done,
+
+481
+00:39:42,120 --> 00:39:46,920
+partly you can, but largely you can't in this world, you've learned a lesson that's very useful
+
+482
+00:39:46,920 --> 00:39:53,400
+in life. George Leonard Shaw said and had a character say in The Doctor's Dilemma,
+
+483
+00:39:53,400 --> 00:39:59,080
+in the last analysis, every profession is a conspiracy against the laity. But he didn't
+
+484
+00:39:59,080 --> 00:40:04,680
+have it quite right because he's not so much conspiracy as it is a subconscious psychological
+
+485
+00:40:04,680 --> 00:40:12,120
+tendency. The guy tells you what is good for him. He doesn't recognize that he's doing anything
+
+486
+00:40:12,120 --> 00:40:15,720
+wrong any more than that doctor did when he was pulling out all those normal gall waters.
+
+487
+00:40:16,440 --> 00:40:22,520
+And he believes that his own idea structures will cure cancer. And he believes that
+
+488
+00:40:25,960 --> 00:40:31,560
+the demons that he's the guardian against are the biggest demons and the most important ones. And
+
+489
+00:40:31,560 --> 00:40:36,360
+in fact, they may be very small demons compared to the demons that you face. So you're getting
+
+490
+00:40:36,360 --> 00:40:41,560
+your advice in this world from your paid advisor with this huge load of ghastly bias.
+
+491
+00:40:41,560 --> 00:40:50,520
+And woe to you. There are only two ways to handle it. You can hire your advisor and then just apply
+
+492
+00:40:50,520 --> 00:40:55,800
+a windage factor like I used to do when I was a rifle shooter. I just adjust for so many miles
+
+493
+00:40:55,800 --> 00:41:04,520
+an hour of wind. Or you can learn the basic elements of your advisor's trade. You don't
+
+494
+00:41:04,520 --> 00:41:08,200
+have to learn very much, by the way, because you learn just a little and then you can make him
+
+495
+00:41:08,200 --> 00:41:19,800
+explain why he's right. And those two tendencies will take part of the warp of the thinking you've
+
+496
+00:41:19,800 --> 00:41:25,720
+tried to hire done. By and large, it works terribly. I have never seen a management consults
+
+497
+00:41:25,720 --> 00:41:30,200
+report in my long life that didn't end with the following paragraph. What this situation really
+
+498
+00:41:30,200 --> 00:41:36,520
+needs is more management consulting. Never once. I always turn to the last page.
+
+499
+00:41:38,200 --> 00:41:44,680
+Of course, Mercher Hathaway doesn't hire them, so I only do this on sort of a voyeuristic basis.
+
+500
+00:41:45,480 --> 00:41:48,040
+Sometimes I'm in a non-profit where some idiot hires one.
+
+501
+00:41:54,280 --> 00:41:54,920
+17.
+
+502
+00:41:58,200 --> 00:42:02,760
+Bias from the non-mathematical nature of the human brain in its natural state
+
+503
+00:42:02,760 --> 00:42:07,720
+as it deals with probabilities employing crude heuristics and is often misled by
+
+504
+00:42:07,720 --> 00:42:13,080
+mere contrast, a tendency to overweigh conveniently available information
+
+505
+00:42:13,080 --> 00:42:18,120
+and other psychologically rooted misthinking tendencies on this list. When the brain should
+
+506
+00:42:18,120 --> 00:42:23,720
+be using the sample probability mathematics of Fermat and Pascal applied to all reasonably
+
+507
+00:42:23,720 --> 00:42:28,520
+obtainable and correctly weighted items of information that are of value in predicting
+
+508
+00:42:28,520 --> 00:42:34,440
+outcomes, the right way to think is the way Zach Houser plays bridge. It's just that simple.
+
+509
+00:42:35,640 --> 00:42:40,040
+And your brain doesn't naturally know how to think the way Zach Houser knows how to play bridge.
+
+510
+00:42:42,760 --> 00:42:47,960
+Now, you notice I put in that availability thing and there I'm mimicking some very
+
+511
+00:42:47,960 --> 00:42:51,960
+eminent psychologists on the like, I hope I pronounced that right, and diversity,
+
+512
+00:42:53,080 --> 00:42:57,720
+who raised the idea of availability to a whole heuristic of misjudgment.
+
+513
+00:42:58,680 --> 00:43:03,800
+And, you know, they are very substantially right. I mean, ask the Coca-Cola Company,
+
+514
+00:43:03,800 --> 00:43:10,040
+which has raised availability to a secular religion, if availability changes behavior.
+
+515
+00:43:10,920 --> 00:43:13,800
+You will drink a hell of a lot more Coke if it's always available.
+
+516
+00:43:14,840 --> 00:43:18,360
+I mean, availability does change behavior and cognition.
+
+517
+00:43:20,120 --> 00:43:24,120
+Nonetheless, even though I recognize that and applaud diversity in common,
+
+518
+00:43:24,920 --> 00:43:29,160
+I don't like it for my personal system, except as part of a greater subsystem,
+
+519
+00:43:30,680 --> 00:43:35,320
+which is, you got to think the way Zach Houser plays the bridge. It isn't just the lack of
+
+520
+00:43:35,320 --> 00:43:42,120
+availability that distorts your judgment. All the things on this list distort judgment.
+
+521
+00:43:43,160 --> 00:43:47,960
+And I want to train myself to kind of mentally run down the list instead of just jumping on
+
+522
+00:43:48,040 --> 00:43:54,920
+availability. So that's why I stated the way I do. In a sense, these psychological tendencies
+
+523
+00:43:54,920 --> 00:44:00,600
+make things unavailable. Because if you quickly jump to one thing and then because you've jumped
+
+524
+00:44:00,600 --> 00:44:07,640
+to it, the consistency and commitment tendency makes you lock in. Boom, that's error number one.
+
+525
+00:44:09,400 --> 00:44:15,560
+Or if something is very vivid, which I'm going to come to next, that will really pound in.
+
+526
+00:44:15,560 --> 00:44:22,600
+And the reason that the thing that really matters is now unavailable and what's extra vivid wins is,
+
+527
+00:44:23,640 --> 00:44:33,080
+I mean, the extra vividness creates the unavailability. So I think it's much better
+
+528
+00:44:33,080 --> 00:44:39,080
+to have a whole list of things that cause you to be less like Zach Houser than it is just to jump
+
+529
+00:44:39,080 --> 00:44:50,440
+on one factor. Here, I think we should discuss John Gutfrid. This is a very interesting human
+
+530
+00:44:50,440 --> 00:44:55,320
+example which will be taught in every decent professional school for at least a full generation.
+
+531
+00:44:56,920 --> 00:45:07,240
+Gutfrid has a trusted employee and it comes to light, not through confession but
+
+532
+00:45:08,200 --> 00:45:13,960
+by accident, that the trusted employee is lied like hell to the government and manipulated the
+
+533
+00:45:13,960 --> 00:45:23,640
+accounting system and it was really equivalent to forgery. And the man immediately says,
+
+534
+00:45:24,200 --> 00:45:29,800
+I've never done it before, I'll never do it again. It was an isolated example. And of course,
+
+535
+00:45:29,800 --> 00:45:35,560
+it was obvious that he was trying to help the government as well as himself because he thought
+
+536
+00:45:35,560 --> 00:45:41,640
+the government had been dumb enough to pass a rule that he'd spoken against. And after all,
+
+537
+00:45:41,640 --> 00:45:44,840
+if the government's not going to pay attention to a bond trader at Solomon, what kind of a
+
+538
+00:45:44,840 --> 00:45:52,680
+government is it going to be? But at any rate, and this guy has been part of a little clique
+
+539
+00:45:52,680 --> 00:46:01,320
+that has made, well, way over a billion dollars for Solomon in the very recent past
+
+540
+00:46:02,120 --> 00:46:06,520
+and it's a little handful of people. And so there are a lot of psychological forces
+
+541
+00:46:07,240 --> 00:46:14,600
+at work and you know the guy's wife and he's right in front of you and there's human sympathy and he's
+
+542
+00:46:14,600 --> 00:46:22,120
+sort of asking for your help, which is a form which encourages reciprocation and there are
+
+543
+00:46:22,120 --> 00:46:26,520
+all these psychological tendencies that are working. Plus the fact he's part of a group
+
+544
+00:46:26,600 --> 00:46:34,920
+that'll pay a lot of money for it. At any rate, Good Friend does not cashier the man.
+
+545
+00:46:35,720 --> 00:46:43,080
+And of course, he had done it before and he did do it again. Well, now you look as though
+
+546
+00:46:44,920 --> 00:46:50,040
+you almost wanted him to do it again. Or God knows what you look like, but it isn't good.
+
+547
+00:46:50,760 --> 00:46:59,400
+And that simple decision destroyed John Good Friend. And it's so easy to do. Now let's think
+
+548
+00:46:59,400 --> 00:47:08,520
+it through like the Bridge Flare, like Zekhauser. You find an isolated example of a little old lady
+
+549
+00:47:08,520 --> 00:47:14,440
+in the Seas Candy Company, one of our subsidiaries, getting into the till. And what does she say?
+
+550
+00:47:14,440 --> 00:47:19,080
+I never did it before. I'll never do it again. This is going to ruin my life. Please help me.
+
+551
+00:47:20,120 --> 00:47:25,480
+And you know her children and her friends and she's been around 30 years and standing behind
+
+552
+00:47:25,480 --> 00:47:30,440
+the candy counter with swollen ankles. And you're an old lady, isn't that glorious a life?
+
+553
+00:47:31,960 --> 00:47:35,800
+And you're rich and powerful and there she is. I never did it before. I'll never do it again.
+
+554
+00:47:36,840 --> 00:47:40,680
+Well, how likely is it that she never did it before? If you're going to catch
+
+555
+00:47:41,880 --> 00:47:49,160
+10 embezzlements a year, what are the chances that any one of them, applying what Tversky and
+
+556
+00:47:49,160 --> 00:47:54,600
+Kahneman call baseline information, will be somebody who only did it this once?
+
+557
+00:47:58,200 --> 00:48:02,280
+And the people who have done it before and are going to do it again, what are they all going to
+
+558
+00:48:02,280 --> 00:48:07,320
+say? Well, in the history of the Seas Candy Company, they always say, I never did it before.
+
+559
+00:48:07,320 --> 00:48:14,440
+I'm never going to do it again. And we cashier them. It would be evil not to
+
+560
+00:48:14,520 --> 00:48:19,960
+do. Because terribly behavior spreads. Remember, what was it, Serbco?
+
+561
+00:48:21,880 --> 00:48:26,120
+I mean, you let that stuff, you got social proof, you got
+
+562
+00:48:26,120 --> 00:48:29,480
+incentive-caused bias, you got a whole lot of psychological factors
+
+563
+00:48:29,480 --> 00:48:33,000
+that will cause the evil behavior to spread. And pretty soon the whole damn,
+
+564
+00:48:33,880 --> 00:48:39,320
+your place is rotten, the civilization is rotten. It's not the right way to behave. And
+
+565
+00:48:40,280 --> 00:48:47,320
+I will admit that I have, when I knew the wife and children, I have paid severance pay when I fire
+
+566
+00:48:47,320 --> 00:48:55,000
+somebody for taking a mistress on an extended foreign trip. It's not the adultery, I find,
+
+567
+00:48:55,000 --> 00:49:05,400
+it's the embezzlement. But there, I wouldn't do it where a good friend did it, where they've been
+
+568
+00:49:05,800 --> 00:49:10,360
+cheating somebody else on my behalf. There, I think you have to cashier. But if they're
+
+569
+00:49:10,360 --> 00:49:15,240
+just stealing from you and you get rid of them, I don't think you need the last ounce of vengeance.
+
+570
+00:49:16,440 --> 00:49:19,560
+But I don't think you need any vengeance. I don't think vengeance is much good.
+
+571
+00:49:22,600 --> 00:49:31,000
+Now we come bias from over-influence by extra evidence. Here's one, I'm at least $30 million
+
+572
+00:49:31,000 --> 00:49:37,560
+poorer as I sit here giving this little talk because I once bought 300 shares of a stock
+
+573
+00:49:37,560 --> 00:49:42,360
+and the guy called me back and said, I've got 1500 more. I said, will you hold it for 15 minutes
+
+574
+00:49:42,360 --> 00:49:49,320
+while I think about it? The CEO of this company, I have seen a lot of vivid peculiarities in a long
+
+575
+00:49:49,320 --> 00:49:57,080
+life, but this guy set a world record. I'm talking about the CEO and I just misweighed it. But two of
+
+576
+00:49:57,080 --> 00:50:02,520
+the matters, his situation was foolproof, he was soon going to be dead. I turned down the extra
+
+577
+00:50:02,520 --> 00:50:09,640
+1500 shares and that's now cost me $30 million and that's life in the big city. It wasn't something
+
+578
+00:50:09,640 --> 00:50:17,000
+where stock was generally available. So it's very easy to misweigh the vivid evidence and a good
+
+579
+00:50:17,000 --> 00:50:20,920
+friend did that when he looked into the man's eyes and forgave the colleague.
+
+580
+00:50:21,880 --> 00:50:28,600
+And 22, stress-induced mental changes, small and large, temporary and permanent.
+
+581
+00:50:33,720 --> 00:50:41,080
+Oh no, no, no, I've skipped one. Mental confusion caused by information not arrayed in the mind in
+
+582
+00:50:41,080 --> 00:50:46,760
+theory structures creating sound generalizations developed in response to the question why. Also
+
+583
+00:50:46,840 --> 00:50:51,800
+misinfluence from information that apparently but not really answers the question why. Also
+
+584
+00:50:51,800 --> 00:50:57,320
+failure to obtain deserved influence caused by not properly explaining why. But we all know people
+
+585
+00:50:57,320 --> 00:51:02,440
+who flunk and they try and memorize and they try and spout back and they just doesn't work. The
+
+586
+00:51:02,440 --> 00:51:08,360
+brain doesn't work that way. You've got to array facts on theory structures answering the question
+
+587
+00:51:08,360 --> 00:51:15,400
+why. If you don't do that, you just, you cannot handle the world. And now we get to Forstein,
+
+588
+00:51:15,400 --> 00:51:20,360
+who was the general counsel of Salomon when Goodfriend made his big error and Forstein knew
+
+589
+00:51:20,360 --> 00:51:26,200
+better. He told Goodfriend, you have to report this as a matter of morality and prudent business
+
+590
+00:51:26,200 --> 00:51:30,840
+judgment. He said, it's probably not illegal. There's probably no legal duty to do it, but you
+
+591
+00:51:30,840 --> 00:51:36,120
+have to do it as a matter of prudent conduct and proper dealing with your main customer.
+
+592
+00:51:37,160 --> 00:51:42,840
+And he said that to Goodfriend on at least two or three occasions and he stopped. And of course,
+
+593
+00:51:42,840 --> 00:51:48,040
+the persuasion failed. And when Goodfriend went down, Forstein went with him and ruined
+
+594
+00:51:49,080 --> 00:51:54,520
+a considerable part of Forstein's life. Well, Forstein was a member of the Harvard Law Review,
+
+595
+00:51:54,520 --> 00:52:01,480
+made an elementary psychological mistake. You want to persuade somebody, you really tell them why.
+
+596
+00:52:02,520 --> 00:52:06,680
+And what did we learn in lesson one? Insanities really matter.
+
+597
+00:52:07,400 --> 00:52:13,960
+He should have told Goodfriend, you are likely to ruin your life and disgrace your family and lose
+
+598
+00:52:13,960 --> 00:52:24,440
+your money. And is Mosher worth this? I know both men, that would have worked. So Forstein flunked
+
+599
+00:52:24,440 --> 00:52:31,640
+elementary psychology, this very sophisticated, brilliant lawyer. Don't you do that. It's not
+
+600
+00:52:31,640 --> 00:52:41,720
+very hard to do, you know, just do. Remember that why is terribly important. Other normal
+
+601
+00:52:41,720 --> 00:52:45,720
+limitations of sensation, memory, cognition and knowledge. Well, I don't have time for that.
+
+602
+00:52:46,760 --> 00:52:53,720
+Stress induced mental changes. Here, my favorite example is, is the great Pavlov and the LA's dogs
+
+603
+00:52:53,720 --> 00:52:57,080
+and cages, which had all been conditioned into change behavior. And he said, well,
+
+604
+00:52:57,080 --> 00:53:01,240
+the great Pavlov and the LA's dogs and cages, which had all been conditioned into change
+
+605
+00:53:01,240 --> 00:53:07,160
+behaviors. And the great Leningrad flood came and the just went right up and the dogs in a cage.
+
+606
+00:53:07,720 --> 00:53:14,440
+And the dog was had as much stress as you can imagine a dog ever having. And the water receded
+
+607
+00:53:14,440 --> 00:53:19,480
+in time to save some of the dogs. And Pavlov noted that they'd had a total reversal of their
+
+608
+00:53:19,480 --> 00:53:25,880
+conditioned personality. Being a great scientist, he was he spent the rest of his life giving
+
+609
+00:53:25,880 --> 00:53:33,480
+nervous breakdowns to dogs. And he learned a hell of a lot that I regarded. It's very interesting.
+
+610
+00:53:33,480 --> 00:53:39,080
+I have never known any Freudian analysts to do anything about the last work of Pavlov. And I
+
+611
+00:53:39,080 --> 00:53:45,240
+never met a lawyer who understood that what Pavlov found out with those dogs had anything to do with
+
+612
+00:53:45,240 --> 00:53:49,880
+programming and deprogramming and cults and so forth. I mean, the amount of elementary
+
+613
+00:53:49,880 --> 00:53:55,960
+psychological ignorance is out there in high levels is very significant. Then we've got other
+
+614
+00:53:55,960 --> 00:53:59,960
+common mental illnesses and declines temporary and permanent, including the tendency to lose
+
+615
+00:53:59,960 --> 00:54:05,080
+ability through disuse. And I've got mental and organizational confusion from say something
+
+616
+00:54:05,080 --> 00:54:10,680
+syndrome. And here my favorite thing is the honeybee. And honeybee goes out and finds the
+
+617
+00:54:10,680 --> 00:54:15,320
+nectar and he comes back. He does a dance that communicates to the other bees where the nectar
+
+618
+00:54:15,320 --> 00:54:19,480
+is and they go out and get it. Well, some scientists who was clever like B.F. Skinner
+
+619
+00:54:20,440 --> 00:54:28,520
+decided to do an experiment. He put the nectar straight up, way up. Well, in a natural setting,
+
+620
+00:54:28,520 --> 00:54:33,560
+there is no nectar way the hell straight up. And the poor honeybee doesn't have a genetic program
+
+621
+00:54:33,560 --> 00:54:38,520
+that is adequate to handle what he now has to communicate. And you'd think the honeybee would
+
+622
+00:54:38,520 --> 00:54:44,360
+come back to the hive and slink into a corner, but he doesn't. He comes into the hive and does
+
+623
+00:54:44,360 --> 00:54:49,720
+this incoherent dance. And all my life I've been dealing with the human equivalent of that honeybee.
+
+624
+00:54:52,440 --> 00:54:58,360
+And it's a very important part of human organization to set things up so the noise
+
+625
+00:54:58,360 --> 00:55:03,640
+and the reciprocation and so forth of all these people who have what I call say something syndrome
+
+626
+00:55:03,640 --> 00:55:14,440
+don't really affect the decisions. Now, the time has come to ask two or three questions.
+
+627
+00:55:15,400 --> 00:55:20,360
+This is the most important question in this whole talk. What happens when these standard
+
+628
+00:55:20,360 --> 00:55:25,960
+psychological tendencies combine? What happens when the situation or the artful manipulation of
+
+629
+00:55:25,960 --> 00:55:31,240
+man causes several of these tendencies to operate on a person toward the same end at the same time?
+
+630
+00:55:32,200 --> 00:55:37,400
+The clear answer is the combination greatly increases power to change behavior compared
+
+631
+00:55:37,400 --> 00:55:42,840
+to the power of merely one tendency acting alone. Examples are Tupperware parties.
+
+632
+00:55:43,960 --> 00:55:49,480
+Tupperware has now made billions of dollars out of a few manipulative psychological tricks.
+
+633
+00:55:49,480 --> 00:55:55,080
+It was so schlock that directors of Justin Dart's company resigned when he crammed it down his
+
+634
+00:55:55,080 --> 00:55:59,080
+board's throat. And he was totally right, by the way, judged by economic outcomes.
+
+635
+00:55:59,800 --> 00:56:05,000
+Mooney conversion methods. Boy, do they work. He just combines four or five of these things together.
+
+636
+00:56:06,120 --> 00:56:12,520
+The system of Alcoholics Anonymous, a 50% no drinking rate outcome when everything else fails.
+
+637
+00:56:12,520 --> 00:56:17,320
+It's a very clever system that uses four or five psychological systems at once toward,
+
+638
+00:56:17,320 --> 00:56:22,520
+I might say, a very good end. The Milgram experiment. See, Milgram, it's been widely
+
+639
+00:56:22,520 --> 00:56:28,360
+interpreted as mere obedience. But the truth of the matter is that the experimenter who got
+
+640
+00:56:28,360 --> 00:56:35,160
+the students to give the heavy shocks in Milgram, he explained why was a false explanation. We need
+
+641
+00:56:35,160 --> 00:56:39,960
+this to look for scientific truth and so on. That greatly changed the behavior of the people.
+
+642
+00:56:39,960 --> 00:56:45,400
+And number two, he worked them up. Tiny shock, little larger, little larger. So commitment
+
+643
+00:56:45,400 --> 00:56:51,800
+and consistency tendency and the contrast principle were both working in favor of this
+
+644
+00:56:51,800 --> 00:56:57,160
+behavior. So again, it's four different psychological tendencies. That's when you
+
+645
+00:56:57,160 --> 00:57:01,880
+get these Lollapalooza effects. You will almost always find four or five of these things working
+
+646
+00:57:01,880 --> 00:57:06,920
+together. When I was young, there was a whodunit hero who always said, share sale a family.
+
+647
+00:57:08,120 --> 00:57:12,760
+What you should search for in life is the combination. The combination is likely to do you
+
+648
+00:57:12,760 --> 00:57:17,240
+in. Or if you're the inventor of Tupperware parties, it's likely to make you enormously rich
+
+649
+00:57:17,240 --> 00:57:26,280
+if you can stand shaving when you do it. Then one of my favorite cases is the McDonald Douglas
+
+650
+00:57:26,280 --> 00:57:33,800
+airliner evacuation disaster. The government requires that airliners pass a bunch of tests,
+
+651
+00:57:33,800 --> 00:57:37,880
+one of them is evacuation. Get everybody out, I think 90 seconds or something like that. It's
+
+652
+00:57:37,880 --> 00:57:42,600
+some short period of time. The government has rules, make it very realistic, so on and so on.
+
+653
+00:57:43,160 --> 00:57:49,400
+You can't select nothing but 20-year-old athletes to evacuate your airliner. So
+
+654
+00:57:49,400 --> 00:57:55,080
+McDonald Douglas schedules one of these things on a hanger and they make the hanger dark
+
+655
+00:57:55,720 --> 00:57:59,720
+and the concrete floor is 25 feet down and they got these little rubber shoots and they got all
+
+656
+00:57:59,720 --> 00:58:05,640
+these old people and they ring the bell and they all rush out and in the morning when the first
+
+657
+00:58:05,640 --> 00:58:09,560
+test is done, they create, I don't know, 20 terrible injuries before they go off to hospitals.
+
+658
+00:58:10,200 --> 00:58:12,440
+Of course, they scheduled another one for the afternoon.
+
+659
+00:58:14,200 --> 00:58:17,880
+By the way, they didn't meet the time schedule either in addition to causing all the injuries.
+
+660
+00:58:18,680 --> 00:58:26,200
+Well, so what do they do? They do it again in the afternoon. Now they create 20 more injuries
+
+661
+00:58:26,200 --> 00:58:32,040
+and one case of a severed spinal column with permanent unfixable paralysis. These are engineers,
+
+662
+00:58:32,040 --> 00:58:36,120
+these are brilliant people, this is thought over through in a big bureaucracy. Again,
+
+663
+00:58:36,120 --> 00:58:40,040
+it's a combination of attendance. Authorities told you to do it. They told you to make it
+
+664
+00:58:40,040 --> 00:58:48,840
+realistic. You've decided to do it. You've decided to do it twice. Incentive cost bias.
+
+665
+00:58:48,840 --> 00:58:53,160
+If you pass, you save a lot of money. You've got to jump this hurdle before you can sell your new
+
+666
+00:58:53,160 --> 00:58:57,800
+airliner. Again, three, four, five of these things work together and it turns human brains into mush
+
+667
+00:58:58,360 --> 00:59:00,840
+and maybe you think this doesn't happen in picking investments.
+
+668
+00:59:01,480 --> 00:59:07,960
+If so, you're living in a different world than I am. Finally, the open outcry auction.
+
+669
+00:59:10,600 --> 00:59:14,360
+The open outcry auction is just made to turn the brain into mush.
+
+670
+00:59:15,400 --> 00:59:19,240
+You get social proof, the other guy is bidding, you get reciprocation tendency,
+
+671
+00:59:19,240 --> 00:59:24,360
+you get deprival super reaction syndrome, the thing is going away. I mean, it's just absolutely
+
+672
+00:59:25,240 --> 00:59:31,960
+designed to manipulate people into idiotic behavior. Finally, the institution of the
+
+673
+00:59:31,960 --> 00:59:37,400
+board of directors of the major human American company. Well, the top guy is sitting there,
+
+674
+00:59:37,400 --> 00:59:43,000
+he's an authority figure. He's doing asinine things. You look around the board,
+
+675
+00:59:43,000 --> 00:59:48,520
+nobody else is objecting social proof. It's okay. Reciprocation tendency. He's raising the
+
+676
+00:59:48,520 --> 00:59:52,440
+director's fees every year. He's flying you around in the corporate airplane to look at
+
+677
+00:59:52,440 --> 00:59:59,560
+interesting plants or whatever in hell they do and you go and you really get extreme dysfunction
+
+678
+00:59:59,560 --> 01:00:07,320
+as a corrective decision-making body in the typical American board of directors. They only act,
+
+679
+01:00:07,960 --> 01:00:13,240
+again, the power of incentives. They only act when it gets so bad that it starts reflecting,
+
+680
+01:00:14,360 --> 01:00:19,640
+making them look foolish or threatening legal liability to them. That's Munger's rule.
+
+681
+01:00:20,600 --> 01:00:27,160
+I mean, they're occasional things that don't follow Munger's rule, but by and large,
+
+682
+01:00:27,160 --> 01:00:31,640
+the board of directors is a very ineffective corrector if the top guy is a little nuts,
+
+683
+01:00:31,640 --> 01:00:37,080
+which of course frequently happens. The second question, isn't this list of standard psychological
+
+684
+01:00:37,080 --> 01:00:41,720
+tendencies improperly tautological compared with a system with Euclid? That is, aren't there
+
+685
+01:00:41,720 --> 01:00:46,360
+overlaps and can't some items on the list be derived from combinations of other items?
+
+686
+01:00:46,440 --> 01:00:51,960
+The answer to that is plainly yes. Three, what good is in the practical world is the thought
+
+687
+01:00:51,960 --> 01:00:56,280
+system indicated by the list? Isn't practical benefit prevented because these psychological
+
+688
+01:00:56,280 --> 01:01:01,800
+tendencies are programmed into the human mind by broad evolution, so we can't get rid of broad
+
+689
+01:01:01,800 --> 01:01:07,080
+evolution. I mean, the combination of genetic and cultural evolution, but mostly genetic.
+
+690
+01:01:07,880 --> 01:01:13,000
+Well, the answer is the tendencies are partly good and indeed probably much more good than bad,
+
+691
+01:01:13,000 --> 01:01:18,200
+otherwise they wouldn't be there. By and large, these rules have worked pretty well for man given
+
+692
+01:01:18,200 --> 01:01:23,880
+his limited mental capacity and that's why they were programmed in by broad evolution.
+
+693
+01:01:25,080 --> 01:01:30,440
+At any rate, they can't be simply washed out automatically and they shouldn't be. Nonetheless,
+
+694
+01:01:30,440 --> 01:01:36,200
+the psychological thought system described is very useful in spreading wisdom and good conduct
+
+695
+01:01:36,200 --> 01:01:40,600
+and when one understands it and uses it constructively. Here's some examples.
+
+696
+01:01:40,760 --> 01:01:46,440
+Carl Braun's communication practices. He designed oil refineries with spectacular skill and integrity.
+
+697
+01:01:47,800 --> 01:01:54,440
+He had a very simple rule. Remember I said why is important? You got fired in the Braun company.
+
+698
+01:01:54,440 --> 01:01:59,080
+You had to have five doubles. You had to tell who, what you wanted to do, where and when,
+
+699
+01:01:59,080 --> 01:02:03,720
+and you had to tell him why. If you wrote a communication and left out the why, you got fired
+
+700
+01:02:03,720 --> 01:02:08,520
+because Braun knew it's complicated building an oil refiner and it can blow up. All kinds of things
+
+701
+01:02:08,600 --> 01:02:13,640
+can blow up. All kinds of things happen. He knew that his communication system worked better
+
+702
+01:02:13,640 --> 01:02:19,960
+if you always told him why. That's a simple discipline and boy does it work. Two, the use
+
+703
+01:02:19,960 --> 01:02:27,080
+of simulators in pilot training. Here again, abilities attenuate with disuse. The simulator
+
+704
+01:02:27,080 --> 01:02:32,280
+is God's gift because you can keep them fresh. The system of alcoholics anonymous. That's certainly
+
+705
+01:02:32,280 --> 01:02:36,120
+a constructive use of somebody understanding psychological tendencies. I think they just
+
+706
+01:02:36,120 --> 01:02:41,400
+blundered into it as a matter of fact. So you can regard it as kind of an evolutionary outcome,
+
+707
+01:02:41,400 --> 01:02:46,040
+but just because they blundered into it doesn't mean you can't invent its equivalent when you
+
+708
+01:02:46,040 --> 01:02:52,920
+need it for a good purpose. Clinical training in medical schools. Here's a profoundly correct way
+
+709
+01:02:52,920 --> 01:03:00,200
+of understanding psychology. The standard practice is watch one, do one, teach one.
+
+710
+01:03:01,160 --> 01:03:07,000
+Boy, does that pound in what you want pounded in. Again, the consistency and commitment tendency
+
+711
+01:03:07,960 --> 01:03:12,680
+and that is a profoundly correct way to teach clinical medicine. The rules of the U.S.
+
+712
+01:03:12,680 --> 01:03:21,800
+Constitutional Convention. Totally secret, no vote until the final vote, then just one vote on the
+
+713
+01:03:21,800 --> 01:03:27,640
+whole constitution. Very clever psychological rules and if they had a different procedure,
+
+714
+01:03:27,640 --> 01:03:34,120
+everybody would have been pushed into a corner by his own pronouncements and his own oratory
+
+715
+01:03:34,120 --> 01:03:39,240
+and his own and no recorded votes until the last one and they got it through by a whisker
+
+716
+01:03:39,240 --> 01:03:44,520
+with those wise rules. They wouldn't have had the constitution if our forefathers hadn't been so
+
+717
+01:03:44,520 --> 01:03:53,160
+psychologically acute and look at the crowd we've got now. Six, the use of granny's rule.
+
+718
+01:03:53,960 --> 01:03:58,680
+I love this. One of the psychologists who works with the Senate gets paid a fortune running around
+
+719
+01:03:58,680 --> 01:04:04,760
+America and he teaches executives to manipulate themselves. Now granny's rule is you don't get
+
+720
+01:04:04,760 --> 01:04:09,160
+the ice cream unless you eat your carrots. Well granny was a very wise woman. That is a very good
+
+721
+01:04:09,160 --> 01:04:15,320
+system and so this guy, very eminent psychologist, he runs around the country telling executives
+
+722
+01:04:15,320 --> 01:04:20,360
+to organize their day so they force themselves to do what's unpleasant and important
+
+723
+01:04:21,160 --> 01:04:26,760
+by doing that first and then rewarding themselves with something they really like doing. He is
+
+724
+01:04:26,760 --> 01:04:32,280
+profoundly correct. Seven, the Harvard Business School's emphasis on decision trees. When I was
+
+725
+01:04:32,280 --> 01:04:37,480
+young and foolish, I used to laugh at the Harvard Business School. I said they're teaching 28 year
+
+726
+01:04:37,480 --> 01:04:42,280
+old people that high school algebra works in real life. We're talking about elementary probability.
+
+727
+01:04:43,160 --> 01:04:48,360
+But later I wised up and I realized that it was very important and they do that and better late
+
+728
+01:04:48,360 --> 01:04:54,440
+than never. Eight, the use of postmortems at Johnson & Johnson. At most corporations if you
+
+729
+01:04:54,440 --> 01:04:59,000
+make an acquisition and it works out to be a disaster, all the paperwork and presentations
+
+730
+01:05:00,040 --> 01:05:05,240
+that cause the dumb acquisition to be made are quickly forgotten. You got denial, you got
+
+731
+01:05:05,240 --> 01:05:09,000
+everything in the world. You got Pavlovian association tenants and nobody wants to be
+
+732
+01:05:09,800 --> 01:05:14,840
+associated with the damn thing or even mention it. Johnson & Johnson, they make everybody revisit
+
+733
+01:05:15,560 --> 01:05:21,880
+their old acquisitions and wade through the presentations. That is a very smart thing to do
+
+734
+01:05:21,880 --> 01:05:28,280
+and by the way, I do the same thing routinely. Nine, the great example of Charles Darwin is he
+
+735
+01:05:28,280 --> 01:05:34,920
+avoided confirmation bias. Darwin probably changed my life because I'm a biography nut.
+
+736
+01:05:35,000 --> 01:05:42,280
+Darwin probably changed my life because I'm a biography nut. When I found out the way he
+
+737
+01:05:42,280 --> 01:05:47,000
+always paid extra attention to the disconfirming evidence and all these little psychological
+
+738
+01:05:47,000 --> 01:05:51,560
+tricks, I also found out that he wasn't very smart by the standards, the ordinary standards
+
+739
+01:05:51,560 --> 01:05:56,200
+of human acuity, yet there he is buried in Westminster Abbey. That's not where I'm going,
+
+740
+01:05:56,200 --> 01:06:02,840
+I'll tell you. I said my God, here's a guy that by all objective evidence is not nearly as smart
+
+741
+01:06:02,840 --> 01:06:08,200
+as I am and he's in Westminster Abbey. He must have tricks I should learn and I started wearing
+
+742
+01:06:08,200 --> 01:06:14,280
+little hair shirts like Darwin to try and train myself out of these subconscious psychological
+
+743
+01:06:14,280 --> 01:06:18,600
+tendencies that cause so many errors. It didn't work perfectly as you can tell from listening to
+
+744
+01:06:18,600 --> 01:06:27,400
+this talk but it would have been even worse if I hadn't done what I did and you can know these
+
+745
+01:06:27,400 --> 01:06:31,880
+psychological tendencies and avoid being the patsy of all the people that are trying to manipulate
+
+746
+01:06:31,880 --> 01:06:36,920
+you to your disadvantage like Sam Walton. Sam Walton will let a purchasing agent take a
+
+747
+01:06:36,920 --> 01:06:43,480
+handkerchief from a salesman. He knows how powerful the subconscious reciprocation tendency is.
+
+748
+01:06:44,280 --> 01:06:49,240
+That is a profoundly correct way for Sam Walton to behave. Then there's the Warren-Buffett rule
+
+749
+01:06:49,240 --> 01:06:57,320
+for open outcry auctions. Don't go. We don't go to the closed bid auctions too because they,
+
+750
+01:06:58,200 --> 01:07:02,280
+that's a counterproductive way to do things ordinarily for a different reason
+
+751
+01:07:03,160 --> 01:07:08,280
+which Zechauser would understand. Four, what special knowledge problems lie buried in the
+
+752
+01:07:08,280 --> 01:07:14,200
+thought system indicated by the list? Well one is paradox. Now we're talking about a type of
+
+753
+01:07:14,200 --> 01:07:19,560
+human wisdom that the more people learn about it the more attenuated the wisdom gets.
+
+754
+01:07:21,880 --> 01:07:26,680
+That's an intrinsically paradoxical kind of wisdom but we have paradox in mathematics and
+
+755
+01:07:26,680 --> 01:07:31,080
+we don't give up mathematics. I say damn the paradox. This stuff is wonderfully useful
+
+756
+01:07:32,360 --> 01:07:37,560
+and by the way the granny's rule when you apply it to yourself is sort of a paradox in a paradox.
+
+757
+01:07:39,480 --> 01:07:43,880
+The manipulation still works even though you know you're doing it and I've seen that done
+
+758
+01:07:43,880 --> 01:07:47,640
+by one person to another. I drew this beautiful woman as my dinner partner
+
+759
+01:07:47,640 --> 01:07:53,400
+a few years ago and I'd never seen her before. Well she's married to a prominent Angelino and
+
+760
+01:07:53,400 --> 01:07:56,520
+she sat down next to me and she turned her beautiful face up and she said
+
+761
+01:07:57,240 --> 01:08:05,240
+Charlie she said what one word accounts for your remarkable success in life. Now I knew I was being
+
+762
+01:08:05,240 --> 01:08:13,640
+manipulated and that she'd done this before and I just loved it. I never see this woman without a
+
+763
+01:08:13,640 --> 01:08:19,320
+little lift in my spirits and by the way I told her I was rational.
+
+764
+01:08:24,360 --> 01:08:31,640
+You'll have to judge yourself whether that's true. I may be demonstrating some psychological
+
+765
+01:08:31,640 --> 01:08:37,480
+tendency I hadn't planned on demonstrating. How should the best parts of psychology and economics
+
+766
+01:08:37,480 --> 01:08:43,640
+interrelate in an enlightened economist's mind? Two views. That's the thermodynamics model.
+
+767
+01:08:43,640 --> 01:08:51,560
+You know you can't derive thermodynamics from Newtonian gravity and laws of mechanics
+
+768
+01:08:51,560 --> 01:08:56,440
+even though it's a lot of little particles interacting. Here's this wonderful truth that
+
+769
+01:08:56,440 --> 01:09:02,440
+you can sort of develop on your own which is thermodynamics and some economists and I think
+
+770
+01:09:02,440 --> 01:09:07,240
+Milton Friedman is in this group but I may be wrong on that sort of like the thermodynamics model.
+
+771
+01:09:09,000 --> 01:09:13,960
+I think Milton Friedman who has a Nobel Prize is probably a little wrong on that.
+
+772
+01:09:14,520 --> 01:09:20,120
+I think the thermodynamics analogy is over strained. I think knowledge from these different
+
+773
+01:09:20,120 --> 01:09:27,240
+soft sciences have to be reconciled to eliminate conflict. After all there's
+
+774
+01:09:27,240 --> 01:09:33,960
+nothing in thermodynamics that's inconsistent with Newtonian mechanics and gravity and I think that
+
+775
+01:09:33,960 --> 01:09:40,360
+some of these economic theories are not totally consistent with other knowledge and they have
+
+776
+01:09:40,360 --> 01:09:45,320
+to be bent and I think that these behavioral economics or economists are probably the ones
+
+777
+01:09:45,320 --> 01:09:50,440
+that are bending them in a correct direction. Now my prediction is when the economists take a
+
+778
+01:09:50,440 --> 01:09:56,120
+little psychology into account that the reconciliation will be quite endurable and here my model is the
+
+779
+01:09:56,120 --> 01:10:02,520
+procession of the equinoxes. The world would be simpler for a long-term climatologist if the
+
+780
+01:10:03,240 --> 01:10:09,480
+angle of the axis of the earth's rotation compared to the plane of the eucliptic were absolutely
+
+781
+01:10:10,200 --> 01:10:15,480
+fixed but it isn't fixed. Over every 40,000 years or so there's this little wobble
+
+782
+01:10:16,280 --> 01:10:24,280
+and that has pronounced long-term effects. Well in many cases what psychology is going to add is
+
+783
+01:10:24,280 --> 01:10:31,560
+just a little wobble and it will be endurable. Here I quote another hero of mine who of course
+
+784
+01:10:31,560 --> 01:10:37,400
+is Einstein where he said the Lord is subtle but not malicious and I don't think it's going to be
+
+785
+01:10:37,400 --> 01:10:46,520
+that hard to bend economics a little to accommodate what's right in psychology. The
+
+786
+01:10:46,520 --> 01:10:51,880
+final question is if the thought system indicated by this list of psychological tendencies has great
+
+787
+01:10:51,880 --> 01:10:58,040
+value not widely recognized and employed what should the educational system do about it? I am
+
+788
+01:10:58,040 --> 01:11:06,120
+not going to answer that one now. I like leaving a little mystery. Have I used up all the time so
+
+789
+01:11:06,120 --> 01:11:27,560
+there's no time for questions? By the way the dean of the Stanford Law School is here today
+
+790
+01:11:27,560 --> 01:11:33,240
+Paul Bress and he is trying to create a course at the Stanford Law School that tries to work
+
+791
+01:11:34,200 --> 01:11:40,920
+stuff similar to this into worldly wisdom for lawyers which I regard as a profoundly good idea
+
+792
+01:11:40,920 --> 01:11:46,280
+and he wrote an article about it and you'll be given a copy along with Sealdini's book. Questions?
+
+793
+01:11:46,280 --> 01:11:58,120
+Yes, I presumed I would be one curious man
+
+794
+01:12:00,760 --> 01:12:04,920
+and I haven't. I'll put it over there on the table but don't take more than one because I
+
+795
+01:12:04,920 --> 01:12:09,880
+didn't anticipate such a big crowd and if we run short I'm sure the center is up to making
+
+796
+01:12:09,880 --> 01:12:13,720
+other copies and
+
+797
+01:12:32,040 --> 01:12:36,040
+you told us how you would have dealt with one of these issues for example with the
+
+798
+01:12:36,040 --> 01:12:42,200
+unfortunate lady from seas but you didn't tell us how these tendencies affected you and what's
+
+799
+01:12:42,200 --> 01:12:46,040
+probably the most important one of the most important elements of your success which was
+
+800
+01:12:46,040 --> 01:12:51,960
+deciding where to invest your money and I'm wondering if you might relate some of these
+
+801
+01:12:51,960 --> 01:12:58,360
+principles to some of your past decisions that way. Well of course an investment decision
+
+802
+01:12:59,960 --> 01:13:05,400
+in the common stock of a company frequently involves a whole lot of factors interacting
+
+803
+01:13:06,520 --> 01:13:14,600
+usually of course there's one big simple model and a lot of those models are
+
+804
+01:13:14,600 --> 01:13:19,320
+are microeconomic and I have a little list of it wouldn't be nearly 24
+
+805
+01:13:20,920 --> 01:13:24,120
+of those but I don't have time for for that one and I
+
+806
+01:13:25,240 --> 01:13:29,080
+I don't have too much interest in teaching other people how to get rich
+
+807
+01:13:29,800 --> 01:13:33,720
+my personal and that isn't because I fear the competition
+
+808
+01:13:35,720 --> 01:13:39,000
+or anything like that Warren has always been very open about
+
+809
+01:13:40,200 --> 01:13:47,480
+about what he's learned and I share that ethos my personal behavior model is Lord Keynes
+
+810
+01:13:48,120 --> 01:13:53,480
+I wanted to get rich so I could be independent and so I could do other things like give talks on the
+
+811
+01:13:53,480 --> 01:14:00,920
+intersection of psychology and economics I didn't want to turn it into a total obsession yeah
+
+812
+01:14:08,440 --> 01:14:13,800
+I would say the one thing that causes the most trouble is when you combine a bunch of these
+
+813
+01:14:13,800 --> 01:14:19,400
+together you get this Lollapalooza effect and if you again if you read the psychology textbooks
+
+814
+01:14:20,040 --> 01:14:24,920
+they don't discuss how these things combine at least not very much do they multiply do they add
+
+815
+01:14:24,920 --> 01:14:29,720
+what how does it work I think would be just an automatic subject for for research but it doesn't
+
+816
+01:14:29,720 --> 01:14:35,400
+seem to turn the psychology establishment on I think this is a like this is a man for Mars
+
+817
+01:14:35,400 --> 01:14:40,440
+approach to psychology I just reached in and took what I thought I had to have
+
+818
+01:14:41,720 --> 01:14:48,120
+that is a different set of incentives from rising in an economic establishment where the rewards
+
+819
+01:14:48,280 --> 01:14:54,360
+where the reward system again the reinforcement comes from being a truffle hound that's what
+
+820
+01:14:54,360 --> 01:14:59,400
+Jacob Viner the great economist called it the truffle hound an animal so bred and trained for
+
+821
+01:14:59,400 --> 01:15:03,720
+one narrow purpose that he wasn't much good at anything else and that is the reward system
+
+822
+01:15:03,720 --> 01:15:08,200
+in a lot of academic departments it is not necessarily pretty good it may be fine if you
+
+823
+01:15:08,200 --> 01:15:12,520
+want new drugs or something you want people stunted in a lot of different directions so
+
+824
+01:15:12,520 --> 01:15:17,000
+they can grow in one narrow direction but I don't think it's good teaching psychology to
+
+825
+01:15:17,000 --> 01:15:21,640
+them the masses in fact I think it's terrible
+
