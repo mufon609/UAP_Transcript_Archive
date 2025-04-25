@@ -1,0 +1,4584 @@
+1
+00:00:00,000 --> 00:00:07,800
+Hello world. Today my guest is Professor Avi Loeb. Avi is an astrophysicist at Harvard
+
+2
+00:00:07,800 --> 00:00:13,240
+and his new book, Extraterrestrial, The First Signs of Intelligent Life Beyond Earth, proposes
+
+3
+00:00:13,240 --> 00:00:18,360
+that an interstellar object that passed through our solar system in 2017 may have been the
+
+4
+00:00:18,360 --> 00:00:24,280
+creation of alien intelligence. This man is truly a genius who is pushing the envelope
+
+5
+00:00:24,280 --> 00:00:27,840
+in the world of astrophysics and cosmology. I hope you guys enjoy this one as much as
+
+6
+00:00:27,880 --> 00:00:30,000
+I did. Please welcome Avi Loeb.
+
+7
+00:00:38,080 --> 00:00:40,560
+Pleasure to meet you. Avi, is that how you pronounce it?
+
+8
+00:00:40,880 --> 00:00:41,360
+Yes.
+
+9
+00:00:41,760 --> 00:00:46,520
+So again, I just asked you before we started recording, have you done any of these Zoom
+
+10
+00:00:46,520 --> 00:00:49,000
+conversations in the past?
+
+11
+00:00:49,720 --> 00:00:55,960
+Well, thanks for having me. Yeah, over the past three weeks or so, things were very
+
+12
+00:00:55,960 --> 00:01:04,720
+hectic. I've had about 150 Zoom meetings of this type, interviews with either podcasters
+
+13
+00:01:04,720 --> 00:01:13,320
+or television or newspaper or radio stations, and there seemed to be an enormous interest
+
+14
+00:01:13,320 --> 00:01:20,040
+in the book. And I think part of the reason is that the scientific community starved the
+
+15
+00:01:20,040 --> 00:01:26,760
+public on this topic of the search for extraterrestrial intelligence, technological
+
+16
+00:01:26,760 --> 00:01:36,920
+signatures for many decades. And the public is thirsty for information. And I address
+
+17
+00:01:36,920 --> 00:01:44,720
+this interest. And it's intriguing to the public. And hopefully, the scientific community
+
+18
+00:01:44,720 --> 00:01:49,520
+will start discussing this topic within the mainstream in the future. That's my hope.
+
+19
+00:01:50,320 --> 00:01:55,560
+That's incredible. You know, it's funny that we reached out to you probably maybe three
+
+20
+00:01:55,560 --> 00:02:01,440
+weeks ago, we scheduled this interview. And then late last week, I saw you pop up on Joe
+
+21
+00:02:01,440 --> 00:02:07,720
+Rogan's podcast. Right. So did all of this sort of like spiral out of control after you
+
+22
+00:02:07,720 --> 00:02:09,240
+went and visited him?
+
+23
+00:02:10,720 --> 00:02:16,760
+Well, it started before that. There was a report in the New York Post that I did not
+
+24
+00:02:16,760 --> 00:02:24,960
+anticipate that started lit this fire of interest. And just to give you another example,
+
+25
+00:02:24,960 --> 00:02:30,400
+over the past couple of weeks, I had about 10 filmmakers and producers from Hollywood
+
+26
+00:02:30,400 --> 00:02:36,840
+contact me about the book with interest of perhaps using it for a documentary series
+
+27
+00:02:36,840 --> 00:02:46,240
+or perhaps a film. And it's just extraordinary, the response that I'm getting. And as you
+
+28
+00:02:46,240 --> 00:02:52,200
+know, the book that came out just a few days ago is already, I mean, it has been a best
+
+29
+00:02:52,200 --> 00:02:59,520
+seller on Amazon for a couple of weeks before it came out, even before reviews came out.
+
+30
+00:03:00,480 --> 00:03:05,920
+But now that there are a number of reviews of the book already in the New York Times,
+
+31
+00:03:05,920 --> 00:03:14,680
+in the Washington Post, in the New Yorker, also overseas in many outlets. And, you know,
+
+32
+00:03:14,680 --> 00:03:20,280
+I get a lot of requests more than I can accommodate. Basically, my day is full of interviews
+
+33
+00:03:20,280 --> 00:03:27,920
+from 8 a.m. until 7 p.m. every day. And that will continue for the next few weeks, based
+
+34
+00:03:27,920 --> 00:03:34,640
+on all the commitments that I've made. But I think, you know, for me, as far as I see
+
+35
+00:03:34,640 --> 00:03:41,080
+it, it's a platform to explain the importance of the issues that I'm trying to bring up
+
+36
+00:03:41,120 --> 00:03:48,600
+to the attention of the public and the science community, more than a privilege of, you know,
+
+37
+00:03:48,600 --> 00:03:57,160
+raising my status in any way. So I see it as an opportunity to communicate. And I'll
+
+38
+00:03:57,160 --> 00:04:04,400
+be glad to discuss with you the various issues that appear in my book. Maybe I'll just say
+
+39
+00:04:04,560 --> 00:04:11,680
+upfront that there are two major aspects of the book. One has to do with the object that
+
+40
+00:04:11,680 --> 00:04:17,000
+was discovered in 2017 that is very weird and doesn't look like anything we have seen
+
+41
+00:04:17,000 --> 00:04:22,840
+before from within the solar system. The object came from outside the solar system. And so
+
+42
+00:04:22,840 --> 00:04:28,960
+I suggested that maybe it's artificial in origin, not natural. And then the second part
+
+43
+00:04:29,000 --> 00:04:35,800
+of the book is discussing, you know, the implications that it could have to us as the
+
+44
+00:04:35,800 --> 00:04:41,680
+human species and why there is reluctance to consider that possibility that I just
+
+45
+00:04:41,680 --> 00:04:46,040
+mentioned. And are we ready to receive the news?
+
+46
+00:04:47,040 --> 00:04:52,760
+So the first time I heard about you is when I think Vice released an article about the
+
+47
+00:04:52,760 --> 00:04:58,800
+Amua the long cigar shaped shiny object that was traveling through our solar system. Could
+
+48
+00:04:58,800 --> 00:05:03,880
+you start out by explaining exactly what was this Amua that was traveling through our
+
+49
+00:05:03,880 --> 00:05:04,560
+solar system?
+
+50
+00:05:04,960 --> 00:05:11,480
+Well, first, also, I should say that I had many years in which I worked on other topics
+
+51
+00:05:11,480 --> 00:05:18,000
+of, for example, how did the first stars from the universe, the first light, which is
+
+52
+00:05:18,000 --> 00:05:22,760
+mentioned actually in the first chapter of the Old Testament, the Bible, how was the
+
+53
+00:05:22,760 --> 00:05:26,880
+first light generated in the early universe? And we can now address it with scientific
+
+54
+00:05:26,880 --> 00:05:30,800
+means. And I also worked on black holes for many years.
+
+55
+00:05:30,800 --> 00:05:37,080
+And the topic of the search for life or intelligent life in particular came to my attention
+
+56
+00:05:37,080 --> 00:05:43,320
+only over the past few years. And I'm actually in addition to the popular level book, we're
+
+57
+00:05:43,320 --> 00:05:50,360
+about to publish with a former postdoc of mine a textbook of a thousand pages long that
+
+58
+00:05:50,360 --> 00:05:56,280
+will be published in June 2021 that will include the foundation for future research on
+
+59
+00:05:56,280 --> 00:06:04,240
+this subject. And so I see it as the most exciting frontier that will that should
+
+60
+00:06:04,240 --> 00:06:08,920
+occupy center stage within the mainstream of astronomy in the future.
+
+61
+00:06:09,080 --> 00:06:12,320
+Unfortunately, right now, it's pushed to be at the periphery.
+
+62
+00:06:12,320 --> 00:06:14,040
+And and we can talk about that.
+
+63
+00:06:14,760 --> 00:06:16,840
+So let me come back to your question.
+
+64
+00:06:16,840 --> 00:06:18,520
+And that is Oumuamua.
+
+65
+00:06:19,280 --> 00:06:27,600
+This object was spotted in October 2017 by the Panstars Observatory in Hawaii, which
+
+66
+00:06:27,600 --> 00:06:33,000
+was tasked to look for objects that may come close to Earth because they could endanger
+
+67
+00:06:33,000 --> 00:06:40,880
+us. Congress gave this task to NASA to find 90 percent of all the objects that are larger
+
+68
+00:06:40,880 --> 00:06:46,600
+than 140 meters that get close to Earth so that we can protect ourselves by deflecting
+
+69
+00:06:46,600 --> 00:06:47,920
+them if they are too dangerous.
+
+70
+00:06:48,560 --> 00:06:52,600
+You know that the dinosaurs died as a result of a big rock.
+
+71
+00:06:53,880 --> 00:06:57,560
+I heard that. And they didn't have astronomers to warn them.
+
+72
+00:06:57,640 --> 00:07:03,080
+That's that's the point. So we have telescopes we can tell in advance if an object is
+
+73
+00:07:03,080 --> 00:07:07,600
+approaching us and devise methods to prevent that from happening.
+
+74
+00:07:08,160 --> 00:07:12,880
+So at any event, the Panstar started this process of identifying objects.
+
+75
+00:07:12,880 --> 00:07:21,640
+And in the process of surveying the sky, found Oumuamua, which is the very first object
+
+76
+00:07:21,640 --> 00:07:25,760
+that we spotted near the Earth that came from outside the solar system.
+
+77
+00:07:25,960 --> 00:07:31,080
+And you could tell that based on the fact that it moved too fast to be bound by the
+
+78
+00:07:31,080 --> 00:07:37,320
+sun. So it suddenly came from outside and it was given the name Oumuamua because it
+
+79
+00:07:37,320 --> 00:07:41,880
+means in the Hawaiian language, a scout or a messenger from far away.
+
+80
+00:07:43,280 --> 00:07:48,000
+The astronomers at first, of course, assumed that it's just like all the rocks that we
+
+81
+00:07:48,000 --> 00:07:49,440
+identified in the solar system.
+
+82
+00:07:50,720 --> 00:07:57,360
+So it probably is a comet because most of the objects are a rock covered with ice and
+
+83
+00:07:57,360 --> 00:08:00,040
+they reside in the outer parts of the solar system.
+
+84
+00:08:00,040 --> 00:08:05,200
+And the same kind of objects may exist near other stars and get ejected from those
+
+85
+00:08:05,200 --> 00:08:07,040
+environments and reach us.
+
+86
+00:08:07,960 --> 00:08:10,720
+But the problem was that there was no cometary tail.
+
+87
+00:08:10,960 --> 00:08:14,360
+We couldn't see any gas trailing the object.
+
+88
+00:08:15,160 --> 00:08:20,320
+Visually, we couldn't see it, but also the Spitzer Space Telescope looked for any traces
+
+89
+00:08:20,320 --> 00:08:22,760
+of carbon based molecules, couldn't see it.
+
+90
+00:08:23,120 --> 00:08:24,880
+So it was clearly not a comet.
+
+91
+00:08:25,840 --> 00:08:31,280
+But yet, at the same time, it exhibited an extra push away from the sun that is often
+
+92
+00:08:31,280 --> 00:08:35,720
+associated with evaporation of gas from a comet.
+
+93
+00:08:36,320 --> 00:08:40,360
+But since it wasn't a comet, the question was what gives it this extra push?
+
+94
+00:08:41,120 --> 00:08:45,280
+And I suggested that it may be the reflection of sunlight.
+
+95
+00:08:46,400 --> 00:08:52,560
+And for that purpose, the object had to be quite thin and not naturally produced.
+
+96
+00:08:52,560 --> 00:09:00,120
+It has to be something like a sail that you find on a boat, which in the case of a boat
+
+97
+00:09:00,120 --> 00:09:01,480
+reflects the wind.
+
+98
+00:09:01,760 --> 00:09:07,280
+But in the case of the sun, we're talking about the sail that reflects light and can
+
+99
+00:09:07,280 --> 00:09:09,400
+be pushed. This is called a light sail.
+
+100
+00:09:09,760 --> 00:09:14,200
+And it's a technology that we are currently developing for propulsion of
+
+101
+00:09:15,240 --> 00:09:16,880
+spacecrafts in space.
+
+102
+00:09:18,160 --> 00:09:21,760
+And the advantage is that the spacecraft doesn't need to carry its fuel.
+
+103
+00:09:22,440 --> 00:09:24,200
+It's just being pushed by light.
+
+104
+00:09:25,040 --> 00:09:31,720
+I should say there was another object identified in September 2020 just a few months
+
+105
+00:09:31,720 --> 00:09:36,800
+ago that exhibited also an extra push away from the sun.
+
+106
+00:09:36,800 --> 00:09:42,720
+And in addition to the sun's gravitational force and didn't show any cometary
+
+107
+00:09:42,720 --> 00:09:49,480
+tail. Turns out that this one was a rocket booster from 1966, a lunar lander
+
+108
+00:09:49,480 --> 00:09:52,720
+Surveyor 2 mission that was launched by NASA.
+
+109
+00:09:53,040 --> 00:09:55,880
+And it was simply hollow and thin.
+
+110
+00:09:55,880 --> 00:09:59,120
+And that's why it was pushed by reflecting sunlight.
+
+111
+00:09:59,120 --> 00:10:05,000
+So we know in that case that the object was artificial in origin because we produced
+
+112
+00:10:05,000 --> 00:10:08,560
+it. In the case of Oumuamua, we don't know who produced it.
+
+113
+00:10:09,200 --> 00:10:16,240
+And the other thing I should say is that from the reflected light that Oumuamua
+
+114
+00:10:16,240 --> 00:10:21,840
+showed, as it was tumbling, it was tumbling over eight hours, roughly the size of a
+
+115
+00:10:21,840 --> 00:10:27,560
+football field, from the amount of reflected sunlight, we could tell that it's
+
+116
+00:10:27,560 --> 00:10:30,840
+most likely flat, not cigar shaped.
+
+117
+00:10:31,240 --> 00:10:36,440
+And also that it's very extreme in terms of its geometry.
+
+118
+00:10:36,440 --> 00:10:40,040
+It's much longer than it is wide when projected on the sky.
+
+119
+00:10:40,320 --> 00:10:46,360
+And that fits the bill in terms of it potentially being a thin surface.
+
+120
+00:10:46,480 --> 00:10:49,760
+So have you seen on a lot of the articles online, have you seen some of the
+
+121
+00:10:49,760 --> 00:10:51,320
+renderings that they've created of it?
+
+122
+00:10:52,200 --> 00:10:57,440
+Oh, yeah. So the most popular rendering is that of a cigar shaped object.
+
+123
+00:10:57,440 --> 00:11:01,160
+And that is incorrect based on the evidence we have.
+
+124
+00:11:01,160 --> 00:11:06,080
+And the most likely shape is disc shape or pancake shape.
+
+125
+00:11:07,480 --> 00:11:11,720
+Interesting. And how far away is it from the Earth?
+
+126
+00:11:11,960 --> 00:11:18,320
+Oh, right now it's beyond the distance of Jupiter.
+
+127
+00:11:18,320 --> 00:11:25,080
+And so it's actually right now a million times fainter than when it was close to
+
+128
+00:11:25,080 --> 00:11:31,240
+the sun because it dims very rapidly such an object because the amount of
+
+129
+00:11:31,240 --> 00:11:35,880
+sunlight impinging on its surface drops inversely with distance squared.
+
+130
+00:11:36,080 --> 00:11:40,400
+And then the amount of light we see reflected from it drops by another factor
+
+131
+00:11:40,400 --> 00:11:45,040
+of one of a distance squared. So altogether, the object dims inversely
+
+132
+00:11:45,040 --> 00:11:47,960
+with distance to the fourth power, which is very quickly.
+
+133
+00:11:48,360 --> 00:11:51,320
+So by now, we can't really see it anymore.
+
+134
+00:11:51,560 --> 00:11:57,200
+And therefore, we cannot even design a mission that will chase it, but we can
+
+135
+00:11:57,200 --> 00:12:02,080
+search for other objects. You know, when I go to the kitchen and I find an ant by
+
+136
+00:12:02,080 --> 00:12:07,000
+looking at a small portion of the kitchen, I know that there should be many more ants
+
+137
+00:12:07,000 --> 00:12:12,080
+out there. And so the conclusion from finding this object is that there should be
+
+138
+00:12:12,080 --> 00:12:17,200
+many more. If we use the PANSTAS telescope within a few years, we should find another
+
+139
+00:12:17,200 --> 00:12:23,400
+one. But in fact, in three years, there would be a new survey telescope called the
+
+140
+00:12:23,400 --> 00:12:28,680
+Vera Rubin Observatory that could then that would be much more sensitive and
+
+141
+00:12:28,680 --> 00:12:31,600
+therefore could find such an object every month or so.
+
+142
+00:12:33,160 --> 00:12:40,480
+Right now, the telescope that found this Amuamua, what is the I guess the goal of
+
+143
+00:12:40,480 --> 00:12:44,560
+that telescope? Is it just like generally blanketing the sky or is it particularly
+
+144
+00:12:44,560 --> 00:12:47,400
+looking for doomsday asteroids?
+
+145
+00:12:47,800 --> 00:12:55,360
+Yeah. So the latter, it was intended to find those near Earth or objects called
+
+146
+00:12:55,360 --> 00:13:01,160
+NEOs. But then it just started the job of doing that.
+
+147
+00:13:01,160 --> 00:13:07,320
+And the Vera Rubin Observatory would then go two thirds of the way towards having a
+
+148
+00:13:07,320 --> 00:13:13,040
+full census. Congress tasked NASA to find 90 percent, but with the Vera Rubin
+
+149
+00:13:13,040 --> 00:13:20,920
+Observatory, we find maybe 60 percent of all near Earth objects above 140 meters
+
+150
+00:13:20,920 --> 00:13:28,040
+in size. How how much do astronomers, your colleagues or yourself, how much of your
+
+151
+00:13:28,040 --> 00:13:34,080
+time and focus goes towards worrying about giant Earth killer asteroids?
+
+152
+00:13:34,600 --> 00:13:44,080
+Very little. There is a relatively small community of astronomers that they focus
+
+153
+00:13:44,080 --> 00:13:50,400
+on on objects within the solar system. And then out of that community, a small
+
+154
+00:13:50,400 --> 00:13:53,000
+fraction worries about near Earth asteroids.
+
+155
+00:13:53,000 --> 00:14:01,080
+So it's mainly an observational effort to identify individual objects that may come
+
+156
+00:14:01,080 --> 00:14:06,240
+close to Earth because we can forecast their orbits using the law of gravity.
+
+157
+00:14:06,240 --> 00:14:15,000
+And so it's sort of a practical matter to monitor and figure out which objects
+
+158
+00:14:15,000 --> 00:14:17,480
+might come close, monitor the sky.
+
+159
+00:14:17,480 --> 00:14:21,280
+And we can see objects based on their reflected sunlight.
+
+160
+00:14:21,280 --> 00:14:26,880
+So the bigger the object is, the easier it is for us to identify it at a greater
+
+161
+00:14:26,880 --> 00:14:32,600
+distance. And it also depends, of course, on the telescope size and the amount of
+
+162
+00:14:32,600 --> 00:14:37,080
+light that you can collect within the telescope diameter.
+
+163
+00:14:37,080 --> 00:14:40,720
+Now, if there was an object that was similar to the one that took out the
+
+164
+00:14:40,720 --> 00:14:45,760
+dinosaurs that hit the Yucatan, how soon were we able to find it?
+
+165
+00:14:45,760 --> 00:14:51,000
+And is there anything we could possibly do to alter its course?
+
+166
+00:14:51,000 --> 00:14:54,120
+Yeah, so the dinosaurs went extinct.
+
+167
+00:14:54,120 --> 00:15:02,200
+And in fact, three quarters of the Earth's life forms were killed in that event.
+
+168
+00:15:02,200 --> 00:15:06,560
+I mean, there was this giant rock that collided with Earth.
+
+169
+00:15:06,560 --> 00:15:12,680
+It was roughly the length of Manhattan Island, tens of kilometers.
+
+170
+00:15:12,680 --> 00:15:19,200
+And then as it approached the Earth, probably it was a beautiful sight.
+
+171
+00:15:19,200 --> 00:15:26,600
+But the fun of the dinosaurs stopped when it collided with Earth and caused this huge
+
+172
+00:15:26,600 --> 00:15:34,360
+environmental damage, the Chicxulub crater and sort of a change in the climate of the
+
+173
+00:15:34,360 --> 00:15:38,400
+Earth because of all the dust that was raised.
+
+174
+00:15:38,400 --> 00:15:44,040
+But perhaps we owe our existence to that impact because it changed altogether the life
+
+175
+00:15:44,040 --> 00:15:48,680
+forms that appeared on the surface of the Earth.
+
+176
+00:15:48,680 --> 00:15:58,360
+And then such a big object can be identified far enough for us to plan years in advance
+
+177
+00:15:58,360 --> 00:16:02,480
+what to do. And there are various ideas about how to deflect it.
+
+178
+00:16:02,480 --> 00:16:10,240
+You can, for example, paint a side of it in a color such that it will reflect or will
+
+179
+00:16:10,240 --> 00:16:17,000
+evaporate more quickly and then there will be some push on it and that will deflect it
+
+180
+00:16:17,120 --> 00:16:19,800
+from colliding with the Earth.
+
+181
+00:16:19,800 --> 00:16:25,560
+You can detonate something on the surface of such an object and that would also push
+
+182
+00:16:25,560 --> 00:16:27,200
+it aside.
+
+183
+00:16:27,200 --> 00:16:33,000
+You can shine a laser beam on one side of the object and achieve the same goal.
+
+184
+00:16:33,000 --> 00:16:36,000
+There are all kinds of...
+
+185
+00:16:36,000 --> 00:16:40,960
+You can also shepherd it gravitationally with a spacecraft.
+
+186
+00:16:40,960 --> 00:16:43,040
+All kinds of suggestions for what to do.
+
+187
+00:16:43,720 --> 00:16:48,640
+It really depends on the size of the object and the composition as to what we want to do.
+
+188
+00:16:48,640 --> 00:16:55,280
+You don't want to, for example, destroy it into a lot of fragments because those fragments
+
+189
+00:16:55,280 --> 00:16:58,200
+could hit the Earth with a higher chance.
+
+190
+00:16:58,200 --> 00:17:06,320
+During the Gulf War, there was this Patriot missile that intercepted the missiles that
+
+191
+00:17:06,320 --> 00:17:08,600
+were sent, for example, towards Israel.
+
+192
+00:17:09,520 --> 00:17:15,800
+At the early version of these Patriot missiles, they just blasted the incoming missile into
+
+193
+00:17:15,800 --> 00:17:20,280
+pieces and that caused more damage than the original missile would have caused.
+
+194
+00:17:20,280 --> 00:17:23,000
+So you don't want to do that.
+
+195
+00:17:23,000 --> 00:17:28,800
+And we will have enough time to make appropriate plans depending on which object is
+
+196
+00:17:28,800 --> 00:17:29,920
+approaching us.
+
+197
+00:17:29,920 --> 00:17:34,400
+We will definitely not get extinct as the dinosaurs did.
+
+198
+00:17:34,400 --> 00:17:39,520
+The human brain, even though it's much smaller than the body of a dinosaur, it's much more
+
+199
+00:17:39,520 --> 00:17:44,000
+precious for long-term survival.
+
+200
+00:17:44,000 --> 00:17:49,280
+Now, why is it that you think that you're the first astronomer to come out with some
+
+201
+00:17:49,280 --> 00:17:53,440
+fascinating stuff like this, talking about the Amuamua and talking about interstellar
+
+202
+00:17:53,440 --> 00:17:58,560
+potential extraterrestrial objects coming through our solar system?
+
+203
+00:17:58,560 --> 00:18:06,200
+Well, first I should mention that this subject is at the periphery of astronomy.
+
+204
+00:18:06,200 --> 00:18:07,880
+It's not funded much.
+
+205
+00:18:07,880 --> 00:18:14,720
+And anyone that talks about the search for technological signatures is sort of marginalized,
+
+206
+00:18:14,720 --> 00:18:19,120
+sometimes to the point where the subject is ridiculed.
+
+207
+00:18:19,120 --> 00:18:26,240
+And that is unfortunate because it doesn't allow new talent to enter the field or to
+
+208
+00:18:26,240 --> 00:18:29,040
+get funded for doing research in this field.
+
+209
+00:18:29,040 --> 00:18:34,120
+And it's sort of like stepping on the grass and then saying, look, it doesn't grow.
+
+210
+00:18:34,120 --> 00:18:42,880
+So obviously, we don't get major discoveries or important results because of the
+
+211
+00:18:42,880 --> 00:18:47,280
+self-fulfilling prophecy that the fact that the community is not supporting it.
+
+212
+00:18:47,280 --> 00:18:51,920
+And I find this to be completely inappropriate because the public is extremely interested in
+
+213
+00:18:51,920 --> 00:18:54,560
+the question, are we alone?
+
+214
+00:18:54,560 --> 00:18:59,680
+I'm interested in the question beyond that, because I think that we are probably not alone.
+
+215
+00:18:59,680 --> 00:19:05,200
+Half of the sun-like stars have a planet the size of the Earth, roughly at the same separation.
+
+216
+00:19:05,200 --> 00:19:11,080
+So you have billions of Earth-Sun system just within the Milky Way galaxy, our own galaxy.
+
+217
+00:19:11,080 --> 00:19:15,520
+And then you have a trillion galaxies like the Milky Way within the observable volume
+
+218
+00:19:15,520 --> 00:19:16,080
+of the universe.
+
+219
+00:19:16,080 --> 00:19:23,040
+So altogether, there are more Earth-Sun systems than the numbers of grains of sand on all
+
+220
+00:19:23,040 --> 00:19:24,280
+beaches on Earth.
+
+221
+00:19:24,280 --> 00:19:25,760
+It's just huge.
+
+222
+00:19:25,760 --> 00:19:31,040
+And the chance that we are special or unique is really minute.
+
+223
+00:19:31,040 --> 00:19:38,360
+And out of modesty, we should consider the possibility that things like us exist everywhere
+
+224
+00:19:38,360 --> 00:19:42,840
+as the simplest assumption, the most conservative assumption.
+
+225
+00:19:42,840 --> 00:19:47,000
+If you replicate the same circumstances, you get the same outcome.
+
+226
+00:19:47,000 --> 00:19:53,080
+But for some reason, the mainstream community prefers not to think that way and say, maybe
+
+227
+00:19:53,080 --> 00:19:54,600
+we are unique, maybe we are special.
+
+228
+00:19:54,600 --> 00:20:00,000
+You need extraordinary evidence in order to argue otherwise.
+
+229
+00:20:00,000 --> 00:20:05,640
+I would argue that you need extraordinary evidence to assume that we are unique, because
+
+230
+00:20:05,640 --> 00:20:10,080
+whenever we thought that we are special, we were wrong in the past.
+
+231
+00:20:10,080 --> 00:20:12,600
+We thought that we are the center of the universe.
+
+232
+00:20:12,600 --> 00:20:15,640
+Aristotle suggested that in his philosophy.
+
+233
+00:20:15,640 --> 00:20:21,200
+And for a thousand years, people believed it until Copernicus and Galileo demonstrated
+
+234
+00:20:21,240 --> 00:20:23,840
+that the Earth moves around the sun.
+
+235
+00:20:23,840 --> 00:20:28,080
+And even then, the philosophers at the time didn't like the idea.
+
+236
+00:20:28,080 --> 00:20:30,200
+They didn't look through Galileo's telescope.
+
+237
+00:20:30,200 --> 00:20:33,400
+And they just maintained their ignorance.
+
+238
+00:20:33,400 --> 00:20:38,040
+That reality doesn't care about whether we ignore it or not.
+
+239
+00:20:38,040 --> 00:20:41,840
+And whenever we assume that we are unique and special, we were wrong.
+
+240
+00:20:41,840 --> 00:20:46,360
+It's sort of like my daughters when they were infants.
+
+241
+00:20:46,360 --> 00:20:50,600
+They thought that they are unique, they have qualities that nobody else has.
+
+242
+00:20:50,600 --> 00:20:52,520
+And they're at the center of the world.
+
+243
+00:20:52,520 --> 00:20:58,800
+But once they went to a kindergarten, they saw other kids and they got a better perspective.
+
+244
+00:20:58,800 --> 00:21:05,840
+So for us, as the human species, as civilization, to mature, we need to find others and get
+
+245
+00:21:05,840 --> 00:21:08,520
+a better perspective about our place in the universe.
+
+246
+00:21:08,520 --> 00:21:15,480
+But many people prefer, you know, it flatters their ego to maintain the view that we are
+
+247
+00:21:15,480 --> 00:21:18,320
+alone until proven differently.
+
+248
+00:21:18,320 --> 00:21:23,280
+And I find that to be completely opposite to where they should be.
+
+249
+00:21:23,280 --> 00:21:29,640
+But by preventing any research in this subject, by ridiculing suggestions that we might not
+
+250
+00:21:29,640 --> 00:21:35,760
+be alone, you know, you don't get anyone to work on that.
+
+251
+00:21:35,760 --> 00:21:41,640
+And that's why I'm sort of alone standing against this mainstream.
+
+252
+00:21:41,640 --> 00:21:44,400
+And I should say, you know, I'm not an outlier.
+
+253
+00:21:44,400 --> 00:21:47,200
+I've worked in the mainstream for many years.
+
+254
+00:21:47,240 --> 00:21:49,520
+I had a lot of leadership positions.
+
+255
+00:21:49,520 --> 00:21:56,320
+I was the longest serving chair of the astronomy department at Harvard between 2011 to 2020.
+
+256
+00:21:56,320 --> 00:22:00,200
+Nine years, a position that was renewed twice.
+
+257
+00:22:00,200 --> 00:22:04,760
+And I'm the chair of the Board on Physics and Astronomy of the National Academies.
+
+258
+00:22:04,760 --> 00:22:09,920
+And at the same time, I think that the current view is misguided.
+
+259
+00:22:09,920 --> 00:22:15,840
+And I think that this subject appeals to the public and the public funds science.
+
+260
+00:22:15,840 --> 00:22:20,840
+And therefore, we have an obligation to address it with the existing tools that we have,
+
+261
+00:22:20,840 --> 00:22:22,640
+telescopes and instruments.
+
+262
+00:22:22,640 --> 00:22:24,200
+And we can do it.
+
+263
+00:22:24,200 --> 00:22:28,480
+Just to give you an example, you know, the astronomers are developing the next generation
+
+264
+00:22:28,480 --> 00:22:35,920
+of instruments to search for and these would cost billions of dollars to search for oxygen,
+
+265
+00:22:35,920 --> 00:22:39,640
+for example, in the atmospheres of planets around other stars.
+
+266
+00:22:39,640 --> 00:22:45,000
+Because the idea is that oxygen will tell us if there is life on these planets around
+
+267
+00:22:45,000 --> 00:22:46,520
+other stars.
+
+268
+00:22:46,520 --> 00:22:55,520
+The problem with this idea is that oxygen was rare, did not exist in the Earth atmosphere
+
+269
+00:22:55,520 --> 00:23:00,400
+at noticeable levels for two billion years, for half of the lifetime of the Earth.
+
+270
+00:23:00,400 --> 00:23:04,680
+For the first two billion years, there wasn't much oxygen in the atmosphere.
+
+271
+00:23:04,680 --> 00:23:06,120
+But there was life on Earth.
+
+272
+00:23:06,120 --> 00:23:07,640
+There were microbes.
+
+273
+00:23:07,640 --> 00:23:12,360
+So not finding oxygen is not evidence that life doesn't exist.
+
+274
+00:23:12,560 --> 00:23:18,000
+Also finding oxygen is not evidence that life exists because you can make it by natural
+
+275
+00:23:18,000 --> 00:23:19,760
+processes.
+
+276
+00:23:19,760 --> 00:23:26,440
+And if you ask yourself what would be a conclusive signature of life is if we find industrial
+
+277
+00:23:26,440 --> 00:23:29,060
+pollution in those atmospheres.
+
+278
+00:23:29,060 --> 00:23:34,400
+Those molecules that are very complex and are produced by the industries that we have
+
+279
+00:23:34,400 --> 00:23:37,920
+or by refrigerating systems, they are called CFCs.
+
+280
+00:23:37,920 --> 00:23:42,840
+If we do find evidence for those, then we know that life must exist.
+
+281
+00:23:42,840 --> 00:23:49,000
+So in fact, the justification to the future, the next generation of instruments that astronomers
+
+282
+00:23:49,000 --> 00:23:54,440
+are developing is much stronger in the context of the search for technological signatures
+
+283
+00:23:54,440 --> 00:23:58,000
+than it is in the search for primitive life.
+
+284
+00:23:58,000 --> 00:24:03,120
+But nevertheless, you would never find an argument or a motivation for these instruments
+
+285
+00:24:03,120 --> 00:24:05,360
+in that context.
+
+286
+00:24:05,360 --> 00:24:09,320
+What sort of conversations have you had or debates have you had with your colleagues
+
+287
+00:24:09,320 --> 00:24:14,280
+or other astronomers when it comes to the pushback that you've received from being outspoken
+
+288
+00:24:14,280 --> 00:24:18,160
+about things like this and the Oumuamua and intelligent life?
+
+289
+00:24:18,160 --> 00:24:19,840
+Well, I can give you an example.
+
+290
+00:24:19,840 --> 00:24:24,680
+There was a seminar about the Oumuamua at Harvard.
+
+291
+00:24:24,680 --> 00:24:29,400
+When I left the room with a colleague of mine that worked on the solar system for decades,
+
+292
+00:24:29,400 --> 00:24:35,440
+he said, this object is so weird, I wish it never existed.
+
+293
+00:24:35,440 --> 00:24:41,280
+And that illustrates to you that the properties of this object take people away from their
+
+294
+00:24:41,280 --> 00:24:43,280
+comfort zone.
+
+295
+00:24:43,280 --> 00:24:53,560
+And most people prefer not to change their views and not to update what they thought
+
+296
+00:24:53,560 --> 00:24:59,600
+to be the worldview that describes the universe.
+
+297
+00:24:59,600 --> 00:25:06,320
+And it's sort of like a GPS system when it gets to a place that it doesn't recognize,
+
+298
+00:25:06,320 --> 00:25:09,240
+it says recalculating.
+
+299
+00:25:09,240 --> 00:25:13,680
+And unfortunately, most of my colleagues do not recalculate, they just want to maintain
+
+300
+00:25:13,680 --> 00:25:14,680
+their views.
+
+301
+00:25:14,680 --> 00:25:20,320
+So most of the mainstream would simply say, business as usual.
+
+302
+00:25:20,320 --> 00:25:23,400
+I don't care about the details.
+
+303
+00:25:23,400 --> 00:25:25,440
+It must be a rock.
+
+304
+00:25:25,440 --> 00:25:32,480
+To me, that sounds just like a caveman saying that when presented with a cell phone, you
+
+305
+00:25:32,480 --> 00:25:38,240
+know, the caveman is used to playing with rocks all of his life, saying, oh, the cell
+
+306
+00:25:38,240 --> 00:25:41,640
+phone is just a shiny rock.
+
+307
+00:25:41,640 --> 00:25:49,240
+And the point of the matter is since I don't find technological signatures as speculation,
+
+308
+00:25:49,240 --> 00:25:54,440
+I think it should be contemplated as a real possibility put on the table and then, you
+
+309
+00:25:54,440 --> 00:26:00,480
+know, one can gather more evidence to try and see if indeed it's consistent with that
+
+310
+00:26:00,480 --> 00:26:06,160
+and it should not be dismissed upfront.
+
+311
+00:26:06,160 --> 00:26:12,680
+And so I think there needs to be a revision in the culture right now within the academic
+
+312
+00:26:12,680 --> 00:26:13,680
+community.
+
+313
+00:26:13,920 --> 00:26:19,480
+There are also parts of, for example, physics, the physics community, theoretical physics,
+
+314
+00:26:19,480 --> 00:26:26,920
+that engage in concepts that cannot be tested experimentally, such as extra dimensions or
+
+315
+00:26:26,920 --> 00:26:33,240
+the multiverse or supersymmetry or string theory.
+
+316
+00:26:33,240 --> 00:26:38,680
+These are concepts that were not yet proven to be correct based on experimental evidence.
+
+317
+00:26:38,680 --> 00:26:42,960
+They are highly speculative and for decades people have been working on them and doing
+
+318
+00:26:42,960 --> 00:26:48,720
+mathematical gymnastics or about demonstrating how smart they are.
+
+319
+00:26:48,720 --> 00:26:53,400
+But you know, doing physics is not about showing off as being smart.
+
+320
+00:26:53,400 --> 00:26:57,840
+It's about understanding reality, understanding nature.
+
+321
+00:26:57,840 --> 00:27:01,160
+And if you're trying to do that, you should be guided by evidence.
+
+322
+00:27:01,160 --> 00:27:08,080
+Yeah, I mean, there's tons of money that goes into things like the LHC that they go to find
+
+323
+00:27:08,080 --> 00:27:10,160
+the Higgs boson and all those other things.
+
+324
+00:27:10,160 --> 00:27:15,480
+It's amazing that I would imagine, and correct me if I'm wrong, the number one thing on the
+
+325
+00:27:15,480 --> 00:27:21,000
+checklist of reasons to become an astronomer would be to find extraterrestrial life or
+
+326
+00:27:21,000 --> 00:27:22,920
+to find something out there.
+
+327
+00:27:22,920 --> 00:27:30,320
+Well, in fact, a lot of physicists would say that they were attracted to doing physics
+
+328
+00:27:30,320 --> 00:27:33,320
+because they read some science fiction stories.
+
+329
+00:27:33,320 --> 00:27:39,400
+And I think that this is the most exciting question for us to address because it will
+
+330
+00:27:39,440 --> 00:27:43,880
+change our perspective about our place in the universe, our aspirations for space.
+
+331
+00:27:43,880 --> 00:27:50,440
+And it could impact many things we do, including religious beliefs.
+
+332
+00:27:50,440 --> 00:27:57,400
+You know, and so I think it's just a missed opportunity for scientists if they have the
+
+333
+00:27:57,400 --> 00:28:02,640
+tools to address this question and search for technological signatures, not to do that.
+
+334
+00:28:02,640 --> 00:28:09,320
+And that's why I speak out loud and I use Oumuamua as an anchor to demonstrate
+
+335
+00:28:09,320 --> 00:28:14,360
+that here is an anomalous object that didn't look like anything we have seen before.
+
+336
+00:28:14,360 --> 00:28:21,320
+And all of the mainstream suggestions for why it looks so weird also invoked something
+
+337
+00:28:21,320 --> 00:28:27,720
+that we have never seen before, you know, a hydrogen iceberg or a cloud of dust.
+
+338
+00:28:27,720 --> 00:28:33,960
+And given that we are entertaining possibilities that were never seen before, why not also
+
+339
+00:28:33,960 --> 00:28:35,280
+a technological origin?
+
+340
+00:28:35,280 --> 00:28:40,000
+It's sort of like, you know, walking on the beach and most of the time you see rocks or
+
+341
+00:28:40,000 --> 00:28:45,600
+seashells, but every now and then you stumble across a plastic bottle that indicates that
+
+342
+00:28:45,600 --> 00:28:48,000
+the civilization might be around.
+
+343
+00:28:48,000 --> 00:28:51,440
+So how did you first come across this Oumuamua?
+
+344
+00:28:51,440 --> 00:28:56,360
+Well, I heard about it when it was discovered on October 19th, 2017.
+
+345
+00:28:57,160 --> 00:29:07,400
+After a week or so, it became quite intriguing in the sense that, you know, we realized it's
+
+346
+00:29:07,400 --> 00:29:12,120
+the first interstellar object, looks a little bit strange in terms of its shape.
+
+347
+00:29:12,760 --> 00:29:23,000
+And so I had a discussion with Yuri Milner, a Russian-Israeli science founder in Silicon Valley
+
+348
+00:29:23,480 --> 00:29:32,200
+about using radio telescopes to which he had access through a project called Breakthrough Listen
+
+349
+00:29:32,840 --> 00:29:37,800
+and trying to see if there is any radio signal coming from this object.
+
+350
+00:29:38,760 --> 00:29:44,360
+We checked it and put an upper limit of roughly the transmission of a cell phone.
+
+351
+00:29:44,360 --> 00:29:50,040
+So clearly, Oumuamua was not transmitting at the frequencies that we were looking at,
+
+352
+00:29:50,040 --> 00:29:51,640
+the radio frequencies.
+
+353
+00:29:51,720 --> 00:29:55,240
+It could have been transmitting at other frequencies, could have been transmitting in
+
+354
+00:29:55,240 --> 00:30:01,800
+a different direction, but we ruled out the possibility that anything in our direction was
+
+355
+00:30:01,800 --> 00:30:03,320
+more than the power of a cell phone.
+
+356
+00:30:03,320 --> 00:30:09,480
+And so at that point, you know, I thought, well, it must be probably natural.
+
+357
+00:30:10,280 --> 00:30:16,920
+But then six months later, there was the report about it showing, exhibiting an extra push away
+
+358
+00:30:16,920 --> 00:30:17,720
+from the sun.
+
+359
+00:30:17,720 --> 00:30:22,680
+And that could not be explained in terms of a cometary tale because we haven't seen any.
+
+360
+00:30:23,240 --> 00:30:29,240
+And at that point, you know, that was the straw that broke the camel's back in my vocabulary
+
+361
+00:30:30,200 --> 00:30:34,680
+in terms of me saying to myself, look, it's so unusual.
+
+362
+00:30:34,680 --> 00:30:37,640
+Maybe we should look for something out of the box to explain it.
+
+363
+00:30:38,360 --> 00:30:44,280
+And I wrote a couple of articles in Scientific American talking about it being a technological
+
+364
+00:30:44,920 --> 00:30:50,600
+artifact or relic, and then wrote a scientific paper about it in October 2018.
+
+365
+00:30:51,880 --> 00:30:54,040
+That got a lot of attention.
+
+366
+00:30:54,040 --> 00:30:55,560
+We didn't have any press release.
+
+367
+00:30:55,560 --> 00:30:57,480
+It just became viral in the media.
+
+368
+00:30:57,480 --> 00:31:02,280
+And after that, I wrote a number of papers on Oumuamua and its implications.
+
+369
+00:31:03,080 --> 00:31:07,400
+So you mentioned it was moving away from the sun.
+
+370
+00:31:08,760 --> 00:31:12,280
+Well, when we discovered it, it was already receding away from us.
+
+371
+00:31:12,280 --> 00:31:12,760
+Yes.
+
+372
+00:31:12,760 --> 00:31:18,840
+It's sort of like having a guest for dinner and realizing that the guest is interesting
+
+373
+00:31:19,800 --> 00:31:23,080
+when the guest goes out the front door into the dark street.
+
+374
+00:31:23,080 --> 00:31:28,680
+And that was unfortunate because we couldn't chase it at that point.
+
+375
+00:31:28,680 --> 00:31:32,440
+If we were to discover it in July instead of October.
+
+376
+00:31:32,440 --> 00:31:35,480
+And by the way, I was visiting that observatory,
+
+377
+00:31:35,480 --> 00:31:39,640
+the Pan-Stars Observatory on Mount Haleakala in Maui.
+
+378
+00:31:40,440 --> 00:31:47,240
+Just around that time, July 2017, with my family, we were on vacation in Maui.
+
+379
+00:31:47,240 --> 00:31:49,160
+And I gave a seminar there.
+
+380
+00:31:49,160 --> 00:31:52,680
+And at the time, nobody knew about Oumuamua.
+
+381
+00:31:52,680 --> 00:31:58,520
+If we were to know about it, then we could have contemplating sending out a spacecraft
+
+382
+00:31:58,520 --> 00:32:05,240
+equipped with a camera along its path and then getting a better view of what it looks like.
+
+383
+00:32:05,880 --> 00:32:07,720
+Unfortunately, we didn't know.
+
+384
+00:32:07,720 --> 00:32:11,240
+And so it was too late for us to chase it afterwards.
+
+385
+00:32:11,880 --> 00:32:18,600
+And the moral of this story is that if we find another weird object in the future
+
+386
+00:32:18,600 --> 00:32:25,400
+on its approach to us, we better send a camera that will take a photograph of it.
+
+387
+00:32:25,400 --> 00:32:27,880
+And, you know, a picture is worth a thousand words.
+
+388
+00:32:29,000 --> 00:32:29,240
+Right.
+
+389
+00:32:29,240 --> 00:32:31,160
+Now, is that something that you think we'll be able to do
+
+390
+00:32:31,160 --> 00:32:33,720
+next time one of these is coming close to us?
+
+391
+00:32:34,360 --> 00:32:36,040
+Yeah, I think it's quite possible.
+
+392
+00:32:36,040 --> 00:32:40,520
+And science is all about the evidence and it's about reproducibility,
+
+393
+00:32:40,520 --> 00:32:46,600
+the ability to study something again and again when it repeats.
+
+394
+00:32:47,320 --> 00:32:50,840
+And in this case, given the fact that Pan-Stars looked,
+
+395
+00:32:52,280 --> 00:32:56,440
+surveyed the sky for a few years before it discovered this object,
+
+396
+00:32:56,440 --> 00:33:01,160
+we should definitely find another one that looks like it within a few years from now.
+
+397
+00:33:02,120 --> 00:33:07,800
+Because otherwise, it's very unlikely that we found a rare object just within a few years.
+
+398
+00:33:07,800 --> 00:33:12,680
+Now, what were the main differences between this and other things that you see,
+
+399
+00:33:12,680 --> 00:33:15,080
+like asteroids or comets or something like that?
+
+400
+00:33:15,080 --> 00:33:16,840
+Obviously, the shape was different.
+
+401
+00:33:16,840 --> 00:33:19,720
+And yeah, the shape was more extreme.
+
+402
+00:33:19,720 --> 00:33:25,240
+It was projected on the sky 10 times longer than it is wide.
+
+403
+00:33:25,320 --> 00:33:32,920
+And imagine a piece of paper tumbling in the wind, even if it's razor thin,
+
+404
+00:33:32,920 --> 00:33:36,600
+the chance of it being exactly edge on is very small.
+
+405
+00:33:36,600 --> 00:33:41,080
+So most of the time, it would change the amount of area that you see.
+
+406
+00:33:41,080 --> 00:33:44,520
+But the change by a factor of 10 or more is quite extreme.
+
+407
+00:33:44,520 --> 00:33:50,360
+And the second is that we infer that it's most likely flat based on the
+
+408
+00:33:50,360 --> 00:33:53,480
+amount of light that it reflected as it was tumbling.
+
+409
+00:33:53,480 --> 00:33:56,280
+What do you think it was?
+
+410
+00:33:56,280 --> 00:33:58,440
+What do you think it legitimately was?
+
+411
+00:33:58,440 --> 00:34:03,880
+Well, I think it was probably a very thin object, artificially produced,
+
+412
+00:34:03,880 --> 00:34:09,800
+and probably dysfunctional, not something that is being used for spying on us or some other purpose.
+
+413
+00:34:12,040 --> 00:34:15,480
+Simply because it was tumbling, it was out of control in a way.
+
+414
+00:34:16,600 --> 00:34:22,040
+But also, if you think about it, we sent out Voyager 1, Voyager 2, New Horizons,
+
+415
+00:34:22,040 --> 00:34:23,640
+all kinds of space junk.
+
+416
+00:34:24,440 --> 00:34:28,120
+And a million years from now, all of this will be real junk
+
+417
+00:34:28,120 --> 00:34:30,840
+in the sense that it will not be functional anymore.
+
+418
+00:34:30,840 --> 00:34:36,920
+So if you wait for long times, these objects that are being sent into space
+
+419
+00:34:36,920 --> 00:34:39,560
+may not continue to be functional.
+
+420
+00:34:39,560 --> 00:34:42,840
+They don't have enough energy supply to keep them functional.
+
+421
+00:34:43,640 --> 00:34:46,360
+And there might be a lot of them floating in space,
+
+422
+00:34:46,920 --> 00:34:50,360
+just like plastic bottles in the ocean that are swept ashore.
+
+423
+00:34:50,360 --> 00:34:53,320
+And we find them every now and then.
+
+424
+00:34:53,320 --> 00:34:57,400
+So it's sort of like waste filling up interstellar space.
+
+425
+00:34:57,400 --> 00:34:59,400
+And every now and then, we will bump into one.
+
+426
+00:35:00,120 --> 00:35:03,320
+Now, could you define exactly what interstellar...
+
+427
+00:35:03,320 --> 00:35:05,640
+Does that mean not bound to the sun?
+
+428
+00:35:06,600 --> 00:35:08,360
+Well, yeah, interstellar...
+
+429
+00:35:08,360 --> 00:35:12,440
+Well, more generally, interstellar means between stars.
+
+430
+00:35:13,400 --> 00:35:15,080
+And in this...
+
+431
+00:35:15,080 --> 00:35:21,320
+So in this context, you can say Oumuamua came from the space between stars.
+
+432
+00:35:21,320 --> 00:35:24,760
+It came into the solar system from outside the solar system.
+
+433
+00:35:25,400 --> 00:35:29,480
+The question about its origin is not answered,
+
+434
+00:35:29,480 --> 00:35:31,720
+because we don't know where it came from.
+
+435
+00:35:33,160 --> 00:35:34,120
+It was actually...
+
+436
+00:35:34,120 --> 00:35:39,880
+Another weird fact about it is that it was situated in a special frame of reference.
+
+437
+00:35:39,880 --> 00:35:43,240
+It was in the local standard of rest,
+
+438
+00:35:43,240 --> 00:35:46,760
+which is the frame that you get to when you average
+
+439
+00:35:46,760 --> 00:35:49,880
+over the motions of all the stars in the vicinity of the sun.
+
+440
+00:35:50,920 --> 00:35:54,440
+And Oumuamua was at rest in that frame.
+
+441
+00:35:54,440 --> 00:36:00,280
+So it's sort of like finding a car that is parked at rest in a public parking lot.
+
+442
+00:36:01,000 --> 00:36:03,800
+You cannot really tell which house it came from,
+
+443
+00:36:03,800 --> 00:36:07,080
+because all the stars, in the case of the local standard of rest,
+
+444
+00:36:07,080 --> 00:36:10,520
+all the local stars are moving relative to that frame.
+
+445
+00:36:10,520 --> 00:36:14,760
+Only one in 500 stars is so much at rest,
+
+446
+00:36:14,760 --> 00:36:17,720
+relative to the local standard of rest, as Oumuamua was.
+
+447
+00:36:18,360 --> 00:36:22,840
+One way to think about it, it was like a beauty sitting on the surface of the ocean,
+
+448
+00:36:23,400 --> 00:36:25,240
+and the solar system bumped into it,
+
+449
+00:36:25,800 --> 00:36:28,120
+because the sun is moving relative to that frame.
+
+450
+00:36:29,160 --> 00:36:33,480
+And you may ask what purpose does it serve being in that special frame?
+
+451
+00:36:33,480 --> 00:36:36,840
+You know, one possibility is that there is a grid of such objects,
+
+452
+00:36:37,560 --> 00:36:40,120
+and they serve as road posts.
+
+453
+00:36:40,120 --> 00:36:42,200
+When you navigate through interstellar space,
+
+454
+00:36:42,840 --> 00:36:46,760
+you can find your coordinates where you are relative to those objects.
+
+455
+00:36:47,480 --> 00:36:51,640
+Another possibility is that it's a relay station for communication,
+
+456
+00:36:51,640 --> 00:36:57,560
+that you don't need to communicate across large distances,
+
+457
+00:36:57,560 --> 00:37:02,760
+you just communicate by the signal hopping from one relay station to the next.
+
+458
+00:37:02,760 --> 00:37:05,000
+We use this approach on Earth.
+
+459
+00:37:05,800 --> 00:37:09,560
+Now, what did you say the name of the telescope that was being,
+
+460
+00:37:09,560 --> 00:37:11,160
+the new telescope, the billion-dollar...
+
+461
+00:37:12,040 --> 00:37:13,000
+Vera Rubin.
+
+462
+00:37:13,000 --> 00:37:16,040
+Oh, the name of the telescope that we survey the sky, you mean?
+
+463
+00:37:17,400 --> 00:37:20,680
+You mentioned that there was like a billion-dollar telescope being built in Chile.
+
+464
+00:37:21,720 --> 00:37:26,760
+Well, there is the Vera Rubin Observatory that will be much more sensitive than
+
+465
+00:37:28,280 --> 00:37:32,440
+the Pan-Stars Telescope that discovered Oumuamua in Hawaii,
+
+466
+00:37:32,440 --> 00:37:34,440
+and it will be in Chile, yes.
+
+467
+00:37:34,520 --> 00:37:37,880
+Okay, and the primary focus of that will be to
+
+468
+00:37:37,880 --> 00:37:39,800
+discover these things before it's too late.
+
+469
+00:37:40,600 --> 00:37:46,360
+Yeah, discover near-Earth objects with much greater sensitivity than Pan-Stars,
+
+470
+00:37:46,360 --> 00:37:54,520
+and it will be able to find about two-thirds of those that the Congress tasked NASA to find,
+
+471
+00:37:54,520 --> 00:37:57,960
+you know, so 60% of the entire population.
+
+472
+00:37:57,960 --> 00:38:02,040
+What are your opinions on, in the recent year or two,
+
+473
+00:38:02,040 --> 00:38:07,000
+all of the different, you know, there's been Air Force pilots based in San Diego
+
+474
+00:38:07,000 --> 00:38:10,840
+that have come out and they've had their videos of these UFOs coming out of the water
+
+475
+00:38:10,840 --> 00:38:13,800
+and within one second being meters away.
+
+476
+00:38:15,080 --> 00:38:17,000
+Do you guys pay any attention to that stuff?
+
+477
+00:38:17,560 --> 00:38:19,800
+Well, I do. I mean, I cannot speak for others.
+
+478
+00:38:20,920 --> 00:38:28,360
+And my view on these reports, these eyewitness reports of unidentified flying objects,
+
+479
+00:38:28,360 --> 00:38:36,440
+UFOs that are unusual, my view is that these eyewitness testimonies come from
+
+480
+00:38:36,440 --> 00:38:42,280
+people that are not scientists, that were not planning to find these unusual things,
+
+481
+00:38:42,280 --> 00:38:47,480
+and we will be better served if we were to deploy scientific instruments
+
+482
+00:38:48,040 --> 00:38:50,440
+in those sites and monitor the environment.
+
+483
+00:38:51,720 --> 00:38:58,040
+You know, I have two concerns about these reports of UFOs over the past decades.
+
+484
+00:38:58,600 --> 00:39:03,320
+One of them is that now we have cameras and recording devices
+
+485
+00:39:03,320 --> 00:39:05,960
+that are far better than we had decades ago.
+
+486
+00:39:06,520 --> 00:39:09,880
+And back then, you know, the images were fuzzy
+
+487
+00:39:09,880 --> 00:39:14,760
+and it was difficult to be sure what it means and so forth.
+
+488
+00:39:14,760 --> 00:39:18,440
+But with present-day instruments, it should be crisp clear.
+
+489
+00:39:18,440 --> 00:39:20,200
+They are much better than we used to have
+
+490
+00:39:20,200 --> 00:39:23,960
+and they are still fuzzy and, you know, on the margin of believability.
+
+491
+00:39:24,840 --> 00:39:29,960
+The second reservation that they have is there are far many more cameras
+
+492
+00:39:30,840 --> 00:39:36,040
+available to monitor environments right now by orders of magnitude.
+
+493
+00:39:36,040 --> 00:39:40,040
+You know, people have cell phones, you have drones,
+
+494
+00:39:40,040 --> 00:39:47,240
+you have cameras on satellites, on airplanes, in the streets of cities.
+
+495
+00:39:47,800 --> 00:39:53,160
+And the number of video cameras looking at what's going on
+
+496
+00:39:53,880 --> 00:39:58,680
+is many orders of magnitude larger than it used to be a decade or two ago.
+
+497
+00:39:59,480 --> 00:40:03,640
+Nevertheless, the reports on UFOs have not increased.
+
+498
+00:40:05,000 --> 00:40:09,800
+So that concerns me that maybe, you know, all of these reports were sort of
+
+499
+00:40:10,600 --> 00:40:14,920
+artifacts of the instruments that were used or impressions of natural phenomena.
+
+500
+00:40:16,040 --> 00:40:19,320
+But I think that it would be appropriate to deploy
+
+501
+00:40:19,320 --> 00:40:21,480
+scientific instruments and check it out.
+
+502
+00:40:22,360 --> 00:40:25,880
+It's really, I mean, science is about reproducibility of results.
+
+503
+00:40:27,080 --> 00:40:30,440
+So one-time events are not believable in science.
+
+504
+00:40:30,440 --> 00:40:34,680
+You should be able to reproduce them by being in the same environment
+
+505
+00:40:34,680 --> 00:40:36,280
+under similar circumstances.
+
+506
+00:40:36,280 --> 00:40:39,800
+And I would trust instruments recording these events.
+
+507
+00:40:40,360 --> 00:40:45,320
+You know, there is this biblical story from the Old Testament about Abraham
+
+508
+00:40:46,040 --> 00:40:53,640
+that heard the voice of God and that voice told Abraham to sacrifice his only son, Isaac.
+
+509
+00:40:54,600 --> 00:40:59,800
+And imagine Abraham having a cell phone with a voice memo up.
+
+510
+00:41:01,000 --> 00:41:05,320
+If he could have pressed the button, he would have recorded the voice of God.
+
+511
+00:41:05,320 --> 00:41:09,640
+And then instead of an eyewitness testimony, we would have the recording
+
+512
+00:41:09,640 --> 00:41:13,800
+and that would have convinced all of humanity that God exists.
+
+513
+00:41:14,760 --> 00:41:18,440
+And so my point is that by recording things on instruments,
+
+514
+00:41:19,000 --> 00:41:25,640
+you get a much more objective evidence than all these reports that are now being
+
+515
+00:41:25,640 --> 00:41:28,440
+declassified from the Pentagon and so forth.
+
+516
+00:41:28,440 --> 00:41:34,920
+We should not obsess with these old reports that were based on either eyewitnesses
+
+517
+00:41:34,920 --> 00:41:41,000
+or instruments that are much more inferior to the instruments we have now.
+
+518
+00:41:41,000 --> 00:41:43,960
+We should simply use our best instruments, go to these sites,
+
+519
+00:41:43,960 --> 00:41:46,120
+and see whether we see anything unusual.
+
+520
+00:41:46,760 --> 00:41:50,680
+Well, the Pentagon actually said that they were in possession of some sort of
+
+521
+00:41:52,040 --> 00:41:57,240
+extraterrestrial craft in the New York Times article.
+
+522
+00:41:57,240 --> 00:42:00,840
+Well, what I'm saying is that it's better.
+
+523
+00:42:00,840 --> 00:42:03,640
+You know, Abraham said that he heard the voice of God, right?
+
+524
+00:42:03,640 --> 00:42:05,960
+So the question is, do you believe Abraham or not?
+
+525
+00:42:05,960 --> 00:42:09,960
+I'm saying if he had a cell phone, we could have looked at the evidence.
+
+526
+00:42:10,600 --> 00:42:11,560
+He didn't have that.
+
+527
+00:42:11,560 --> 00:42:14,600
+And then you have to decide whether you believe the biblical story or not.
+
+528
+00:42:14,600 --> 00:42:15,960
+And the same is true here.
+
+529
+00:42:15,960 --> 00:42:19,080
+People report things and I don't know whether to believe them.
+
+530
+00:42:19,080 --> 00:42:22,600
+So the only way for me to believe them, scientifically speaking,
+
+531
+00:42:22,600 --> 00:42:27,960
+is to deploy recording devices in the same sites and see if they find something.
+
+532
+00:42:29,560 --> 00:42:33,880
+What is your opinion on humans and how long we're going to be here on Earth?
+
+533
+00:42:33,880 --> 00:42:35,240
+Do you think we're ever going to have to leave Earth?
+
+534
+00:42:36,200 --> 00:42:37,320
+Oh, yeah, definitely.
+
+535
+00:42:37,880 --> 00:42:42,760
+Currently, all our eggs are in one basket and everything that is precious to us
+
+536
+00:42:43,480 --> 00:42:49,160
+could get eliminated, extinct if something catastrophic happens on Earth.
+
+537
+00:42:50,360 --> 00:42:56,680
+If an asteroid impacts us or if there is, for example,
+
+538
+00:42:57,800 --> 00:43:02,760
+a nuclear war or a climate change or something catastrophic.
+
+539
+00:43:03,480 --> 00:43:08,600
+And it would make much more sense to spread our eggs in different baskets
+
+540
+00:43:08,600 --> 00:43:15,480
+and go somewhere else as well and have duplicates of what we hold important and valuable here.
+
+541
+00:43:15,480 --> 00:43:19,880
+It's sort of like the Gutenberg printing press.
+
+542
+00:43:20,680 --> 00:43:26,120
+There were very few copies of the Bible before the printing press was invented.
+
+543
+00:43:26,120 --> 00:43:31,160
+Then they were all handwritten and each of them was extremely precious.
+
+544
+00:43:31,160 --> 00:43:36,200
+But once the printing press came to exist, there were many more copies.
+
+545
+00:43:36,200 --> 00:43:40,360
+And if something bad happened to one of them, it wasn't a catastrophe.
+
+546
+00:43:40,920 --> 00:43:41,960
+You could make new ones.
+
+547
+00:43:42,600 --> 00:43:47,400
+And then we can imagine saving life as we know it on Earth.
+
+548
+00:43:48,040 --> 00:43:55,480
+And the approach would be similar to what Noah did in the biblical story of Noah's Ark.
+
+549
+00:43:55,480 --> 00:44:00,440
+There is the story about the great flood that endangered life on Earth.
+
+550
+00:44:00,440 --> 00:44:07,880
+And so Noah decided to build an ark and put animals in it so that it will save them.
+
+551
+00:44:09,080 --> 00:44:12,600
+We can, in principle, design a similar approach and build
+
+552
+00:44:12,600 --> 00:44:16,040
+Noah's spaceship that will save life on Earth.
+
+553
+00:44:16,040 --> 00:44:20,680
+But we don't need to put elephants and whales on it.
+
+554
+00:44:21,480 --> 00:44:26,840
+We just need to put the computer and a 3D printer.
+
+555
+00:44:27,480 --> 00:44:33,800
+And if the computer has the information about the DNA of all life forms that we care about,
+
+556
+00:44:34,440 --> 00:44:37,800
+then this system can go to another planet.
+
+557
+00:44:37,800 --> 00:44:42,920
+And in principle, it could make the life as we know it out of the raw materials
+
+558
+00:44:43,720 --> 00:44:45,720
+that exist there on another planet.
+
+559
+00:44:45,720 --> 00:44:48,280
+You don't need to bring the life with you.
+
+560
+00:44:48,280 --> 00:44:52,680
+You can recreate them as long as we figure out how to make synthetic life.
+
+561
+00:44:53,480 --> 00:44:59,480
+And that's not speculative because people are, as we speak,
+
+562
+00:44:59,480 --> 00:45:02,920
+people are trying to produce synthetic life in the laboratory.
+
+563
+00:45:02,920 --> 00:45:08,440
+And so I wouldn't be surprised if within the next few decades we will be able to do that.
+
+564
+00:45:08,440 --> 00:45:13,480
+And so once we are able to do that, we can potentially produce life on other planets
+
+565
+00:45:13,480 --> 00:45:22,040
+without carrying it from Earth and just using what we know about the genetics and so forth
+
+566
+00:45:22,040 --> 00:45:25,480
+in making that life over there out of the raw materials there.
+
+567
+00:45:25,480 --> 00:45:27,640
+How long do you think it would be before we would have to do that?
+
+568
+00:45:29,160 --> 00:45:30,600
+Oh, that depends on us.
+
+569
+00:45:30,600 --> 00:45:34,920
+How quickly we inflict the wounds on ourselves.
+
+570
+00:45:35,960 --> 00:45:40,840
+If we are not smart enough, we might not survive for more than a few centuries from now.
+
+571
+00:45:42,520 --> 00:45:45,880
+We started developing our technologies about a century ago.
+
+572
+00:45:46,760 --> 00:45:55,960
+And our technologies are advancing exponentially with a characteristic timescale of a few years.
+
+573
+00:45:56,760 --> 00:46:00,120
+So it's quite possible that within the next century,
+
+574
+00:46:01,640 --> 00:46:05,400
+unless we are careful, we could develop technologies that will destroy us.
+
+575
+00:46:06,200 --> 00:46:11,960
+And we need to be really careful about what we do to the planet, what we do to ourselves.
+
+576
+00:46:13,480 --> 00:46:15,320
+We don't pay that much attention to it.
+
+577
+00:46:16,280 --> 00:46:21,160
+Because we are so close to when technology started developing.
+
+578
+00:46:21,160 --> 00:46:27,400
+But once we go a few decades into the future, we will be in a real risk of extinction, I think.
+
+579
+00:46:27,400 --> 00:46:33,080
+And because there would be technologies that could potentially destroy life on the planet.
+
+580
+00:46:33,640 --> 00:46:37,960
+And then we just need to be smart enough to avoid that.
+
+581
+00:46:37,960 --> 00:46:43,320
+And right now, I wouldn't say that we are very intelligent in the way we do our politics.
+
+582
+00:46:44,280 --> 00:46:45,880
+There are lots of conflicts.
+
+583
+00:46:45,880 --> 00:46:54,360
+And we invest most of our efforts in fighting each other among nations and so forth.
+
+584
+00:46:54,360 --> 00:46:58,040
+And that is not the smart approach.
+
+585
+00:46:58,040 --> 00:47:01,320
+We should collaborate, especially on issues that science can address.
+
+586
+00:47:02,200 --> 00:47:05,080
+And you could see that in the context of COVID, right?
+
+587
+00:47:05,080 --> 00:47:09,320
+So when it started in China, there wasn't much sharing of information.
+
+588
+00:47:10,040 --> 00:47:11,880
+And science is global.
+
+589
+00:47:11,880 --> 00:47:13,960
+Science is international.
+
+590
+00:47:13,960 --> 00:47:17,240
+It's supposed to be a mode of collaboration among nations.
+
+591
+00:47:17,240 --> 00:47:20,120
+And in promoting a better future for humanity.
+
+592
+00:47:20,760 --> 00:47:25,400
+And I very much hope that then ultimately science will prevail
+
+593
+00:47:25,400 --> 00:47:31,480
+and suppress all these tensions among people that really could bring us down.
+
+594
+00:47:32,600 --> 00:47:38,280
+If you look at the World Wars, there was a lot of effort dedicated to killing people.
+
+595
+00:47:38,280 --> 00:47:40,120
+And that makes no sense whatsoever.
+
+596
+00:47:41,080 --> 00:47:45,720
+Yeah, I think especially recently, I feel like the internet has really
+
+597
+00:47:46,760 --> 00:47:49,800
+made everything in this world so much more transparent.
+
+598
+00:47:49,800 --> 00:47:55,800
+And I think there's a big paradigm shift happening, especially with the recent news.
+
+599
+00:47:55,800 --> 00:48:01,880
+I'm sure you've heard the GameStop stocks, the people online that were buying the stocks
+
+600
+00:48:01,880 --> 00:48:03,400
+that the hedge funds bet against.
+
+601
+00:48:04,120 --> 00:48:09,800
+And 10 years ago, this is something no one understood hedge funds
+
+602
+00:48:10,040 --> 00:48:15,720
+or the stock market or what these bets on them failing even were.
+
+603
+00:48:17,960 --> 00:48:23,800
+And people were able to benefit off that and essentially create this massive gap,
+
+604
+00:48:23,800 --> 00:48:26,520
+this massive gap between the billionaires on Wall Street
+
+605
+00:48:26,520 --> 00:48:31,080
+and the average working person, blue collar worker.
+
+606
+00:48:31,080 --> 00:48:35,240
+And now it's becoming the internet has made this so much more transparent.
+
+607
+00:48:36,840 --> 00:48:39,320
+I feel like this is something that has to happen with science.
+
+608
+00:48:39,960 --> 00:48:43,480
+You can somehow correlate it to what's happening with what you're doing.
+
+609
+00:48:43,480 --> 00:48:47,080
+And now you released your book and you're talking to everybody about it.
+
+610
+00:48:47,080 --> 00:48:51,720
+Well, one thing I would like to highlight in this context is we tend to think that
+
+611
+00:48:52,920 --> 00:48:57,800
+technology and science is superior to the humanities.
+
+612
+00:48:57,800 --> 00:49:01,320
+So humanities are in decline, the study of philosophies,
+
+613
+00:49:01,320 --> 00:49:03,000
+the study of literature and so forth.
+
+614
+00:49:04,280 --> 00:49:06,840
+Young people are more attracted to science and technology.
+
+615
+00:49:07,400 --> 00:49:14,280
+The problem is that we develop tools using science and technology that could destroy us.
+
+616
+00:49:14,840 --> 00:49:19,240
+And the only way to prevent it is to have the humanists
+
+617
+00:49:19,240 --> 00:49:24,120
+telling us how to guide ourselves towards a better future.
+
+618
+00:49:25,160 --> 00:49:30,440
+For example, how to set the rules such that genetic engineering
+
+619
+00:49:30,440 --> 00:49:34,680
+will not end up making people the type that we want
+
+620
+00:49:34,680 --> 00:49:40,200
+and all kinds of other issues that come up, like artificial intelligence.
+
+621
+00:49:40,200 --> 00:49:46,920
+If we allow it to make life-death decisions on medical issues,
+
+622
+00:49:48,280 --> 00:49:51,240
+we have to worry about the morality of that.
+
+623
+00:49:51,240 --> 00:49:57,000
+And at what level do we allow the machine to decide the fate of a person
+
+624
+00:49:57,000 --> 00:49:59,880
+versus having people involved?
+
+625
+00:49:59,880 --> 00:50:02,360
+In the past, it was the doctor that made the decision.
+
+626
+00:50:03,000 --> 00:50:07,000
+You could trust the doctor better because the doctor would be a human
+
+627
+00:50:07,800 --> 00:50:12,920
+that has a bigger perspective, that is more balanced in a way.
+
+628
+00:50:13,800 --> 00:50:17,960
+If you have a machine deciding, you have to decide about a set of rules
+
+629
+00:50:17,960 --> 00:50:24,120
+of what's moral and what's ethical and how the machine decides who dies and who lives.
+
+630
+00:50:25,720 --> 00:50:28,760
+There are lots of such issues with modern technologies.
+
+631
+00:50:29,400 --> 00:50:32,840
+The humanities, the way I see it, play a central role.
+
+632
+00:50:34,120 --> 00:50:37,960
+As a young kid, I was mostly interested in philosophy.
+
+633
+00:50:37,960 --> 00:50:44,360
+I grew up on a farm, and then circumstances brought me into physics and astrophysics.
+
+634
+00:50:45,560 --> 00:50:51,640
+But I value these areas of humanities, like philosophy, very much.
+
+635
+00:50:51,640 --> 00:50:55,640
+I think they are essential for guiding us to a better future.
+
+636
+00:50:55,640 --> 00:51:02,840
+Without them, we could be nerds developing all kinds of tools that will kill us as a civilization.
+
+637
+00:51:05,000 --> 00:51:08,760
+How did you transition from studying things like black holes
+
+638
+00:51:09,480 --> 00:51:12,440
+to studying what you're studying now?
+
+639
+00:51:12,440 --> 00:51:13,720
+How did you make that transition?
+
+640
+00:51:15,160 --> 00:51:16,600
+It was by chance.
+
+641
+00:51:17,800 --> 00:51:21,720
+For example, I was studying the first generation of stars in the universe,
+
+642
+00:51:21,720 --> 00:51:25,000
+the first stars that formed, that lit up in the universe early on.
+
+643
+00:51:26,280 --> 00:51:28,920
+Those stars had an impact on their environment.
+
+644
+00:51:28,920 --> 00:51:34,680
+They basically broke the hydrogen atoms around them into their constituent electrons and protons.
+
+645
+00:51:36,680 --> 00:51:41,080
+If you want to see the scars left by the first stars on their environment,
+
+646
+00:51:41,080 --> 00:51:43,480
+you want to image the hydrogen around them.
+
+647
+00:51:44,360 --> 00:51:47,160
+Hydrogen emits faint radio waves.
+
+648
+00:51:48,200 --> 00:51:55,160
+Therefore, I worked on a frontier that tries to map the hydrogen in the early universe.
+
+649
+00:51:56,280 --> 00:52:00,840
+For that purpose, you need to develop radio observatories.
+
+650
+00:52:00,840 --> 00:52:06,680
+Observatories that are sensitive at radio frequencies of around 100 to 200 megahertz.
+
+651
+00:52:07,320 --> 00:52:14,440
+It so happens that these radio observatories operated exactly the same frequency band as
+
+652
+00:52:14,440 --> 00:52:17,000
+FM radio stations and TV stations.
+
+653
+00:52:17,960 --> 00:52:23,720
+One concern was that there would be interference from TV and radio stations on Earth.
+
+654
+00:52:24,360 --> 00:52:28,280
+Then it occurred to me that the same observatories could, in principle,
+
+655
+00:52:28,280 --> 00:52:33,800
+eavesdrop on another civilization, on a planet around another star,
+
+656
+00:52:33,800 --> 00:52:35,880
+that transmits those radio waves.
+
+657
+00:52:35,880 --> 00:52:37,480
+I wrote a paper about it.
+
+658
+00:52:37,480 --> 00:52:40,920
+That was my first encounter with a search for technological signatures.
+
+659
+00:52:42,360 --> 00:52:47,480
+I visited Abu Dhabi for the inauguration of a new campus for NYU.
+
+660
+00:52:48,680 --> 00:52:52,440
+That was around 2012 or so.
+
+661
+00:52:54,520 --> 00:53:01,240
+When we went around, the tour guide was bragging that the city lights
+
+662
+00:53:01,800 --> 00:53:03,800
+there are visible from the moon.
+
+663
+00:53:04,600 --> 00:53:05,560
+They're so bright.
+
+664
+00:53:07,320 --> 00:53:12,760
+That gave me the idea of checking how far can you see a city
+
+665
+00:53:12,760 --> 00:53:15,080
+with the Hubble Space Telescope, for example.
+
+666
+00:53:16,280 --> 00:53:18,520
+We found with Ed Turner, a collaborator of mine,
+
+667
+00:53:18,520 --> 00:53:23,480
+that in principle, the Hubble Space Telescope can see a city like Tokyo
+
+668
+00:53:24,600 --> 00:53:30,040
+on Pluto, the edge of the solar system of planets.
+
+669
+00:53:31,960 --> 00:53:35,720
+That was an interesting idea, that you can look for artificial lights
+
+670
+00:53:35,720 --> 00:53:37,800
+as a signature of another civilization.
+
+671
+00:53:39,640 --> 00:53:43,880
+You can identify these artificial lights, not as reflected sunlight,
+
+672
+00:53:43,880 --> 00:53:49,160
+by the way the source dims as it changes its distance from us.
+
+673
+00:53:50,200 --> 00:53:51,960
+That was my second paper.
+
+674
+00:53:51,960 --> 00:53:56,440
+Then the third one on this subject was when astronomers talked about
+
+675
+00:53:58,120 --> 00:54:01,960
+searching for biological signatures in the atmospheres of planets.
+
+676
+00:54:04,920 --> 00:54:08,360
+If you look for industrial pollution, that would imply
+
+677
+00:54:08,360 --> 00:54:10,440
+there is an industrial civilization there.
+
+678
+00:54:11,720 --> 00:54:12,840
+I wrote a paper about that.
+
+679
+00:54:14,200 --> 00:54:16,200
+Gradually, it drifted in this direction.
+
+680
+00:54:16,200 --> 00:54:17,400
+That was 2015.
+
+681
+00:54:18,360 --> 00:54:21,400
+Over the past few years, especially because of Oumuamua,
+
+682
+00:54:22,440 --> 00:54:24,120
+I published a lot on this subject.
+
+683
+00:54:24,920 --> 00:54:30,600
+In about half a year, I will have a textbook out of more than a thousand
+
+684
+00:54:31,400 --> 00:54:34,840
+pages with my former postdoc, Manas Vilinga,
+
+685
+00:54:34,840 --> 00:54:39,000
+that lays the foundation for future studies on this subject
+
+686
+00:54:39,000 --> 00:54:42,840
+of the search for both primitive and intelligent life.
+
+687
+00:54:43,480 --> 00:54:47,320
+You mentioned earlier when you were talking about 3D printing
+
+688
+00:54:47,320 --> 00:54:52,520
+and printing organisms or basically duplicating ourselves on other planets.
+
+689
+00:54:54,280 --> 00:55:00,200
+Now, I've heard reports of people who have worked at S1 and Area 51
+
+690
+00:55:00,200 --> 00:55:03,560
+have obtained crafts that are very small,
+
+691
+00:55:04,360 --> 00:55:08,760
+saying that only really tiny beings that have no reproductive organs.
+
+692
+00:55:09,560 --> 00:55:19,640
+Is it possible that other beings are printing these sort of cadavers
+
+693
+00:55:20,440 --> 00:55:27,880
+or basically like humanoids, but aliens,
+
+694
+00:55:27,880 --> 00:55:32,600
+that can travel long distances through different solar systems
+
+695
+00:55:32,600 --> 00:55:34,840
+that don't have to stay alive, they don't have to eat?
+
+696
+00:55:35,640 --> 00:55:38,440
+Everything is possible and there are lots of possibilities
+
+697
+00:55:38,440 --> 00:55:40,680
+outlined in science fiction stories.
+
+698
+00:55:42,200 --> 00:55:46,200
+The key as a scientist is to look for evidence
+
+699
+00:55:46,200 --> 00:55:49,880
+and that should guide you as to which possibilities are real
+
+700
+00:55:49,880 --> 00:55:59,000
+and which are illusions or our imagination of what might be out there.
+
+701
+00:55:59,800 --> 00:56:02,600
+It's sort of like a detective story.
+
+702
+00:56:02,600 --> 00:56:05,720
+You can have an infinite number of possibilities
+
+703
+00:56:06,280 --> 00:56:09,560
+and you just sort them out and figure out which one is realized
+
+704
+00:56:10,280 --> 00:56:12,680
+by collecting clues and evidence.
+
+705
+00:56:14,040 --> 00:56:18,120
+We could think that we are wealthier than Elon Musk,
+
+706
+00:56:18,120 --> 00:56:19,480
+we could have a lot of money
+
+707
+00:56:20,680 --> 00:56:24,200
+and the only way to figure out what we actually have
+
+708
+00:56:24,200 --> 00:56:26,760
+is to go to an ATM machine and check it out.
+
+709
+00:56:27,400 --> 00:56:30,280
+And so the ATM machine represents an experiment
+
+710
+00:56:30,280 --> 00:56:33,880
+where you actually check what you have
+
+711
+00:56:33,880 --> 00:56:39,000
+and that's what guides modern science, evidence and clues.
+
+712
+00:56:40,360 --> 00:56:43,800
+Many times scientists prefer to have ideas
+
+713
+00:56:43,800 --> 00:56:46,920
+that do not stand up to the scrutiny of experiments
+
+714
+00:56:46,920 --> 00:56:51,400
+and that's legitimate as long as the ideas can be tested in principle.
+
+715
+00:56:52,680 --> 00:56:56,440
+The frustration I have is that some parts of the physics community right now,
+
+716
+00:56:57,160 --> 00:57:00,440
+you know, there are hundreds of people working on ideas
+
+717
+00:57:00,440 --> 00:57:03,320
+that will never be tested in their lifetime
+
+718
+00:57:03,960 --> 00:57:06,520
+and that to me could be a waste of their time
+
+719
+00:57:06,520 --> 00:57:11,080
+because it's imagining things that may not exist.
+
+720
+00:57:11,720 --> 00:57:15,320
+If we were to go and put ourselves on another planet,
+
+721
+00:57:15,320 --> 00:57:16,280
+which planet do you think it would be?
+
+722
+00:57:16,280 --> 00:57:19,640
+Do you think it would be Mars or would it be a Proxima B?
+
+723
+00:57:21,160 --> 00:57:24,360
+So there are two planets that are closest to us
+
+724
+00:57:24,440 --> 00:57:29,000
+and in principle could have life on them
+
+725
+00:57:29,000 --> 00:57:32,920
+or we could imagine going there and changing conditions
+
+726
+00:57:32,920 --> 00:57:34,600
+such that we could live there.
+
+727
+00:57:35,560 --> 00:57:39,400
+They are Mars and Venus on the two sides of the Earth.
+
+728
+00:57:40,600 --> 00:57:43,080
+Mars used to have an atmosphere
+
+729
+00:57:43,080 --> 00:57:47,960
+and probably had conditions similar to Earth early on in its life
+
+730
+00:57:47,960 --> 00:57:52,360
+but then because it's 10 times less massive than the Earth,
+
+731
+00:57:52,440 --> 00:57:55,960
+it couldn't hold on to its atmosphere so the atmosphere evaporated
+
+732
+00:57:56,680 --> 00:58:01,640
+and then it lost the potential for liquid water on its surface
+
+733
+00:58:01,640 --> 00:58:05,960
+because you can't have liquid water unless there is an atmospheric pressure
+
+734
+00:58:06,760 --> 00:58:11,960
+and so even if there was life on Mars it couldn't continue.
+
+735
+00:58:11,960 --> 00:58:13,720
+There was no liquid water available
+
+736
+00:58:14,360 --> 00:58:19,560
+and the Perseverance mission will actually get there in February 2021
+
+737
+00:58:20,280 --> 00:58:23,800
+in less than a few weeks actually
+
+738
+00:58:23,800 --> 00:58:27,400
+and we'll figure out whether there was
+
+739
+00:58:27,400 --> 00:58:35,000
+or maybe there is some left over signatures of life in the Martian soil
+
+740
+00:58:35,720 --> 00:58:37,560
+and so that would be very exciting
+
+741
+00:58:37,560 --> 00:58:42,440
+and I'm very much looking forward to seeing the results from this mission
+
+742
+00:58:43,800 --> 00:58:46,040
+but then going there for us, for humans,
+
+743
+00:58:46,920 --> 00:58:50,200
+would require a lot of adaptation
+
+744
+00:58:50,200 --> 00:58:54,600
+because just standing on the surface of Mars
+
+745
+00:58:55,400 --> 00:58:58,920
+without an atmosphere, without a strong magnetic field that Mars doesn't have
+
+746
+00:59:00,120 --> 00:59:04,040
+we will be exposed to energetic particles, cosmic rays
+
+747
+00:59:04,040 --> 00:59:05,640
+that could damage within a year
+
+748
+00:59:05,640 --> 00:59:10,600
+you will have a substantial damage to the cells in your brain
+
+749
+00:59:10,600 --> 00:59:13,720
+and you need protection from that
+
+750
+00:59:13,720 --> 00:59:17,320
+and one way to protect our bodies is to go underground
+
+751
+00:59:17,320 --> 00:59:21,800
+to go into a cave or to build some infrastructure that will protect us
+
+752
+00:59:21,800 --> 00:59:23,800
+there is not enough attention given to that
+
+753
+00:59:23,800 --> 00:59:29,000
+so just sending humans to Mars without proper protection would be irresponsible
+
+754
+00:59:29,000 --> 00:59:30,600
+it's sort of like a death sentence
+
+755
+00:59:31,720 --> 00:59:32,840
+you don't want to do that
+
+756
+00:59:33,960 --> 00:59:37,640
+so we need to come up with solutions to protect people that go there
+
+757
+00:59:38,440 --> 00:59:40,360
+but potentially it's a place that we could
+
+758
+00:59:40,360 --> 00:59:46,360
+modify such that we could live there
+
+759
+00:59:46,360 --> 00:59:50,120
+and you can imagine not necessarily going to a planet
+
+760
+00:59:50,120 --> 00:59:52,920
+you can put some platform in space
+
+761
+00:59:54,040 --> 00:59:56,760
+we started in the jungles of Africa
+
+762
+00:59:56,760 --> 00:59:59,560
+and we ended up in apartment buildings in cities
+
+763
+01:00:00,360 --> 01:00:03,800
+that's a big leap over a period of a hundred thousand years
+
+764
+01:00:05,240 --> 01:00:08,040
+I don't see the leap from an apartment building
+
+765
+01:00:08,840 --> 01:00:12,840
+in a city in Manhattan to going to space
+
+766
+01:00:12,840 --> 01:00:18,440
+as big as the leap from Africa to an apartment building
+
+767
+01:00:19,720 --> 01:00:21,000
+we could do it
+
+768
+01:00:21,000 --> 01:00:22,600
+it will require some time
+
+769
+01:00:22,600 --> 01:00:27,080
+but a hundred thousand years is a huge period
+
+770
+01:00:27,080 --> 01:00:30,680
+over which we will have technologies that are far superior to what we have now
+
+771
+01:00:30,680 --> 01:00:35,560
+so I'm quite optimistic that we could adapt to living in space
+
+772
+01:00:35,560 --> 01:00:37,240
+but it will take some time
+
+773
+01:00:37,240 --> 01:00:41,000
+and then Venus right now on the surface
+
+774
+01:00:42,200 --> 01:00:44,680
+it went through a greenhouse effect
+
+775
+01:00:44,680 --> 01:00:46,920
+and the surface is extremely hot
+
+776
+01:00:46,920 --> 01:00:49,080
+it cannot sustain liquid water
+
+777
+01:00:49,080 --> 01:00:51,400
+you cannot live on the surface of Venus
+
+778
+01:00:52,040 --> 01:00:55,720
+there was some suggestion that maybe there is life in the clouds of Venus
+
+779
+01:00:56,600 --> 01:01:00,360
+so the only way for us to inhabit Venus would be to terraform it
+
+780
+01:01:00,360 --> 01:01:04,280
+to change the condition such that it's not as hot as it is
+
+781
+01:01:05,240 --> 01:01:07,800
+but then of course we can go to Proxima b
+
+782
+01:01:07,800 --> 01:01:09,960
+we can go to another star
+
+783
+01:01:09,960 --> 01:01:12,120
+the nearest star is Proxima Centauri
+
+784
+01:01:12,120 --> 01:01:14,760
+and it has a habitable planet next to it
+
+785
+01:01:16,120 --> 01:01:20,440
+and that planet is the star that it has a permanent day side
+
+786
+01:01:20,440 --> 01:01:21,800
+and a permanent night side
+
+787
+01:01:23,080 --> 01:01:30,680
+and my daughters say that the strip that separates those two sides
+
+788
+01:01:30,680 --> 01:01:33,800
+is the most would have the highest real estate value
+
+789
+01:01:33,880 --> 01:01:36,600
+because it will be a permanent sunset strip
+
+790
+01:01:36,600 --> 01:01:39,960
+and have a house there you can see the sunset forever
+
+791
+01:01:42,360 --> 01:01:47,400
+for dummies like myself who've never heard of Proxima b or Proxima the other one
+
+792
+01:01:48,040 --> 01:01:50,840
+can you explain where they are and what they are?
+
+793
+01:01:51,480 --> 01:01:55,400
+yeah Proxima Centauri is a member of a three star system
+
+794
+01:01:55,400 --> 01:01:58,520
+that is the closest to the sun right now
+
+795
+01:01:59,080 --> 01:02:02,520
+I mean it will continue to be the closest star system to us
+
+796
+01:02:02,520 --> 01:02:04,600
+for about a hundred thousand years
+
+797
+01:02:04,600 --> 01:02:08,440
+so every hundred thousand years or so there is a new star coming closest to us
+
+798
+01:02:09,160 --> 01:02:10,280
+and then it's passing
+
+799
+01:02:11,800 --> 01:02:14,520
+and right now Proxima Centauri is the nearest
+
+800
+01:02:14,520 --> 01:02:19,480
+and it's actually a dwarf star that is only 12 percent of the mass of the sun
+
+801
+01:02:19,480 --> 01:02:20,840
+so it's much fainter
+
+802
+01:02:20,840 --> 01:02:24,920
+most of the stars are much smaller and fainter than the sun
+
+803
+01:02:26,280 --> 01:02:29,160
+so we live next to an unusual star
+
+804
+01:02:29,160 --> 01:02:32,440
+most of the stars are like Proxima Centauri
+
+805
+01:02:32,680 --> 01:02:38,280
+and it has roughly half the surface temperature that the sun has
+
+806
+01:02:38,840 --> 01:02:43,720
+only 3000 degrees Kelvin compared to almost 6000 that the sun has
+
+807
+01:02:44,280 --> 01:02:47,720
+and therefore it emits mostly infrared light
+
+808
+01:02:47,720 --> 01:02:49,560
+the sun emits mostly visible light
+
+809
+01:02:49,560 --> 01:02:53,400
+that's why our eyes are tuned to visible light
+
+810
+01:02:53,400 --> 01:02:59,080
+but the creatures if there are any creatures on the habitable planet next to Proxima Centauri
+
+811
+01:02:59,080 --> 01:03:01,480
+they should have infrared eyes
+
+812
+01:03:01,480 --> 01:03:04,360
+which would be very strange for us to see actually
+
+813
+01:03:05,560 --> 01:03:09,640
+and if there is any grass growing there it will be dark red
+
+814
+01:03:10,520 --> 01:03:15,560
+so if you think about interstellar travel agencies designing trips
+
+815
+01:03:17,080 --> 01:03:23,720
+if most of the living creatures are living near dwarf stars that are the most common
+
+816
+01:03:24,840 --> 01:03:28,440
+they are used to red to dark red grass
+
+817
+01:03:29,000 --> 01:03:34,040
+and they will never come to a planet like ours that offers green grass
+
+818
+01:03:34,040 --> 01:03:37,240
+that will not be a desirable tourist destination
+
+819
+01:03:37,240 --> 01:03:38,840
+because they don't like this color
+
+820
+01:03:39,400 --> 01:03:42,920
+they enjoy having a vacation on a dark red grass
+
+821
+01:03:43,960 --> 01:03:46,600
+that may explain why we haven't seen any visitors
+
+822
+01:03:47,960 --> 01:03:54,440
+can you explain a little bit more what would the eyes of the beings on that planet look like
+
+823
+01:03:54,440 --> 01:03:57,400
+why would they be what would an infrared eye look like?
+
+824
+01:03:58,040 --> 01:04:00,200
+I don't know it would look shocking to us
+
+825
+01:04:00,200 --> 01:04:02,680
+it would look very different than our eyes
+
+826
+01:04:03,480 --> 01:04:11,400
+so our eyes were developed over time to take advantage of most of the light produced by the sun
+
+827
+01:04:11,400 --> 01:04:12,680
+which is visible light
+
+828
+01:04:13,640 --> 01:04:17,960
+but if you're next to a star that produces mostly infrared radiation
+
+829
+01:04:18,760 --> 01:04:23,000
+then evolution would lead you to be sensitive to that kind of light
+
+830
+01:04:23,880 --> 01:04:27,320
+this is the kind of light you get from warm objects
+
+831
+01:04:27,320 --> 01:04:35,480
+like soldiers have those goggles that are sensitive to infrared radiation at night
+
+832
+01:04:36,680 --> 01:04:39,240
+at night there is not much visible light
+
+833
+01:04:39,240 --> 01:04:42,520
+because you're on the other side of the earth where the sun is not around
+
+834
+01:04:45,080 --> 01:04:48,360
+but objects are warm enough to emit infrared radiation
+
+835
+01:04:48,360 --> 01:04:50,840
+and you can see them with these goggles
+
+836
+01:04:50,840 --> 01:04:55,400
+that's what the people that have infrared goggles can see
+
+837
+01:04:55,400 --> 01:04:58,520
+the heat emitted by bodies that are warm
+
+838
+01:04:59,160 --> 01:05:07,240
+and that's the kind of infrared radiation that the star Proxima Centauri is mostly emitting
+
+839
+01:05:07,880 --> 01:05:13,080
+so of course if we had goggles, infrared goggles, we would see that radiation very clearly
+
+840
+01:05:14,200 --> 01:05:20,440
+but those animals, creatures that may be born there, they have those sensors
+
+841
+01:05:20,440 --> 01:05:24,360
+infrared sensors that they are born with
+
+842
+01:05:24,360 --> 01:05:27,000
+because that gives them an evolutionary advantage
+
+843
+01:05:27,800 --> 01:05:32,360
+the reason we have visible light eyes is because it gives us an advantage
+
+844
+01:05:32,360 --> 01:05:35,800
+we can survive better if we see the light from the sun
+
+845
+01:05:35,800 --> 01:05:39,080
+because it's reflected off objects so we can protect ourselves
+
+846
+01:05:39,080 --> 01:05:41,080
+if there is something endangering us
+
+847
+01:05:42,040 --> 01:05:45,240
+we can avoid that danger by seeing that object
+
+848
+01:05:45,240 --> 01:05:48,840
+and that's why we have sensitivity to visible light
+
+849
+01:05:48,840 --> 01:05:52,600
+which is the most common type of light near the sun
+
+850
+01:05:52,600 --> 01:05:58,600
+but if we were next to Proxima Centauri, it would not offer us much advantage
+
+851
+01:05:58,600 --> 01:06:01,240
+and then probably we would not survive
+
+852
+01:06:01,240 --> 01:06:06,040
+and animals that have infrared eyes would survive because they can see the danger
+
+853
+01:06:07,000 --> 01:06:09,640
+if there is another animal coming to eat them
+
+854
+01:06:09,640 --> 01:06:12,760
+they would be able to escape because they're sensitive to infrared light
+
+855
+01:06:12,760 --> 01:06:15,800
+which is the most common form of light in their environment
+
+856
+01:06:17,400 --> 01:06:19,880
+real quick, I wanted to go back to the mission you just spoke about
+
+857
+01:06:19,880 --> 01:06:22,520
+that's about to arrive in Mars in a couple weeks now
+
+858
+01:06:23,640 --> 01:06:25,160
+what is the purpose of that mission?
+
+859
+01:06:25,160 --> 01:06:27,080
+they're looking specifically for life?
+
+860
+01:06:27,640 --> 01:06:29,960
+right, so this is the Perseverance mission
+
+861
+01:06:29,960 --> 01:06:35,400
+and yes, one of the highlights of this mission is to search for signatures of life
+
+862
+01:06:35,400 --> 01:06:40,120
+and there were previous missions going back almost 50 years
+
+863
+01:06:41,560 --> 01:06:45,400
+that had some tentative evidence that perhaps
+
+864
+01:06:46,600 --> 01:06:49,240
+there is something in the Martian soil
+
+865
+01:06:49,240 --> 01:06:52,680
+that is going through metabolism that is living
+
+866
+01:06:52,680 --> 01:06:57,080
+because they took a sample of that soil
+
+867
+01:06:57,080 --> 01:07:02,280
+and they noticed that there is some gas coming out of it
+
+868
+01:07:02,280 --> 01:07:04,280
+that may indicate life
+
+869
+01:07:04,280 --> 01:07:07,960
+and when they heat that soil to a high temperature
+
+870
+01:07:07,960 --> 01:07:10,120
+suddenly that goes away
+
+871
+01:07:10,120 --> 01:07:14,440
+and there was a suggestion that maybe it indicates that there is life in that soil
+
+872
+01:07:15,400 --> 01:07:20,440
+and so the Perseverance mission is equipped with all kinds of instruments
+
+873
+01:07:21,000 --> 01:07:24,920
+that could then search for life that may exist right now
+
+874
+01:07:24,920 --> 01:07:28,440
+but also search for life that may have existed before
+
+875
+01:07:29,480 --> 01:07:36,520
+if there were rivers or ponds in the location where Perseverance lands
+
+876
+01:07:36,520 --> 01:07:43,720
+then there might be some leftover signatures of life that may have existed there
+
+877
+01:07:44,680 --> 01:07:46,440
+we don't know exactly how it might look
+
+878
+01:07:46,440 --> 01:07:48,600
+it might be skeletons or something else
+
+879
+01:07:48,600 --> 01:07:51,080
+but the idea is to search for it
+
+880
+01:07:51,080 --> 01:07:53,640
+and it would be very exciting to see what they find
+
+881
+01:07:54,600 --> 01:07:59,160
+yeah, I mean it sounds like we're doing everything we can possibly do
+
+882
+01:07:59,160 --> 01:08:02,600
+within our means to do these types of studies
+
+883
+01:08:02,600 --> 01:08:04,520
+and to try to find extraterrestrial life
+
+884
+01:08:04,520 --> 01:08:06,760
+and to find out if we're the only ones here or not
+
+885
+01:08:06,760 --> 01:08:08,840
+well, primitive life I should say
+
+886
+01:08:08,840 --> 01:08:12,440
+because technological signatures we are not doing enough
+
+887
+01:08:12,440 --> 01:08:13,800
+that's what I started from
+
+888
+01:08:15,400 --> 01:08:24,040
+I've heard you compare stagnation of the scientific community to technology
+
+889
+01:08:24,040 --> 01:08:27,800
+or to corporate commercial technology
+
+890
+01:08:29,160 --> 01:08:31,800
+you know, companies like SpaceX for example
+
+891
+01:08:31,800 --> 01:08:36,120
+which obviously are funded and they generate a profit
+
+892
+01:08:36,920 --> 01:08:41,720
+compared to science and the communities that you're involved in
+
+893
+01:08:41,720 --> 01:08:42,920
+can you speak a little bit to that?
+
+894
+01:08:43,880 --> 01:08:50,120
+yeah, so one would expect the academic world to take more risks
+
+895
+01:08:50,120 --> 01:08:53,000
+than the commercial world
+
+896
+01:08:53,000 --> 01:08:58,200
+because companies are mainly focused on making a profit
+
+897
+01:08:58,200 --> 01:09:02,280
+whereas in academia there is this concept of tenure
+
+898
+01:09:02,280 --> 01:09:05,240
+where the professor has a secure job
+
+899
+01:09:06,120 --> 01:09:10,600
+and the purpose of that was that once you get to that phase
+
+900
+01:09:11,240 --> 01:09:15,880
+you can explore blue sky research and take risks
+
+901
+01:09:15,880 --> 01:09:21,960
+and allow yourself to be wrong if it doesn't end up the way you wanted
+
+902
+01:09:23,000 --> 01:09:27,480
+unfortunately, most of my colleagues in academia do not take risks
+
+903
+01:09:27,480 --> 01:09:30,840
+because they want to get honours and awards
+
+904
+01:09:30,840 --> 01:09:34,520
+and they want to maintain an image of someone that doesn't make mistakes
+
+905
+01:09:34,520 --> 01:09:39,080
+and they build echo chambers that repeat their voice
+
+906
+01:09:39,560 --> 01:09:44,280
+making it louder so that their reputation is improved
+
+907
+01:09:44,280 --> 01:09:47,400
+but at the same time they don't innovate much
+
+908
+01:09:47,400 --> 01:09:52,200
+because innovation implies taking risks and being wrong sometimes
+
+909
+01:09:52,920 --> 01:09:56,360
+and at the same time in the commercial sector
+
+910
+01:09:56,360 --> 01:10:01,560
+you find companies as you mentioned like SpaceX or Google or many others
+
+911
+01:10:01,560 --> 01:10:04,840
+that have groups of people that are thinking
+
+912
+01:10:05,560 --> 01:10:09,880
+that are taking risks and checking ideas out of the box
+
+913
+01:10:09,880 --> 01:10:13,320
+and the reason they do that is because they recognise
+
+914
+01:10:13,320 --> 01:10:18,280
+that the next major discovery that will make them a big profit
+
+915
+01:10:18,280 --> 01:10:20,200
+would come in unexpected directions
+
+916
+01:10:20,200 --> 01:10:24,280
+so they're taking risks because even though some of the directions fail
+
+917
+01:10:24,280 --> 01:10:26,760
+if one of them ends up being real
+
+918
+01:10:27,960 --> 01:10:32,120
+it would compensate for all the losses associated with the failed directions
+
+919
+01:10:32,920 --> 01:10:35,720
+if companies recognise the value of that
+
+920
+01:10:35,720 --> 01:10:37,720
+academia should have recognised it much more
+
+921
+01:10:37,720 --> 01:10:42,840
+and it's quite unfortunate that there is not as much innovation in academia
+
+922
+01:10:42,840 --> 01:10:44,600
+as there should be
+
+923
+01:10:44,600 --> 01:10:49,560
+and that's why I'm trying to promote an open mind
+
+924
+01:10:50,760 --> 01:10:52,840
+in the context that we discussed before
+
+925
+01:10:52,840 --> 01:10:54,840
+of searching for technological signatures
+
+926
+01:10:54,840 --> 01:10:57,880
+but more generally I think it's extremely important
+
+927
+01:10:58,440 --> 01:11:02,520
+for example for federal grants to be given
+
+928
+01:11:02,520 --> 01:11:07,880
+also to people that have risky propositions
+
+929
+01:11:07,880 --> 01:11:10,680
+people that consider ideas out of the box
+
+930
+01:11:12,200 --> 01:11:15,560
+NASA for example very often funds projects
+
+931
+01:11:15,560 --> 01:11:20,280
+that can declare ahead of time what they will discover
+
+932
+01:11:20,280 --> 01:11:21,160
+what they will find
+
+933
+01:11:21,160 --> 01:11:24,440
+and that's contradictory to the nature of discovery
+
+934
+01:11:24,440 --> 01:11:27,000
+very often you discover things that you haven't expected
+
+935
+01:11:27,000 --> 01:11:31,480
+you cannot tell in advance to the funder what you will find
+
+936
+01:11:31,480 --> 01:11:33,560
+or else what you're doing is very boring
+
+937
+01:11:34,280 --> 01:11:38,840
+so I think the funding agencies should also allocate
+
+938
+01:11:38,840 --> 01:11:42,920
+some fraction of their funding to risky propositions
+
+939
+01:11:42,920 --> 01:11:47,000
+to out of the box thinking and allow for that
+
+940
+01:11:47,960 --> 01:11:51,400
+it all comes together in a culture where innovation
+
+941
+01:11:51,400 --> 01:11:53,720
+and risk-taking is appreciated
+
+942
+01:11:54,760 --> 01:11:56,440
+yeah it almost doesn't make sense
+
+943
+01:11:56,440 --> 01:11:59,320
+it almost seems like somebody like Elon Musk
+
+944
+01:11:59,320 --> 01:12:03,000
+would have way more to lose by venturing outside the box
+
+945
+01:12:03,000 --> 01:12:06,280
+than a researcher or a scientist would
+
+946
+01:12:06,280 --> 01:12:08,040
+it seems like they wouldn't have as much to lose
+
+947
+01:12:08,040 --> 01:12:10,840
+I completely agree but it's human nature
+
+948
+01:12:12,280 --> 01:12:14,600
+that drives people in academia towards
+
+949
+01:12:16,840 --> 01:12:19,560
+being less innovative, less risk-taking
+
+950
+01:12:19,560 --> 01:12:22,280
+because this way they can maintain an image
+
+951
+01:12:22,280 --> 01:12:24,840
+that makes of someone reputable
+
+952
+01:12:24,840 --> 01:12:26,840
+so that they get honors and awards
+
+953
+01:12:27,560 --> 01:12:30,600
+and by the way one way to not make mistakes
+
+954
+01:12:30,600 --> 01:12:32,680
+is not to put skin in the game
+
+955
+01:12:33,240 --> 01:12:35,480
+so not to be engaged in predictions
+
+956
+01:12:35,480 --> 01:12:38,760
+that can be tested experimentally and proven wrong
+
+957
+01:12:39,320 --> 01:12:41,480
+and that's why you find this culture of people
+
+958
+01:12:41,480 --> 01:12:44,360
+that work on subjects that are sort of esoteric
+
+959
+01:12:45,080 --> 01:12:46,600
+have no connection to reality
+
+960
+01:12:46,600 --> 01:12:48,920
+and cannot be tested experimentally
+
+961
+01:12:48,920 --> 01:12:51,160
+because that's much more attractive
+
+962
+01:12:51,160 --> 01:12:53,160
+you can just demonstrate that you are smart
+
+963
+01:12:53,880 --> 01:12:55,320
+and never be proven wrong
+
+964
+01:12:56,440 --> 01:12:59,080
+isn't that the point of science to be proven wrong
+
+965
+01:12:59,080 --> 01:13:00,840
+yes I would argue that
+
+966
+01:13:00,840 --> 01:13:02,200
+and that's what I argue yes
+
+967
+01:13:02,840 --> 01:13:03,960
+and that's what I practice
+
+968
+01:13:03,960 --> 01:13:05,160
+I don't just preach
+
+969
+01:13:05,800 --> 01:13:08,360
+but it's not easy to change the culture
+
+970
+01:13:08,360 --> 01:13:09,560
+and I think it should change
+
+971
+01:13:10,200 --> 01:13:11,720
+and I hope it will change
+
+972
+01:13:11,720 --> 01:13:13,240
+and my book discusses that
+
+973
+01:13:13,880 --> 01:13:17,080
+as one of the most important messages of the book
+
+974
+01:13:17,080 --> 01:13:19,800
+so I very much encourage people to have a look in it
+
+975
+01:13:19,800 --> 01:13:21,320
+and you talk about Einstein as well
+
+976
+01:13:22,280 --> 01:13:25,640
+yeah I mean Einstein in the last decade of his career
+
+977
+01:13:25,640 --> 01:13:27,320
+when he was the most experienced
+
+978
+01:13:28,600 --> 01:13:33,080
+and obviously he was the leading scientist of his generation
+
+979
+01:13:33,960 --> 01:13:35,080
+made three mistakes
+
+980
+01:13:36,360 --> 01:13:39,000
+and these were major mistakes
+
+981
+01:13:39,000 --> 01:13:42,760
+that we now know are completely wrong based on experiments
+
+982
+01:13:42,760 --> 01:13:45,080
+you know we detected gravitational waves
+
+983
+01:13:45,080 --> 01:13:46,520
+and he claimed they don't exist
+
+984
+01:13:46,520 --> 01:13:48,200
+we detected black holes
+
+985
+01:13:48,200 --> 01:13:49,480
+he claimed they don't exist
+
+986
+01:13:49,960 --> 01:13:53,080
+we also detected spooky action at a distance
+
+987
+01:13:53,080 --> 01:13:54,120
+in quantum mechanics
+
+988
+01:13:54,120 --> 01:13:55,560
+and he claimed it doesn't exist
+
+989
+01:13:56,920 --> 01:13:58,760
+but that's part of being at the frontier
+
+990
+01:13:58,760 --> 01:14:00,120
+you never know in advance
+
+991
+01:14:01,320 --> 01:14:02,600
+what is the right direction
+
+992
+01:14:02,600 --> 01:14:04,520
+and even if you are the smartest person around
+
+993
+01:14:04,520 --> 01:14:05,960
+like Einstein was
+
+994
+01:14:05,960 --> 01:14:07,000
+you make mistakes
+
+995
+01:14:07,000 --> 01:14:08,760
+and that should be tolerated
+
+996
+01:14:08,760 --> 01:14:10,520
+because if you look at Einstein
+
+997
+01:14:10,520 --> 01:14:13,160
+you know he also made important breakthroughs
+
+998
+01:14:13,160 --> 01:14:15,480
+at the same time or before that time
+
+999
+01:14:16,040 --> 01:14:18,120
+and so the other thing is
+
+1000
+01:14:19,080 --> 01:14:22,040
+his generation was putting skin in the game
+
+1001
+01:14:22,040 --> 01:14:23,720
+you know he was making predictions
+
+1002
+01:14:24,280 --> 01:14:25,720
+and they were tested
+
+1003
+01:14:25,720 --> 01:14:32,440
+the current generation wants to always be valued as smart
+
+1004
+01:14:32,440 --> 01:14:34,520
+without putting any skin in the game
+
+1005
+01:14:34,520 --> 01:14:36,840
+so they you know a lot of physicists
+
+1006
+01:14:36,840 --> 01:14:38,120
+theoretical physicists
+
+1007
+01:14:38,120 --> 01:14:39,960
+are doing intellectual gymnastics
+
+1008
+01:14:39,960 --> 01:14:42,360
+they're using sophisticated mathematics
+
+1009
+01:14:42,360 --> 01:14:45,560
+and that serves the role of demonstrating they're smart
+
+1010
+01:14:45,560 --> 01:14:47,720
+but it doesn't necessarily describe nature
+
+1011
+01:14:48,200 --> 01:14:49,400
+do you think some of the reason
+
+1012
+01:14:49,400 --> 01:14:51,160
+that you're getting a lot of backlash
+
+1013
+01:14:51,160 --> 01:14:55,560
+is because people are threatened
+
+1014
+01:14:55,560 --> 01:14:57,080
+by you coming out and talking about this
+
+1015
+01:14:57,080 --> 01:14:59,720
+maybe they see Avi getting all this attention
+
+1016
+01:14:59,720 --> 01:15:00,680
+and talking about this
+
+1017
+01:15:00,680 --> 01:15:02,760
+but they've never gotten this amount of attention
+
+1018
+01:15:02,760 --> 01:15:04,680
+from anyone about any of their ideas
+
+1019
+01:15:05,400 --> 01:15:08,040
+well one aspect of that is jealousy of course
+
+1020
+01:15:08,040 --> 01:15:09,000
+for that attention
+
+1021
+01:15:09,000 --> 01:15:11,080
+but another one is because I address
+
+1022
+01:15:12,440 --> 01:15:15,240
+my main message is that we should be modest
+
+1023
+01:15:15,240 --> 01:15:17,160
+that science is a learning experience
+
+1024
+01:15:17,160 --> 01:15:19,720
+and that making mistakes is okay
+
+1025
+01:15:19,720 --> 01:15:21,640
+that's part of the scientific process
+
+1026
+01:15:21,640 --> 01:15:24,360
+you know we should be just like kids
+
+1027
+01:15:24,360 --> 01:15:25,880
+trying to understand the world
+
+1028
+01:15:25,880 --> 01:15:29,400
+and willing to not be so attached to our egos
+
+1029
+01:15:29,400 --> 01:15:32,600
+so I'm trying to remove that connection
+
+1030
+01:15:32,600 --> 01:15:34,840
+between the ego of a scientist
+
+1031
+01:15:35,560 --> 01:15:37,080
+and the profession
+
+1032
+01:15:37,080 --> 01:15:38,920
+you know we are trying to understand nature
+
+1033
+01:15:38,920 --> 01:15:41,320
+we should engage in a dialogue with experiments
+
+1034
+01:15:41,960 --> 01:15:46,440
+we should not consider it as an evaluation of our abilities
+
+1035
+01:15:46,440 --> 01:15:47,960
+it's not about us
+
+1036
+01:15:47,960 --> 01:15:50,040
+it's about understanding nature
+
+1037
+01:15:50,040 --> 01:15:52,280
+and it's a dialogue with experiments
+
+1038
+01:15:52,280 --> 01:15:56,360
+and we just have to start from a point of modesty
+
+1039
+01:15:56,360 --> 01:15:59,160
+you know and that modesty is communicated to us
+
+1040
+01:15:59,160 --> 01:16:00,200
+by looking at the universe
+
+1041
+01:16:00,200 --> 01:16:01,800
+you know we are so small
+
+1042
+01:16:01,800 --> 01:16:03,560
+we are so short-lived
+
+1043
+01:16:03,560 --> 01:16:05,160
+how can anyone be arrogant
+
+1044
+01:16:05,160 --> 01:16:06,680
+okay that makes no sense to me
+
+1045
+01:16:07,240 --> 01:16:09,000
+how can anyone be racist
+
+1046
+01:16:09,000 --> 01:16:10,680
+you know that also makes no sense to me
+
+1047
+01:16:10,680 --> 01:16:12,760
+because just based on the color of his skin
+
+1048
+01:16:12,760 --> 01:16:14,680
+you decide what the person is
+
+1049
+01:16:14,680 --> 01:16:15,960
+I mean that's completely ridiculous
+
+1050
+01:16:15,960 --> 01:16:20,840
+so people have this tendency of wanting to feel superior to other people
+
+1051
+01:16:20,840 --> 01:16:23,000
+either by demonstrating that they are smart
+
+1052
+01:16:23,000 --> 01:16:26,920
+or by demonstrating that their DNA may be superior to others
+
+1053
+01:16:26,920 --> 01:16:29,640
+all kinds of ways of demonstrating superiority
+
+1054
+01:16:29,640 --> 01:16:33,400
+and it all drives it all stems from their ego
+
+1055
+01:16:33,400 --> 01:16:35,800
+and what I say is just leave that aside
+
+1056
+01:16:36,360 --> 01:16:39,240
+that causes the worst in human nature
+
+1057
+01:16:39,240 --> 01:16:40,760
+you know all of the wars
+
+1058
+01:16:40,760 --> 01:16:43,960
+all of the the worst things that happen in human history
+
+1059
+01:16:43,960 --> 01:16:45,560
+were driven by ego
+
+1060
+01:16:45,560 --> 01:16:47,880
+we should try to push it aside
+
+1061
+01:16:47,880 --> 01:16:49,320
+be as modest as possible
+
+1062
+01:16:49,320 --> 01:16:51,160
+which is what the universe is telling us
+
+1063
+01:16:51,160 --> 01:16:51,800
+stay modest
+
+1064
+01:16:51,800 --> 01:16:53,240
+you're not at the center of anything
+
+1065
+01:16:53,800 --> 01:16:57,960
+and we might not be the smartest kid on the block
+
+1066
+01:16:57,960 --> 01:16:59,880
+I'm trying to convey this message
+
+1067
+01:16:59,880 --> 01:17:01,960
+and the pushback is in part
+
+1068
+01:17:01,960 --> 01:17:04,600
+because people are too attached to their ego
+
+1069
+01:17:04,600 --> 01:17:05,720
+it bothers them
+
+1070
+01:17:05,720 --> 01:17:07,640
+takes them out of the comfort zone
+
+1071
+01:17:07,640 --> 01:17:11,080
+they want to feel as if they are respected, smart
+
+1072
+01:17:11,080 --> 01:17:12,360
+never make mistakes
+
+1073
+01:17:12,440 --> 01:17:15,800
+never have to revise their view of the universe
+
+1074
+01:17:15,800 --> 01:17:19,160
+just like the philosophers during the days of Galileo
+
+1075
+01:17:19,160 --> 01:17:21,400
+they didn't want to look through the telescope
+
+1076
+01:17:21,400 --> 01:17:25,560
+because they were happy believing that they're at the center of the universe
+
+1077
+01:17:26,200 --> 01:17:27,400
+they were comfortable where they were
+
+1078
+01:17:27,960 --> 01:17:31,240
+exactly it's sort of like my daughters saying
+
+1079
+01:17:31,240 --> 01:17:33,880
+we don't want to go to a kindergarten
+
+1080
+01:17:34,440 --> 01:17:35,480
+you know at home
+
+1081
+01:17:36,120 --> 01:17:38,440
+if we have a small enough environment at home
+
+1082
+01:17:39,080 --> 01:17:42,440
+we feel as if we are the smartest kid
+
+1083
+01:17:43,800 --> 01:17:45,560
+there is nobody like us
+
+1084
+01:17:45,560 --> 01:17:46,520
+we feel great
+
+1085
+01:17:46,520 --> 01:17:47,720
+that's our comfort zone
+
+1086
+01:17:47,720 --> 01:17:48,920
+we will never go out
+
+1087
+01:17:49,480 --> 01:17:51,240
+and you know that's sort of the tendency
+
+1088
+01:17:52,040 --> 01:17:53,480
+not to explore
+
+1089
+01:17:53,480 --> 01:17:56,360
+because then you feel proud of yourself
+
+1090
+01:17:56,920 --> 01:17:58,040
+you can be arrogant
+
+1091
+01:17:58,040 --> 01:18:01,320
+if you limit your view to a small environment
+
+1092
+01:18:01,320 --> 01:18:04,600
+but it goes against the fundamentals of science
+
+1093
+01:18:04,600 --> 01:18:07,720
+because staying comfortable inhibits growth
+
+1094
+01:18:07,720 --> 01:18:09,320
+exactly that's my point
+
+1095
+01:18:09,960 --> 01:18:10,840
+exactly
+
+1096
+01:18:10,840 --> 01:18:14,360
+and that's why I have this battle
+
+1097
+01:18:14,360 --> 01:18:19,160
+and by the way I'm getting a huge response from the public
+
+1098
+01:18:20,040 --> 01:18:20,840
+a lot of emails
+
+1099
+01:18:20,840 --> 01:18:23,640
+also from people in academia that feel the same
+
+1100
+01:18:23,640 --> 01:18:24,680
+mostly young people
+
+1101
+01:18:25,240 --> 01:18:29,240
+because young people are not attached as much to their ego
+
+1102
+01:18:30,120 --> 01:18:32,600
+and I'm hopeful for the future
+
+1103
+01:18:32,600 --> 01:18:36,040
+you know I do not care how many likes I have on Twitter
+
+1104
+01:18:36,760 --> 01:18:38,600
+I just am focused
+
+1105
+01:18:38,600 --> 01:18:40,440
+you know just like basketball coaches
+
+1106
+01:18:41,080 --> 01:18:42,760
+advise their team players
+
+1107
+01:18:44,280 --> 01:18:45,560
+keep your eyes on the ball
+
+1108
+01:18:45,560 --> 01:18:46,680
+not on the audience
+
+1109
+01:18:46,680 --> 01:18:47,880
+and that's what I'm trying to do
+
+1110
+01:18:48,520 --> 01:18:50,920
+now you don't even have any social media right?
+
+1111
+01:18:50,920 --> 01:18:51,640
+no I don't
+
+1112
+01:18:51,640 --> 01:18:53,960
+because my wife asked me not to have any
+
+1113
+01:18:53,960 --> 01:18:55,240
+and I respected that
+
+1114
+01:18:55,240 --> 01:18:57,000
+and I don't miss that
+
+1115
+01:18:57,000 --> 01:18:59,560
+because it frees my time
+
+1116
+01:19:00,120 --> 01:19:01,960
+and also allows me to be more creative
+
+1117
+01:19:01,960 --> 01:19:03,960
+without being biased by the herd
+
+1118
+01:19:04,040 --> 01:19:07,240
+or the you know view
+
+1119
+01:19:07,960 --> 01:19:09,000
+so for my audience
+
+1120
+01:19:11,080 --> 01:19:12,200
+you don't have any social media
+
+1121
+01:19:12,200 --> 01:19:14,200
+so people that are listening or watching this
+
+1122
+01:19:15,160 --> 01:19:16,760
+what can you suggest to them
+
+1123
+01:19:16,760 --> 01:19:17,880
+to learn more about what you're doing
+
+1124
+01:19:17,880 --> 01:19:20,840
+or to find more of your writings or your books?
+
+1125
+01:19:20,840 --> 01:19:23,080
+yeah they can go to my website
+
+1126
+01:19:23,080 --> 01:19:25,800
+by putting my name on Google Avi Loeb
+
+1127
+01:19:25,800 --> 01:19:28,120
+and I have a main website where I list
+
+1128
+01:19:29,080 --> 01:19:31,560
+my commentaries in Scientific American
+
+1129
+01:19:31,560 --> 01:19:33,480
+I publish roughly once a week
+
+1130
+01:19:33,480 --> 01:19:34,760
+or once every two weeks
+
+1131
+01:19:35,320 --> 01:19:36,840
+I also have scientific papers
+
+1132
+01:19:36,840 --> 01:19:39,000
+more than 800 of them listed there
+
+1133
+01:19:39,720 --> 01:19:40,360
+and books
+
+1134
+01:19:40,920 --> 01:19:42,600
+and they're welcome to say
+
+1135
+01:19:42,600 --> 01:19:44,520
+anyone is welcome to send me an email
+
+1136
+01:19:44,520 --> 01:19:46,280
+and I'll be glad to correspond
+
+1137
+01:19:47,880 --> 01:19:50,440
+so in general I do have communication
+
+1138
+01:19:50,440 --> 01:19:51,640
+with a broad audience
+
+1139
+01:19:51,640 --> 01:19:53,400
+but not through social media
+
+1140
+01:19:54,280 --> 01:19:55,000
+that's amazing man
+
+1141
+01:19:55,000 --> 01:19:56,440
+well hey I'm super grateful for you
+
+1142
+01:19:57,000 --> 01:19:58,600
+having this conversation with me
+
+1143
+01:19:58,600 --> 01:19:59,480
+I really appreciate it
+
+1144
+01:19:59,480 --> 01:20:00,520
+I've learned a lot from you
+
+1145
+01:20:00,520 --> 01:20:01,400
+my pleasure
+
+1146
+01:20:01,400 --> 01:20:02,520
+thank you for having me
+

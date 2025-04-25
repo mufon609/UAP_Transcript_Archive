@@ -1,0 +1,2820 @@
+1
+00:00:00,000 --> 00:00:04,960
+Can we achieve faster than light travel? That's the big question, isn't it? It is important,
+
+2
+00:00:04,960 --> 00:00:10,080
+though. Throughout the history of sci-fi, it's been explored many times, but usually never backed
+
+3
+00:00:10,080 --> 00:00:15,360
+up as to how it could happen. That was usually glanced over. And faster than light travel is
+
+4
+00:00:15,360 --> 00:00:20,480
+something we want. Warping at many times the speed of light to explore our entire universe
+
+5
+00:00:20,480 --> 00:00:26,240
+is an alluring idea, especially if we want to someday meet intelligent alien life. It's
+
+6
+00:00:26,240 --> 00:00:31,280
+infectious, even. So how do we do that, speaking in terms of the real universe?
+
+7
+00:00:31,280 --> 00:00:35,920
+Unfortunately, there have never been very many ways to do it according to known physics.
+
+8
+00:00:35,920 --> 00:00:40,480
+In fact, it's almost hostile to the idea. Breaking the speed of light within Einstein's
+
+9
+00:00:40,480 --> 00:00:45,440
+relativity, the best description of the universe at large that we have, would require infinite
+
+10
+00:00:45,440 --> 00:00:51,200
+energy. Infinite energy isn't possible. Or is there another way? Is there a way to essentially
+
+11
+00:00:51,200 --> 00:00:55,840
+hack the universe and move at speeds so fast that science fiction generally didn't imagine
+
+12
+00:00:55,840 --> 00:01:00,960
+until science itself actually did? My guest today explored just such a concept after watching an
+
+13
+00:01:00,960 --> 00:01:05,440
+episode of Star Trek and thinking about how a warp field could be established that would allow
+
+14
+00:01:05,440 --> 00:01:10,240
+faster than light travel. It's just an idea consistent with relativity, there's no guarantee
+
+15
+00:01:10,240 --> 00:01:15,680
+it would actually work. But it's one that so far has stood the test of time. People still wonder
+
+16
+00:01:15,680 --> 00:01:21,440
+about this idea over 20 years after its formulation. As I said, it's consistent with relativity,
+
+17
+00:01:21,440 --> 00:01:26,480
+but with caveats. Pretty big ones. But it's important to explore the idea nonetheless.
+
+18
+00:01:26,480 --> 00:01:30,000
+After all, if we respond to all ideas as inherently impossible,
+
+19
+00:01:30,000 --> 00:01:34,960
+we'd have never gotten very far as a civilization. So can we actually travel faster than light?
+
+20
+00:02:21,440 --> 00:02:28,240
+This episode is theoretical physicist Dr. Miguel Alcubierre. Dr. Alcubierre received his PhD in
+
+21
+00:02:28,240 --> 00:02:34,000
+1994 through the study of numerical general relativity and has since worked at the Max
+
+22
+00:02:34,000 --> 00:02:40,000
+Planck Institute for Gravitational Physics in Potsdam, Germany and the National Autonomous
+
+23
+00:02:40,000 --> 00:02:48,000
+University of Mexico. Dr. Alcubierre is best known for his 1994 paper, The Warp Drive,
+
+24
+00:02:48,080 --> 00:02:54,240
+Hyperfast Travel Within General Relativity, where he describes his theory for traveling
+
+25
+00:02:54,240 --> 00:02:59,440
+faster than light with what's become known as the Alcubierre Warp Drive.
+
+26
+00:02:59,440 --> 00:03:05,360
+Welcome everyone to Event Horizon with me, John Michael Godier. If you enjoy what you hear,
+
+27
+00:03:05,360 --> 00:03:10,400
+fall into the Event Horizon, hit the like button and become an active subscriber by ringing the
+
+28
+00:03:10,400 --> 00:03:14,160
+bell. Miguel Alcubierre, welcome to the program. Hi, hello.
+
+29
+00:03:14,880 --> 00:03:21,280
+Doctor, everybody knows you for your warp bubble concept, but you've done a lot of science. That
+
+30
+00:03:21,280 --> 00:03:26,720
+was 1994. You've done a lot of science since then. What is your work focus on these days?
+
+31
+00:03:26,720 --> 00:03:32,160
+Well, on these days I've been working on black hole formation and also on something a little
+
+32
+00:03:32,160 --> 00:03:38,080
+bit esoteric that we call boson stars, which is a model for a star made of a special kind of field
+
+33
+00:03:38,640 --> 00:03:43,040
+that could mimic a black hole in many circumstances. So I've been specializing
+
+34
+00:03:43,040 --> 00:03:48,160
+in that area and my work is mostly numerical simulations. So for a long time I've been doing
+
+35
+00:03:48,160 --> 00:03:53,520
+numerical simulations of black hole space stamps, formation of black holes, collapse of stars,
+
+36
+00:03:53,520 --> 00:03:58,640
+and also gravitational waves, production of gravitational waves. So that's my main work
+
+37
+00:03:58,640 --> 00:04:01,200
+and I've been working on that for the last 20 odd years.
+
+38
+00:04:01,840 --> 00:04:08,960
+We recently detected with the LIGO experiment the formation of or the coalescing of two neutron
+
+39
+00:04:08,960 --> 00:04:15,120
+stars and I suppose that would be even more applicable to black holes if you have a binary
+
+40
+00:04:15,120 --> 00:04:20,560
+black hole that's merging. Now, do you study that? I've studied binary black hole formation,
+
+41
+00:04:21,520 --> 00:04:25,360
+collision of binary black holes, not so much neutron stars. Neutron stars are difficult
+
+42
+00:04:25,360 --> 00:04:29,360
+for different reasons because they have a lot of matter and you have to do fluid dynamics and
+
+43
+00:04:29,360 --> 00:04:34,160
+maybe magnetic fields and things like that. Black holes are cleaner and I've been studying black
+
+44
+00:04:34,160 --> 00:04:39,360
+holes for a long time. So during the 90s and even early part of the 2000s my main work was black hole
+
+45
+00:04:39,360 --> 00:04:43,760
+simulations, simulations of black holes that collide in an inspiral, they're orbiting and
+
+46
+00:04:43,760 --> 00:04:48,320
+they do an inspiral collision. And that was actually the first thing detected by LIGO.
+
+47
+00:04:48,320 --> 00:04:52,800
+Three years ago they detected the first gravitational wave detection ever was a collision
+
+48
+00:04:52,800 --> 00:04:57,600
+of two black holes which is exactly the problem I have been working for a long time. Now when
+
+49
+00:04:57,600 --> 00:05:04,560
+black holes merge collide like that, how long does that process take before they become entangled
+
+50
+00:05:04,560 --> 00:05:11,040
+and gravitationally and they actually collide? Depends very much on how they formed but it could
+
+51
+00:05:11,040 --> 00:05:16,080
+take tens of millions of years. It's a very very long process. It's very slow. They approach each
+
+52
+00:05:16,080 --> 00:05:20,720
+other very slowly because they're emitting very low gravitational waves energy. They're losing
+
+53
+00:05:20,720 --> 00:05:25,040
+energy in gravitational waves but it's very very slow and those gravitational waves in principle
+
+54
+00:05:25,040 --> 00:05:29,440
+cannot be detected because they're extremely weak but this process takes millions and millions
+
+55
+00:05:29,440 --> 00:05:35,200
+of years but eventually they get to the point in which they're very very close and they're
+
+56
+00:05:35,200 --> 00:05:41,040
+separated just by a few times their own radius and at that point the whole process can take just
+
+57
+00:05:41,040 --> 00:05:46,080
+fractions of a second and that's what we detect. So the final, the detection of gravitational waves
+
+58
+00:05:46,080 --> 00:05:51,280
+from a black hole collision typically only detects the less than a second, the last fraction of a
+
+59
+00:05:51,280 --> 00:05:56,720
+second of a collision. That's what we can detect and the first detection actually the whole thing
+
+60
+00:05:56,720 --> 00:06:04,400
+lasted for about 20, 20 parts of a second so 120 of a second or something like that. It was really
+
+61
+00:06:04,400 --> 00:06:09,440
+very very close. Neutron stars actually take longer so when two neutron stars collide we can
+
+62
+00:06:09,440 --> 00:06:14,560
+detect the last minute or so of the collision and that's because they're usually closer by
+
+63
+00:06:14,560 --> 00:06:18,640
+so the signal is stronger and it's also more in the range of the detector so we can detect for
+
+64
+00:06:18,640 --> 00:06:24,080
+longer but black holes is a very very fast process what we can detect. So when you have two incredibly
+
+65
+00:06:24,080 --> 00:06:31,360
+dense objects like two black holes or two neutron stars for that matter, this has to be a ridiculously
+
+66
+00:06:31,360 --> 00:06:38,640
+abnormal environment. Do you see things like, so you create gravitational waves but what other
+
+67
+00:06:38,640 --> 00:06:44,640
+radiation comes out of that? Do you see like this perhaps a solution to something like fast radio
+
+68
+00:06:44,640 --> 00:06:49,760
+bursts where you you just see this mysterious burst of radiation that comes out of nowhere?
+
+69
+00:06:49,760 --> 00:06:54,560
+Could that be from these kinds of mergers? That's exactly what we think. Not from black holes. When
+
+70
+00:06:54,560 --> 00:06:58,800
+two black holes merge then nothing else happens. It's only gravitational waves because black holes
+
+71
+00:06:58,800 --> 00:07:03,680
+are vacuum. They have no matter. The matter has all been concentrated in the center and the center
+
+72
+00:07:03,680 --> 00:07:08,800
+is beyond the horizon so it cannot nothing that happens inside the black hole can affect us and
+
+73
+00:07:08,800 --> 00:07:13,280
+no radiation comes out from there. So when two black holes collide all you get is gravitational
+
+74
+00:07:13,280 --> 00:07:18,160
+waves but when two neutron stars collide that's very different because neutrons are made of matter
+
+75
+00:07:18,160 --> 00:07:23,280
+they're made of fluids and they have magnetic fields and etc so when two neutron stars collide
+
+76
+00:07:23,280 --> 00:07:28,480
+essentially you get fireworks you get a huge explosion and and this explosion produces
+
+77
+00:07:28,480 --> 00:07:33,360
+radiation in all wavelengths and in principle yes we believe that part of the gamma ray bursts
+
+78
+00:07:33,360 --> 00:07:37,920
+that have been detected for the last 20 or 30 years by satellites come from collisions of
+
+79
+00:07:37,920 --> 00:07:42,720
+neutron stars. There are actually two different types of gamma ray bursts what we call the long
+
+80
+00:07:42,720 --> 00:07:47,440
+lived and the short lived and we believe that the short lived are mainly caused by collisions of
+
+81
+00:07:47,440 --> 00:07:52,560
+neutron stars. The long lived we still not sure but the short lived are probably almost always
+
+82
+00:07:52,560 --> 00:07:57,120
+the collision of two neutron stars and this is extremely interesting because if we can get
+
+83
+00:07:57,120 --> 00:08:03,040
+the information from the collision of the neutron stars with gravitational waves and also we can
+
+84
+00:08:03,040 --> 00:08:07,200
+detect them also with gamma rays and other things then we can learn a lot about the system.
+
+85
+00:08:07,200 --> 00:08:12,400
+We can even do cosmology. So these types of systems are far more interesting. At the moment
+
+86
+00:08:12,400 --> 00:08:16,640
+there's only one confirmed detection of a collision of two neutron stars from LIGO
+
+87
+00:08:16,640 --> 00:08:21,840
+from gravitational waves that was just over a year ago a year and a half ago and there hasn't been
+
+88
+00:08:21,840 --> 00:08:25,760
+another announced but maybe they they've seen something in the last few weeks and they're a
+
+89
+00:08:25,760 --> 00:08:30,640
+bit cautious about announcing it there might be some hints about it but that those are the
+
+90
+00:08:30,640 --> 00:08:35,920
+extremely interesting systems collisions of stars give us a lot more information about the universe.
+
+91
+00:08:35,920 --> 00:08:42,560
+Now is that due to the fact that nothing can escape a black hole's event horizon so if you
+
+92
+00:08:42,560 --> 00:08:48,800
+have two black holes coalescing and and falling into each other and becoming a single black hole
+
+93
+00:08:49,680 --> 00:08:57,520
+you can't get anything except gravitational waves because nothing can escape the the black holes
+
+94
+00:08:57,520 --> 00:09:03,120
+so you can't get any kind of of radiation other than I guess some maybe some kind of
+
+95
+00:09:03,120 --> 00:09:08,240
+Hawking radiation off it so is that the case that that they're just simply that's exactly
+
+96
+00:09:08,240 --> 00:09:11,840
+the case when two black holes collide there's nothing else there's just two black holes
+
+97
+00:09:12,560 --> 00:09:16,960
+there's nothing can escape from inside the black hole so there's no light there's no radiation of
+
+98
+00:09:16,960 --> 00:09:22,160
+any kind the only thing you get are gravitational waves so in that sense it's a very clean system
+
+99
+00:09:22,160 --> 00:09:26,080
+but it's also you can only detect it on gravitational waves and and nothing else
+
+100
+00:09:26,800 --> 00:09:32,080
+even even the Hawking radiation Hawking radiation is a concept that it's theoretically very well
+
+101
+00:09:32,080 --> 00:09:37,120
+understood but we've never seen evidence of that because for a black hole the size of a star or
+
+102
+00:09:37,120 --> 00:09:43,200
+bigger which is the ones we've seen the Hawking radiation is is completely negligible it's just
+
+103
+00:09:43,200 --> 00:09:46,960
+being ignored completely there's no hope of detecting it so what you detect is just the
+
+104
+00:09:46,960 --> 00:09:51,200
+gravitational waves coming from the collision still that's very interesting that was the first
+
+105
+00:09:51,200 --> 00:09:57,200
+system we've seen we saw and we've seen about 10 maybe a lot more now because LIGO's already taken
+
+106
+00:09:57,200 --> 00:10:01,840
+data again but until the beginning of this year we've seen about 10 collisions of black holes with
+
+107
+00:10:02,160 --> 00:10:07,440
+LIGO when i when i say seen i actually mean observed with gravitational waves not with light
+
+108
+00:10:07,440 --> 00:10:14,080
+but so that happens sufficiently often that we see them a lot collisions of neutral stars are not that
+
+109
+00:10:14,080 --> 00:10:18,160
+easy to see because if they happen very far away you can't see them because the signal is very weak
+
+110
+00:10:18,160 --> 00:10:22,320
+they have to happen very close by so you might be able to detect them but black holes you can
+
+111
+00:10:22,320 --> 00:10:26,640
+detect very far away because they're usually bigger and that means that the that the signal
+
+112
+00:10:26,640 --> 00:10:30,960
+in gravitational waves is much stronger but that's all you get so you get the gravitational wave you
+
+113
+00:10:30,960 --> 00:10:34,880
+know it was two black holes you can you can measure the distance because of the gravitational
+
+114
+00:10:34,880 --> 00:10:39,200
+waves and you can get the mass of the black holes and maybe if we're lucky even how fast they were
+
+115
+00:10:39,200 --> 00:10:44,640
+rotating but it's very difficult to know exactly where they were so we cannot pinpoint the galaxy
+
+116
+00:10:44,640 --> 00:10:49,120
+in which the black holes collided because there's no light coming out of the system
+
+117
+00:10:49,120 --> 00:10:53,360
+and the gravitational wave doesn't allow you to locate this in the in space very well so
+
+118
+00:10:53,360 --> 00:10:57,520
+you can sort of say it came from that region in space but we don't know exactly where
+
+119
+00:10:57,600 --> 00:11:00,800
+whereas with neutron star is much more different because if you see the light
+
+120
+00:11:00,800 --> 00:11:06,320
+then you can pinpoint the galaxy exactly what would the hawking radiation of a black hole
+
+121
+00:11:06,320 --> 00:11:12,880
+look like would it be uh gamma rays well yeah hawking radiation is as i mentioned is a
+
+122
+00:11:12,880 --> 00:11:18,400
+theoretical idea that came from hawking in the 70s it still has not been confirmed observationally
+
+123
+00:11:18,400 --> 00:11:24,000
+or experimentally but basically hawking radiation is just what we call black body radiation now a
+
+124
+00:11:24,000 --> 00:11:29,360
+black body is not the same as a black hole a black body is just physicists terms of saying
+
+125
+00:11:29,360 --> 00:11:34,000
+something hot so we call it a black body because it absorbs everything that falls into it but and
+
+126
+00:11:34,000 --> 00:11:39,840
+then emits the light back as just heat so the sun even though it's not black it's yellow but it's
+
+127
+00:11:39,840 --> 00:11:44,080
+a very good approximation to a black body in in physics terms it's just something that emits
+
+128
+00:11:44,080 --> 00:11:49,280
+light because of it's hot it is hot and depending on how hot it is it emits light in different
+
+129
+00:11:49,280 --> 00:11:53,840
+wavelengths so if it's not very hot you can't see it if it's a little bit hotter you see it
+
+130
+00:11:53,840 --> 00:11:59,120
+red and hotter still than yellow and if it's very hot you see it blue now black holes emit
+
+131
+00:11:59,120 --> 00:12:04,960
+radiation just like this a black body radiation but the temperature of a black hole is inverse
+
+132
+00:12:04,960 --> 00:12:10,560
+to its mass that means that very large black holes are essentially very cold and emit very
+
+133
+00:12:10,560 --> 00:12:15,520
+little radiation and radiation you cannot see with normal light it would come in radio waves
+
+134
+00:12:15,520 --> 00:12:20,800
+so for a for a black hole the mass of a star the hawking radiation would come in the very very
+
+135
+00:12:20,880 --> 00:12:25,760
+far radio waves and would be so weak that we wouldn't be able to detect it at all if the
+
+136
+00:12:25,760 --> 00:12:30,880
+black hole was very small and when i mean very small about the size of a of an atom or something
+
+137
+00:12:30,880 --> 00:12:37,200
+like that i mean really small with the mass of a few atoms then it would emit radiation very very
+
+138
+00:12:37,200 --> 00:12:42,560
+hot and it would come out in gamma rays probably but we haven't seen that it's it's very difficult
+
+139
+00:12:42,560 --> 00:12:48,400
+to detect so so there's no proof yet observation or proof that hawking radiation exists it's just
+
+140
+00:12:48,400 --> 00:12:54,960
+a theoretical idea now to get into the concept of a star drive that you could use a black hole to
+
+141
+00:12:54,960 --> 00:13:03,680
+drive the smaller the black hole the more radiation it emits right yes that's correct so if you if you
+
+142
+00:13:03,680 --> 00:13:10,560
+saw i mean could there be like a technosignature there as they say within astrobiology a technosignature
+
+143
+00:13:10,560 --> 00:13:16,800
+would an artificial very small black hole low mass yeah would that be visible as something that
+
+144
+00:13:16,800 --> 00:13:22,560
+you could say that is an alien star drive driven by a micro black hole not really because the
+
+145
+00:13:22,560 --> 00:13:27,760
+process it would be very very it's very fast a very small black hole with the mid hawking radiation
+
+146
+00:13:27,760 --> 00:13:32,560
+so fast that it would evaporate very quickly and what you would see essentially is probably
+
+147
+00:13:32,560 --> 00:13:38,560
+something more like an explosion a burst of gamma rays so some people have actually speculated
+
+148
+00:13:38,560 --> 00:13:43,040
+the gamma ray bursts are actually black holes evaporating but the idea doesn't fit very well
+
+149
+00:13:43,040 --> 00:13:46,400
+but you would see some sort of burst of radiation and that's it it would die very quickly
+
+150
+00:13:46,800 --> 00:13:51,200
+because the black hole as it evaporates as it emits radiation it loses mass and the smaller
+
+151
+00:13:51,200 --> 00:13:56,240
+it is the faster this goes so very small black hole would evaporate very quickly in a matter
+
+152
+00:13:56,240 --> 00:14:01,440
+of seconds so you wouldn't see something that just emitting hawking radiation for a long time
+
+153
+00:14:01,440 --> 00:14:06,160
+you would see a burst of radiation and then it's dead right it would be something very quick
+
+154
+00:14:06,880 --> 00:14:13,120
+and and also depends on the size if you have a small black hole that's still a few grams in
+
+155
+00:14:13,120 --> 00:14:18,080
+weight that would still not emit enough hawking radiation for us to detect it it would have to be
+
+156
+00:14:18,080 --> 00:14:21,680
+something that weighs not much more than a few atoms and then you would see a lot of
+
+157
+00:14:21,680 --> 00:14:28,560
+radiation and it would happen very quickly so you would see it as a burst but so say you had a
+
+158
+00:14:28,560 --> 00:14:33,760
+kugelblitz essentially a tiny little black hole that you've artificially created with lasers
+
+159
+00:14:33,760 --> 00:14:38,800
+it would radiate in a certain way but very rapidly if i'm understanding it correctly so you would
+
+160
+00:14:39,040 --> 00:14:47,360
+see it evaporate almost instantly exactly yeah now you're also known for the alcubierre warp
+
+161
+00:14:47,360 --> 00:14:52,560
+field and i call it the warp field because you know a lot of people say star drive but it's really
+
+162
+00:14:53,600 --> 00:15:01,040
+the idea of warping space time at its most at its most basic what is the alcubierre warp field
+
+163
+00:15:01,040 --> 00:15:06,800
+well the idea is just the way in which you can deform space that would allow you to travel in
+
+164
+00:15:06,800 --> 00:15:13,920
+principle as fast as you want in space without actually moving so it's it's as you mentioned
+
+165
+00:15:13,920 --> 00:15:18,640
+it correctly it's not a star drive it's not a machine it has nothing to do with a spaceship
+
+166
+00:15:18,640 --> 00:15:24,880
+it's just a model of what you would need to do to space to be able to move very fast and the idea
+
+167
+00:15:24,880 --> 00:15:29,920
+is to use the fact that space can be deformed and according to the theory of relativity einstein's
+
+168
+00:15:29,920 --> 00:15:35,600
+general relativity gravity is just a deformation of space it's a deformation of the of the geometry
+
+169
+00:15:35,600 --> 00:15:40,000
+of space so space can be curved usually people here talk about the curvature of space or space
+
+170
+00:15:40,000 --> 00:15:44,960
+time but a curvature is a very generic name so you can do many things to space you can expand
+
+171
+00:15:44,960 --> 00:15:50,400
+it and you can contract it for example and we've all heard about the expansion of the universe
+
+172
+00:15:50,400 --> 00:15:55,280
+and that happens because space is expanding so people usually don't understand that correctly
+
+173
+00:15:55,280 --> 00:15:59,440
+because they think that if space the expansion of the universe they think is because galaxies
+
+174
+00:15:59,440 --> 00:16:03,600
+are flying apart because there was some huge explosion somewhere but it's not like that at
+
+175
+00:16:03,600 --> 00:16:08,400
+all and galaxies are not flying apart galaxies are just sitting there quietly in their own corner
+
+176
+00:16:08,400 --> 00:16:14,800
+of the universe but space between them is expanding it's been stretched so you can do that to space you
+
+177
+00:16:14,800 --> 00:16:21,600
+can stretch space and you can also contract space and then the idea i had back in 94 was that you
+
+178
+00:16:21,600 --> 00:16:27,280
+can do this in a very small scale so if you imagine that you do a very violent but very
+
+179
+00:16:27,280 --> 00:16:32,560
+localized expansion of space behind you that would push you away from things that are behind you
+
+180
+00:16:32,560 --> 00:16:37,360
+and if at the same time you do an opposite contraction of space in front of you that would
+
+181
+00:16:37,360 --> 00:16:42,480
+pull you towards things in front of you and the net effect of those two things combined is that
+
+182
+00:16:42,480 --> 00:16:46,880
+you would move you would move through space you would get away from the things behind you and
+
+183
+00:16:46,880 --> 00:16:51,600
+closer to the things in front of you but you will not be moving yourself you would be sitting in a
+
+184
+00:16:51,600 --> 00:16:57,280
+bubble of quiet space if you want with a violent expansion behind you and a violent contraction in
+
+185
+00:16:57,280 --> 00:17:02,160
+front of you and that would apparently you would move through space without moving at all so it
+
+186
+00:17:02,160 --> 00:17:07,200
+would space doing the moving and this is the idea i had as i called it the warp drive because it
+
+187
+00:17:07,200 --> 00:17:12,320
+gave me the a similar idea to what happens in science fiction but it's this idea of warping
+
+188
+00:17:12,320 --> 00:17:17,920
+space to be able to to move fast very fast and there's no limit to how fast space can expand
+
+189
+00:17:17,920 --> 00:17:23,120
+or contract so in principle you could use this sort of warp bubble to move faster than light
+
+190
+00:17:23,120 --> 00:17:29,440
+so that was the idea i had in 94 now there's a price to pay and there's nothing is free so the
+
+191
+00:17:29,440 --> 00:17:34,800
+the theory of relativity tells you that curvature or this geometry of space time can be the firm
+
+192
+00:17:34,800 --> 00:17:40,880
+deformed but it's deformed through them through the effect of gravity so you need large concentrations
+
+193
+00:17:40,880 --> 00:17:45,360
+of mass and energy to produce a deformation of space and there's some equations we call them
+
+194
+00:17:45,360 --> 00:17:50,480
+the Einstein field equations that tell you if you have this concentration of matter you will produce
+
+195
+00:17:50,480 --> 00:17:56,240
+this deformation of space and that's the normal way in which we go about it we we think okay we
+
+196
+00:17:56,240 --> 00:18:01,600
+have a star and the star has this concentration of mass and we go through the equations and figure
+
+197
+00:18:01,600 --> 00:18:06,400
+out what the deformation of space related to the star is and then that gives us the gravitational
+
+198
+00:18:06,400 --> 00:18:11,280
+field of the star but in this case i did it the other way around i said i want this very specific
+
+199
+00:18:11,280 --> 00:18:17,200
+deformation of space this warp bubble and you go through the equations backwards and it tells you
+
+200
+00:18:17,200 --> 00:18:22,880
+what sort of energy density at what sort of mass distribution you need it to be able to
+
+201
+00:18:22,880 --> 00:18:28,320
+produce this strange deformation of space and when you do that you find that it's something very
+
+202
+00:18:28,320 --> 00:18:34,240
+nasty because you need something with physicists called negative energy which maybe doesn't say
+
+203
+00:18:34,240 --> 00:18:39,840
+much to ordinary people but if people remember this famous equation e equals mc squared that
+
+204
+00:18:39,840 --> 00:18:44,640
+tells you energy and mass are the same thing then when we talk about negative energy we're really
+
+205
+00:18:44,640 --> 00:18:49,440
+talking about negative mass and negative mass as far as we understand does not exist in the
+
+206
+00:18:49,440 --> 00:18:53,760
+universe so that's a big problem with the warp drive you need negative energy and even if you
+
+207
+00:18:53,760 --> 00:18:58,960
+have negative energy you need huge amounts of negative energy because to deform the space is
+
+208
+00:18:58,960 --> 00:19:03,600
+very difficult to deform space it doesn't like to be deformed so in order to deform space a lot you
+
+209
+00:19:03,600 --> 00:19:10,080
+need huge concentrations of mass you need planets entire planets of energy to be able to deform space
+
+210
+00:19:10,080 --> 00:19:15,920
+even a little bit so you would need for the warp drive the equivalent of a jupiter sized object
+
+211
+00:19:15,920 --> 00:19:20,720
+but on pure energy and also the energy would have to be negative not positive so that's that's a big
+
+212
+00:19:20,720 --> 00:19:25,840
+problem with the warp drive but the idea was just just this basic idea that you can actually
+
+213
+00:19:25,840 --> 00:19:30,080
+deform space and it would allow you to travel faster than light if you deform it in the right
+
+214
+00:19:30,080 --> 00:19:37,920
+way the idea of the of the warp bubble and warp drive what inspired you to think about this was
+
+215
+00:19:38,160 --> 00:19:42,880
+science fiction as in star trek yeah i was actually watching an episode of star trek the
+
+216
+00:19:42,880 --> 00:19:48,960
+next generation i don't remember which episode it was but it was some episode of star trek the
+
+217
+00:19:48,960 --> 00:19:55,520
+next generation sometime in 92 i was doing my phd at the time in britain and watching this episode
+
+218
+00:19:55,520 --> 00:20:00,240
+they they keep always talking about the warp drive and the warp drive and and i was doing a
+
+219
+00:20:00,240 --> 00:20:05,120
+phd in the black holes at the time in black hole collisions precisely and i was using ancient
+
+220
+00:20:05,120 --> 00:20:10,960
+theory of relativity all the time so i started thinking how maybe if they talk about the warp
+
+221
+00:20:10,960 --> 00:20:15,440
+drive they mean that they're deforming space so how could you really deform space to to be able
+
+222
+00:20:15,440 --> 00:20:20,240
+to do something similar to what they do in science fiction and i started thinking about that and then
+
+223
+00:20:20,240 --> 00:20:24,640
+i had this idea of the expansion and contraction of space the expansion behind you the construction
+
+224
+00:20:24,640 --> 00:20:29,520
+in from in front this sort of bubble and then i went back to the office and i did some quick
+
+225
+00:20:29,520 --> 00:20:34,960
+calculations to see if the idea could be expressed mathematically in a simple way and i found that it
+
+226
+00:20:35,120 --> 00:20:39,840
+yes you could express it mathematically in a relatively simple way so i did it and then
+
+227
+00:20:39,840 --> 00:20:45,120
+eventually i published a paper about that i actually i was doing my my my phd at the time
+
+228
+00:20:45,120 --> 00:20:50,160
+so i was still a student i went to my supervisor to tell him about the idea and i had already
+
+229
+00:20:50,160 --> 00:20:57,120
+written something up and i was afraid he would tell me to just stop thinking idiotic ideas and
+
+230
+00:20:57,120 --> 00:21:02,720
+go back to work but he was actually very supportive he told me that it was a very nice idea and i and
+
+231
+00:21:02,720 --> 00:21:08,000
+he helped me publish it so it was actually my first scientific paper and on that note we have
+
+232
+00:21:08,000 --> 00:21:13,840
+to go to break be sure to like subscribe and hit the bell for this channel if you like interviews
+
+233
+00:21:13,840 --> 00:21:18,800
+like this and we will be back in a moment and we'll talk much more extensively about the idea
+
+234
+00:21:18,800 --> 00:21:26,720
+of a warp bubble if you'd like to support event horizon you'll be pleased to know we've recently
+
+235
+00:21:26,720 --> 00:21:33,360
+launched a patreon link in the description below or alternatively you can use your cellular
+
+236
+00:21:33,360 --> 00:21:40,160
+telephone to scan the assemblage of squares on screen now be sure to like subscribe and
+
+237
+00:21:40,160 --> 00:21:48,080
+share the video and now back to john and we're back with dr mcgill alcubierre doctor you were
+
+238
+00:21:48,080 --> 00:21:54,080
+inspired by star trek too which is something that that i think is important because science
+
+239
+00:21:54,080 --> 00:21:59,520
+fiction tends to inspire the imagination for anybody from scientists down to the common person
+
+240
+00:22:00,160 --> 00:22:08,080
+you were inspired into thinking about could you create a warp field now yeah tell us more about
+
+241
+00:22:08,080 --> 00:22:17,200
+this warp field where you could create a geometry i suppose of spacetime where you have one area of
+
+242
+00:22:17,200 --> 00:22:22,240
+spacetime in front of the ship and the ship is stationary within a piece of spacetime essentially
+
+243
+00:22:22,240 --> 00:22:30,320
+broken off from the rest of of spacetime so how does it work is it less dense in front of the ship
+
+244
+00:22:30,320 --> 00:22:36,080
+and more dense behind the ship how does this work well it's it's not so much density is is
+
+245
+00:22:36,080 --> 00:22:42,000
+it's a dynamic thing is space can contract and it can expand so in front of the ship you would
+
+246
+00:22:42,000 --> 00:22:47,520
+have a region in which space is contracting very violently and very quickly and behind it you would
+
+247
+00:22:47,520 --> 00:22:52,000
+have a region an opposite region in which is expanding very violently and very quickly
+
+248
+00:22:52,000 --> 00:22:56,880
+and it would do this in in a thin shell so the idea is that you would have a sort of relatively
+
+249
+00:22:56,880 --> 00:23:02,080
+large region of space in which space is quiet and nothing is happening to it and and you're sitting
+
+250
+00:23:02,080 --> 00:23:07,520
+inside this this region and then on the boundary of this region you have a very thin shell in which
+
+251
+00:23:07,520 --> 00:23:13,120
+there's either expansion behind you or contraction in front of you and this is a very violent effect
+
+252
+00:23:13,200 --> 00:23:18,480
+so you would it can move you very fast so that's the basic idea and this is when we think about a
+
+253
+00:23:18,480 --> 00:23:23,200
+field here we're talking about really what's really the gravitational field it's a gravitational
+
+254
+00:23:23,200 --> 00:23:28,720
+field is the geometry of spacetime that's how we understand it so it's the gravitational field the
+
+255
+00:23:28,720 --> 00:23:34,240
+one that's producing this now you can think about another kind of field or energy field or something
+
+256
+00:23:34,240 --> 00:23:38,720
+that's the one that producing this right so because if you want to deform space you need
+
+257
+00:23:38,720 --> 00:23:44,480
+some concentration of energy or mass so the easiest thing is to think that it's not so much
+
+258
+00:23:44,480 --> 00:23:48,960
+mass that you're carrying around with you or negative mass is some sort of energy field that
+
+259
+00:23:48,960 --> 00:23:55,600
+you're projecting and this energy field has a very large negative energy and this produces this
+
+260
+00:23:55,600 --> 00:24:00,960
+strange curvature a strange expansion and contraction of space in front and behind you
+
+261
+00:24:01,520 --> 00:24:07,200
+so that's the basic idea i never went very much or very far into the details i just wanted to
+
+262
+00:24:07,200 --> 00:24:13,280
+show that this was in principle possible that the equations of general relativity allowed for the
+
+263
+00:24:13,280 --> 00:24:18,480
+formation of space that looked like this and i also showed very quickly that you would need this
+
+264
+00:24:18,480 --> 00:24:22,800
+negative energy which is a big drawback because as far as we understand we don't have it in the
+
+265
+00:24:22,800 --> 00:24:29,760
+universe so that's that's basically how i how i left it and and then i never worked back on the
+
+266
+00:24:29,760 --> 00:24:34,800
+on that again so a lot of people have worked on that in the past 25 years but i never went back
+
+267
+00:24:34,880 --> 00:24:39,280
+i i only wrote the first paper and then i've been just looking about what people say about it
+
+268
+00:24:39,920 --> 00:24:47,440
+you introduced an idea and saw what happened exactly so because of mass energy equivalence
+
+269
+00:24:47,440 --> 00:24:53,680
+if if you see and you have evidence of negative energy which maybe there is a little bit of
+
+270
+00:24:53,680 --> 00:24:59,120
+evidence for that there's certainly nothing for negative mass but is there any evidence
+
+271
+00:24:59,120 --> 00:25:06,480
+that we could create such a material negative energy might be possible in small regions of space
+
+272
+00:25:06,480 --> 00:25:10,960
+and in very small quantities i'm not sure if that would be useful for the warp drive because
+
+273
+00:25:11,520 --> 00:25:16,720
+one thing is maybe it's possible but maybe you can't control it very well and maybe it's very
+
+274
+00:25:16,720 --> 00:25:21,840
+a very small quantity and you need huge amounts of it but still it's it's possible that negative
+
+275
+00:25:21,840 --> 00:25:26,560
+energy exists we have hints about it quantum theory tells us that in some circumstances
+
+276
+00:25:27,520 --> 00:25:32,000
+something that like negative energy happens for example a very classic example that comes from
+
+277
+00:25:32,000 --> 00:25:37,120
+about 50 years ago is something that comes from quantum mechanics quantum field theory
+
+278
+00:25:37,120 --> 00:25:42,160
+and it's actually called the casimir effect and the casimir effect the idea is you put two
+
+279
+00:25:42,160 --> 00:25:48,160
+parallel metallic plates very close to each other and the metallic plates conduct electricity and
+
+280
+00:25:48,160 --> 00:25:52,880
+that means that even if they're not charged they they produce some sort of boundary conditions for
+
+281
+00:25:52,880 --> 00:25:58,640
+the electric field and it's because they're conductive so inside between the plates then
+
+282
+00:25:58,640 --> 00:26:03,840
+you can only have a very definite number of of modes of the electric field those that fit in
+
+283
+00:26:03,840 --> 00:26:07,840
+there it's like a string if you have a string in a guitar can only oscillate in a given certain
+
+284
+00:26:07,840 --> 00:26:12,000
+ways because of the length of the string so this is the same idea that the separation of the plates
+
+285
+00:26:12,800 --> 00:26:17,760
+makes the the electric field in the middle allows it only to oscillate in very specific ways
+
+286
+00:26:17,760 --> 00:26:22,400
+and outside of those plates the electric field can oscillate any way it wants because there's no
+
+287
+00:26:22,400 --> 00:26:28,320
+nose restriction and we know that according to quantum theory the vacuum is not empty so that
+
+288
+00:26:28,320 --> 00:26:32,640
+means that the vacuum is actually full of fields popping in and out of existence all the time we
+
+289
+00:26:32,640 --> 00:26:39,360
+call that the vacuum energy or the vacuum the quantum vacuum or the vacuum energy and it since
+
+290
+00:26:39,360 --> 00:26:43,760
+outside you have have more freedom than inside the plates that mean that inside the plates you
+
+291
+00:26:43,760 --> 00:26:49,760
+have less vacuum energy than outside and if you define the vacuum energy outside as zero
+
+292
+00:26:50,720 --> 00:26:55,120
+then it means that inside the plates you have negative energy because it's less than zero
+
+293
+00:26:55,120 --> 00:26:59,600
+so that's an effect that we've been we've known for about 50 years it's a completely theoretical
+
+294
+00:26:59,600 --> 00:27:05,680
+idea it hasn't been measured not the energy there's a secondary effect that all these things would
+
+295
+00:27:05,680 --> 00:27:10,560
+imply that the plates feel a small amount of force and there will be a force that will try to put
+
+296
+00:27:10,560 --> 00:27:15,040
+them together to bring them together this is called the casimir force and i understand that
+
+297
+00:27:15,040 --> 00:27:19,760
+the casimir force has been measured it's very difficult experiment but apparently the casimir
+
+298
+00:27:19,760 --> 00:27:25,040
+force has been measured but the this negative energy inside has not been measured now if it
+
+299
+00:27:25,040 --> 00:27:31,680
+does exist and it probably does it would be a very small amount of negative energy so it's not
+
+300
+00:27:31,680 --> 00:27:37,200
+enough for a warp drive by far and and even then it's not clear how you can manipulate that so
+
+301
+00:27:38,000 --> 00:27:42,640
+it's very little and not very easy to manipulate so i'm not sure that would help but there's this
+
+302
+00:27:42,640 --> 00:27:48,400
+hints that maybe in some cases negative energy exists then we also know in a separate case in
+
+303
+00:27:48,400 --> 00:27:53,600
+which is not so much negative energy but there's something like anti-gravity going on around in
+
+304
+00:27:53,600 --> 00:27:59,200
+the universe and maybe anti-gravity could also be used for the warp drive it's not clear at the
+
+305
+00:27:59,200 --> 00:28:04,320
+at the moment but maybe we could and when i talk about anti-gravity we normally think of gravity
+
+306
+00:28:04,320 --> 00:28:09,680
+as a force that brings things together that planets attract each other and objects attract
+
+307
+00:28:09,680 --> 00:28:14,160
+each other because of gravity and that gravity would be a repulsive form of gravity that would
+
+308
+00:28:14,160 --> 00:28:20,800
+make things repel each other and this might exist because we've seen in the universe at large for
+
+309
+00:28:20,800 --> 00:28:28,400
+the last 20 just over 20 years we've realized that the the expansion of the universe is accelerating
+
+310
+00:28:28,400 --> 00:28:33,520
+instead of decelerating it's going faster and faster all the time and the only way in which
+
+311
+00:28:33,520 --> 00:28:40,560
+we can understand this is by postulating some sort of anti-gravity in the universe at large
+
+312
+00:28:40,560 --> 00:28:44,720
+we normally call it dark energy so if you hear about dark energy when people talk about the
+
+313
+00:28:44,720 --> 00:28:50,560
+universe is this mysterious form of energy an energy field that produces a little bit of
+
+314
+00:28:50,560 --> 00:28:56,640
+anti-gravity that causes the expansion of the universe to accelerate and this anti-gravity
+
+315
+00:28:56,640 --> 00:29:01,520
+might be useful for the warp drive i'm not sure i've tried to do some calculations in the past but
+
+316
+00:29:01,520 --> 00:29:08,400
+i've never been able to go very far but my hope is that yes maybe dark energy could be used to
+
+317
+00:29:08,400 --> 00:29:13,840
+do something similar to a warp drive at some point in the future but but still not clear at this point
+
+318
+00:29:14,640 --> 00:29:22,000
+so because of mass energy equivalence einstein's famous equation e equals mc squared if you can
+
+319
+00:29:22,720 --> 00:29:30,000
+find some sort of negative energy whether it's dark energy or or casimir effect or what have you
+
+320
+00:29:30,960 --> 00:29:37,600
+does that suggest that you could create and actually perhaps manufacture negative mass
+
+321
+00:29:37,600 --> 00:29:42,880
+at you know an object that has negative mass yeah it's a good point and one might think that
+
+322
+00:29:42,880 --> 00:29:48,000
+it's possible i don't think it's very likely because when we think about mass as such we're
+
+323
+00:29:48,000 --> 00:29:52,480
+actually thinking of on particles elementary particles we have no hints that there's any
+
+324
+00:29:52,480 --> 00:29:57,280
+elementary particle with negative mass in this case would when we think about negative energy
+
+325
+00:29:57,280 --> 00:30:03,040
+would be more like a an energy field and it's the energy would not so much be negative per se but
+
+326
+00:30:03,040 --> 00:30:08,400
+just less than the vacuum and the vacuum it would define the vacuum as zero then it would be negative
+
+327
+00:30:08,400 --> 00:30:14,720
+would be more like that like less than the vacuum and and it's difficult to see how you can translate
+
+328
+00:30:14,720 --> 00:30:19,760
+that into a particle and make a particle with negative mass so even though it might be suggested
+
+329
+00:30:19,760 --> 00:30:25,040
+by the formula equals mc squared i think in practice there's there's probably not not that
+
+330
+00:30:25,040 --> 00:30:30,000
+easy or not true at all that you could create a particle of negative mass but it's true that
+
+331
+00:30:30,000 --> 00:30:34,800
+nothing forbids it in the in the physical loss we know there's no nothing that forbids
+
+332
+00:30:35,440 --> 00:30:41,040
+to have a negative mass particle it's just it would do very strange things and we have never
+
+333
+00:30:41,040 --> 00:30:47,920
+seen something like that in other words the the universe does not ban the existence of something
+
+334
+00:30:47,920 --> 00:30:52,560
+with negative mass say you have a an apple made of negative mass that would be anti-gravity the
+
+335
+00:30:52,560 --> 00:30:58,560
+universe doesn't forbid it but that doesn't mean it can exist right yeah it's not so much the
+
+336
+00:30:58,560 --> 00:31:03,920
+universe doesn't forbid it is the loss of physics as we understand them today don't forbid it it
+
+337
+00:31:03,920 --> 00:31:09,200
+might be very well that the universe does forbid them but we just don't know how right so is the
+
+338
+00:31:09,200 --> 00:31:14,320
+loss we understand does not forbid it but there's no indication that that's something that can happen
+
+339
+00:31:14,320 --> 00:31:18,400
+right it's yeah it's not same so there's things that are not forbidden by the loss of nature but
+
+340
+00:31:18,400 --> 00:31:23,840
+don't happen for example the loss of nature are the loss of mechanics Newtonian mechanics
+
+341
+00:31:23,840 --> 00:31:30,720
+are reversible so in principle if it can break a glass in the floor the loss of mechanics would
+
+342
+00:31:30,720 --> 00:31:36,400
+allow the process to be reversed to all the pieces of glass to jump together and and coalesce into
+
+343
+00:31:36,400 --> 00:31:41,440
+a full-form glass and jump into my hand that's allowed by the loss of physics but it doesn't
+
+344
+00:31:41,440 --> 00:31:46,640
+happen right because it violates all the things like thermodynamics and things like that so it's
+
+345
+00:31:46,640 --> 00:31:50,640
+just statistically not not not likely to happen so it might be something like that that the loss
+
+346
+00:31:50,640 --> 00:31:56,800
+of physics do not forbid negative mass but maybe it's again statistically unlikely in the same
+
+347
+00:31:56,800 --> 00:32:03,040
+way as a glass reconstruction itself would be unlikely right so very very unlikely say let's
+
+348
+00:32:03,040 --> 00:32:09,360
+conjecture for a moment say that it could exist is there a way for the big bang to have produced
+
+349
+00:32:10,080 --> 00:32:14,960
+matter with negative mass if they do exist then they should have been produced in the big bang
+
+350
+00:32:15,760 --> 00:32:20,480
+the big bang there was so much energy around that essentially any particle that could exist was
+
+351
+00:32:20,480 --> 00:32:26,480
+created most of those particles don't live very long so that would be another question right you
+
+352
+00:32:26,480 --> 00:32:31,360
+have a negative mass particle how long does it live so most most elementary particles we know
+
+353
+00:32:31,360 --> 00:32:37,200
+about are actually unstable and they decay very quickly into other other types of particles and
+
+354
+00:32:37,200 --> 00:32:42,080
+in the end we're only left with a few stable particles which the ones we were taught about in
+
+355
+00:32:42,080 --> 00:32:46,240
+high school right the positive right the the proton the neutron and the electron and everything
+
+356
+00:32:46,240 --> 00:32:49,600
+is made of those three because those are the only three that are actually survived because they're
+
+357
+00:32:49,600 --> 00:32:54,800
+stable all the other zoo of particles that we know from particle physics are unstable but they're all
+
+358
+00:32:54,800 --> 00:32:59,120
+produced at the big bang because at the big bang there were so much energy available available that
+
+359
+00:32:59,120 --> 00:33:04,640
+everything was everything that could be produced was produced so yes if negative energy particles
+
+360
+00:33:04,640 --> 00:33:08,800
+can exist and in principle they could be have been produced in the big bang but the next question
+
+361
+00:33:08,800 --> 00:33:12,560
+would be how long do they live if they don't live very long we wouldn't see them around
+
+362
+00:33:13,120 --> 00:33:18,640
+and it would be interesting if there was some sort of stable negative energy particle but then
+
+363
+00:33:18,640 --> 00:33:23,040
+we would have seen it that that's what we would expect right if there's some sort of stable
+
+364
+00:33:23,760 --> 00:33:27,840
+particle then we should see it today because since it's stable it should be around it we should be
+
+365
+00:33:27,840 --> 00:33:32,240
+able to detect it right and we haven't been able to detect anything like that so if they do exist
+
+366
+00:33:32,240 --> 00:33:37,760
+they're probably not stable now that's somewhat of a mystery in and of itself within within physics
+
+367
+00:33:37,760 --> 00:33:45,680
+is if the big bang created antimatter then shouldn't we see what happened to all the
+
+368
+00:33:45,680 --> 00:33:51,360
+antimatter it should have been an almost equivalent amount to normal matter but yet we don't see it
+
+369
+00:33:51,360 --> 00:33:58,560
+leading to questions about is the is did did most of the universe annihilate you know as far as
+
+370
+00:33:58,560 --> 00:34:04,880
+matter goes early on in the universe exactly that's an excellent question it's one of the biggest
+
+371
+00:34:04,880 --> 00:34:10,480
+puzzles and mysteries of modern physics that we don't know the answer to and we're certainly
+
+372
+00:34:10,480 --> 00:34:16,160
+worried about that so yes in the big bang as far as we understand physics today an equal amount of
+
+373
+00:34:16,160 --> 00:34:21,360
+particles and antiparticles should have been produced and then then those particles should
+
+374
+00:34:21,360 --> 00:34:26,000
+have annihilated each other when they found each other when a particle and antiparticle meet they
+
+375
+00:34:26,000 --> 00:34:31,200
+annihilate each other and they produce pure energy so we should live in a universe of pure energy
+
+376
+00:34:31,200 --> 00:34:35,280
+because all the particles and antiparticles should have annihilated each other and should have been
+
+377
+00:34:35,280 --> 00:34:39,760
+exactly equal amounts of them because of the symmetry and of course that's not the case
+
+378
+00:34:39,760 --> 00:34:45,120
+fortunately we're around and there's matter around so for some reason there must have been at the
+
+379
+00:34:45,120 --> 00:34:51,840
+beginning a slightly larger amount of matter than antimatter maybe a very small fraction but a
+
+380
+00:34:51,840 --> 00:34:56,400
+little bit more matter than antimatter and when the annihilation occurred some matter was left
+
+381
+00:34:56,400 --> 00:35:00,720
+behind we don't really know why that's a big question people have been thinking about that
+
+382
+00:35:00,720 --> 00:35:06,480
+for 50 years at least if famous physicists and even soviet physicists like gamma one thinks that
+
+383
+00:35:06,480 --> 00:35:12,000
+we're thinking about why matter prevails over antimatter and people are still thinking about
+
+384
+00:35:12,000 --> 00:35:16,720
+that today but we don't have a clear answer yet but it is one of the big mysteries of modern
+
+385
+00:35:16,720 --> 00:35:23,360
+to ethical physics why there is there's matter and no antimatter around back to matter with
+
+386
+00:35:23,360 --> 00:35:29,200
+negative mass how would this stuff behave it would be by its nature anti-gravity so
+
+387
+00:35:30,000 --> 00:35:35,360
+if you were looking for it in nature would it immediately eject itself out of a galaxy or would
+
+388
+00:35:35,360 --> 00:35:41,040
+it concentrate at certain points in a galaxy where you have this this gravitational equilibrium
+
+389
+00:35:41,040 --> 00:35:47,280
+going or would it be out in the intergalactic space just it would produce a different type
+
+390
+00:35:47,280 --> 00:35:53,200
+of gravity so a large object made of negative mass would produce a gravitational field that
+
+391
+00:35:53,200 --> 00:35:59,200
+would be repulsive so if you were so instead of falling into a lot so imagine you have a star
+
+392
+00:35:59,200 --> 00:36:03,680
+like the sun but it's made of negative mass so instead of falling into it you would be repelled
+
+393
+00:36:03,680 --> 00:36:09,200
+by it you would fly away from it because it the field it produces is opposite so it would produce
+
+394
+00:36:09,200 --> 00:36:14,400
+produce a repulsive field now as far as small particles that that's not true because a small
+
+395
+00:36:14,400 --> 00:36:19,200
+particle it doesn't matter that's one of the things we know about gravity that the trajectory
+
+396
+00:36:19,200 --> 00:36:23,760
+of a small particle when it's moving in a gravitational field of a much larger object
+
+397
+00:36:23,760 --> 00:36:28,800
+the trajectory follows independent of its mass so it doesn't matter the mass is positive or
+
+398
+00:36:28,800 --> 00:36:34,240
+negative it would do the same thing so if we have the sun and the sun is normal a normal star of
+
+399
+00:36:34,240 --> 00:36:39,520
+positive matter and we had an earth made of negative mass it would still go around the sun
+
+400
+00:36:39,520 --> 00:36:44,400
+exactly the same way the earth goes around the sun because the mass is much smaller and doesn't
+
+401
+00:36:44,400 --> 00:36:47,920
+matter if it's negative or positive it would follow the gravitational field of the sun and
+
+402
+00:36:47,920 --> 00:36:53,680
+that's attractive so it's more like that it large amounts of negative mass would produce a repulsive
+
+403
+00:36:53,680 --> 00:36:59,280
+gravitational field but a negative mass particle would not be repelled by the sun it would still
+
+404
+00:36:59,280 --> 00:37:05,520
+be attracted by the sun because it doesn't matter which side the mass is so yes particles of negative
+
+405
+00:37:05,520 --> 00:37:10,400
+mass would not be expelled from the galaxy but if they clump together into a larger object that
+
+406
+00:37:10,400 --> 00:37:17,120
+object would be repulsive things would fly away from that object now with this concept of negative
+
+407
+00:37:17,120 --> 00:37:21,920
+matter i suppose you could call it this is also important with things like creating stable worm
+
+408
+00:37:21,920 --> 00:37:28,960
+holes and and yeah essentially any speculative way we could conquer the speed of light so to speak
+
+409
+00:37:29,600 --> 00:37:36,480
+now the universe doesn't ban it but we have no indication of it how could we detect such matter
+
+410
+00:37:36,480 --> 00:37:43,040
+which i guess would be the first step in trying to harness its power how could we detect this negative
+
+411
+00:37:43,040 --> 00:37:48,400
+mass material if it existed at a distance it would be difficult you would have to find some
+
+412
+00:37:48,400 --> 00:37:54,240
+sort of objects large very large object in space that instead of attracting nearby objects repels
+
+413
+00:37:54,240 --> 00:38:00,240
+them so but if there was a galaxy with negative mass then we would have seen it because we would
+
+414
+00:38:00,240 --> 00:38:05,200
+see that the trajectories of other galaxies close to it are repulsive instead of attractive so
+
+415
+00:38:05,200 --> 00:38:09,600
+maybe we should be able to see it in large clusters of galaxies and if there was a galaxy
+
+416
+00:38:09,600 --> 00:38:15,200
+there with negative mass if if the object is much smaller then it's very difficult to detect
+
+417
+00:38:15,200 --> 00:38:19,760
+if you have individual particles with negative mass then we should see those in particle
+
+418
+00:38:19,760 --> 00:38:25,280
+accelerators and then we should be able to measure it because essentially energy is conserved so in
+
+419
+00:38:25,280 --> 00:38:30,000
+an interaction with mass with particles with negative mass you would see that you gain more
+
+420
+00:38:30,000 --> 00:38:34,240
+energy than you put in because some of the energy became negative and you ended up with negative
+
+421
+00:38:34,240 --> 00:38:38,800
+energy particles so that you you should be able to measure that in the energy balance and in
+
+422
+00:38:38,800 --> 00:38:43,360
+particle collisions in an accelerator so that which we would have seen an accelerator and we
+
+423
+00:38:43,360 --> 00:38:48,640
+haven't seen it but as as far as much larger objects in the universe that those are difficult
+
+424
+00:38:48,640 --> 00:38:52,960
+to detect unless they're extremely large and have a big effect on the surroundings based on
+
+425
+00:38:53,680 --> 00:38:57,840
+but but i think it would be difficult to see but again there's no indication that they
+
+426
+00:38:57,840 --> 00:39:02,080
+they exist because if there was negative energy particles we would see those on a laboratory in
+
+427
+00:39:02,080 --> 00:39:07,760
+the on the accelerators and we haven't so no evidence whatsoever no unfortunately
+
+428
+00:39:09,040 --> 00:39:16,160
+now back to the warp field if you were in a spacecraft sitting static within within the
+
+429
+00:39:16,160 --> 00:39:22,640
+warp field and you were traveling across the universe at superluminal speeds what would that
+
+430
+00:39:22,640 --> 00:39:28,400
+be like what what i mean would you experience radiation i mean what would being inside the
+
+431
+00:39:28,400 --> 00:39:33,280
+warp bubble be like yeah there's some people that have thought about that and they've even done
+
+432
+00:39:33,280 --> 00:39:39,440
+some simulations as to how the stars would look like if you're sitting inside a warp bubble so
+
+433
+00:39:39,440 --> 00:39:44,960
+and essentially if you're going very fast even faster than the speed of light the first thing
+
+434
+00:39:44,960 --> 00:39:50,080
+you would notice that the the stars in front of you first you would see them in a very small cone
+
+435
+00:39:50,080 --> 00:39:54,800
+in front of you so you would see stars only in a very small circular region directly in front of
+
+436
+00:39:54,800 --> 00:39:59,040
+you everything outside that small cone you wouldn't see because the light wouldn't be able to reach you
+
+437
+00:39:59,040 --> 00:40:03,040
+because you're going faster than the light so you wouldn't be able to see anything behind you
+
+438
+00:40:03,040 --> 00:40:06,960
+because nothing would be able to catch up with you not even light so behind you it would be
+
+439
+00:40:06,960 --> 00:40:11,520
+totally black but also in front of you in a large region only on you would see only a small circle
+
+440
+00:40:11,520 --> 00:40:16,560
+of stars but again if you're going faster than light then any light that hits you from from in
+
+441
+00:40:16,560 --> 00:40:21,760
+front is going to be blue shifted so it's going it's going to increase in energy we call that
+
+442
+00:40:21,760 --> 00:40:25,440
+a blue shift it's similar to what happens with with an ambulance when it's coming towards you
+
+443
+00:40:25,440 --> 00:40:29,920
+you hear a very high pitch and it's moving away from you you hear in a very low pitch
+
+444
+00:40:29,920 --> 00:40:33,440
+so it's the same thing with light Doppler effect it's Doppler effect so you would see
+
+445
+00:40:34,480 --> 00:40:39,280
+the light coming towards you blue shifted so again it would be far more dangerous because
+
+446
+00:40:39,280 --> 00:40:43,280
+something that's normally just ordinary light will probably be hitting you like gamma rays and those
+
+447
+00:40:43,280 --> 00:40:48,240
+are very dangerous and so you would receive a lot of radiation from the front of the ship
+
+448
+00:40:48,240 --> 00:40:52,880
+and also anything else that is in in your path if there's a rock in your path or something like
+
+449
+00:40:52,880 --> 00:40:57,200
+that you would hit it at a huge speed and it would probably be deadly even a small grain of sand
+
+450
+00:40:57,200 --> 00:41:01,680
+right so yeah it would be extremely dangerous unless you had a very high efficiency shield
+
+451
+00:41:01,680 --> 00:41:06,800
+to shield you from the radiation coming from in front and also from any small speck of dust that
+
+452
+00:41:06,800 --> 00:41:11,840
+could hit you and destroy the ship so anything everything that hits you comes with higher energy
+
+453
+00:41:11,840 --> 00:41:16,640
+because it's shifted right so yeah that's essentially what you would see so whatever
+
+454
+00:41:16,640 --> 00:41:20,960
+light comes in front of you would be shifted even probably towards gamma rays depending how
+
+455
+00:41:20,960 --> 00:41:26,240
+fast you're moving it would be deadly and and you would need a big shield but and you would see
+
+456
+00:41:26,240 --> 00:41:30,160
+also this this deformation only a small region in front of you would be able to reach you
+
+457
+00:41:30,160 --> 00:41:34,560
+everything else won't be able to catch you and as I said I haven't done these calculations myself
+
+458
+00:41:34,560 --> 00:41:38,400
+but people have done them and they've done simulations over the years about how it would
+
+459
+00:41:38,400 --> 00:41:42,880
+look like from inside the the warp bubble and this is sort of the the things you find
+
+460
+00:41:43,760 --> 00:41:52,160
+so if you were traveling through space at rel you know at faster than light speeds we're not even
+
+461
+00:41:52,160 --> 00:41:57,840
+talking about relativistic speeds we're we're faster than that and you you caught up material
+
+462
+00:41:57,840 --> 00:42:03,840
+in front of your ship if you came out a warp in front of a planet you could do some serious
+
+463
+00:42:03,840 --> 00:42:08,320
+damage to that planet by that material right that's a very good observation and it's also
+
+464
+00:42:08,320 --> 00:42:13,440
+something people have actually done calculations on everything that's anything that's in your
+
+465
+00:42:13,440 --> 00:42:18,480
+path and doesn't directly hit you if it was moving forward say but not as fast as you you would you
+
+466
+00:42:18,480 --> 00:42:23,600
+would catch it but then it would be sort of stuck in the front of the bubble it wouldn't come inside
+
+467
+00:42:23,600 --> 00:42:28,800
+the bubble because it was moving towards the forward so you it wouldn't actually hit you
+
+468
+00:42:29,440 --> 00:42:33,600
+but it would be stuck in the front of the bubble so the front of the bubble forms like a barrier
+
+469
+00:42:33,600 --> 00:42:40,160
+that is sweeping particles and energy in front of you and and you would be accumulating a lot
+
+470
+00:42:40,160 --> 00:42:44,160
+of energy so any light for example that you catch because you're moving faster than light so if you
+
+471
+00:42:44,160 --> 00:42:48,160
+catch light that was moving forward but not as fast as you because you're moving faster than light
+
+472
+00:42:48,160 --> 00:42:53,440
+it would get stuck in the front of the bubble and then you you will catch a lot of light in that way
+
+473
+00:42:53,440 --> 00:42:59,600
+and when you stop all that light that you caught would suddenly just go forward to whatever's in
+
+474
+00:42:59,600 --> 00:43:03,840
+front of you so yes it would be extremely dangerous when anyone in front of you when you
+
+475
+00:43:03,840 --> 00:43:07,120
+well it would be extremely dangerous even if you don't stop it because that way you would hit them
+
+476
+00:43:07,120 --> 00:43:11,040
+right but but even if you stop then all the radiation would be released and it would burn
+
+477
+00:43:11,040 --> 00:43:18,080
+anything in front of you so yeah it's it's it's dangerous so and there comes the question of
+
+478
+00:43:18,080 --> 00:43:22,720
+how do you slow down once you accelerate and we'll get to that in a minute we have to go to break
+
+479
+00:43:22,800 --> 00:43:28,720
+but never point your warp drive directly towards your planet destination exactly
+
+480
+00:43:30,080 --> 00:43:35,760
+we'll be back in a moment with dr alcubierre the following program contains imagery from mark
+
+481
+00:43:35,760 --> 00:43:43,040
+raider maker designer of futuristic hardware and founder of holland space yards what tell him
+
+482
+00:43:43,040 --> 00:43:49,600
+thanks yes john i'm doing it now thanks mark thanks tell him thanks
+
+483
+00:43:50,400 --> 00:43:56,400
+and we are back with dr maguella cubierre now doctor it's a big problem with traveling
+
+484
+00:43:57,200 --> 00:44:05,600
+at these speeds is that you can also bring in time as a problem because such whatever you go faster
+
+485
+00:44:05,600 --> 00:44:10,720
+than light you always have to ask the question what does time travel have to do with this tell
+
+486
+00:44:10,720 --> 00:44:17,920
+us about that what what effect here do we have on time yeah well there's separate issues here so
+
+487
+00:44:17,920 --> 00:44:23,440
+separate issues here so one thing that people might might have heard is about the time dilation
+
+488
+00:44:23,440 --> 00:44:27,920
+when you're traveling very fast but still lower than light but close to the speed of light then
+
+489
+00:44:27,920 --> 00:44:33,360
+time it moves forward very slowly for you as compared to to things that are not moving right
+
+490
+00:44:33,360 --> 00:44:37,440
+so if you go far away from the earth very close to the speed of light and then come back
+
+491
+00:44:38,080 --> 00:44:43,200
+stay to a distant star a few years away and then come back then you might find that for you it was
+
+492
+00:44:43,200 --> 00:44:47,520
+only a few years and maybe on earth it was a hundred or a thousand years or even more
+
+493
+00:44:47,520 --> 00:44:52,000
+depends how fast you were going and how far you were going this is time dilation and it happens
+
+494
+00:44:52,000 --> 00:44:58,000
+also if you travel slower than light now in the model i did for the warp drive i on purpose put
+
+495
+00:44:58,000 --> 00:45:02,880
+out this effect so the warp bubble that i designed doesn't have any time dilation but that's by
+
+496
+00:45:02,880 --> 00:45:07,360
+construction and and since the construction is a little bit just like i wanted to make it and i
+
+497
+00:45:07,360 --> 00:45:12,480
+did it simple it doesn't mean that if you could do it in real life it would be like that but in
+
+498
+00:45:12,480 --> 00:45:16,800
+in the model i have there's no time dilation so you wouldn't have this effect but the other
+
+499
+00:45:16,800 --> 00:45:22,720
+effect that you also have when when when you travel faster than light it is worse you can show and
+
+500
+00:45:22,720 --> 00:45:28,480
+this is something that einstein showed very early from his special theory and relativity that if
+
+501
+00:45:28,480 --> 00:45:33,520
+you can travel faster than light in principle you can build a time machine because if you travel
+
+502
+00:45:33,520 --> 00:45:37,680
+faster than light then from the point of view of some observers you're actually traveling back in
+
+503
+00:45:37,680 --> 00:45:44,240
+time so if you do it there and backwards you could end up coming back before you actually left it's
+
+504
+00:45:44,240 --> 00:45:48,800
+not easy it's a special construction but you can do it in principle so and there's a proof
+
+505
+00:45:48,800 --> 00:45:53,360
+general proof that any method you come up with that can allows you to travel faster than light
+
+506
+00:45:53,360 --> 00:45:58,560
+can in principle be turned into a time machine that's true of the warp drive i didn't prove it
+
+507
+00:45:58,560 --> 00:46:04,560
+myself but i hinted at it in my paper and somebody proved it a few like about a year later somebody
+
+508
+00:46:04,560 --> 00:46:09,680
+actually proved it in detail so you could use a warp drive to build a time machine but you can do
+
+509
+00:46:09,680 --> 00:46:13,280
+the same with wormholes so people talk about wormholes to travel faster than light if you
+
+510
+00:46:13,280 --> 00:46:18,320
+can build a wormhole then in principle you can also turn it into a time machine so in a way you
+
+511
+00:46:18,320 --> 00:46:23,760
+could step into the wormhole today and come out of the wormhole yesterday which again is weird so
+
+512
+00:46:24,560 --> 00:46:30,480
+but it is true as far as we understand any any way you come up with to travel faster than light
+
+513
+00:46:31,120 --> 00:46:36,320
+allows you to in principle build a time machine now physicists as myself we don't like time machines
+
+514
+00:46:36,320 --> 00:46:41,440
+because time machines mean you cannot predict the future because anything you were going to predict
+
+515
+00:46:41,440 --> 00:46:44,640
+can be destroyed by somebody coming from the future and changing it right so
+
+516
+00:46:45,600 --> 00:46:50,480
+so in principle it means that physics would not be predictable we wouldn't be able to predict
+
+517
+00:46:50,480 --> 00:46:55,120
+what happens in the future if time travel is allowed and it brings with it a lot of a host
+
+518
+00:46:55,120 --> 00:47:00,400
+of paradoxes like the famous brand grandfather paradox and all those crazy logical paradoxes
+
+519
+00:47:00,400 --> 00:47:05,440
+so we don't like it we don't like time travel to the past and so stephen hawking in the in the
+
+520
+00:47:06,160 --> 00:47:13,520
+early 90s and late late 80s i think he came up with an idea that he calls in in very technical
+
+521
+00:47:13,520 --> 00:47:19,920
+terms the chronology protection conjecture but in layman terms it actually means the the no time
+
+522
+00:47:19,920 --> 00:47:26,560
+travel idea if you want so he argued that the laws of physics do not allow time travel to the
+
+523
+00:47:26,560 --> 00:47:32,160
+past and if you would were able to try to produce a time machine something would happen that would
+
+524
+00:47:32,160 --> 00:47:36,640
+prevent you from doing it maybe the time machine would blow up in your face or maybe a black hole
+
+525
+00:47:36,640 --> 00:47:41,760
+would form and and we came up with this idea it's not just a general argument in words he actually
+
+526
+00:47:41,760 --> 00:47:47,280
+came up with some mathematical calculations based on quantum theory and he showed essentially that
+
+527
+00:47:47,280 --> 00:47:53,600
+if you were able to produce a time machine travel to the past and a feedback a feedback loop would
+
+528
+00:47:53,600 --> 00:48:00,400
+occur it's similar to what happens when they have a microphone and and a speaker close by right
+
+529
+00:48:00,400 --> 00:48:04,080
+so you hear the feedback because sound is going around and around and it's getting stronger and
+
+530
+00:48:04,080 --> 00:48:08,000
+stronger because of the amplifier and everybody has heard that when you when you're talking in
+
+531
+00:48:08,000 --> 00:48:12,480
+microphone you get too close to the speaker so it's the same idea but hawking argues that it
+
+532
+00:48:12,480 --> 00:48:16,960
+would happen in a time in a time machine energy would be trapped in a loop in time
+
+533
+00:48:16,960 --> 00:48:21,040
+and going round and round and round it would be amplified it would be focused and amplified with
+
+534
+00:48:21,040 --> 00:48:26,240
+each loop and eventually these would create such a huge concentration of energy that either the
+
+535
+00:48:26,240 --> 00:48:30,560
+machine would blow up or a black hole would be produced and that would happen essentially
+
+536
+00:48:30,560 --> 00:48:34,800
+instantaneously because it's a time machine so from your point of view would be instantaneous
+
+537
+00:48:34,800 --> 00:48:39,040
+you would switch on the the time machine and it would blow up or produce a black hole and you
+
+538
+00:48:39,040 --> 00:48:45,200
+would not be able to use it so that's essentially hawking's argument and it's been around for 25
+
+539
+00:48:45,200 --> 00:48:49,840
+years it's still just that conjecture because there's no formal proof that this happens it's
+
+540
+00:48:49,840 --> 00:48:55,120
+just an idea but it's a good idea based on very solid mathematical foundations but it's not a
+
+541
+00:48:55,120 --> 00:49:01,200
+formal proof so that that for me is good right because it that means that it doesn't mean that
+
+542
+00:49:01,200 --> 00:49:06,640
+you cannot travel faster than light it means that if you want to turn your faster than light
+
+543
+00:49:06,640 --> 00:49:11,040
+spaceship into a time machine machine you wouldn't be able to do so and i think that's
+
+544
+00:49:11,040 --> 00:49:15,920
+good that means you would in principle might still be able to produce a warp drive and still
+
+545
+00:49:15,920 --> 00:49:19,360
+don't have a time machine and at the moment you would try to use it to build a time machine you
+
+546
+00:49:19,360 --> 00:49:24,960
+would die in an explosion or something so for physicists i think it's a good idea and and even
+
+547
+00:49:24,960 --> 00:49:30,080
+for the warp drive is probably good news it means that that one of the arguments against it that is
+
+548
+00:49:30,080 --> 00:49:34,320
+that is you could turn it into a time machine wouldn't be true right you wouldn't be able to
+
+549
+00:49:34,320 --> 00:49:38,800
+turn it into a time machine so that's that's essentially the situation there in short it
+
+550
+00:49:38,800 --> 00:49:44,880
+would be isolated in that since you've isolated a piece of space time and you're not moving within
+
+551
+00:49:44,880 --> 00:49:51,600
+it then you are not actually manipulating time well yeah exactly if you if you just go on a
+
+552
+00:49:51,600 --> 00:49:57,760
+one-way trip then that's true the thing comes around if you try to do a return trip and if
+
+553
+00:49:57,760 --> 00:50:02,320
+you do it in a very special way in print way in principle you should be able to do a time machine
+
+554
+00:50:02,320 --> 00:50:07,360
+but this honking's argument tells you that you wouldn't be able to so the laws of physics protect
+
+555
+00:50:07,360 --> 00:50:13,200
+us from time paradoxes in this case that's that's that's essentially hawking's conjecture the laws
+
+556
+00:50:13,200 --> 00:50:17,920
+of physics protects us from from time travel time travel to the past time travel to the future is
+
+557
+00:50:17,920 --> 00:50:23,040
+always possible sure just can't come back right we're always we're always constantly traveling
+
+558
+00:50:23,040 --> 00:50:30,160
+into the future we just can't go to the past exactly now how does this relate to einstein
+
+559
+00:50:30,160 --> 00:50:36,880
+and things like closed timelike curves because some people say that maybe backwards time travel
+
+560
+00:50:36,880 --> 00:50:42,080
+might be possible through that mechanism what it's exactly that it's exactly that that's that that's
+
+561
+00:50:42,080 --> 00:50:48,000
+so when when physicists talk about time travel we always mean in technical terms closed timelike
+
+562
+00:50:48,000 --> 00:50:52,960
+curves so time travel from the point of view of physics is the fact that you have have a trajectory
+
+563
+00:50:52,960 --> 00:50:58,400
+that you can follow that brings you back around in a circle and and a trajectory that you can
+
+564
+00:50:58,480 --> 00:51:03,200
+follow it's always a timelike trajectory because you can follow it in your own time so
+
+565
+00:51:03,200 --> 00:51:07,920
+it's a trajectory that a particle like us can follow it's called a timelike trajectory and
+
+566
+00:51:07,920 --> 00:51:13,120
+if you can bend on itself and go around back then it's called a closed timelike trajectory so any
+
+567
+00:51:13,120 --> 00:51:20,320
+time any type of time travel in physics today is always understood as a closed timelike loop
+
+568
+00:51:20,320 --> 00:51:25,360
+and what hawking is telling you that closed timelike loops cannot exist in nature because
+
+569
+00:51:25,680 --> 00:51:30,880
+something catastrophic would happen as soon as you can want to produce one but every every sort
+
+570
+00:51:30,880 --> 00:51:36,480
+of idea for time travel even geddle who had an idea of a strange universe in which time travel
+
+571
+00:51:36,480 --> 00:51:42,240
+could exist is called geddle's universe and it's from the 20s of the 20th century that also has
+
+572
+00:51:42,240 --> 00:51:47,920
+closed timelike loops so in principle you construct the geometries you can construct geometries with
+
+573
+00:51:47,920 --> 00:51:53,440
+these loops that allow time travel and and you can construct them easily mathematically it's not that
+
+574
+00:51:53,440 --> 00:51:58,080
+difficult to come up with examples but what hawking's tells us is that in practice you
+
+575
+00:51:58,080 --> 00:52:02,560
+wouldn't be able to do this because this sort of space dance would be unstable against quantum
+
+576
+00:52:02,560 --> 00:52:09,120
+perturbations that's that's essentially hawking's argument if you forget about quantum mechanics
+
+577
+00:52:09,120 --> 00:52:13,680
+and you just do a purely classical general relativity calculation in principle you can
+
+578
+00:52:13,680 --> 00:52:18,960
+always make them it's not even difficult to to come up with little models but in practice
+
+579
+00:52:18,960 --> 00:52:22,560
+is if you try quantum mechanics would intervene and it would be unstable
+
+580
+00:52:23,440 --> 00:52:27,680
+which is a big problem with everything you know when you start talking about stuff like this is
+
+581
+00:52:27,680 --> 00:52:32,560
+instability like a wormhole would you know yes there maybe there's a wormhole at the the
+
+582
+00:52:32,560 --> 00:52:36,640
+singularity of the black hole but it's going to open and close rapidly and you're not going to
+
+583
+00:52:36,640 --> 00:52:43,120
+be able to traverse it so and this and this is where the negative mass matter comes into play
+
+584
+00:52:43,120 --> 00:52:47,680
+because you would need that in order to stabilize the whole thing you know keep it stable yeah a
+
+585
+00:52:47,680 --> 00:52:52,560
+wormhole on its own it's unstable and that's that even has nothing to do with quantum mechanics
+
+586
+00:52:52,560 --> 00:52:58,080
+that just pure relativity and pure relativity a wormhole in empty in empty space or with positive
+
+587
+00:52:58,080 --> 00:53:02,560
+mass it's unstable and you want to stabilize it you need negative energy because the wormhole
+
+588
+00:53:02,560 --> 00:53:07,680
+wants to close it's it's the equation tells you that whenever you open a wormhole it wants to
+
+589
+00:53:07,680 --> 00:53:12,880
+close very quickly and you want to keep it open you need that repulsion repulsive field and that's
+
+590
+00:53:12,880 --> 00:53:18,000
+negative energy that keeps it open so that's the reason why you need negative energy in wormholes
+
+591
+00:53:18,000 --> 00:53:21,760
+but it turns out anytime you want to do something crazy with Einstein
+
+592
+00:53:21,760 --> 00:53:27,040
+equations of relativity if you anytime you want to produce some crazy geometry like a wormhole
+
+593
+00:53:27,040 --> 00:53:32,720
+or a warp drive or something like that apparently always you need negative energy it's some sort of
+
+594
+00:53:32,720 --> 00:53:38,960
+comes out always right anytime you want to circumvent the laws of the universe it says
+
+595
+00:53:38,960 --> 00:53:46,000
+you're going to need something special in order to do this and back to the warp drive if you
+
+596
+00:53:46,560 --> 00:53:54,240
+were able just to speculate to create the warp field and travel at many times the speed you know
+
+597
+00:53:54,240 --> 00:54:01,120
+relativistic speeds is there a speed limit could is there some barrier that says you can't go
+
+598
+00:54:01,120 --> 00:54:06,160
+faster than this with the warp field there's no there's no speed limit in principle it's just
+
+599
+00:54:06,160 --> 00:54:10,000
+to go faster you would need more and more negative energy and the more negative energy you have the
+
+600
+00:54:10,000 --> 00:54:14,400
+faster you in principle could go you could also use a warp drive to move slower than light it
+
+601
+00:54:14,400 --> 00:54:18,800
+would be a very inefficient way to do it but you could use a warp drive to move slower than light
+
+602
+00:54:18,800 --> 00:54:22,880
+but and faster than light is as far as you as fast as you want to go depending on how much
+
+603
+00:54:22,880 --> 00:54:27,360
+negative energy you have available so there's no limit but there is a problem that I haven't
+
+604
+00:54:27,360 --> 00:54:31,760
+actually mentioned yet this is the second problem with the warp drive we call it the horizon problem
+
+605
+00:54:32,320 --> 00:54:35,840
+and it has to do with when you when you use the warp drive to move faster than light
+
+606
+00:54:36,480 --> 00:54:43,360
+then in front of the this this bubble of deformed space at the at the front region there's a limit
+
+607
+00:54:44,480 --> 00:54:48,640
+further to which you cannot you cannot actually access anything in front of that directly from
+
+608
+00:54:48,640 --> 00:54:54,000
+from inside the bubble so if you're inside the bubble you can only reach so far in front of the
+
+609
+00:54:54,000 --> 00:55:00,480
+bubble but not all the way in front of the bubble so there's a horizon that forms there so there's
+
+610
+00:55:00,480 --> 00:55:05,520
+a region you cannot reach and this is a problem because if you're supposed to be putting the
+
+611
+00:55:05,520 --> 00:55:10,160
+negative energy in place from inside the bubble so you're in a spaceship and you have some sort of
+
+612
+00:55:10,960 --> 00:55:16,880
+energy field generator or something like star trek and you use this generator to put negative
+
+613
+00:55:16,880 --> 00:55:21,440
+energy at the front of the bubble to be able to move then there's a region you can't reach
+
+614
+00:55:22,240 --> 00:55:25,760
+and that means you cannot put enough negative energy there and you wouldn't be able to
+
+615
+00:55:25,760 --> 00:55:30,320
+produce a bubble in the first place so this is the horizon problem it doesn't if you want to
+
+616
+00:55:30,320 --> 00:55:34,080
+use the warp bubble to travel slower than light then there's no problem but you want to travel
+
+617
+00:55:34,080 --> 00:55:39,280
+faster than light then it's a big problem and that means that the spaceship itself would not
+
+618
+00:55:39,280 --> 00:55:45,440
+be able to produce the required field it would have to be produced from the outside and that
+
+619
+00:55:45,440 --> 00:55:49,600
+again it's it's a big problem right because somebody would have to be there producing the
+
+620
+00:55:49,600 --> 00:55:54,800
+negative energy as you as you go along as you pass it you could imagine maybe a sort of big
+
+621
+00:55:54,800 --> 00:56:00,640
+tube like a like a like a subway tube right a big tube through space with field generators
+
+622
+00:56:00,640 --> 00:56:05,120
+are switching on in time as the spaceship is going through but that's that seems like completely
+
+623
+00:56:05,120 --> 00:56:09,600
+crazy right to build a tube from here to office and torii so essentially you need to build a
+
+624
+00:56:09,600 --> 00:56:16,400
+highway before you could use the drive so you would have to build a highway before you send
+
+625
+00:56:16,400 --> 00:56:22,080
+anything through it yeah so how would you do that if you you would have to do it at sublight speeds
+
+626
+00:56:22,080 --> 00:56:26,960
+you'd have to have a spacecraft you know and you would have to leave some sort of negative mass
+
+627
+00:56:26,960 --> 00:56:33,280
+generators of some sort in front so to build a highway to to have it it's sort of like gas
+
+628
+00:56:33,280 --> 00:56:40,960
+stations actually where exactly yeah to send us a spaceship before slower than light that would
+
+629
+00:56:40,960 --> 00:56:46,000
+be leaving behind it negative energy generators along the way and they would this would give you
+
+630
+00:56:46,000 --> 00:56:51,040
+this sort of highway and once it's built something can go through it faster than light but it would
+
+631
+00:56:51,040 --> 00:56:55,600
+have to be built before and they would have that would have to be done slower than light yeah now
+
+632
+00:56:55,600 --> 00:57:02,960
+once you had this highway built and you could traverse well at sublight speeds obviously it's
+
+633
+00:57:03,120 --> 00:57:10,160
+very difficult to traverse the universe but the galaxy say you were able to build a highway over
+
+634
+00:57:10,160 --> 00:57:18,400
+millions of years and create this this sort of transit system what um with a warp bubble
+
+635
+00:57:18,960 --> 00:57:24,720
+could you detect that if say say an alien civilization millions of years ago created such
+
+636
+00:57:24,720 --> 00:57:29,920
+a thing and you were looking for alien technosignatures what what would that look like
+
+637
+00:57:29,920 --> 00:57:36,560
+this alcubierre warp drive highway system i mean could you detect it or would it just be
+
+638
+00:57:36,560 --> 00:57:42,000
+not visible i think you would i have never thought about this in in detail but i think
+
+639
+00:57:42,000 --> 00:57:46,400
+if it was moving directly towards you you should be able to see a burst of radiation when they're
+
+640
+00:57:46,400 --> 00:57:51,200
+using it but if it's not moving directly towards you then i don't think it would be detectable
+
+641
+00:57:51,200 --> 00:57:56,320
+i don't think you would be able to see anything but if it's if it's pointing directly at you then
+
+642
+00:57:56,320 --> 00:58:01,840
+yes you would see a burst of radiation especially when they slow down as we mentioned but yeah that
+
+643
+00:58:01,840 --> 00:58:05,680
+you should see but but i think it would be difficult because something very localized
+
+644
+00:58:06,400 --> 00:58:10,080
+and it's not really pointing at you then i don't think i don't see what you would see
+
+645
+00:58:10,080 --> 00:58:16,560
+so it's probably undetectable you mentioned slowing down once you get going how do you slow
+
+646
+00:58:16,560 --> 00:58:22,400
+back down with this concept that's exactly what i what i'm saying this is the same problem with
+
+647
+00:58:22,400 --> 00:58:27,200
+the horizon so you wouldn't be able to slow down on your own somebody would have to do it from the
+
+648
+00:58:27,200 --> 00:58:32,400
+outside so somebody would have to switch off the highway as you arrive at your destination you
+
+649
+00:58:32,400 --> 00:58:37,200
+shouldn't you wouldn't be able to switch it off from inside it's the same it's for the same reason
+
+650
+00:58:37,200 --> 00:58:41,520
+because you cannot reach the front of the bubble so you cannot tell it to switch off at the front
+
+651
+00:58:41,520 --> 00:58:48,560
+at least and and it's exactly the same problem so initially when i when when i did this paper i
+
+652
+00:58:48,560 --> 00:58:52,240
+mentioned this also in passing i mentioned that you shouldn't be able they wouldn't be able to
+
+653
+00:58:52,240 --> 00:58:56,160
+slow down once you turn it on but then i realized the problem was actually much worse you wouldn't
+
+654
+00:58:56,160 --> 00:59:01,360
+be able to turn it on in the first place right so that's because of this horizon problem but it's
+
+655
+00:59:01,360 --> 00:59:04,560
+basically the same problem if you're traveling faster than light you cannot reach the front of
+
+656
+00:59:04,560 --> 00:59:08,400
+the bubble which means you can't manipulate it and you can i you cannot not turn it on you cannot
+
+657
+00:59:08,400 --> 00:59:12,800
+turn it off you can't manipulate it at all somebody has to do it from the outside that was already
+
+658
+00:59:12,880 --> 00:59:18,880
+there waiting right so essentially you cannot ever reach the brake pedal basically yes
+
+659
+00:59:22,080 --> 00:59:25,440
+it's a good analogy but yeah it's essentially this is a brake pedal was so far away you wouldn't
+
+660
+00:59:25,440 --> 00:59:31,040
+be able to reach it yes you can't ever reach it physically now inside the warp bubble you would
+
+661
+00:59:31,040 --> 00:59:37,520
+also probably have problems uh people have said that you would you would be cooked by radiation
+
+662
+00:59:37,520 --> 00:59:42,320
+can you can you get into that yeah well that's what i was mentioning anything coming for towards
+
+663
+00:59:42,320 --> 00:59:47,520
+you from the front as as as you reach it with the warp double any radiation that was pointing
+
+664
+00:59:47,520 --> 00:59:53,040
+towards you would actually be blue shifted very and if you're moving much faster than light than
+
+665
+00:59:53,040 --> 00:59:59,280
+light it would be blue shifted a lot so even something that was ordinary uh radio waves that
+
+666
+00:59:59,280 --> 01:00:03,120
+was completely harmless if you're traveling sufficiently fast faster than light with the
+
+667
+01:00:03,120 --> 01:00:07,840
+warp bubble it could be blue shifted towards gamma rays and kill you right because the radiation
+
+668
+01:00:07,840 --> 01:00:12,480
+would be so intense so you would need a very good shield if you're planning to use this with
+
+669
+01:00:12,480 --> 01:00:17,200
+traveling faster than light but this is a problem maybe if you move slower than light if you build
+
+670
+01:00:17,200 --> 01:00:23,280
+a spaceship that could go say 99 of the speed of light then again that's a danger which is
+
+671
+01:00:23,280 --> 01:00:28,480
+radiation that's coming towards you ordinary light it's blue shifted and it's this blue shifted
+
+672
+01:00:28,480 --> 01:00:34,240
+towards gamma rays it would be deadly and and if you find a small rock and it's hitting you at 99
+
+673
+01:00:34,400 --> 01:00:38,880
+the speed of light then it could destroy the ship so this is a problem even at slower than light
+
+674
+01:00:38,880 --> 01:00:43,680
+speeds if they're sufficiently high right and 99 the speed of light is already a big problem
+
+675
+01:00:44,240 --> 01:00:48,640
+so it's not a problem that's just related to the warp drive it's a problem of moving at very high
+
+676
+01:00:48,640 --> 01:00:56,480
+speeds on a scale of one to ten with ten being the most unlikely where would you rate the
+
+677
+01:00:56,480 --> 01:01:01,600
+possibility of the warp bubble that we could actually at some point in the far future create
+
+678
+01:01:01,600 --> 01:01:08,320
+this how likely is it oh yeah so ten is the most unlikely yes so i would probably put it at a nine
+
+679
+01:01:09,680 --> 01:01:15,680
+at a nine yeah i think it's very unlikely if you ask me even though it's my own idea and i like it
+
+680
+01:01:15,680 --> 01:01:21,680
+for personal reasons i think at this moment it might seem even more likely to have wormholes
+
+681
+01:01:21,680 --> 01:01:27,120
+and those would have fewer problems still wormholes are not likely at all because we have no idea how
+
+682
+01:01:27,120 --> 01:01:31,360
+to build one but they have they have fewer problems if you could build a wormhole then you
+
+683
+01:01:31,360 --> 01:01:36,000
+wouldn't have this horizon problem you wouldn't have this radiation problem a lot of the problems
+
+684
+01:01:36,000 --> 01:01:41,680
+with the warp drive are simply not there in the case of wormhole but again nobody knows how to
+
+685
+01:01:41,680 --> 01:01:46,640
+make a hole in space so we have no idea at all how to create a wormhole but it seems less problematic
+
+686
+01:01:46,640 --> 01:01:51,920
+if you could actually have one but yeah i i think it's unfortunately for myself because it's my own
+
+687
+01:01:51,920 --> 01:01:57,360
+idea but i think it's highly unlikely at this point still an interesting idea and it's always
+
+688
+01:01:57,360 --> 01:02:02,240
+fruitful to entertain useful ideas because that's where maybe other useful ideas come
+
+689
+01:02:03,120 --> 01:02:10,400
+yeah i agree completely yeah and on that we are out of time dr akubir thank you for joining us
+
+690
+01:02:10,400 --> 01:02:15,440
+it's been a pleasure thank you thinking about far future technologies is a very uncertain thing
+
+691
+01:02:15,440 --> 01:02:21,040
+vexing at times given what i do imagining something is one thing and actually engineering it and
+
+692
+01:02:21,040 --> 01:02:26,720
+building it is entirely another but imagination is important that's what starts the ball rolling
+
+693
+01:02:26,720 --> 01:02:31,360
+and gets people thinking about the nuts and bolts of an idea and while the materials and technology
+
+694
+01:02:31,360 --> 01:02:36,240
+needed to create an akubir warp field lie in the future perhaps even the distant future for all we
+
+695
+01:02:36,240 --> 01:02:41,760
+know it is at least a seed for thought on the subject right now that's important and who knows
+
+696
+01:02:41,760 --> 01:02:46,320
+there may be other ways to defeat the speed of light there are always the possibilities of
+
+697
+01:02:46,320 --> 01:02:51,760
+wormholes or even ways we may not have thought of yet we do not yet have a complete understanding
+
+698
+01:02:51,760 --> 01:02:56,480
+of our universe only a partial one so the concepts that spawn out of science and sci-fi
+
+699
+01:02:56,480 --> 01:03:01,440
+in the coming years centuries or millennia may serve as seeds to push us further who
+
+700
+01:03:01,440 --> 01:03:10,560
+knows where we might end up john yes i think it's time to talk about getting rid of the car
+
+701
+01:03:11,280 --> 01:03:17,920
+but wait well i have an idea oh dear this isn't a good sign if
+
+702
+01:03:17,920 --> 01:03:24,800
+and i stress if if we can get akubir to drive the lebaron we can increase its value tenfold
+
+703
+01:03:25,440 --> 01:03:32,720
+oh no i can see where this is going wait stop where did you how did you how did you even use
+
+704
+01:03:32,720 --> 01:03:38,560
+a spray bottle we'll figure that out later and joining me next week will be dr duncan forgen
+
+705
+01:03:38,560 --> 01:03:48,800
+for a discussion of the fermi paradox and the solutions to it
+

@@ -1,0 +1,1784 @@
+1
+00:00:00,000 --> 00:00:08,080
+On the night of July 19, 1952, something rather strange happened on two fronts in North America.
+
+2
+00:00:08,080 --> 00:00:13,480
+At Mount Palomar Observatory in Southern California, a pair of photographic plates were taken about
+
+3
+00:00:13,480 --> 00:00:20,840
+one hour apart, one just before 9pm and the other just before 10pm local time.
+
+4
+00:00:20,840 --> 00:00:26,740
+In these plates, one showed a cluster of three star-like points, essentially indistinguishable
+
+5
+00:00:26,740 --> 00:00:28,480
+from stars.
+
+6
+00:00:28,480 --> 00:00:33,680
+But in the second plate, the points had abruptly and inexplicably disappeared.
+
+7
+00:00:33,680 --> 00:00:38,640
+Known as transients, these short-lived events hold much promise in the study of astronomy,
+
+8
+00:00:38,640 --> 00:00:43,480
+in that they show events in much shorter timescales than astronomy normally looks at, a known
+
+9
+00:00:43,480 --> 00:00:45,960
+deficiency for many years.
+
+10
+00:00:45,960 --> 00:00:50,760
+What these three star-like points represent is an open question, with potential answers
+
+11
+00:00:50,760 --> 00:00:56,200
+ranging from gravitational lensing to short-lived astronomical phenomenon we currently haven't
+
+12
+00:00:56,200 --> 00:00:57,400
+thought of.
+
+13
+00:00:57,400 --> 00:01:03,440
+They do not appear to be plate flaws or contamination however, those leave telltale signs not present
+
+14
+00:01:03,440 --> 00:01:08,440
+in this transient, rather they do appear to have been there one hour and gone the next.
+
+15
+00:01:08,440 --> 00:01:12,720
+Interestingly, it was possible to constrain their distance, which turned out to be less
+
+16
+00:01:12,720 --> 00:01:18,360
+than two light-years away at maximum and within the orbit of the earth at minimum.
+
+17
+00:01:18,360 --> 00:01:22,520
+Curiously, on the other side of the country, the time the plates were taken would have
+
+18
+00:01:22,520 --> 00:01:26,560
+been between 1 and 2 am on the east coast.
+
+19
+00:01:26,560 --> 00:01:31,000
+At the time, one of the most puzzling UFO flaps in history was happening in the Washington
+
+20
+00:01:31,000 --> 00:01:36,360
+D.C. area, including multiple radar returns and visual sightings from people in several
+
+21
+00:01:36,360 --> 00:01:37,600
+locations.
+
+22
+00:01:37,600 --> 00:01:41,960
+Coincidence perhaps, but all options must be on the table when trying to figure out
+
+23
+00:01:41,960 --> 00:01:48,080
+what that telescope at Mount Palomar imaged that July night in 1952.
+
+24
+00:01:48,080 --> 00:02:05,320
+You have fallen into Event Horizon with John Michael Gaudier.
+
+25
+00:02:05,320 --> 00:02:09,400
+In today's episode, John is joined by Dr. Beatrice Villereal.
+
+26
+00:02:09,400 --> 00:02:15,800
+Dr. Villereal studies astrophysics and astroparticle physics as a Nordic Fellow at Nordica, the
+
+27
+00:02:15,800 --> 00:02:18,680
+Nordic Institute for Theoretical Physics.
+
+28
+00:02:18,680 --> 00:02:24,240
+She has served as the lead on multiple papers, using existing survey data to find examples
+
+29
+00:02:24,240 --> 00:02:29,360
+of exceptional astrophysical transients, including looking for physically impossible effects
+
+30
+00:02:29,360 --> 00:02:32,600
+caused by highly advanced technology.
+
+31
+00:02:32,600 --> 00:02:35,480
+Beatrice Villereal, welcome back to the program.
+
+32
+00:02:35,480 --> 00:02:36,480
+Thank you.
+
+33
+00:02:36,480 --> 00:02:37,480
+It's a pleasure to be back.
+
+34
+00:02:37,480 --> 00:02:43,040
+Now, in our long-running series on transients, you now have a new paper on a newfound transient
+
+35
+00:02:43,040 --> 00:02:49,840
+in a photographic plate taken in 1952 at Palomar with, I assume, the Hill Telescope,
+
+36
+00:02:49,840 --> 00:02:54,840
+which at the time that was the most largest and advanced telescope we'd ever built.
+
+37
+00:02:54,840 --> 00:02:56,240
+It was state-of-the-art.
+
+38
+00:02:56,240 --> 00:03:02,480
+And yet there's this transient there where in one plate you see essentially three objects
+
+39
+00:03:02,480 --> 00:03:08,320
+that look like stars, and then a plate an hour later, nothing, they're gone.
+
+40
+00:03:08,320 --> 00:03:11,840
+Tell us about this new paper regarding this particular transient.
+
+41
+00:03:11,840 --> 00:03:15,920
+This is a new paper that is actually led by my colleague Enrique Solano at the Center
+
+42
+00:03:15,920 --> 00:03:17,880
+of Astrobiology in Madrid.
+
+43
+00:03:17,880 --> 00:03:22,880
+And he has discovered this image where you see three very bright and beautiful stars,
+
+44
+00:03:22,880 --> 00:03:26,900
+and they are there in that unique plate, but you cannot see them ever again, not even one
+
+45
+00:03:26,900 --> 00:03:28,760
+hour later.
+
+46
+00:03:28,760 --> 00:03:33,560
+And these three stars we wanted to find with the largest optical telescope because we thought
+
+47
+00:03:33,560 --> 00:03:37,020
+maybe they just like got much fainter.
+
+48
+00:03:37,020 --> 00:03:41,360
+So we used the Gran Telescopo Canarias, which is a 10.4 meter optical telescope.
+
+49
+00:03:41,360 --> 00:03:45,320
+And we looked there, we went very deep and we found nothing.
+
+50
+00:03:45,320 --> 00:03:49,440
+So they really vanished and they look real.
+
+51
+00:03:49,440 --> 00:03:53,320
+And it seems to be like another case of the so-called multiple transients that we've been
+
+52
+00:03:53,320 --> 00:03:54,320
+seeing before.
+
+53
+00:03:54,320 --> 00:03:58,900
+Now you've written previous papers on this where there are other transients.
+
+54
+00:03:58,900 --> 00:04:02,900
+What makes this one, and I actually know the answer to this question, but what makes this
+
+55
+00:04:02,900 --> 00:04:05,880
+one especially compelling?
+
+56
+00:04:05,880 --> 00:04:11,240
+It's so bright, so beautiful, so star-like.
+
+57
+00:04:11,240 --> 00:04:15,000
+Because with the previous ones, like when the first case we found, they were very faint.
+
+58
+00:04:15,000 --> 00:04:19,660
+We were wondering, okay, maybe it's some kind of plate flaws, some kind of plate flaws that
+
+59
+00:04:19,660 --> 00:04:24,120
+have some very unusual coincidentally star-like shapes.
+
+60
+00:04:24,120 --> 00:04:27,200
+But again, they were quite faint and close to the detection limit.
+
+61
+00:04:27,200 --> 00:04:32,560
+And now you see three super beautiful stars that are there and later vanish.
+
+62
+00:04:32,560 --> 00:04:37,520
+And that is the kind of thing that we reacted on.
+
+63
+00:04:37,520 --> 00:04:41,960
+So what magnitude are we talking about as far as brightness goes?
+
+64
+00:04:41,960 --> 00:04:44,280
+I think like 15 mag, more or less.
+
+65
+00:04:44,280 --> 00:04:47,800
+Which for that telescope, that's solid.
+
+66
+00:04:47,800 --> 00:04:50,480
+I think that, I mean, what could a telescope like that...
+
+67
+00:04:50,480 --> 00:04:52,520
+15-16 mag to be more exact.
+
+68
+00:04:52,520 --> 00:04:53,520
+Yeah.
+
+69
+00:04:53,520 --> 00:04:54,640
+But it's solid.
+
+70
+00:04:54,640 --> 00:04:56,760
+And they all appear to be the same brightness?
+
+71
+00:04:56,760 --> 00:04:57,760
+More or less, yes.
+
+72
+00:04:57,760 --> 00:05:01,280
+It's a little bit difficult to get the exact magnitudes of the two ones that are in the
+
+73
+00:05:01,280 --> 00:05:03,720
+crowded region because they are like overlapping.
+
+74
+00:05:03,720 --> 00:05:07,080
+But they seem to have more or less the same brightness, all three of them.
+
+75
+00:05:07,080 --> 00:05:12,080
+Maybe the one in the back is slightly fainter also, but yes.
+
+76
+00:05:12,080 --> 00:05:15,840
+What strikes me about this is that that does not look like a plate flaw.
+
+77
+00:05:15,840 --> 00:05:18,920
+That looks like stellar objects.
+
+78
+00:05:18,920 --> 00:05:26,240
+And that should be there set in stone, so to speak, but that's not what this is, right?
+
+79
+00:05:26,240 --> 00:05:27,240
+Exactly.
+
+80
+00:05:27,240 --> 00:05:31,040
+Because when you have something very faint, you can always try to say that it's a plate
+
+81
+00:05:31,040 --> 00:05:32,040
+flaw.
+
+82
+00:05:32,040 --> 00:05:36,640
+And then suddenly you have these three like super clear stars and they don't look like
+
+83
+00:05:36,880 --> 00:05:37,880
+plate flaws.
+
+84
+00:05:37,880 --> 00:05:40,560
+But of course, we will always find someone who is going to say, but it probably is a
+
+85
+00:05:40,560 --> 00:05:41,560
+plate flaw.
+
+86
+00:05:41,560 --> 00:05:46,080
+And I think that is why we need to confirm this phenomenon with entirely different methods
+
+87
+00:05:46,080 --> 00:05:48,720
+that have nothing to do with photographic plates.
+
+88
+00:05:48,720 --> 00:05:52,080
+But yeah, they look very authentic.
+
+89
+00:05:52,080 --> 00:05:58,400
+Now in your work, you look at photographic plates and I'm sure you see plate flaws and
+
+90
+00:05:58,400 --> 00:05:59,800
+the characteristics of them.
+
+91
+00:05:59,800 --> 00:06:02,040
+So what does a plate flaw actually look like usually?
+
+92
+00:06:02,040 --> 00:06:05,720
+No, but plate flaws usually looks like random shapes.
+
+93
+00:06:05,800 --> 00:06:11,960
+So in order to get to look like stars, you would need to have a very specific, it would
+
+94
+00:06:11,960 --> 00:06:18,360
+have to, a lot of different factors would have to align up if we say like that to make
+
+95
+00:06:18,360 --> 00:06:20,520
+it look like a real star.
+
+96
+00:06:20,520 --> 00:06:23,760
+So I think it's a very, very improbable event.
+
+97
+00:06:23,760 --> 00:06:28,640
+And now to find several of them that look like stars is even more improbable.
+
+98
+00:06:28,640 --> 00:06:30,120
+So that's the thing.
+
+99
+00:06:30,120 --> 00:06:34,840
+And I would also expect that if you have, let's say 10 very bright plate flaws in one
+
+100
+00:06:34,840 --> 00:06:39,480
+plate, you would see some things that are a mix of different forms, but not that it
+
+101
+00:06:39,480 --> 00:06:43,040
+would only look exactly like the stars in the field.
+
+102
+00:06:43,040 --> 00:06:47,040
+So I don't know if this rant made it clear.
+
+103
+00:06:47,040 --> 00:06:48,040
+It did.
+
+104
+00:06:48,040 --> 00:06:49,440
+Now what about exposure time?
+
+105
+00:06:49,440 --> 00:06:54,280
+In other words, how long was the shutter open on the plate that shows the transient?
+
+106
+00:06:54,280 --> 00:06:58,840
+How long was the shutter open to, you know, sort of eliminate any movement that might
+
+107
+00:06:58,840 --> 00:06:59,840
+be there?
+
+108
+00:06:59,840 --> 00:07:00,840
+Because they appear to be point-like.
+
+109
+00:07:00,840 --> 00:07:01,840
+50 minutes.
+
+110
+00:07:01,840 --> 00:07:02,840
+Yeah.
+
+111
+00:07:02,840 --> 00:07:04,680
+50 minutes exposure time.
+
+112
+00:07:04,680 --> 00:07:09,280
+So if something would be moving in and out of the image, it should be, I mean, it should
+
+113
+00:07:09,280 --> 00:07:13,400
+be leaving an elongated streak.
+
+114
+00:07:13,400 --> 00:07:18,420
+It's not going to be, I mean, let's say it moves fast.
+
+115
+00:07:18,420 --> 00:07:22,400
+If it moves fast during this 15 minutes, so fast that it can go out of the plate and move
+
+116
+00:07:22,400 --> 00:07:26,200
+somewhere else, you are going to have a streak, not a point source.
+
+117
+00:07:26,200 --> 00:07:31,960
+Now if it moves very, very slowly, then so slowly that it leaves a point source in the
+
+118
+00:07:32,000 --> 00:07:35,560
+red image, you would also see a point source in the blue image that is taken one hour
+
+119
+00:07:35,560 --> 00:07:36,560
+later.
+
+120
+00:07:36,560 --> 00:07:37,560
+But you don't see that.
+
+121
+00:07:37,560 --> 00:07:42,440
+What you see is really a point source, only one image and nothing in the other.
+
+122
+00:07:42,440 --> 00:07:44,480
+So how does that happen?
+
+123
+00:07:44,480 --> 00:07:45,480
+That is the question.
+
+124
+00:07:45,480 --> 00:07:46,480
+Yeah.
+
+125
+00:07:46,480 --> 00:07:47,480
+You have to wonder that.
+
+126
+00:07:47,480 --> 00:07:49,480
+I mean, stars don't just disappear.
+
+127
+00:07:49,480 --> 00:07:50,480
+You know, they don't blink out.
+
+128
+00:07:50,480 --> 00:07:56,760
+Well, at least we, as far as we know, hopefully, hopefully, well, you know, what about things
+
+129
+00:07:56,760 --> 00:08:01,280
+like a really, really weird event, like a gravitational lensing effect?
+
+130
+00:08:01,280 --> 00:08:06,840
+In other words, a naked black hole passes by lenses, some normally very dim stars that
+
+131
+00:08:06,840 --> 00:08:10,120
+are out at the reach of the telescope and you see them very briefly.
+
+132
+00:08:10,120 --> 00:08:15,840
+What about natural, weird things like that with especially gravitational lensing?
+
+133
+00:08:15,840 --> 00:08:21,560
+So we've been thinking about it for this particular case because imagine if you have this gravitational
+
+134
+00:08:21,560 --> 00:08:28,960
+lens that is very, very massive and suddenly behind this lens, you would have a short transient,
+
+135
+00:08:29,160 --> 00:08:31,720
+something that flared up just for a few minutes.
+
+136
+00:08:31,720 --> 00:08:37,920
+Maybe what you would see as an observer would actually be that you would see this transient
+
+137
+00:08:37,920 --> 00:08:41,760
+through the gravitational lens and it would give multiple images.
+
+138
+00:08:41,760 --> 00:08:44,120
+This is one of the thoughts we were having.
+
+139
+00:08:44,120 --> 00:08:50,760
+My colleagues estimated like a possible, what would be the possible mass of the lens?
+
+140
+00:08:50,760 --> 00:08:56,960
+And they concluded something like 10 times the Milky Way mass, sorry, 10 times the mass
+
+141
+00:08:56,960 --> 00:08:59,040
+of the Milky Way black hole.
+
+142
+00:08:59,040 --> 00:09:03,360
+And I'm not sure, we are not gravitational lensing experts and I don't know if this is
+
+143
+00:09:03,360 --> 00:09:06,800
+a reasonable or not reasonable scenario.
+
+144
+00:09:06,800 --> 00:09:10,320
+It has to be said though, looking at the image, it does look like an Einstein cross, you would
+
+145
+00:09:10,320 --> 00:09:15,160
+expect, but at the same time, when you see those, it's usually the entire mass of a galaxy
+
+146
+00:09:15,160 --> 00:09:18,800
+bending that light and making that effect when you see it with like a quasar or something
+
+147
+00:09:18,800 --> 00:09:20,080
+like that.
+
+148
+00:09:20,080 --> 00:09:25,160
+And it would seem to me that, you know, that's an implausibly huge black hole to be not at
+
+149
+00:09:25,200 --> 00:09:27,560
+the center of a galaxy.
+
+150
+00:09:27,560 --> 00:09:34,560
+But it's, you know, you have to look at all angles and, you know, see what might be there.
+
+151
+00:09:34,560 --> 00:09:37,240
+Now, what about other options with this?
+
+152
+00:09:37,240 --> 00:09:40,600
+What other ideas have you guys come up with that might explain this?
+
+153
+00:09:40,600 --> 00:09:47,400
+Well, I still think that there is an option of that we are seeing something either some
+
+154
+00:09:47,400 --> 00:09:53,720
+reflecting the sunlight or that you see something with its own intrinsic light that is fairly
+
+155
+00:09:53,720 --> 00:09:59,360
+close to Earth, why you see it like happening at the same time, because, you know, the speed
+
+156
+00:09:59,360 --> 00:10:04,080
+of light is limited, so it's not going to come from a galaxy far away, but it's likely
+
+157
+00:10:04,080 --> 00:10:07,800
+to come from inside the solar system.
+
+158
+00:10:07,800 --> 00:10:12,480
+Though you got to wonder, though, if it were like an asteroid or something like that that
+
+159
+00:10:12,480 --> 00:10:17,720
+had varying albedo and you just happened to catch it, but how did it happen that it had
+
+160
+00:10:17,720 --> 00:10:18,720
+three lobes?
+
+161
+00:10:18,720 --> 00:10:19,720
+It just seems...
+
+162
+00:10:20,200 --> 00:10:21,200
+No asteroids.
+
+163
+00:10:21,200 --> 00:10:26,600
+Well, I'm thinking more about maybe something artificial, possibly, as a possible hypothesis.
+
+164
+00:10:26,600 --> 00:10:32,680
+Something with either, again, its own intrinsic lights or lamps or something, or maybe something
+
+165
+00:10:32,680 --> 00:10:39,560
+reflecting the sunlight and let's say something very flat, very like glass or metal or so.
+
+166
+00:10:39,560 --> 00:10:41,040
+There is an elephant in the room.
+
+167
+00:10:41,040 --> 00:10:48,520
+This plate is from July 19th, 1952, which is the evening that a massive, massive UFO
+
+168
+00:10:48,520 --> 00:10:52,920
+flap happened over Washington, D.C. that was caught by multiple radars.
+
+169
+00:10:52,920 --> 00:10:55,400
+It's quite a fun coincidence, right?
+
+170
+00:10:55,400 --> 00:11:00,200
+It's quite the coincidence, and it has to be said that that did happen.
+
+171
+00:11:00,200 --> 00:11:06,960
+And maybe I would dare say, though, if that's what this is, a photographic plate from the
+
+172
+00:11:06,960 --> 00:11:12,960
+Hale Telescope at Mount Palomar Observatory would constitute probably the best UFO photograph
+
+173
+00:11:12,960 --> 00:11:15,400
+ever taken, right?
+
+174
+00:11:15,400 --> 00:11:18,400
+There's something even more fun about this.
+
+175
+00:11:18,400 --> 00:11:23,800
+When I discovered, or actually I didn't discover it, when my friend Dave Altman pointed out
+
+176
+00:11:23,800 --> 00:11:29,200
+this date, because it was he who recognized the date when I mentioned 19th of July, 1952.
+
+177
+00:11:29,200 --> 00:11:34,600
+After he had pointed it out, I was wondering, hey, what about the dates of my other candidates?
+
+178
+00:11:34,600 --> 00:11:38,360
+And I went to this paper where we had been looking for alignments.
+
+179
+00:11:38,360 --> 00:11:44,560
+It's a paper called, like, Is There a Background Population of High Albedo Objects?
+
+180
+00:11:44,560 --> 00:11:48,320
+I don't remember the exact title, but last year we put it on archive and it's a paper
+
+181
+00:11:48,320 --> 00:11:54,080
+that has issues getting published, because it's a little bit too transparent, I would
+
+182
+00:11:54,080 --> 00:11:57,200
+say, about the alien angle.
+
+183
+00:11:57,200 --> 00:12:01,040
+We had five candidates where there were two that were statistically significant and one
+
+184
+00:12:01,040 --> 00:12:02,960
+that was the best of all.
+
+185
+00:12:02,960 --> 00:12:07,240
+And in the one that was best of all, you could see five objects in a line.
+
+186
+00:12:07,240 --> 00:12:09,520
+And it was called Candidate 5.
+
+187
+00:12:09,520 --> 00:12:16,320
+And if you look at that one, that is from the 28th of July, 1952, which is also inside
+
+188
+00:12:16,520 --> 00:12:19,400
+this time region of the Washington flap.
+
+189
+00:12:19,400 --> 00:12:22,400
+It's one day after the second weekend, I think.
+
+190
+00:12:22,400 --> 00:12:27,520
+I think the second weekend was 26th to 27th of July, and this one happened on the 28th,
+
+191
+00:12:27,520 --> 00:12:29,160
+and I found it super funny.
+
+192
+00:12:29,160 --> 00:12:31,840
+I like that kind of funny coincidences.
+
+193
+00:12:31,840 --> 00:12:34,920
+We have to remember, too, that this is before satellites.
+
+194
+00:12:34,920 --> 00:12:37,060
+So this is before Sputnik.
+
+195
+00:12:37,060 --> 00:12:40,400
+So we had nothing up there.
+
+196
+00:12:40,400 --> 00:12:45,680
+And I mean, at that time, 1952, we were still experimenting with captured V2 rockets and
+
+197
+00:12:45,680 --> 00:12:47,640
+things like that and developing for the rockets.
+
+198
+00:12:47,640 --> 00:12:51,480
+And we just didn't have the technology to put something out there that would explain
+
+199
+00:12:51,480 --> 00:12:54,920
+this as human interference, so to speak, right?
+
+200
+00:12:54,920 --> 00:13:00,160
+But what if there were some secret military experiments that resulted in the Washington
+
+201
+00:13:00,160 --> 00:13:06,040
+flyover, but also resulted in that they created some kind of very radioactive particles that
+
+202
+00:13:06,040 --> 00:13:09,400
+were just captured on the plates that those nights?
+
+203
+00:13:09,400 --> 00:13:10,320
+Oh, that's interesting.
+
+204
+00:13:10,320 --> 00:13:14,640
+So there might have been a secret nuclear test that might have done it that we could
+
+205
+00:13:14,640 --> 00:13:19,200
+do, because remember, obviously, World War II and Trinity testing, and that maybe there
+
+206
+00:13:19,200 --> 00:13:22,640
+was something thrown into the atmosphere that was...
+
+207
+00:13:22,640 --> 00:13:27,200
+But couldn't you look at other photographic surveys and look for the same thing, you know,
+
+208
+00:13:27,200 --> 00:13:28,200
+reoccurring?
+
+209
+00:13:28,200 --> 00:13:33,000
+Maybe we could actually look for those for the photographic surveys that are from July
+
+210
+00:13:33,000 --> 00:13:44,080
+1952 and see if we can find more signs of, let's call them UFOs, or any kind of UAPs
+
+211
+00:13:44,080 --> 00:13:46,520
+or it's a possibility.
+
+212
+00:13:46,520 --> 00:13:51,280
+Unidentified astronomical object, I'm coining a phrase, and yeah.
+
+213
+00:13:51,280 --> 00:13:55,960
+It's an interesting coincidence, and of course, it has made me wonder even more.
+
+214
+00:13:55,960 --> 00:13:59,760
+Now, what other photographic surveys from this time period are there?
+
+215
+00:13:59,760 --> 00:14:03,200
+I'm sure the Vatican was doing it with the astrograph that they had.
+
+216
+00:14:03,200 --> 00:14:05,800
+So what other sources of data can you look at?
+
+217
+00:14:05,800 --> 00:14:12,880
+Maybe the Lick Observatory could be a good, well, it could work.
+
+218
+00:14:12,880 --> 00:14:16,360
+Unfortunately, the Harvard place don't seem too accessible.
+
+219
+00:14:16,360 --> 00:14:21,920
+They are photographic plate surveys, I think, from Ukraine, but I don't know if they have
+
+220
+00:14:21,920 --> 00:14:23,960
+the 1952 year.
+
+221
+00:14:23,960 --> 00:14:25,520
+Now, what's the future?
+
+222
+00:14:25,520 --> 00:14:30,280
+In other words, we've got really ideal-seeming survey telescopes coming online soon, probably
+
+223
+00:14:30,280 --> 00:14:33,560
+the biggest being the Vera Rubin Observatory.
+
+224
+00:14:33,560 --> 00:14:37,960
+Are you thinking in terms of searching modern data sets like that when we get it?
+
+225
+00:14:38,000 --> 00:14:44,480
+Actually, we are going to try to go a little bit ahead and create our own project called
+
+226
+00:14:44,480 --> 00:14:51,440
+Exoprobe, where we are going to place multiple telescopes.
+
+227
+00:14:51,440 --> 00:14:56,680
+They are all going to be filtering away human space debris and human satellites, and we
+
+228
+00:14:56,680 --> 00:15:01,280
+are going to search for these kind of multiple transients, but also search deliberately for
+
+229
+00:15:01,280 --> 00:15:06,560
+signatures of ET probes or unidentified objects that are leaving short transients.
+
+230
+00:15:06,560 --> 00:15:12,480
+We are going to really focus on transients in these searches, and the goal will be like
+
+231
+00:15:12,480 --> 00:15:17,600
+if you use multiple telescopes, then if you see some very short flash in several of them,
+
+232
+00:15:17,600 --> 00:15:28,560
+you directly know that it is a real observation and not something just in one image.
+
+233
+00:15:28,560 --> 00:15:31,840
+Independent telescope corroboration of a transient would be amazing.
+
+234
+00:15:31,840 --> 00:15:36,440
+That's exactly what we want to achieve, and then at the same time, if you use at least
+
+235
+00:15:36,440 --> 00:15:44,640
+two telescopes, you can triangulate and you will directly say it's at this and that distance,
+
+236
+00:15:44,640 --> 00:15:50,120
+and now if you use ten telescopes, you will get a very accurate distance because you can
+
+237
+00:15:50,120 --> 00:15:58,680
+get the 3D location much more accurately if you have many more combinations of triangulating.
+
+238
+00:15:58,680 --> 00:16:05,600
+Within the question of technosignatures, there is a known bias, and Dr. Sankirk Patrick recently
+
+239
+00:16:05,840 --> 00:16:11,200
+stated it as the orbit of Mars. A technosignature outside of that can be talked about like a von
+
+240
+00:16:11,200 --> 00:16:15,760
+Neumann probe or something like that at Jupiter, but when you start talking about anything getting
+
+241
+00:16:15,760 --> 00:16:20,800
+close to Earth, the biases come in even though it's virtually identical. There's no difference
+
+242
+00:16:20,800 --> 00:16:26,240
+between a von Neumann probe in orbit of Saturn or one in Earth's atmosphere. What's your view
+
+243
+00:16:26,240 --> 00:16:32,080
+on the stigma and how can we sort of try to get past it? Well, actually, I find it pretty fascinating
+
+244
+00:16:32,080 --> 00:16:38,960
+that there is such a stigma to search near the Earth because technically, why wouldn't a probe
+
+245
+00:16:38,960 --> 00:16:43,680
+that can make it into the solar system make it also inside the atmosphere? There's no difference.
+
+246
+00:16:43,680 --> 00:16:49,520
+There's no difference. So this is just like some kind of social barrier or so, and I think the
+
+247
+00:16:49,520 --> 00:16:53,520
+only way how we can get past that is by doing these searches and show that, okay, we know there's a
+
+248
+00:16:53,520 --> 00:16:58,080
+social barrier and we know that it's going to be difficult to publish the papers, but we'll still
+
+249
+00:16:58,080 --> 00:17:03,760
+look and even if we don't publish them right now, we will probably get them published in a few years
+
+250
+00:17:03,760 --> 00:17:10,640
+when the stigma is off and people will be kind of much more open-minded. Simply go on and do
+
+251
+00:17:10,640 --> 00:17:17,040
+your best. That's all one can do. The other thing is that you have to ask another question
+
+252
+00:17:17,040 --> 00:17:22,320
+when analyzing this sort of thing is that, again, we've talked about von Neumann probes and we've
+
+253
+00:17:22,320 --> 00:17:27,520
+talked about Benford probes and Bracewell probes and all this sort of stuff that could be in the
+
+254
+00:17:27,520 --> 00:17:32,960
+solar system, you know, artifacts on the moon or whatever, but we ignore the fact that we might
+
+255
+00:17:32,960 --> 00:17:40,000
+be living on the most interesting planet in the star system. Yeah, why wouldn't they send it right
+
+256
+00:17:40,000 --> 00:17:47,200
+to the earth? And I think this is the best place to send any probe to. So if I would be aliens and
+
+257
+00:17:47,200 --> 00:17:51,440
+they would know that there's an advanced civilization here, I would send all the probes here and I
+
+258
+00:17:51,440 --> 00:17:58,800
+wouldn't send it somewhere else. The universe is full of gas giants and Venuses and Marses
+
+259
+00:17:58,800 --> 00:18:03,760
+and things like that, but not so much with civilizations as far as we can tell and study
+
+260
+00:18:03,760 --> 00:18:11,520
+and that it seems to me that bias, the Mars orbit bias, is just really unhelpful because
+
+261
+00:18:11,520 --> 00:18:17,920
+the Earth's atmosphere is where you would expect to find a technosignature if there is indeed an
+
+262
+00:18:17,920 --> 00:18:23,040
+alien civilization here studying us. Exactly, and this is where you could imagine that you would
+
+263
+00:18:23,040 --> 00:18:29,840
+see things like artifacts and remains on the planet, maybe in geological records even or so.
+
+264
+00:18:29,840 --> 00:18:37,120
+So I think it's a completely valid way of starting SETI searches here and simply assume that if we
+
+265
+00:18:37,120 --> 00:18:42,400
+can send something to a different stellar system also can another civilization send something to
+
+266
+00:18:42,400 --> 00:18:49,280
+us and to the Earth. So I'm totally in favor of this this type of SETI. I also am attracted
+
+267
+00:18:49,280 --> 00:18:54,960
+to the idea of searching the surface of the moon for any evidence of a past visitation just because
+
+268
+00:18:54,960 --> 00:19:01,280
+the moon, unlike the Earth, the moon does not recycle its surface constantly and I think that
+
+269
+00:19:01,280 --> 00:19:06,320
+that's kind of a wide open area for technosignature searches is to start looking at lunar maps and
+
+270
+00:19:06,320 --> 00:19:11,840
+things like that that might reveal something that was once there. I think that's a really
+
+271
+00:19:12,480 --> 00:19:20,320
+beautiful idea and I think there are even some searches like AI-driven searches for artifacts
+
+272
+00:19:20,320 --> 00:19:26,400
+on the moon led by ETH researchers in Switzerland. By the way, I apologize in case you hear weird
+
+273
+00:19:26,400 --> 00:19:33,360
+sounds from my end, it's my cats coming here and licking my plates that had some ham on. So
+
+274
+00:19:33,360 --> 00:19:39,680
+sorry for the weird sounds from my end. Oh it's quite okay, we like the cats. I like cats and
+
+275
+00:19:40,400 --> 00:19:44,400
+one of the reasons why I have a separate Event Horizon studio from my house is that
+
+276
+00:19:44,400 --> 00:19:49,840
+my cats will try to talk into the microphone. This one might try to, it's a non-human intelligence
+
+277
+00:19:49,840 --> 00:19:58,400
+that is trying to find her way of maximizing her resources. So yes, a von Neumann cat. Exactly.
+
+278
+00:20:00,720 --> 00:20:06,560
+So yeah well I completely agree with you on your entire assessment both about the moon and about
+
+279
+00:20:06,560 --> 00:20:10,400
+the earth and I hope there will be more setting in that direction because we have been doing
+
+280
+00:20:10,400 --> 00:20:16,560
+60 years of radio searches over and over again always pushing the limit but if you do something
+
+281
+00:20:16,560 --> 00:20:22,160
+over and over and over again and you don't get any results it's maybe time to open new doors
+
+282
+00:20:23,200 --> 00:20:28,880
+because new doors will always lead to something unexpected even if it's not what you were looking
+
+283
+00:20:28,880 --> 00:20:35,440
+for. Well if you're going to look in radio then it only makes sense and this has been
+
+284
+00:20:35,440 --> 00:20:40,000
+something that's been changing recently is if you're going to look in radio look everywhere
+
+285
+00:20:40,000 --> 00:20:45,040
+look at every possible technosignature you can think of and see if it might be there or it might
+
+286
+00:20:45,040 --> 00:20:51,040
+not be and that's one thing that that I think there's not enough work done on is is sort of
+
+287
+00:20:51,040 --> 00:20:58,400
+the candidates like Jabelsky star or HD 139 139 where we don't exactly know what it is but as
+
+288
+00:20:58,400 --> 00:21:04,000
+soon as it looks weird and potentially alien all work on it stops and I think that now is the time
+
+289
+00:21:04,000 --> 00:21:10,800
+to change that and take a fresh look at these weird potential technosignatures. I agree I think
+
+290
+00:21:11,760 --> 00:21:17,680
+there's an experience that a lot of astronomers have at some point which is like the driving force
+
+291
+00:21:17,680 --> 00:21:24,080
+let's say you're young and you work on you discover some anomaly and you get super excited like this
+
+292
+00:21:24,080 --> 00:21:30,000
+coolest thing ever this anomaly and you invest months into exploring it and then in the end you
+
+293
+00:21:30,000 --> 00:21:35,280
+discover that this was something super mundane and then maybe again some time passes and the
+
+294
+00:21:35,280 --> 00:21:40,240
+same thing happens and I think what happens is that lots of astronomers develop some kind of
+
+295
+00:21:40,240 --> 00:21:46,160
+over time some type of experience of that when it's an anomaly 95 percent of the time it's something
+
+296
+00:21:46,160 --> 00:21:51,600
+mundane and since they want to publish and make good careers and do zero science in quotation
+
+297
+00:21:51,600 --> 00:21:56,720
+mark it means that anomalies very often get overlooked because people assume that yeah it's
+
+298
+00:21:56,720 --> 00:22:02,400
+going to be 90% probability of that this is something boring and uninteresting or instrumental
+
+299
+00:22:02,400 --> 00:22:10,080
+and 10% probability that this is something real I better take a more safe road and I go for more
+
+300
+00:22:10,080 --> 00:22:16,400
+safe science and in that way a lot of anomalies like remain unsolved while I think the most fun
+
+301
+00:22:16,400 --> 00:22:21,200
+thing is actually to explore anomalies if we don't do that and stay on the safe side sure we can
+
+302
+00:22:21,200 --> 00:22:30,000
+learn a lot but it's not going to be as intriguing and as adventurous as the more risky road
+
+303
+00:22:30,800 --> 00:22:35,040
+it's a high payoff though because if you discover an alien civilization you've just made
+
+304
+00:22:35,040 --> 00:22:41,040
+probably the biggest scientific discovery in the history of humanity that we are not alone
+
+305
+00:22:41,040 --> 00:22:46,320
+but what if there is something even crazier than an alien civilization something even crazier to
+
+306
+00:22:46,640 --> 00:22:52,000
+be discovered that you cannot really imagine right now but you you would discover it and
+
+307
+00:22:52,000 --> 00:22:57,920
+it would make the alien civilization look like a mundane explanation none of the above
+
+308
+00:22:59,200 --> 00:23:04,640
+in other words yeah that it's it's something but it's not an alien but it isn't it isn't it isn't
+
+309
+00:23:04,640 --> 00:23:12,640
+from here well that requires paradigm changes but paradigm changes are common in human history
+
+310
+00:23:12,640 --> 00:23:19,920
+and for example someone in the medieval world had no idea quantum mechanics existed and maybe
+
+311
+00:23:19,920 --> 00:23:26,320
+this works like that that we just have no conception of of what might be there and it might be weirder
+
+312
+00:23:26,320 --> 00:23:32,640
+than aliens in the end yeah and I think like there is some kind of idea that I see in a lot of my
+
+313
+00:23:32,640 --> 00:23:36,640
+fellow colleagues and that is something like that we have already discovered all the important
+
+314
+00:23:36,640 --> 00:23:41,760
+physics there is nothing big and new to be discovered which I find super weird the first
+
+315
+00:23:41,760 --> 00:23:46,960
+question that hits my mind is okay so if you don't think that's anything new can be discovered
+
+316
+00:23:46,960 --> 00:23:52,640
+and what's the point of doing all this research well of course they will reply that they want
+
+317
+00:23:52,640 --> 00:23:59,040
+to understand the natural processes and into a finer detail and so on but I find it so hard to
+
+318
+00:24:00,400 --> 00:24:04,480
+for me it's a point of view that is very different from my own because if you look at
+
+319
+00:24:04,480 --> 00:24:10,720
+like physics most has been done in the last 200 years and what is 200 years in the history of
+
+320
+00:24:10,720 --> 00:24:16,800
+humanity it's a short time period and now imagine you have some civilization that has been there
+
+321
+00:24:16,800 --> 00:24:21,840
+for one million years I think they will they will know so much more about physics than we ever
+
+322
+00:24:21,840 --> 00:24:28,240
+or that we will do at this point that there is I think there's an immense world of discoveries
+
+323
+00:24:28,240 --> 00:24:36,480
+ahead of us ahead of the humans and it would be so cool to be part of that and see some of it
+
+324
+00:24:36,560 --> 00:24:43,680
+the thing is though is that the universe throws curveballs and we see hints right now of a fifth
+
+325
+00:24:43,680 --> 00:24:48,720
+force you know and things like that and maybe you know another planet in the solar system
+
+326
+00:24:48,720 --> 00:24:54,080
+planet nine we see all these indicators and things that change our paradigm and we need to be prepared
+
+327
+00:24:54,080 --> 00:24:59,760
+for that but in defense of science most scientists I've known actually really get intrigued when
+
+328
+00:24:59,760 --> 00:25:05,200
+there are discrepancies hints of new physics and things like that so at least there still is an
+
+329
+00:25:05,200 --> 00:25:10,960
+open debate it's not a dogma it's not it hasn't descended completely into a dogma yet I think so
+
+330
+00:25:10,960 --> 00:25:16,080
+too you're right maybe I was thinking a little bit too dark and I just remember a couple of
+
+331
+00:25:16,080 --> 00:25:22,080
+conversations sometimes that's stuck in my mind you're right many scientists are very excited
+
+332
+00:25:22,080 --> 00:25:27,120
+when there's some new anomaly but I remember people were super excited when there was this
+
+333
+00:25:28,560 --> 00:25:34,960
+neutrino neutrino's traveling faster than the speed of light at cern I remember that yeah
+
+334
+00:25:34,960 --> 00:25:38,640
+I remember that and well it turned out to be a bad cable or something but
+
+335
+00:25:40,560 --> 00:25:45,440
+let's see another example of when anomalies turn out to be have some very abundant explanation
+
+336
+00:25:45,440 --> 00:25:51,360
+it's true that you can have well misinterpretation and knowing that your data may be flawed and you
+
+337
+00:25:51,360 --> 00:25:55,120
+know there's all kinds of things you got to go through the whole list to make sure you know
+
+338
+00:25:55,120 --> 00:25:59,600
+confirmation bias all of these things to make sure that what you're seeing is real but that's
+
+339
+00:25:59,600 --> 00:26:06,400
+what's peer reviews for exactly so what's the future look like on looking at photographic
+
+340
+00:26:06,400 --> 00:26:12,240
+plates from the past versus looking at new data you know new data sets from telescopes like the
+
+341
+00:26:12,240 --> 00:26:17,840
+lsst vera rubin observatory that's going to come online can you use computers and things like that
+
+342
+00:26:17,840 --> 00:26:23,040
+to automatically look for these kinds of transients and see if they're still occurring actually that's
+
+343
+00:26:23,040 --> 00:26:28,640
+exactly what we want to do but we want to build our own system to look for these kind of transients
+
+344
+00:26:28,640 --> 00:26:32,880
+because we think that they are quite short from what we've seen with this place that you can only
+
+345
+00:26:32,880 --> 00:26:38,720
+see them in one plate so what we want to do is to create a system where you have multiple telescopes
+
+346
+00:26:38,720 --> 00:26:43,760
+where you search for short flashes and you only retain the flashes that are seen in at least two
+
+347
+00:26:43,760 --> 00:26:49,120
+telescopes to make sure that they are authentic and when you have multiple telescopes you can also
+
+348
+00:26:49,120 --> 00:26:54,880
+let's say you have two telescopes you can measure the parallax to an object inside the solar system
+
+349
+00:26:54,880 --> 00:27:01,200
+let's say that this flash comes from something that is blinking or blinking or having some laser
+
+350
+00:27:01,840 --> 00:27:07,280
+by having by seeing the flash in two telescopes you will once you have the parallax you can get
+
+351
+00:27:07,280 --> 00:27:11,840
+the distance and now let's say you have 10 of these telescopes and you see the same flash in
+
+352
+00:27:11,840 --> 00:27:17,200
+all 10 of them then you're going to have a very good accuracy on the distance to that object
+
+353
+00:27:18,000 --> 00:27:23,840
+at the same time as you are like validating the flash and you know that it's real at the same
+
+354
+00:27:23,840 --> 00:27:30,880
+time as you get the 3d location you can actually also use a so-called wedge prism in order to
+
+355
+00:27:30,880 --> 00:27:36,160
+measure like get the spectrum in low resolution of all the objects in that field that is what
+
+356
+00:27:36,160 --> 00:27:42,560
+we're going to do try to get the real-time spectrum when you get a spectra on a transient like this
+
+357
+00:27:42,560 --> 00:27:47,120
+say you catch one and you catch multiple telescopes so you know it's really there it's not a plate
+
+358
+00:27:47,120 --> 00:27:52,640
+floor or anything like that it's really there and you get a spectra on it what happens if that
+
+359
+00:27:52,640 --> 00:27:59,920
+spectra is not that of a star well it depends on what we actually see because maybe what we are
+
+360
+00:27:59,920 --> 00:28:05,920
+seeing is some kind of communication laser that looks the same as what humans use in their
+
+361
+00:28:05,920 --> 00:28:12,560
+communication satellites maybe also the object that we are seeing is in let's say in geosynchronous
+
+362
+00:28:12,560 --> 00:28:17,360
+orbit and moves just like a human satellite and shoots a laser just like a human satellite
+
+363
+00:28:17,440 --> 00:28:23,440
+and there is nothing that indicates any kind of anomaly then it's maybe it's not super exciting
+
+364
+00:28:23,440 --> 00:28:27,440
+but what if that spectrum what if you know that that object is something
+
+365
+00:28:28,080 --> 00:28:32,720
+that is very close to the earth it moves let's say again at the geosynchronous orbit but
+
+366
+00:28:32,720 --> 00:28:39,040
+what you see is not any laser and it's some very peculiar type of emission that you've never seen
+
+367
+00:28:39,040 --> 00:28:44,160
+that would be super cool. Now how would you go about the process of illumination to begin to
+
+368
+00:28:44,160 --> 00:28:50,160
+ask in other words if it's a technosignature then it could have a signature that is there's no way
+
+369
+00:28:50,160 --> 00:28:56,480
+that can be natural right and so you say like with a star when you see a star spectrum you see all
+
+370
+00:28:56,480 --> 00:29:01,440
+the absorption lines and all this stuff and if you don't see that I mean it it would seem to me to be
+
+371
+00:29:01,440 --> 00:29:06,560
+a very fruitful method of study to start looking at these transients and try to catch spectra.
+
+372
+00:29:07,440 --> 00:29:14,080
+Well we have our methods that they cannot reveal yet in the exapro program where we will be removing
+
+373
+00:29:14,080 --> 00:29:20,080
+all the human objects like space debris and satellites and we also have are working on
+
+374
+00:29:20,800 --> 00:29:29,040
+establishing a protocol where we remove the remaining unknown objects so of course there's
+
+375
+00:29:29,040 --> 00:29:34,800
+always a chance that you find some very anomalous thing that is some secret some very secret
+
+376
+00:29:36,400 --> 00:29:42,800
+experiment that some country on earth has sent there but I think we know the boundaries of what
+
+377
+00:29:42,800 --> 00:29:48,720
+humans can create and produce and we will have to check whether the anomalies are within them
+
+378
+00:29:48,720 --> 00:29:54,160
+or outside them. Yeah that's going to be a problem because that's a that's a thing in satellite
+
+379
+00:29:54,160 --> 00:29:59,280
+technology is blinding other satellites meaning you're emitting some kind of light to throw off
+
+380
+00:29:59,280 --> 00:30:05,360
+the the rival satellites and things like that. Now what about will this research result in other
+
+381
+00:30:05,360 --> 00:30:09,840
+discoveries in other words might you find when you're looking for your transients and taking
+
+382
+00:30:09,840 --> 00:30:14,320
+plates with as many telescopes might you find something like I don't know Kuiper belt objects
+
+383
+00:30:14,320 --> 00:30:21,680
+or planet nine something like that could you catch that with this survey? I think it's there's a very
+
+384
+00:30:21,680 --> 00:30:26,720
+good possibility that you can find some very unusual astronomical phenomena that are just
+
+385
+00:30:26,720 --> 00:30:32,160
+happening on these short time scales because in the time scales we are focusing on very few
+
+386
+00:30:32,160 --> 00:30:38,320
+astronomers have examined it and that's what's what makes it so exciting and that's why it's so
+
+387
+00:30:39,280 --> 00:30:44,800
+fun for us to explore it and by the way like just a small thing I was thinking about in connection
+
+388
+00:30:44,800 --> 00:30:49,760
+to the previous question. One more thing by the way in the way how we can separate between human
+
+389
+00:30:49,760 --> 00:30:57,040
+objects even the secret ones and the non-human objects that we are interested in the artificial
+
+390
+00:30:57,760 --> 00:31:02,880
+let's call ET probes is that we are going to actually search quite far away from the earth
+
+391
+00:31:02,880 --> 00:31:08,960
+for starters because in that way we get rid of all these satellites at low earth orbit
+
+392
+00:31:08,960 --> 00:31:15,440
+and we get rid of the whole belt of human space debris so it's a very good thing to try to start
+
+393
+00:31:15,440 --> 00:31:21,280
+and the searches further out because there everything that has been or most of the stuff
+
+394
+00:31:21,280 --> 00:31:28,000
+that humans have sent are very like well known. So in other words we we know what the signatures
+
+395
+00:31:28,080 --> 00:31:33,840
+of human technology are and we should be able to tell that from alien technology for example if
+
+396
+00:31:33,840 --> 00:31:40,000
+you were seeing say the light from some kind of a photon drive or something like that it would be
+
+397
+00:31:40,000 --> 00:31:45,040
+so characteristically weird that it's it can't be something that humans produce right?
+
+398
+00:31:45,920 --> 00:31:54,480
+Exactly exactly so that's how I'm imagining that you can identify some of the unidentified objects
+
+399
+00:31:54,480 --> 00:32:00,160
+or if you find let's say something that maybe looks more like a conventional ET probe but in
+
+400
+00:32:00,160 --> 00:32:06,160
+completely wrong place no country says that they have sent their space rockets and it's too far out
+
+401
+00:32:06,160 --> 00:32:12,720
+to just be a random object that is there that nobody knows what it is that's also a possibility.
+
+402
+00:32:13,600 --> 00:32:17,360
+Now you can use parallax to determine that distance right? Of course. When you're using
+
+403
+00:32:17,360 --> 00:32:24,000
+multiple telescopes and you can determine that this is either close or far away. Exactly.
+
+404
+00:32:24,480 --> 00:32:28,960
+That's what we want to do. So what is the what where are the telescopes going to be located?
+
+405
+00:32:28,960 --> 00:32:35,600
+I mean is it globally or what telescope locations are we looking at? So actually we hope to get it
+
+406
+00:32:35,600 --> 00:32:42,320
+globally but in the first phase it's going to be in California so we're looking to put up a telescope
+
+407
+00:32:42,320 --> 00:32:47,840
+there in Sierra remote and also two more locations so that's where we are now we are trying to
+
+408
+00:32:48,800 --> 00:32:55,600
+solve the administrative things with the telescopes. What kind of telescope apertures
+
+409
+00:32:55,600 --> 00:32:59,600
+are we looking at? What are the size of these telescopes? It seems to me you can do this very
+
+410
+00:32:59,600 --> 00:33:05,920
+with very small instruments right? Exactly we are going to go for like very professional state of
+
+411
+00:33:05,920 --> 00:33:11,600
+the art half meter telescopes that have super good tracking and very good mounts that are reliable
+
+412
+00:33:11,600 --> 00:33:16,160
+and to do this type of work and yes they are pretty expensive so of course we have to
+
+413
+00:33:17,120 --> 00:33:24,800
+work on that end to make it happen but this yeah we're imagining at least three telescopes
+
+414
+00:33:24,800 --> 00:33:32,640
+in California and hopefully like within the near future so one is being ordered and there are two
+
+415
+00:33:32,640 --> 00:33:38,160
+more not equally good as the one that we are ordering and one that also one of them actually
+
+416
+00:33:38,160 --> 00:33:43,520
+recently had an accident so we need to solve that too. Yeah there was a little accident that
+
+417
+00:33:43,760 --> 00:33:49,760
+happened with one of them and we will probably we will need to replace it. Now this also seems
+
+418
+00:33:49,760 --> 00:33:54,720
+like something that citizen scientists might be able to do look for transients because there are
+
+419
+00:33:54,720 --> 00:34:00,400
+a lot of people doing astrophotography out there and there have been for decades and that maybe
+
+420
+00:34:00,400 --> 00:34:05,520
+people that have archives should look and see if anything's missing in their photographic plates
+
+421
+00:34:05,520 --> 00:34:10,880
+that they have and let you guys know about it. I would love if they did that and we also have
+
+422
+00:34:10,880 --> 00:34:16,240
+a citizen science project that we've been running with the Vasco team where people can go and actually
+
+423
+00:34:16,240 --> 00:34:20,480
+search for these type of objects that are vanishing. We're now actually wrapping up the
+
+424
+00:34:20,480 --> 00:34:27,280
+results from there and like we found some thousands of transients we didn't find any example of a star
+
+425
+00:34:27,280 --> 00:34:32,000
+that is there in five plates and later vanished but we found many of these short-lived transient
+
+426
+00:34:32,000 --> 00:34:38,160
+things so everyone are welcome to help us with it also or they can also do it with their own
+
+427
+00:34:38,160 --> 00:34:42,560
+telescopes on their own archives. I think there's a lot of potential when it comes to
+
+428
+00:34:42,560 --> 00:34:48,080
+transient searches especially in the short time region. Now you recently spoke at the
+
+429
+00:34:48,080 --> 00:34:55,200
+SOL conference which was put on by Gary Nolan and regarding to UAP tell us about that. Oh my god that
+
+430
+00:34:55,200 --> 00:35:02,240
+was the most interesting conference I've been to probably in my life. So fun, so nice people,
+
+431
+00:35:02,320 --> 00:35:09,040
+so brilliant thinkers and minds and like such a diversity in the type of work people are doing
+
+432
+00:35:09,040 --> 00:35:16,800
+and still there's such a unity because everyone wants to understand the phenomenon or the UAPs
+
+433
+00:35:16,800 --> 00:35:24,320
+or if there are ET probes and this curiosity people had like there was such a passion for the topic.
+
+434
+00:35:25,120 --> 00:35:36,240
+Apologies for the sound. Just for the listeners that is the sound of a very active cat. Yes.
+
+435
+00:35:37,120 --> 00:35:41,200
+All right doctor thank you for visiting with us yet again and I look forward to the next paper
+
+436
+00:35:41,200 --> 00:35:45,920
+because I'm just fascinated by these transients and legitimately this is one of the things that
+
+437
+00:35:45,920 --> 00:35:50,800
+really puzzles me these days in science is that is these transients especially this one with the
+
+438
+00:35:50,800 --> 00:35:57,280
+palomar plate because it just does not look like it looks like stars. Yeah that's the thing it's
+
+439
+00:35:57,280 --> 00:36:02,640
+like we have several of these cases with the multiple transients all look like stars and some
+
+440
+00:36:02,640 --> 00:36:08,400
+are even aligned like lying beautifully in a line like if it was satellites moving and tumbling
+
+441
+00:36:09,120 --> 00:36:16,000
+and of course they are from the early 50s when there was nothing human at those high altitudes
+
+442
+00:36:16,000 --> 00:36:22,480
+or in space so I find it super puzzling and maybe there's some new physics that I don't know about
+
+443
+00:36:22,480 --> 00:36:26,480
+maybe there's some completely different type of explanation I'm of course also limited
+
+444
+00:36:26,480 --> 00:36:33,200
+with my bias but I find it fascinating and I want to understand more what it is with new projects and
+
+445
+00:36:33,200 --> 00:36:39,200
+everything I can do to solve the riddle. Natural or artificial it's going to be interesting.
+
+446
+00:36:39,200 --> 00:36:44,400
+I think so too. I'm very curious about where it will lead.
+

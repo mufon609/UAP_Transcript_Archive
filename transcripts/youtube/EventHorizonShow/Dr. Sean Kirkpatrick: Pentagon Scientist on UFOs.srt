@@ -1,0 +1,3464 @@
+1
+00:00:00,000 --> 00:00:02,160
+Counterpoints.
+
+2
+00:00:02,160 --> 00:00:07,800
+With this double interview series, I wanted to do a pair of balanced, fair interviews
+
+3
+00:00:07,800 --> 00:00:13,600
+probing the differing views within the US government regarding the UFO UAP phenomenon.
+
+4
+00:00:13,600 --> 00:00:18,960
+In this interview I am joined by Dr. Sean Kirkpatrick, the recently retired former director
+
+5
+00:00:18,960 --> 00:00:25,260
+of AERO, the US government's all domain anomaly resolution office, tasked with trying
+
+6
+00:00:25,260 --> 00:00:28,520
+to identify reports of UFOs.
+
+7
+00:00:28,520 --> 00:00:34,120
+But also to look into the US government's past involvement with UFOs and find out whether
+
+8
+00:00:34,120 --> 00:00:37,200
+there ever really were retrievals.
+
+9
+00:00:37,200 --> 00:00:42,000
+More importantly, I asked how those would be classified and a number of other questions
+
+10
+00:00:42,000 --> 00:00:47,880
+including about the Nimitz event that has made so many waves and a number of other things.
+
+11
+00:00:47,880 --> 00:00:53,280
+So this serves to show the skeptical side of interpretations within the US government,
+
+12
+00:00:53,280 --> 00:00:57,720
+something of great interest during a time of continued congressional hearings trying
+
+13
+00:00:57,720 --> 00:01:03,360
+to figure out just what's going on here, if anything, along with the previous interview
+
+14
+00:01:03,360 --> 00:01:04,720
+on the pro side.
+
+15
+00:01:04,720 --> 00:01:08,480
+I leave it up to you, the audience, to decide.
+
+16
+00:01:08,480 --> 00:01:23,280
+You have fallen into Event Horizon with John Michael Gaudier.
+
+17
+00:01:23,280 --> 00:01:26,200
+John is joined today by Dr. Sean Kirkpatrick.
+
+18
+00:01:26,680 --> 00:01:33,240
+Dr. Sean Kirkpatrick is a laser and materials physicist and senior intelligence officer
+
+19
+00:01:33,240 --> 00:01:38,800
+who served as the first director of the United States Department of Defense's all domain
+
+20
+00:01:38,800 --> 00:01:41,760
+anomaly resolution office, AERO.
+
+21
+00:01:41,760 --> 00:01:48,080
+He served in a variety of no-fail roles including deputy director of intelligence, US Strategic
+
+22
+00:01:48,080 --> 00:01:54,760
+Command, director of national security strategy, national security council, deputy director
+
+23
+00:01:54,760 --> 00:01:59,880
+of intelligence and the DNI representative for US Spacecom.
+
+24
+00:01:59,880 --> 00:02:05,680
+He also served as chief scientist at DIA's Missile and Space Intelligence Center.
+
+25
+00:02:05,680 --> 00:02:10,280
+He is the recipient of several scientific and military intelligence awards.
+
+26
+00:02:10,280 --> 00:02:15,880
+These include the Secretary of Defense Medal for Outstanding Public Service, the Joint
+
+27
+00:02:15,880 --> 00:02:22,120
+Meritus Civilian Service Award, the National Intelligence Exceptional Achievement Medal,
+
+28
+00:02:22,120 --> 00:02:27,800
+four National Intelligence Collaboration Medallions, the NRO Innovation and Achievement
+
+29
+00:02:27,800 --> 00:02:34,440
+Award, the Cleary Award for Scientific Excellence, and the DIA Director's Award for Excellence.
+
+30
+00:02:34,440 --> 00:02:37,680
+Dr. Sean Kirkpatrick, welcome to the program.
+
+31
+00:02:37,680 --> 00:02:38,680
+Thank you.
+
+32
+00:02:38,680 --> 00:02:40,680
+It's a pleasure to be here.
+
+33
+00:02:40,680 --> 00:02:47,040
+Now, Dr. the Fermi paradox, and this gets into physics in general, the Fermi paradox
+
+34
+00:02:47,040 --> 00:02:53,640
+comes from Enrico Fermi back in the day, the 1950s, thinking about alien life over lunch
+
+35
+00:02:53,640 --> 00:02:55,000
+and saying, well, where are they?
+
+36
+00:02:55,000 --> 00:02:57,600
+We should be seeing them if they were common.
+
+37
+00:02:57,600 --> 00:03:00,460
+What is your view to sort of set the stage here?
+
+38
+00:03:00,460 --> 00:03:04,200
+What is your view of alien life in the universe as a physicist?
+
+39
+00:03:04,200 --> 00:03:09,320
+Do you think it's probably out there or are you in the camp that now this is rare and
+
+40
+00:03:09,320 --> 00:03:10,800
+that we shouldn't see it?
+
+41
+00:03:10,800 --> 00:03:18,560
+Okay, so the Fermi paradox is fascinating in its simplistic approach to the universe.
+
+42
+00:03:18,560 --> 00:03:20,800
+It's a very apt question.
+
+43
+00:03:20,800 --> 00:03:26,800
+It's spawned lots of research, it's spawned lots of NASA programs, it's spawned lots of
+
+44
+00:03:26,800 --> 00:03:32,720
+SETI programs, it's spawned lots of conjecture and a lot of scientific research.
+
+45
+00:03:32,720 --> 00:03:39,760
+And coming out of that, as you all know, right, was the famous Drake equation, which calculates
+
+46
+00:03:39,760 --> 00:03:45,680
+at least at first order the probability of intelligent life in the universe.
+
+47
+00:03:45,680 --> 00:03:52,480
+And statistically, most of the scientific community would agree that, well, one, it
+
+48
+00:03:52,480 --> 00:03:58,640
+is statistically improbable that there's not life in the universe outside of Earth and
+
+49
+00:03:58,640 --> 00:04:06,440
+that across all time that the universe has existed, it is statistically impractical to
+
+50
+00:04:06,440 --> 00:04:11,400
+believe that there hasn't been other intelligent life out in the universe.
+
+51
+00:04:11,400 --> 00:04:20,160
+But that conversation and that exploration of that question is scientifically grounded
+
+52
+00:04:20,160 --> 00:04:27,800
+in a lot of the observations that NASA undertakes to probe the different types of planetary
+
+53
+00:04:27,800 --> 00:04:35,240
+systems throughout the universe as far as we can see today and how that factors into
+
+54
+00:04:35,240 --> 00:04:38,560
+the calculations for the Drake equation.
+
+55
+00:04:38,560 --> 00:04:46,680
+And just within our galaxy alone, the last couple of papers I looked at on this was estimating
+
+56
+00:04:46,680 --> 00:04:55,840
+based on current Webb telescope measurements, somewhere between 30 and 300 planets that
+
+57
+00:04:55,840 --> 00:05:02,080
+can sustain life and may have some form of intelligence in it.
+
+58
+00:05:02,080 --> 00:05:04,640
+That's across one galaxy.
+
+59
+00:05:04,640 --> 00:05:13,560
+So as a scientist, it's just mathematically impractical to believe that there's not other
+
+60
+00:05:13,560 --> 00:05:17,880
+intelligent life throughout the vastness of the universe.
+
+61
+00:05:17,880 --> 00:05:26,000
+Where it becomes interesting is carrying that conversation closer to this solar system and
+
+62
+00:05:26,000 --> 00:05:33,120
+closer to Earth, because those same statistics apply and that the probability of there being
+
+63
+00:05:33,320 --> 00:05:39,480
+an intelligent life form out in the universe that has found this particular solar system
+
+64
+00:05:39,480 --> 00:05:46,020
+and this particular planet is just as rare as us finding them.
+
+65
+00:05:46,020 --> 00:05:55,400
+So I can't see or fathom how that rationally translates to the underlying stories that
+
+66
+00:05:55,400 --> 00:05:58,280
+pervade public perception today.
+
+67
+00:05:59,240 --> 00:06:05,320
+Well, there's a plausible way, at least now, space is vast and crossing space is costly.
+
+68
+00:06:05,320 --> 00:06:08,640
+You know, you're going to need a lot of energy and a lot of time.
+
+69
+00:06:08,640 --> 00:06:13,880
+And we're constricted by things like relativity and the speed of light and things like that
+
+70
+00:06:13,880 --> 00:06:19,640
+that really put a damper on the notion of traveling between star systems.
+
+71
+00:06:19,640 --> 00:06:23,800
+But you can do it as long as you don't care about time and you've got the energy and you
+
+72
+00:06:23,800 --> 00:06:28,400
+don't care about having any connection to where you left, you know, your time, because
+
+73
+00:06:28,400 --> 00:06:33,480
+everybody's going to be dead by the time you get back unless they live for ridiculously
+
+74
+00:06:33,480 --> 00:06:34,920
+long periods of time.
+
+75
+00:06:34,920 --> 00:06:38,720
+But one plausible way, and I've talked to other physicists about this, is the idea of
+
+76
+00:06:38,720 --> 00:06:45,000
+a von Neumann probe where you have a machine, essentially a self-replicating machine that
+
+77
+00:06:45,000 --> 00:06:52,160
+can populate a galaxy inside of a few million years at sublight speeds, at comfortable speeds.
+
+78
+00:06:52,200 --> 00:06:54,560
+And a machine doesn't really care about the passage of time.
+
+79
+00:06:54,560 --> 00:07:00,280
+So that is the one way that this could happen, where you could have an alien presence in
+
+80
+00:07:00,280 --> 00:07:02,200
+most star systems.
+
+81
+00:07:02,200 --> 00:07:07,960
+And let's face it, 3D printers exist and something could be printing out UAP or atmospheric
+
+82
+00:07:07,960 --> 00:07:11,600
+probes to look at the most interesting planet in this star system.
+
+83
+00:07:11,600 --> 00:07:14,560
+Presuming this one is the most interesting one.
+
+84
+00:07:14,560 --> 00:07:16,120
+So there is a plausible way.
+
+85
+00:07:16,120 --> 00:07:17,800
+Did you account for that in Aero?
+
+86
+00:07:17,800 --> 00:07:20,680
+Did you think, well, maybe?
+
+87
+00:07:20,840 --> 00:07:28,800
+So when we set up Aero, one of the key tenets of setting up Aero and all the processes that
+
+88
+00:07:28,800 --> 00:07:33,600
+I put in place to do so was to follow the data.
+
+89
+00:07:33,600 --> 00:07:41,720
+It was to be open to all hypotheses of what could be possible and then look at where the
+
+90
+00:07:41,720 --> 00:07:44,000
+data led you.
+
+91
+00:07:44,000 --> 00:07:47,520
+And none of the data supported that theory.
+
+92
+00:07:47,520 --> 00:07:50,000
+So we did have a range of hypotheses.
+
+93
+00:07:50,040 --> 00:07:55,520
+I had on one end of the spectrum, you have the alien hypothesis, whether it's probe or
+
+94
+00:07:55,520 --> 00:07:56,520
+otherwise.
+
+95
+00:07:56,520 --> 00:08:03,000
+On the other end of the spectrum, you have adversary technology, leap ahead technology
+
+96
+00:08:03,360 --> 00:08:06,760
+that they are intentionally trying to hide from us.
+
+97
+00:08:06,760 --> 00:08:13,400
+And then in the middle, you have really all of the mundane known objects that just manifest
+
+98
+00:08:13,400 --> 00:08:20,640
+themselves in weird ways because we haven't calibrated our sensors against those.
+
+99
+00:08:20,920 --> 00:08:28,160
+And so what was established was a very rigorous scientific method for how do you test that
+
+100
+00:08:28,160 --> 00:08:35,520
+range of hypotheses against all of the reported observations is that one, you had to start
+
+101
+00:08:35,520 --> 00:08:42,640
+with all of those military sensors, all of those ground based or air based sensors or
+
+102
+00:08:42,640 --> 00:08:48,000
+even space based sensors need to be calibrated against known objects.
+
+103
+00:08:48,560 --> 00:08:57,680
+Most of the reporting comes from military or Intel, mostly military platforms and pilots.
+
+104
+00:08:57,800 --> 00:09:04,480
+And what everyone needs to understand is those platforms are purpose built.
+
+105
+00:09:04,480 --> 00:09:12,560
+They are designed for one thing, and that is to identify large metallic types of objects
+
+106
+00:09:12,640 --> 00:09:16,680
+coming at them and put a weapon on it.
+
+107
+00:09:16,960 --> 00:09:23,720
+So if it's a missile or an aircraft or a ground system or whatever it might be to identify
+
+108
+00:09:23,720 --> 00:09:29,720
+those large, fast moving objects and put a weapon on it, they are not designed to identify,
+
+109
+00:09:30,080 --> 00:09:38,280
+for example, weather balloons or small drones or other types of objects that have been used
+
+110
+00:09:38,280 --> 00:09:40,280
+for a variety of different purposes.
+
+111
+00:09:40,720 --> 00:09:47,440
+And one of the things that one has to do when approaching the scientific method out in the
+
+112
+00:09:47,440 --> 00:09:53,880
+world is start with calibrating all of your sensors and make sure you understand what
+
+113
+00:09:53,880 --> 00:09:55,240
+those sensors would see.
+
+114
+00:09:55,560 --> 00:09:57,560
+And so that was one piece, right?
+
+115
+00:09:57,560 --> 00:10:02,680
+Set up the calibration program to identify those known objects.
+
+116
+00:10:03,000 --> 00:10:06,360
+What do they look like in, for example, an F-35?
+
+117
+00:10:06,640 --> 00:10:08,640
+What do they look like in an F-22?
+
+118
+00:10:08,960 --> 00:10:11,080
+What do they look like in a ground radar?
+
+119
+00:10:11,280 --> 00:10:15,520
+And catalog all that, understand what those characteristics are.
+
+120
+00:10:16,160 --> 00:10:21,240
+Then you take the reported observations and any data that has been collected with that
+
+121
+00:10:21,560 --> 00:10:24,080
+and compare to the known objects.
+
+122
+00:10:24,680 --> 00:10:26,120
+That's sort of step one.
+
+123
+00:10:26,600 --> 00:10:30,120
+The next two steps involve two different communities.
+
+124
+00:10:30,560 --> 00:10:36,880
+So if you look at that range of hypotheses again, if I go to the end of the spectrum,
+
+125
+00:10:36,880 --> 00:10:40,120
+that could be adversary advanced technology.
+
+126
+00:10:40,120 --> 00:10:43,320
+That is the purview of the intelligence community.
+
+127
+00:10:43,360 --> 00:10:51,200
+And so I had chartered the intelligence community to go and look for what were some of
+
+128
+00:10:51,200 --> 00:10:56,480
+the research programs that our adversaries were working on and what would happen if they
+
+129
+00:10:56,480 --> 00:11:02,280
+had a breakthrough and that what we thought they were working towards in a decade they
+
+130
+00:11:02,280 --> 00:11:03,760
+were able to achieve today.
+
+131
+00:11:04,040 --> 00:11:05,440
+And what would that look like?
+
+132
+00:11:05,440 --> 00:11:06,920
+And what were those signatures?
+
+133
+00:11:07,360 --> 00:11:13,120
+So then you'd have a body of knowledge that involved validated here are the signatures
+
+134
+00:11:13,120 --> 00:11:18,920
+and capabilities that the intelligence community assesses an adversary would manifest
+
+135
+00:11:18,920 --> 00:11:23,040
+with. You have the measured signatures of all the known objects.
+
+136
+00:11:23,320 --> 00:11:29,520
+And then your last bit is, OK, well, what would what would alien tech look like and
+
+137
+00:11:29,520 --> 00:11:32,000
+how would it potentially manifest itself?
+
+138
+00:11:32,000 --> 00:11:37,200
+And so that was part of the challenge to the scientific community through NASA.
+
+139
+00:11:37,320 --> 00:11:43,200
+Oh, all right. Well, we know theoretically how interstellar travel works.
+
+140
+00:11:43,240 --> 00:11:47,840
+While we may not have been able to achieve it from an engineering perspective, we know
+
+141
+00:11:47,840 --> 00:11:50,320
+what the basic underlying physics are.
+
+142
+00:11:50,600 --> 00:11:53,640
+We've seen lots of papers and literature about it.
+
+143
+00:11:53,960 --> 00:11:56,200
+What does that look like?
+
+144
+00:11:56,200 --> 00:11:59,080
+What kind of signatures would that manifest as?
+
+145
+00:11:59,560 --> 00:12:03,160
+And then keep all of that as your measurement stick.
+
+146
+00:12:03,160 --> 00:12:09,800
+Right. And so when you get different reports and you get different data that we then had
+
+147
+00:12:10,240 --> 00:12:16,560
+directed to the military and the IC, you know, new reporting requirements to maintain
+
+148
+00:12:16,560 --> 00:12:21,640
+and transmit all of that data, you can then have something to compare to.
+
+149
+00:12:22,120 --> 00:12:29,400
+And as you go through that exercise time and time again, it turns out to be in the
+
+150
+00:12:29,400 --> 00:12:35,800
+middle. It turns out to be mostly the known things that you've characterized and
+
+151
+00:12:35,800 --> 00:12:40,760
+compared to. Was that frustrating, though, when dealing with that with with instrumentation
+
+152
+00:12:40,760 --> 00:12:44,800
+that is not ideal for studying something other than a Chinese fighter jet?
+
+153
+00:12:45,400 --> 00:12:49,360
+Was that frustrating in trying to resolve cases in aero?
+
+154
+00:12:49,400 --> 00:12:51,640
+In other words, did you wish you had more data?
+
+155
+00:12:51,880 --> 00:12:54,720
+Oh, absolutely. Always wish we had more data.
+
+156
+00:12:54,720 --> 00:13:01,320
+And so part of part of what I had done was also design purpose built monitoring sensors
+
+157
+00:13:01,320 --> 00:13:08,320
+for areas that had high levels of reporting so that we could go out and do persistent
+
+158
+00:13:08,320 --> 00:13:14,200
+surveillance and monitor on a continuing basis what was passing through the airspace and
+
+159
+00:13:14,200 --> 00:13:19,160
+what characterize it as best we can to augment the sensors.
+
+160
+00:13:19,160 --> 00:13:20,800
+There were not designed to do that.
+
+161
+00:13:20,800 --> 00:13:27,480
+So, you know, what I think a lot of folks fail to understand is that a U.S.
+
+162
+00:13:27,480 --> 00:13:35,520
+aircraft, an F-35 or an F-22 or an F-4 or 14 or whatever it is that's flying around
+
+163
+00:13:35,520 --> 00:13:38,520
+and collecting is not a scientific platform.
+
+164
+00:13:38,520 --> 00:13:43,040
+It is not meant to collect and characterize unknown things.
+
+165
+00:13:43,200 --> 00:13:45,480
+It is only meant to do one thing.
+
+166
+00:13:45,480 --> 00:13:52,480
+And that is type a set of known objects, foreign adversary aircraft, missiles,
+
+167
+00:13:52,480 --> 00:13:57,280
+what have you, and put a weapon on it, not characterize an unknown object.
+
+168
+00:13:57,280 --> 00:14:02,200
+And so when it sees an unknown object, these advanced aircraft and these advanced
+
+169
+00:14:02,200 --> 00:14:06,560
+platforms try to the algorithms try to make sense of it.
+
+170
+00:14:06,960 --> 00:14:10,480
+And when they try to make sense of it, they make mistakes.
+
+171
+00:14:10,480 --> 00:14:12,120
+The algorithms make mistakes.
+
+172
+00:14:12,120 --> 00:14:20,160
+I mean, it's just like if you take an AI, you take a chat GPT and you give it bad data
+
+173
+00:14:20,160 --> 00:14:25,800
+to train on, it's going to give you really weird answers when you talk to it.
+
+174
+00:14:25,800 --> 00:14:27,400
+It's the same concept.
+
+175
+00:14:27,400 --> 00:14:32,440
+It's it's just in a machine characterization language.
+
+176
+00:14:32,440 --> 00:14:37,240
+And so, yes, it has been very frustrating because people then pull on the, well,
+
+177
+00:14:37,320 --> 00:14:43,360
+somebody saw X and the radar said this, and so therefore it must be an alien.
+
+178
+00:14:43,360 --> 00:14:45,360
+I'm like, well, no, it doesn't, right?
+
+179
+00:14:45,360 --> 00:14:50,040
+Because radars make mistakes when the algorithms don't understand what they're looking at.
+
+180
+00:14:50,040 --> 00:14:54,840
+And a great example of that is how a radar operates.
+
+181
+00:14:54,840 --> 00:15:00,640
+So a radar sends a series of pulses out to a target and it looks for the reflections back.
+
+182
+00:15:00,640 --> 00:15:06,520
+And from that, it classifies and characterizes speed and range.
+
+183
+00:15:06,520 --> 00:15:13,000
+If that object is semi-transparent, like a translucent weather balloon that only has
+
+184
+00:15:13,000 --> 00:15:20,320
+a few thick wires through it, those reflections are they're not well defined.
+
+185
+00:15:20,320 --> 00:15:26,280
+They're sporadic and they they tend to give a false range.
+
+186
+00:15:26,280 --> 00:15:32,720
+They give a false speed because the algorithm is trying to fill in the gaps of the missing data.
+
+187
+00:15:32,760 --> 00:15:38,520
+And we've shown this time and again in the lab and in the field where we did live
+
+188
+00:15:38,520 --> 00:15:45,560
+characterization events and tried to get that into our quiver of how do we compare
+
+189
+00:15:45,560 --> 00:15:49,280
+unknown objects to the sensors.
+
+190
+00:15:49,280 --> 00:15:54,200
+You know, folks don't understand that and they don't know that that's how these things
+
+191
+00:15:54,200 --> 00:15:58,560
+operate and they pull on this as as it must be factual.
+
+192
+00:15:58,560 --> 00:16:02,160
+So, yes, that's a long way of saying it's very frustrating.
+
+193
+00:16:02,200 --> 00:16:03,600
+Now, biases.
+
+194
+00:16:03,600 --> 00:16:08,880
+And in science, you always want to try to remove biases and at least recognize them
+
+195
+00:16:08,880 --> 00:16:10,800
+and your assumptions as well.
+
+196
+00:16:10,800 --> 00:16:14,280
+But in this case, Arrow wasn't making the assumption.
+
+197
+00:16:14,280 --> 00:16:17,080
+You didn't go into this saying, well, it's not aliens.
+
+198
+00:16:17,080 --> 00:16:19,960
+You went into it going with an open mind.
+
+199
+00:16:19,960 --> 00:16:24,200
+Now, do you think that's a problem with NASA and technosignature searches?
+
+200
+00:16:24,200 --> 00:16:29,920
+In other words, and you've said it to paraphrase you, the orbit of Mars and views change
+
+201
+00:16:29,920 --> 00:16:30,960
+the closer you get.
+
+202
+00:16:30,960 --> 00:16:36,920
+So a technosignature out of Jupiter would be seen as one thing or you co-authored a
+
+203
+00:16:36,920 --> 00:16:39,720
+paper on that, that that's one thing.
+
+204
+00:16:39,720 --> 00:16:45,280
+But the closer you get to Earth, the views begin to change and the profile changes.
+
+205
+00:16:45,560 --> 00:16:47,680
+Now, I have a caveat here.
+
+206
+00:16:47,680 --> 00:16:52,560
+The thing is, I can't tell you the difference between a von Neumann probe in the orbit of
+
+207
+00:16:52,560 --> 00:16:55,080
+Jupiter versus one in the atmosphere.
+
+208
+00:16:55,080 --> 00:16:56,720
+It's the same thing functionally.
+
+209
+00:16:57,000 --> 00:16:58,600
+So how do you rectify that?
+
+210
+00:16:58,600 --> 00:16:59,800
+What's your view on that?
+
+211
+00:16:59,880 --> 00:17:02,800
+That where does that bias come in and what does it mean?
+
+212
+00:17:03,000 --> 00:17:10,920
+Yeah. So let me let me give you my my actual characterization of this, of the scientific
+
+213
+00:17:10,920 --> 00:17:16,800
+discussion. And at some point, I think I want to turn it into a political cartoon or some
+
+214
+00:17:16,800 --> 00:17:22,880
+sort of cartoon. So if I have this conversation about the search for for extraterrestrial
+
+215
+00:17:23,440 --> 00:17:30,440
+whether that's intelligent or a bacterium, and I'm doing it in the context of the scientific
+
+216
+00:17:30,440 --> 00:17:33,160
+community and NASA's mission to find it.
+
+217
+00:17:33,160 --> 00:17:38,520
+And it's as long as we're talking about it out in the universe, across the Milky Way
+
+218
+00:17:38,520 --> 00:17:44,800
+or even into the vastness of of the universe with all the other galaxies that are there,
+
+219
+00:17:45,320 --> 00:17:53,280
+then it's a very scientific, objective, data driven, evidentiary driven discussion and
+
+220
+00:17:53,280 --> 00:18:00,880
+analysis. As I move that conversation closer to Earth, somewhere around my conjecture is
+
+221
+00:18:00,880 --> 00:18:07,080
+somewhere around Mars ish, it becomes more science fiction.
+
+222
+00:18:07,360 --> 00:18:12,280
+Right. You're you're now there's a there's a there's an element of science fiction that
+
+223
+00:18:12,280 --> 00:18:14,760
+creeps into the discussion.
+
+224
+00:18:14,960 --> 00:18:19,000
+Any number of movies about this have happened.
+
+225
+00:18:19,560 --> 00:18:26,000
+And then as I get that conversation closer to Earth, somewhere as I cross the ionosphere,
+
+226
+00:18:26,400 --> 00:18:29,160
+it crosses into conspiracy theory.
+
+227
+00:18:29,480 --> 00:18:35,760
+And clearly, the government's lying and we've been hiding alien tech that has crash
+
+228
+00:18:35,760 --> 00:18:41,360
+landed, I don't know, 12 times in the United States, and we're hiding all that.
+
+229
+00:18:41,360 --> 00:18:48,360
+So these are the kinds of things that that make it very difficult to have a rational
+
+230
+00:18:48,360 --> 00:18:54,600
+discussion about the evidence and about the data because of that, that transition from
+
+231
+00:18:55,000 --> 00:18:56,800
+scientific to conspiracy.
+
+232
+00:18:57,840 --> 00:19:00,880
+Now, that being said, how do you fix that?
+
+233
+00:19:00,880 --> 00:19:02,880
+I think to your point, how do you get to this?
+
+234
+00:19:02,880 --> 00:19:05,120
+How do you actually have this conversation?
+
+235
+00:19:05,520 --> 00:19:13,160
+How do you distinguish between a technosignature of a probe at Jupiter versus Earth?
+
+236
+00:19:13,360 --> 00:19:17,680
+And the answer is it comes back to the scientific community.
+
+237
+00:19:17,680 --> 00:19:21,320
+And this was something I challenged them with very early on.
+
+238
+00:19:21,320 --> 00:19:29,040
+And I was enlisting the help of NASA to help push that is, OK, you know, it's a it's a
+
+239
+00:19:29,040 --> 00:19:31,000
+valid hypothesis.
+
+240
+00:19:31,280 --> 00:19:33,440
+It could be a hypothesis.
+
+241
+00:19:33,920 --> 00:19:39,160
+What is the data that supports that and what would those signatures look like?
+
+242
+00:19:39,520 --> 00:19:41,960
+What kind of propulsion would be evident?
+
+243
+00:19:42,360 --> 00:19:45,520
+What kind of signatures would that propulsion give?
+
+244
+00:19:45,840 --> 00:19:50,080
+What kind of refueling and energy harvesting would need to be done?
+
+245
+00:19:50,200 --> 00:19:52,960
+Why would one put a probe here?
+
+246
+00:19:52,960 --> 00:19:57,960
+All right. And we can talk about that a little bit in the context of NASA sending probes
+
+247
+00:19:57,960 --> 00:19:59,360
+out. Why would we do that?
+
+248
+00:19:59,360 --> 00:20:00,840
+What would we be looking for?
+
+249
+00:20:01,160 --> 00:20:09,800
+And put some peer reviewed scientific papers into the into the domain that point to
+
+250
+00:20:10,320 --> 00:20:18,560
+if there was a probe in Earth's atmosphere, how would it get here?
+
+251
+00:20:18,560 --> 00:20:21,080
+What are the three most probable ways it would get here?
+
+252
+00:20:21,200 --> 00:20:24,560
+What are the three most probable ways it would maneuver around the Earth?
+
+253
+00:20:24,880 --> 00:20:29,920
+What are the three most probable ways it would harvest energy and take all of that
+
+254
+00:20:29,920 --> 00:20:35,760
+and figure out what the resulting signatures and indicators would be and then
+
+255
+00:20:35,760 --> 00:20:37,720
+marry that to the data that we have?
+
+256
+00:20:38,080 --> 00:20:42,680
+And what you'll find is none of that matches.
+
+257
+00:20:43,120 --> 00:20:48,920
+And so what you what you're left with is, OK, well, then that hypothesis, while
+
+258
+00:20:48,920 --> 00:20:54,760
+it's still a valid hypothesis, has no data to support it as being the answer to
+
+259
+00:20:54,760 --> 00:20:55,880
+what you're seeing.
+
+260
+00:20:55,880 --> 00:21:03,000
+So people, when they don't get the when the answer doesn't when the data doesn't
+
+261
+00:21:03,000 --> 00:21:07,440
+support that hypothesis in the scientific community, that means that hypothesis is
+
+262
+00:21:07,440 --> 00:21:10,920
+not correct and that you have to change your hypothesis.
+
+263
+00:21:10,920 --> 00:21:12,080
+It doesn't mean your data.
+
+264
+00:21:12,400 --> 00:21:17,600
+You have to change your data in this particular topic area for reasons that are
+
+265
+00:21:17,920 --> 00:21:20,640
+fascinating from a psychological perspective.
+
+266
+00:21:21,280 --> 00:21:26,840
+The human condition wants it to be an answer that data does not support.
+
+267
+00:21:26,880 --> 00:21:33,280
+So scientifically, to answer your question, if I wanted to distinguish a probe in
+
+268
+00:21:33,280 --> 00:21:37,560
+Jupiter or Earth, you still have the same signatures.
+
+269
+00:21:37,800 --> 00:21:42,640
+Now it's a matter of do any of the signatures you've measured either in Earth or
+
+270
+00:21:42,640 --> 00:21:46,200
+around Jupiter match your hypothesis?
+
+271
+00:21:46,480 --> 00:21:47,120
+Does that make sense?
+
+272
+00:21:47,480 --> 00:21:48,400
+It does. It does.
+
+273
+00:21:48,440 --> 00:21:51,640
+Now, I have to ask the point blank question that I'm sure you get a lot.
+
+274
+00:21:52,800 --> 00:21:58,400
+Just to clarify, did you find any evidence or see any evidence of a non-human
+
+275
+00:21:58,400 --> 00:21:59,920
+intelligence present here?
+
+276
+00:21:59,920 --> 00:22:03,200
+And I use that word very specifically because there's ideas floating around, like
+
+277
+00:22:03,200 --> 00:22:08,360
+the the Solarian hypothesis where it isn't aliens, but it's still weird and things
+
+278
+00:22:08,360 --> 00:22:13,960
+like that. Did you or did you not see any evidence or even something slightly that
+
+279
+00:22:13,960 --> 00:22:14,920
+made you go, hmm.
+
+280
+00:22:15,480 --> 00:22:18,720
+No, I have there was nothing in the over.
+
+281
+00:22:18,960 --> 00:22:24,880
+I think by the time I retired, I think we were well over 1300 cases or something
+
+282
+00:22:24,880 --> 00:22:29,680
+like that. And none of them had anything that would give an indication of a
+
+283
+00:22:29,680 --> 00:22:31,160
+non-human intelligence.
+
+284
+00:22:31,160 --> 00:22:35,920
+Now, did we see things that were weird within some of the sensors that did
+
+285
+00:22:35,920 --> 00:22:36,960
+produce data?
+
+286
+00:22:37,480 --> 00:22:41,160
+Yes. Were any of those alien signatures?
+
+287
+00:22:41,320 --> 00:22:44,400
+No. Could they have been adversary signatures?
+
+288
+00:22:44,400 --> 00:22:47,080
+Could they have been commercial signatures?
+
+289
+00:22:47,480 --> 00:22:52,280
+Sure. They could have been a number of other explanations that we uncovered.
+
+290
+00:22:52,760 --> 00:22:57,600
+And I think that's the important part is, all right, let's say I have something
+
+291
+00:22:57,600 --> 00:22:58,800
+that's unusual.
+
+292
+00:22:59,240 --> 00:23:06,000
+If I can come up with three different explanations, one of them being, OK, it's
+
+293
+00:23:06,000 --> 00:23:07,920
+an alien and we don't know anything about it.
+
+294
+00:23:07,920 --> 00:23:12,480
+The second one being, OK, well, maybe it's this commercial product that this
+
+295
+00:23:12,800 --> 00:23:15,920
+company is advancing and the U.S.
+
+296
+00:23:15,920 --> 00:23:19,560
+government's not really paying attention to, and it just happens to be there and
+
+297
+00:23:19,560 --> 00:23:24,760
+we see it. Or the third one being, it's an adversary that's doing something that
+
+298
+00:23:25,080 --> 00:23:26,920
+we didn't expect them to do.
+
+299
+00:23:27,040 --> 00:23:30,480
+But there's evidence that they're doing that.
+
+300
+00:23:30,920 --> 00:23:33,440
+Which one are you going to believe is more likely?
+
+301
+00:23:33,960 --> 00:23:37,560
+Is it the alien or is it the adversary or is it commercial?
+
+302
+00:23:38,040 --> 00:23:44,200
+And you don't you don't know right off hand, but logic would suggest that one of
+
+303
+00:23:44,200 --> 00:23:50,320
+the more common and simple answers like, I don't know, it's a commercial thing
+
+304
+00:23:50,320 --> 00:23:55,240
+that's just out there and we can go find what it is and here's what it is.
+
+305
+00:23:55,280 --> 00:23:58,960
+And it could have been this, likely could have been that.
+
+306
+00:23:59,440 --> 00:24:03,000
+That is Occam's razor, right?
+
+307
+00:24:03,040 --> 00:24:10,680
+So that would suggest the more simple explanation is likely versus an alien.
+
+308
+00:24:11,240 --> 00:24:16,600
+But then from a national security perspective, we have to investigate.
+
+309
+00:24:16,640 --> 00:24:18,360
+And this is where the real rub is.
+
+310
+00:24:18,360 --> 00:24:23,120
+And this is really what Arrow is kind of focused on is, let's make sure that the
+
+311
+00:24:23,120 --> 00:24:24,840
+adversary is not doing something.
+
+312
+00:24:25,280 --> 00:24:29,960
+We need to make sure that the adversaries aren't aren't jumping ahead in a
+
+313
+00:24:30,000 --> 00:24:35,720
+technological advancement and say, I don't know, propulsion or signature
+
+314
+00:24:35,720 --> 00:24:40,160
+management that we weren't tracking or else we were tracking, but they had a
+
+315
+00:24:40,160 --> 00:24:42,200
+breakthrough that we didn't anticipate.
+
+316
+00:24:42,720 --> 00:24:48,400
+Now, something that was looked at as an evolutionary technology has suddenly
+
+317
+00:24:48,400 --> 00:24:52,800
+become revolutionary because they had a leap ahead and they're employing it
+
+318
+00:24:52,800 --> 00:24:53,520
+against us.
+
+319
+00:24:53,960 --> 00:24:55,840
+Well, that would be bad, right?
+
+320
+00:24:55,840 --> 00:24:59,320
+From a national security perspective, that's, that's bad.
+
+321
+00:24:59,320 --> 00:25:05,840
+That's called a, that's called a, it could be a technological surprise and we
+
+322
+00:25:05,840 --> 00:25:07,160
+don't want that, right?
+
+323
+00:25:07,320 --> 00:25:13,600
+So you, you, you got to look at all of all aspects of this and it becomes
+
+324
+00:25:13,600 --> 00:25:20,760
+frustrating and even to the point of maddening of where some people come out
+
+325
+00:25:20,800 --> 00:25:27,120
+on, well, it can't be that it must be aliens and there's no logical reason why
+
+326
+00:25:27,120 --> 00:25:32,640
+one can make that known at all other than, than belief.
+
+327
+00:25:33,360 --> 00:25:35,400
+And that's just frustrating.
+
+328
+00:25:35,960 --> 00:25:40,560
+Now, methodology to get a little bit deeper into that with Arrow, visual
+
+329
+00:25:40,560 --> 00:25:45,880
+artifacts and compression in videos, not to, not to frustrate you further and
+
+330
+00:25:45,880 --> 00:25:49,440
+remind you of frustrating things, but how big of a problem was that when you're
+
+331
+00:25:49,440 --> 00:25:52,360
+looking at something that just isn't there, it's an instrument error?
+
+332
+00:25:52,920 --> 00:26:00,080
+Yeah, that, that happened a lot and, and a lot of folks don't understand it.
+
+333
+00:26:00,080 --> 00:26:06,680
+If you've not dealt with imagery or imagery intelligence for a large part of
+
+334
+00:26:06,680 --> 00:26:14,920
+your career, you can't understand the types of weird artifacts that show up
+
+335
+00:26:15,000 --> 00:26:19,160
+in advanced sensors that you just would think is something else.
+
+336
+00:26:19,200 --> 00:26:22,840
+And there's an example that we put on Arrow's website.
+
+337
+00:26:23,120 --> 00:26:29,520
+It's one in which there's an apparent UAP that's leaving some sort of a wake
+
+338
+00:26:29,720 --> 00:26:31,240
+in the, in the video.
+
+339
+00:26:31,240 --> 00:26:35,880
+As you watch the video, it looks like an atmospheric wake behind it.
+
+340
+00:26:36,920 --> 00:26:43,520
+And at first, when you look at this, your gut reaction is, wow, that is really weird.
+
+341
+00:26:43,840 --> 00:26:45,440
+That is so cool.
+
+342
+00:26:45,440 --> 00:26:51,720
+That looks like what you might see in some sort of advanced propulsion system.
+
+343
+00:26:52,240 --> 00:26:56,640
+And that must be, you know, evidence of, of an advanced propulsion
+
+344
+00:26:56,640 --> 00:26:58,560
+system that we don't understand.
+
+345
+00:26:58,880 --> 00:27:04,840
+Well, when you peel that onion back, and by that, what I mean is you have to go
+
+346
+00:27:04,840 --> 00:27:12,200
+frame by frame and pixel by pixel with the raw data, not the compressed data.
+
+347
+00:27:12,600 --> 00:27:21,360
+And what you'll find is that, that, that wake that you see in this video is, it's
+
+348
+00:27:21,360 --> 00:27:28,440
+a, it's a shadow image of the object from the frame before, and that's an artifact
+
+349
+00:27:28,520 --> 00:27:33,560
+of the signal processing that occurs frame by frame in this sensor.
+
+350
+00:27:33,960 --> 00:27:40,520
+And so what you have to do in order to accurately analyze some of this data is
+
+351
+00:27:40,520 --> 00:27:43,960
+you have to, A, you have to understand what sensor it came from.
+
+352
+00:27:43,960 --> 00:27:48,360
+And B, you have to understand what kind of signal processing and algorithms
+
+353
+00:27:48,360 --> 00:27:50,800
+are done on the platform.
+
+354
+00:27:51,480 --> 00:27:56,440
+And the only way you can do that is you have to go to that particular program
+
+355
+00:27:56,440 --> 00:28:02,000
+office that, that builds and integrates those sensors on our military platforms.
+
+356
+00:28:02,480 --> 00:28:08,080
+And you get a surrogate sensor or you get the software or you get the, the
+
+357
+00:28:08,880 --> 00:28:15,440
+underlying models that are used to validate the sensor performance and you
+
+358
+00:28:15,440 --> 00:28:22,640
+recreate what it saw and you validate, okay, well, this is actually, you know,
+
+359
+00:28:22,640 --> 00:28:25,920
+not a wake, a real wake in the atmosphere.
+
+360
+00:28:25,920 --> 00:28:28,040
+This is an artifact of the signal process.
+
+361
+00:28:28,600 --> 00:28:34,880
+And we, you can find these kinds of examples in a variety of sensors that
+
+362
+00:28:34,880 --> 00:28:40,960
+actually show, like we had one in comparison for that particular example of
+
+363
+00:28:40,960 --> 00:28:48,240
+a predator looking at a ground, a scene, and there were people walking across the
+
+364
+00:28:48,240 --> 00:28:55,680
+scene and the people were leaving shadows behind them that looked like a wake that
+
+365
+00:28:55,680 --> 00:28:57,520
+was the cutout of the person.
+
+366
+00:28:58,000 --> 00:29:05,280
+And so you see the same artifact in other imagery examples, and you really have to
+
+367
+00:29:05,280 --> 00:29:09,920
+understand that, how those work and how that operates in order to draw a
+
+368
+00:29:09,920 --> 00:29:10,720
+conclusion.
+
+369
+00:29:10,960 --> 00:29:14,320
+And in that particular case, I believe that was turned out to be another
+
+370
+00:29:14,320 --> 00:29:16,720
+aircraft and it was out of focus.
+
+371
+00:29:16,720 --> 00:29:25,280
+And so it looks like a oblong cigar and it's leaving a wake because it's the
+
+372
+00:29:25,360 --> 00:29:30,240
+signal processing of the saturated areas of the scene.
+
+373
+00:29:30,240 --> 00:29:38,080
+So it's a very complex analysis that has to be undertaken for every single one of
+
+374
+00:29:38,080 --> 00:29:39,280
+these ports.
+
+375
+00:29:39,920 --> 00:29:44,240
+And, you know, people get frustrated out in the world because they're like, well,
+
+376
+00:29:44,240 --> 00:29:46,080
+why can't you do this faster?
+
+377
+00:29:46,080 --> 00:29:50,640
+Because that's why you have to pull apart every frame.
+
+378
+00:29:50,640 --> 00:29:52,240
+You got to pull apart the sensor.
+
+379
+00:29:52,240 --> 00:29:54,880
+You got to pull apart the pixels.
+
+380
+00:29:54,960 --> 00:30:00,560
+And you can't do that level of analysis with a compressed video off the internet
+
+381
+00:30:00,560 --> 00:30:03,840
+because you lose all of that information.
+
+382
+00:30:03,840 --> 00:30:09,440
+Compression, to put it onto the internet, gets rid of all of the valuable
+
+383
+00:30:09,440 --> 00:30:17,520
+information at the pixel level, of the metadata, of the information about the
+
+384
+00:30:17,520 --> 00:30:21,680
+sensor, which you need in actual to do the analysis.
+
+385
+00:30:21,680 --> 00:30:26,480
+So if you were to look at a compressed image of the same sort of weird artifact
+
+386
+00:30:27,520 --> 00:30:32,720
+without having any of that other information to do that analysis, your first
+
+387
+00:30:32,720 --> 00:30:34,720
+response would be, hey, that's really weird.
+
+388
+00:30:34,720 --> 00:30:40,720
+That looks like evidence of some sort of atmospheric effect when in fact it's not.
+
+389
+00:30:41,760 --> 00:30:47,520
+Yeah, that's I mean, technology comes with its problems and with our ever improving
+
+390
+00:30:47,520 --> 00:30:51,440
+technology, it actually sometimes seems to get worse and new problems crop up.
+
+391
+00:30:51,440 --> 00:30:58,080
+Now, one of the most famous cases regarding the military and UAP of recent years, 20
+
+392
+00:30:58,080 --> 00:31:00,960
+years, is the 2004 Nimitz case.
+
+393
+00:31:01,680 --> 00:31:06,320
+And I know that you've said there was a sort of a lack of data, you know, this
+
+394
+00:31:06,320 --> 00:31:08,160
+distant from that 20 years again.
+
+395
+00:31:08,720 --> 00:31:10,480
+But did you see anything?
+
+396
+00:31:10,480 --> 00:31:13,760
+And I want to ask this a little bit differently than probably most people would ask you.
+
+397
+00:31:14,400 --> 00:31:19,280
+Did you see anything that indicated that it was our technology and the pilot simply
+
+398
+00:31:19,280 --> 00:31:22,080
+didn't know about something that we had?
+
+399
+00:31:23,120 --> 00:31:28,400
+So that, you know, obviously I get asked about that case a lot.
+
+400
+00:31:28,400 --> 00:31:30,560
+I got asked about that case a lot in Congress.
+
+401
+00:31:31,600 --> 00:31:35,520
+There are a number of challenges and I'll get to the answer to your question.
+
+402
+00:31:35,520 --> 00:31:38,000
+There's a number of challenges with that case.
+
+403
+00:31:38,720 --> 00:31:46,880
+One is it's 20 years ago and 20 years ago there was no requirement to save all of the data.
+
+404
+00:31:46,880 --> 00:31:50,240
+There was no requirement to process that data.
+
+405
+00:31:50,240 --> 00:31:53,520
+There was no requirement to even report the incident.
+
+406
+00:31:53,520 --> 00:31:57,120
+All of that we changed when we stood up Arrow.
+
+407
+00:31:57,120 --> 00:32:05,200
+And it's important to note that it took however many years that was, 16 years, 17, 18 years,
+
+408
+00:32:05,200 --> 00:32:11,200
+when we stood up Arrow from the Nimitz event that that's when we changed all of those
+
+409
+00:32:11,200 --> 00:32:15,440
+policies and made it a requirement that you will report.
+
+410
+00:32:15,440 --> 00:32:20,640
+And here's what you will report and you will maintain all of that data and you will transmit
+
+411
+00:32:20,640 --> 00:32:24,000
+it to Arrow and to the service for analysis.
+
+412
+00:32:24,560 --> 00:32:28,000
+So there, you know, there was no requirement to keep all of that.
+
+413
+00:32:28,000 --> 00:32:31,280
+So when people question, well, why is there no data?
+
+414
+00:32:32,080 --> 00:32:34,480
+Well, it's not a big conspiracy.
+
+415
+00:32:34,480 --> 00:32:37,440
+It's a it's a logistics issue, right?
+
+416
+00:32:37,440 --> 00:32:41,600
+These platforms don't save the data.
+
+417
+00:32:41,600 --> 00:32:47,440
+They have a single recording device that is overwritten every mission.
+
+418
+00:32:47,440 --> 00:32:50,160
+So there's no data off of those platforms.
+
+419
+00:32:50,160 --> 00:32:55,680
+Now there's allegations that, hey, there was a Aegis around and it collected data.
+
+420
+00:32:55,680 --> 00:32:57,600
+And, you know, why don't we have that data?
+
+421
+00:32:57,600 --> 00:32:59,840
+Well, it's a similar argument.
+
+422
+00:32:59,840 --> 00:33:01,760
+There's no requirement for that.
+
+423
+00:33:02,400 --> 00:33:07,840
+We don't have the Aegis data for every mission that was ever flown, including
+
+424
+00:33:07,840 --> 00:33:10,960
+every training exercise, which this was.
+
+425
+00:33:10,960 --> 00:33:15,840
+And your training in an in a range that is a test range.
+
+426
+00:33:16,400 --> 00:33:21,200
+So let's now let's walk into answering your question.
+
+427
+00:33:21,200 --> 00:33:26,720
+I spent a good amount of time talking with one of the pilots to get some descriptions of,
+
+428
+00:33:26,720 --> 00:33:33,120
+you know, what exactly was being seen and how is it being seen so that we could get a little bit
+
+429
+00:33:33,120 --> 00:33:38,240
+better understanding of some of the signatures associated with it.
+
+430
+00:33:38,240 --> 00:33:43,520
+For example, was this something that may have come out of the water versus going into the water?
+
+431
+00:33:44,320 --> 00:33:48,400
+And if it came out of the water, and what does it look like?
+
+432
+00:33:48,400 --> 00:33:50,880
+What did it look like as you were flying?
+
+433
+00:33:51,520 --> 00:33:54,000
+What's the what angles and so forth?
+
+434
+00:33:54,720 --> 00:34:01,120
+It's interesting to note that there are several programs, both U.S.
+
+435
+00:34:01,120 --> 00:34:09,680
+and foreign, that could explain that, especially if you're in an experimental test range
+
+436
+00:34:09,680 --> 00:34:14,560
+where one side of the range doesn't know what the other side of the range is doing.
+
+437
+00:34:14,560 --> 00:34:17,520
+If you're thinking it's the U.S. technology.
+
+438
+00:34:18,560 --> 00:34:23,600
+And if it's an adversary, well, you know, they want to know what we're doing in our test range.
+
+439
+00:34:24,560 --> 00:34:27,040
+There are some ways to do that.
+
+440
+00:34:27,040 --> 00:34:28,960
+So there's let me give you an example.
+
+441
+00:34:29,040 --> 00:34:36,480
+There was a declassified CIA program back in that time frame where they would launch
+
+442
+00:34:37,040 --> 00:34:46,160
+their balloons with retro reflectors inside of them from the water to monitor what responses
+
+443
+00:34:46,160 --> 00:34:51,120
+would be from ground radars and aircraft responses.
+
+444
+00:34:52,080 --> 00:34:54,080
+What would they see and how would they respond?
+
+445
+00:34:54,800 --> 00:34:58,560
+Why would we think we're the only ones that thought of that?
+
+446
+00:34:59,360 --> 00:35:05,280
+So I'm not saying that I have data to support that that is exactly what it was,
+
+447
+00:35:05,840 --> 00:35:09,200
+but that is certainly a more logical explanation than it was.
+
+448
+00:35:11,120 --> 00:35:17,600
+And the problem is I can come up with a couple of hypotheses for what that was,
+
+449
+00:35:17,600 --> 00:35:19,760
+but we don't have any data to analyze.
+
+450
+00:35:19,760 --> 00:35:22,080
+So you're never going to answer that question.
+
+451
+00:35:22,720 --> 00:35:26,000
+We're just not going to be able to answer what that was
+
+452
+00:35:26,000 --> 00:35:29,680
+because there is no data.
+
+453
+00:35:29,680 --> 00:35:33,520
+I am glad that I don't work for the U.S. government because that just got me thinking
+
+454
+00:35:33,520 --> 00:35:37,920
+when I was growing up, my dad was a field test engineer and worked at the Nevada test site,
+
+455
+00:35:37,920 --> 00:35:39,280
+which is enormous.
+
+456
+00:35:39,280 --> 00:35:43,120
+And I could just imagine how many different tests are going on.
+
+457
+00:35:43,120 --> 00:35:46,880
+And the person that knows about all of the tests happening at the same time
+
+458
+00:35:46,880 --> 00:35:49,920
+and has all the details, which probably is a very few people do,
+
+459
+00:35:50,720 --> 00:35:55,040
+imagine coordinating that to make sure your F-117 doesn't hit a
+
+460
+00:35:55,040 --> 00:35:56,400
+weather balloon or something like that.
+
+461
+00:35:56,400 --> 00:35:58,000
+It's got to be maddening, wouldn't you think?
+
+462
+00:35:59,200 --> 00:35:59,760
+Exactly.
+
+463
+00:36:00,560 --> 00:36:05,760
+That kind of deconfliction is what test range managers are supposed to be doing.
+
+464
+00:36:05,760 --> 00:36:15,760
+And there's no, you know, if a test squadron on one end of the range happens to see
+
+465
+00:36:16,320 --> 00:36:19,840
+a classified program on another end of the range,
+
+466
+00:36:20,640 --> 00:36:28,240
+you know, mitigation of that can range from ignoring it and pretending it never happened to
+
+467
+00:36:29,360 --> 00:36:34,640
+bringing the people in and making them sign inadvertent disclosure agreements,
+
+468
+00:36:34,640 --> 00:36:39,360
+which is essentially an NDA that says, hey, you saw a classified program
+
+469
+00:36:39,360 --> 00:36:43,360
+you weren't supposed to see and you're not briefed to and you're not allowed to talk about it.
+
+470
+00:36:43,360 --> 00:36:49,200
+That is a standard practice of inadvertent disclosures across the classified community,
+
+471
+00:36:49,200 --> 00:36:51,760
+whether it's DOD or IC or anybody.
+
+472
+00:36:52,400 --> 00:36:58,640
+So there's no, but again, there's no hard evidence one way or the other.
+
+473
+00:36:58,640 --> 00:37:03,920
+So we could come up with all kinds of these scenarios and explanations and hypotheses,
+
+474
+00:37:03,920 --> 00:37:07,200
+but unless I have data, there's not a lot to be done about that.
+
+475
+00:37:07,200 --> 00:37:11,120
+Yeah, no data then might as well be confetti, unfortunately, you know?
+
+476
+00:37:11,120 --> 00:37:11,600
+Right.
+
+477
+00:37:11,600 --> 00:37:16,240
+And I think everybody wishes there were more data, but again, I have to hammer home the point that
+
+478
+00:37:16,240 --> 00:37:21,520
+you're dealing with sensors or we're dealing with sensors that weren't designed to look for UAP.
+
+479
+00:37:21,520 --> 00:37:24,560
+They were designed to look for Russian and Chinese aircraft.
+
+480
+00:37:24,560 --> 00:37:25,120
+That's right.
+
+481
+00:37:25,120 --> 00:37:29,440
+However, we do have some interesting wild cards and that is the NRO.
+
+482
+00:37:29,440 --> 00:37:33,680
+Now there was a Freedom of Information Act release that they had seen something that
+
+483
+00:37:33,680 --> 00:37:35,840
+looked like a tic-tac from orbit.
+
+484
+00:37:35,840 --> 00:37:38,000
+And I was wondering, did you look into that?
+
+485
+00:37:38,000 --> 00:37:39,040
+Are you aware of it?
+
+486
+00:37:39,040 --> 00:37:42,800
+And did you, were you able to do anything with that satellite data?
+
+487
+00:37:42,880 --> 00:37:49,280
+Yeah, so there were a couple of those reports and we actually worked with them very closely
+
+488
+00:37:49,280 --> 00:37:58,320
+to do some research into historical imagery and forward imagery and even tasking,
+
+489
+00:37:58,320 --> 00:38:04,320
+trying to get tasking in real time to when an event may have been seen.
+
+490
+00:38:05,280 --> 00:38:14,080
+And all of those turned out to be weather balloons, radio songs, and in one instance,
+
+491
+00:38:14,080 --> 00:38:22,800
+it was, you know, it was another sensor anomaly on basically cosmic ray in the sensor.
+
+492
+00:38:23,440 --> 00:38:29,040
+So without getting into details about NRO's business, because that's obviously all very
+
+493
+00:38:29,040 --> 00:38:33,040
+classified, yes, we did look into a number of these things.
+
+494
+00:38:33,680 --> 00:38:39,280
+None of them turned out to be tic-tacs in the popular sense.
+
+495
+00:38:39,280 --> 00:38:45,280
+They turned out to be, you know, aerostats or weather balloons or radio songs.
+
+496
+00:38:45,280 --> 00:38:49,360
+I guess that's probably going to be pretty crazy too is because anybody can launch a balloon,
+
+497
+00:38:50,000 --> 00:38:50,240
+right?
+
+498
+00:38:51,040 --> 00:38:54,720
+Anybody and, well, obviously drones, but there's limits on that.
+
+499
+00:38:54,720 --> 00:38:57,440
+But the balloons, I don't think there are much limits.
+
+500
+00:38:57,440 --> 00:39:03,440
+And any private individual or group, you know, say you like to study clouds or whatever,
+
+501
+00:39:03,440 --> 00:39:05,840
+that's your hobby, can launch a balloon.
+
+502
+00:39:05,840 --> 00:39:06,960
+So there's stuff all over.
+
+503
+00:39:06,960 --> 00:39:08,240
+But does that worry you?
+
+504
+00:39:08,240 --> 00:39:11,840
+And then I got another question related to this, but does that worry you about aviation
+
+505
+00:39:11,840 --> 00:39:14,400
+safety that these balloons are going unchecked?
+
+506
+00:39:14,400 --> 00:39:14,880
+Oh, yeah.
+
+507
+00:39:14,880 --> 00:39:21,600
+So that was one of the primary drivers for why the department agreed to stand up aero
+
+508
+00:39:21,600 --> 00:39:27,200
+was safety of flight, safety of flight issues, not just for the military.
+
+509
+00:39:27,520 --> 00:39:31,840
+But for FAA and NASA and everybody else associated with it.
+
+510
+00:39:31,840 --> 00:39:37,360
+So there's a couple of key things to understand that we learned as we were standing all this
+
+511
+00:39:37,360 --> 00:39:37,920
+up.
+
+512
+00:39:37,920 --> 00:39:45,840
+There is a, you know, an international community of balloon, professional balloons,
+
+513
+00:39:45,840 --> 00:39:48,960
+civil scientific balloon organizations.
+
+514
+00:39:48,960 --> 00:39:53,520
+And they are, they have agreed amongst themselves.
+
+515
+00:39:53,600 --> 00:40:02,080
+And I think there's some sort of agreement that underlies this to put essentially beacons
+
+516
+00:40:02,080 --> 00:40:03,600
+on their balloons.
+
+517
+00:40:03,600 --> 00:40:04,640
+And they launched them.
+
+518
+00:40:05,280 --> 00:40:07,760
+And you can track them in real time.
+
+519
+00:40:07,760 --> 00:40:12,240
+In fact, we put the website links on Aero's website.
+
+520
+00:40:12,240 --> 00:40:16,720
+If you go there and you look under the resources, you can go and look up.
+
+521
+00:40:17,600 --> 00:40:21,120
+Here's all the balloons that are registered with this community.
+
+522
+00:40:21,120 --> 00:40:22,160
+Here are the beacons.
+
+523
+00:40:22,160 --> 00:40:23,600
+Here's where they are today.
+
+524
+00:40:23,600 --> 00:40:26,160
+Here's what country owns them.
+
+525
+00:40:26,160 --> 00:40:30,560
+And then there's a hobbyist community that has done the same thing.
+
+526
+00:40:30,560 --> 00:40:35,920
+So there's another website that you can track hobbyist balloons and you can watch them and
+
+527
+00:40:35,920 --> 00:40:36,720
+see where they are.
+
+528
+00:40:37,360 --> 00:40:48,080
+So on one sense, you have a database of overt, legitimate balloon payloads and operators
+
+529
+00:40:48,080 --> 00:40:50,320
+around the world in real time.
+
+530
+00:40:50,880 --> 00:40:54,800
+So you should be able to de-conflict with those.
+
+531
+00:40:54,800 --> 00:41:00,880
+It's the ones that don't have those beacons or are flying in the air spaces they're not
+
+532
+00:41:00,880 --> 00:41:04,800
+supposed to be that you got to worry about.
+
+533
+00:41:04,800 --> 00:41:11,680
+And so part of what we established were rules for how to de-conflict that and get that out
+
+534
+00:41:11,680 --> 00:41:18,640
+with the operators and all of the air spaces to go, hey, if you see something, first thing
+
+535
+00:41:18,640 --> 00:41:24,240
+you need to do is de-conflict with these two websites and let's make sure those are
+
+536
+00:41:24,240 --> 00:41:25,440
+not what you're seeing.
+
+537
+00:41:26,080 --> 00:41:35,280
+And then there's a third place and that's NOAA and NASA have a database as well.
+
+538
+00:41:35,840 --> 00:41:44,000
+It's not quite as user-friendly as the two websites, but it is complete and tracks
+
+539
+00:41:44,000 --> 00:41:48,480
+everything that is registered with a beacon on it.
+
+540
+00:41:48,480 --> 00:41:54,480
+So you can think of these beacons much like aircraft AIS systems and they beacon out here's
+
+541
+00:41:54,480 --> 00:41:59,280
+who I am and here's where I am and here's where I'm going and you can follow them around.
+
+542
+00:41:59,280 --> 00:42:07,120
+But it does still worry everyone and it worries me that these balloons don't, while they're
+
+543
+00:42:07,120 --> 00:42:13,440
+beaconed and they're tracked and they're there, there's not a lot of coordination between
+
+544
+00:42:14,160 --> 00:42:25,120
+that community and say the test ranges of military or even the FAA on knowing what to do with that
+
+545
+00:42:25,120 --> 00:42:30,240
+because many of them are at the, of course, the mercy of the winds and the climate.
+
+546
+00:42:31,440 --> 00:42:38,400
+Some of them have the ability to maneuver, limited though it may be, but they can.
+
+547
+00:42:38,400 --> 00:42:50,640
+So how do you integrate that airspace in a safe manner and alert the pilots and the
+
+548
+00:42:50,640 --> 00:43:00,160
+operators that what you're seeing is this balloon from a group in Japan or Norway or
+
+549
+00:43:00,800 --> 00:43:08,160
+the US and you need to avoid it, but there's a lot of them out there.
+
+550
+00:43:08,160 --> 00:43:13,680
+I mean, there are thousands and thousands and thousands of these balloons that are launched
+
+551
+00:43:14,240 --> 00:43:17,440
+daily and are tracked all over the world.
+
+552
+00:43:18,320 --> 00:43:25,760
+It's just phenomenal to me that we've got that kind of air domain congestion problem that is
+
+553
+00:43:25,760 --> 00:43:33,680
+increasing and we haven't quite figured out how to deconflict and instead people come upon these
+
+554
+00:43:33,680 --> 00:43:42,640
+things and don't know what they are because they're flying really fast by them and it causes
+
+555
+00:43:42,640 --> 00:43:47,120
+challenges, causes problems because if you run into one of those things, especially one that's
+
+556
+00:43:47,120 --> 00:43:52,160
+got a payload hanging off of the bottom, that's going to rip a wing off if you're flying it,
+
+557
+00:43:53,040 --> 00:44:00,160
+mock one in a jet and you happen to run into a balloon with a payload hanging off the end.
+
+558
+00:44:01,040 --> 00:44:03,280
+That's probably not a good day for that pilot.
+
+559
+00:44:04,000 --> 00:44:09,440
+No, that is scary. I've thought about that at high speed. You're in an F-22 or something like that
+
+560
+00:44:09,440 --> 00:44:15,280
+hitting one of these balloons and like you say, a payload, not good. It seems like an accident
+
+561
+00:44:15,280 --> 00:44:22,880
+waiting to happen. Now, all domain anomaly resolution office arrow, all domain,
+
+562
+00:44:23,920 --> 00:44:28,560
+what are the submarines seeing? Because I know that the hydrophone network has picked up some
+
+563
+00:44:28,560 --> 00:44:34,480
+strange sounds that took 20, 30 years to come up with a hypothesis as to what they were, which is
+
+564
+00:44:34,480 --> 00:44:41,840
+usually ice moving in Antarctica, things like that. What are they seeing and is that a lot
+
+565
+00:44:41,840 --> 00:44:47,200
+harder to deal with than things in the air? Oh, absolutely. So the maritime domain,
+
+566
+00:44:49,040 --> 00:44:55,680
+integrating the maritime and the space domain was something I had started last,
+
+567
+00:44:56,800 --> 00:45:03,760
+I guess, the summer a year ago. Space is actually, I think, an easier step than the maritime domain
+
+568
+00:45:03,760 --> 00:45:12,320
+because in the maritime domain, undersea is noisy and not only is it noisy, but everything is
+
+569
+00:45:12,320 --> 00:45:19,760
+anomalous because there are so many unknown noises that crop up that people have to try to sort out.
+
+570
+00:45:19,760 --> 00:45:27,760
+I had one report that turned out to be some guy scraping barnacles off of his boat with a new
+
+571
+00:45:27,760 --> 00:45:35,520
+type of scraper, two bays away from where the sound was picked up. But it took six months to
+
+572
+00:45:35,520 --> 00:45:43,600
+figure that out. I mean, these are not trivial events and they haven't in the maritime domain,
+
+573
+00:45:43,600 --> 00:45:48,640
+at least by the time I retired, we hadn't come up with a good way of distinguishing.
+
+574
+00:45:50,080 --> 00:45:56,720
+When you hear something, what are the characteristics that would cause you to claim that is
+
+575
+00:45:56,880 --> 00:46:06,160
+an anomalous technological thing that we need to go investigate versus it's an underwater volcano
+
+576
+00:46:06,160 --> 00:46:15,120
+or it's a whale or it's a school fish or whatever the things are that while we may know what those
+
+577
+00:46:15,120 --> 00:46:21,520
+sound like, again, I go back to the way the architectures are set up, a lot of this is
+
+578
+00:46:21,520 --> 00:46:28,000
+automatic. You record some noise and the algorithms don't know what it is and so they
+
+579
+00:46:28,720 --> 00:46:36,400
+put it off to the side for somebody to listen to and analyze. Well, okay, how many of those do we
+
+580
+00:46:36,400 --> 00:46:45,280
+get? And there's a lot of unknown. So we didn't have a lot of, to answer your question more
+
+581
+00:46:45,280 --> 00:46:51,520
+directly, we did not have a lot of undersea reporting because of that very fact, because
+
+582
+00:46:51,520 --> 00:46:57,280
+everything is anomalous and nobody knows what qualifies as something we would report. That's
+
+583
+00:46:57,280 --> 00:47:06,320
+just not there yet. Now in space, it's a little easier. We have a good track of everything that's
+
+584
+00:47:06,320 --> 00:47:16,160
+in space and we have a catalog that monitors this and we have objects that show up that are
+
+585
+00:47:16,160 --> 00:47:23,040
+designated UCTs, right? So they're uncorrelated tracks. That's what that stands for. And basically,
+
+586
+00:47:23,040 --> 00:47:29,360
+it's an object that shows up, could be a micrometer, right? It could be a screw that fell off of
+
+587
+00:47:29,440 --> 00:47:36,560
+somebody's satellite, it could be anything. And it gets us a couple of returns off of one of the
+
+588
+00:47:36,560 --> 00:47:42,480
+radars and now we've got a track and well, what is it? And now you've got to figure out what that
+
+589
+00:47:42,480 --> 00:47:48,800
+is. Well, I hate to tell you this, but space congestion is a really, really bad problem.
+
+590
+00:47:53,120 --> 00:47:59,280
+When we turned on Spacefence, I want to say, if I remember correctly, we had the number of
+
+591
+00:47:59,280 --> 00:48:11,040
+UCTs went to 40,000-ish and it was a daily deluge of thousands of objects that nobody knows really
+
+592
+00:48:11,040 --> 00:48:19,920
+what they are. But the good news is they all obey Keplerian physics, right? So if it's not obeying
+
+593
+00:48:19,920 --> 00:48:25,040
+Keplerian physics, well, that would be anomalous and that would be easy to pick out and report
+
+594
+00:48:25,040 --> 00:48:28,960
+and no, there were none of those. But trying to work through the,
+
+595
+00:48:29,600 --> 00:48:35,120
+okay, well, what's going to be the reporting process and how do we build that into the sensors
+
+596
+00:48:35,120 --> 00:48:40,240
+and the algorithms so that you can pull those kinds of things out? That takes time, but there
+
+597
+00:48:40,240 --> 00:48:47,040
+was a good path forward on how to do that. So I think that one is more achievable than the under C
+
+598
+00:48:47,040 --> 00:48:52,880
+one at this point. Yeah, but the thing is that that problem is going to get worse space with the
+
+599
+00:48:52,880 --> 00:48:57,760
+amount of launching. I mean, just look at Starlink, speaking of something that could be mistaken for
+
+600
+00:48:57,760 --> 00:49:04,240
+a UAP. It's just astounding. Thousands, tens of thousands of satellites and constellations,
+
+601
+00:49:04,240 --> 00:49:12,800
+all full of parts that can get lost. And Starlink is a great example of we had many multiple reports
+
+602
+00:49:13,520 --> 00:49:23,360
+of UAP and multiple UAP, some of them from very reputable groups, right? And whether it was special
+
+603
+00:49:23,360 --> 00:49:31,600
+forces or radars or what have you, that it would say it would be a Starlink launch that was
+
+604
+00:49:31,600 --> 00:49:40,560
+letting loose a string of 20 to 60 satellites. Well, if you look at a string of 20 to 60 satellites
+
+605
+00:49:40,560 --> 00:49:49,840
+being ejected from a launch through say an infrared system or a radar system, that looks
+
+606
+00:49:49,840 --> 00:49:56,800
+really weird. And unless you know that that's a Starlink launch, you're going to report it as a
+
+607
+00:49:56,800 --> 00:50:04,640
+weird UAP thing because that's what everybody was doing. So we had lots of that, lots of UAPs that
+
+608
+00:50:04,640 --> 00:50:10,160
+turned out to be Starlinks that we had to go back and correlate to a Starlink launch and correlate
+
+609
+00:50:10,160 --> 00:50:17,520
+to the trajectory of the satellites. And yes, that was just Starlink. Now you had a slide,
+
+610
+00:50:17,520 --> 00:50:22,720
+and I believe you showed it at your NASA presentation. You had a slide about UAP reporting
+
+611
+00:50:22,720 --> 00:50:29,440
+trends and it had some interesting stuff hidden in there. One was radio emission section. It said
+
+612
+00:50:29,440 --> 00:50:35,040
+one to three gigahertz and then eight to 12 gigahertz. How did you arrive at those radio
+
+613
+00:50:35,040 --> 00:50:41,440
+frequencies as being associated with UAP? So let me be clear about what that section of that
+
+614
+00:50:41,440 --> 00:50:48,160
+chart said. If you look at the top of that, it should say reported UAP or something to that effect.
+
+615
+00:50:48,880 --> 00:50:57,600
+That set of characteristics that we put in there, it was taken from all of the various reports
+
+616
+00:50:57,600 --> 00:51:03,440
+at that time. We've had reports about, you know, they're spherical, we've had reports about
+
+617
+00:51:03,440 --> 00:51:09,280
+there being possible radio frequencies that might be correlated with it. And those were the
+
+618
+00:51:09,280 --> 00:51:16,160
+radio frequencies that were reported. We never measured those radio frequencies, but there were,
+
+619
+00:51:16,160 --> 00:51:22,160
+you know, some, like I want to say it was one or two reports that said that those were potentially
+
+620
+00:51:22,160 --> 00:51:31,280
+correlated with the observation of a UAP. Now what's important is it just so happens that one
+
+621
+00:51:31,280 --> 00:51:44,400
+to three gigahertz is also Wi-Fi and the eight to 10 is near one of the X band radars. So there's,
+
+622
+00:51:44,400 --> 00:51:49,600
+there are other potential explanations for what those radio frequencies were, but that was what
+
+623
+00:51:49,600 --> 00:51:56,720
+was reported. And we were trying to capture in that chart, here's kind of everything we're looking
+
+624
+00:51:56,720 --> 00:52:01,760
+for. And how we're trying to go about doing that is, well, yeah, all right, we're going to
+
+625
+00:52:01,760 --> 00:52:08,000
+put some sensors out to measure those frequencies and we're going to look at, can I correlate that
+
+626
+00:52:08,000 --> 00:52:14,640
+with any observations of UAP? And we did not, we found none of that. Now the other part of it
+
+627
+00:52:14,640 --> 00:52:19,680
+that I found interesting was stationary to Mach 2. Did you ever see anything anomalous that was
+
+628
+00:52:19,680 --> 00:52:24,400
+going Mach 2 because a balloon is not going to do that? Or was that just the, under that same
+
+629
+00:52:24,400 --> 00:52:29,280
+categorization that you're like, well, this is what we should look for at these speeds,
+
+630
+00:52:29,280 --> 00:52:36,000
+but why not faster? No, that's what was, again, that was what was reported. The high end of that
+
+631
+00:52:36,000 --> 00:52:44,320
+range came from some, from a report from a radar that, that seemed to indicate that an object was
+
+632
+00:52:44,320 --> 00:52:52,640
+going from roughly, I want to say it was around 0.4 Mach up to, you know, not quite two, but one,
+
+633
+00:52:52,880 --> 00:52:59,200
+one and a half Mach or something like that. And then dropping back down. And what we think that
+
+634
+00:52:59,200 --> 00:53:08,560
+actually turned out to be was this phenomenon with the radar where the pulses were not all returned
+
+635
+00:53:08,560 --> 00:53:16,640
+and the onboard algorithm, which was trying to calculate range and speed, was filling in the
+
+636
+00:53:16,640 --> 00:53:23,760
+gaps with the missing data. And that gave it, that essentially made it calculate this,
+
+637
+00:53:23,760 --> 00:53:33,760
+this very rapid acceleration. So we think that particular case was essentially a radar artifact,
+
+638
+00:53:33,760 --> 00:53:40,320
+but again, all of those parameters are things that had been reported. And so we wanted to
+
+639
+00:53:40,320 --> 00:53:48,640
+capture all of that as a holistic, here is the entirety of what's been reported and we're going
+
+640
+00:53:48,640 --> 00:53:55,040
+to be investigating each of those. And we're going to see if we can measure anything in a more
+
+641
+00:53:55,040 --> 00:54:02,320
+controlled fashion with better fidelity that would substantiate any of those characteristics
+
+642
+00:54:02,320 --> 00:54:09,680
+that were reported. Other countries. Now, we're not the only country in the world and other
+
+643
+00:54:09,680 --> 00:54:15,600
+countries have looked into UAP. In fact, France has looked into it for decades through their
+
+644
+00:54:15,600 --> 00:54:22,080
+Gaipin program and they've correlated all kinds of stuff. And there was even a semi-official report
+
+645
+00:54:22,080 --> 00:54:28,320
+that concluded that aliens were the best option. Was there any international coordination between
+
+646
+00:54:28,320 --> 00:54:34,320
+Aero and other countries regarding what they see with UAP and in particular France, because a lot
+
+647
+00:54:34,320 --> 00:54:40,240
+of people associate UAP with nuclear energy and France is the only other country that operates a
+
+648
+00:54:40,240 --> 00:54:45,120
+nuclear powered aircraft carrier. Did you ever call the French and ask them, what do you guys see?
+
+649
+00:54:45,680 --> 00:54:51,680
+Yeah, we've, we've, we had coordinated with a number of countries and we were trying to get
+
+650
+00:54:51,680 --> 00:54:58,480
+kind of a level set of what, what does each country actually see? What do they have data to support
+
+651
+00:54:59,120 --> 00:55:05,840
+and what kind of framework are they putting in place, if any, to do the same sort of measurement
+
+652
+00:55:05,840 --> 00:55:11,840
+and analysis that we were. And most all of them, in fact, all of them came back with, we don't
+
+653
+00:55:11,840 --> 00:55:19,040
+actually have any substantiating data. We, however, like your framework and we would like to leverage
+
+654
+00:55:19,040 --> 00:55:23,840
+your framework on how we're going to go about collecting and analyzing this. And we'd like to
+
+655
+00:55:23,840 --> 00:55:29,680
+share data and, and see if we can try to get to the bottom of some of these things. Now
+
+656
+00:55:30,960 --> 00:55:37,360
+they put into place to my knowledge, many of the same reporting requirements and data requirements,
+
+657
+00:55:38,160 --> 00:55:42,000
+but they didn't, they, they haven't gotten anything and they certainly hadn't provided
+
+658
+00:55:42,000 --> 00:55:49,040
+anything to us by the time I retired. Now moving further instrumentation and
+
+659
+00:55:49,040 --> 00:55:52,960
+mounted on military assets. Now you've touched on this a little bit, but let's go into it deeper.
+
+660
+00:55:53,520 --> 00:55:59,760
+The idea of classification, and you've said this many times, is not because of what you're seeing,
+
+661
+00:55:59,760 --> 00:56:05,280
+a bird isn't classified, the instrument is, and you can't tell other nation states your capabilities
+
+662
+00:56:05,280 --> 00:56:10,640
+and you want to keep that as secret as possible. But can you go out and take, I don't know, off
+
+663
+00:56:10,640 --> 00:56:16,080
+the shelf stuff, sort of like what the Galileo project is doing and create an experiment to
+
+664
+00:56:16,080 --> 00:56:21,120
+watch and then mounted on an aircraft carrier in a way that doesn't show anything sensitive
+
+665
+00:56:21,680 --> 00:56:28,560
+and do a data set like that. Will Arrow try to proactively collect data on UAP from military
+
+666
+00:56:28,560 --> 00:56:35,440
+assets? So that was the plan. You know, I'd have to refer you back to them to see how far they've
+
+667
+00:56:35,440 --> 00:56:41,600
+gotten down that roadmap. But let's, let's talk about the classification of data for a minute,
+
+668
+00:56:41,600 --> 00:56:48,800
+because it's an important aspect that, that keeps coming up. So there are two ways data gets
+
+669
+00:56:48,880 --> 00:56:56,320
+classified, right? I can have a classified sensor that has state of the art technology.
+
+670
+00:56:56,320 --> 00:57:01,920
+I don't want my adversary to know what my sensor can do, because if the adversary knows what my
+
+671
+00:57:01,920 --> 00:57:06,640
+sensor can do, then they can defeat it or they can spoof it or they can jam it or they can do
+
+672
+00:57:06,640 --> 00:57:14,800
+whatever. But if I have a great sensor and it's on a platform and it takes a picture of a Coke can,
+
+673
+00:57:14,800 --> 00:57:23,120
+that picture is classified because if I, if I release that picture as it is, then somebody
+
+674
+00:57:23,120 --> 00:57:29,680
+can take that picture and reverse engineer the picture and figure out what the sensor can do.
+
+675
+00:57:29,680 --> 00:57:38,960
+And then you've, you've given away a susceptibility of the sensor. That doesn't mean that the Coke can
+
+676
+00:57:38,960 --> 00:57:46,480
+is classified. It just means that the image is because of that. So to declassify that takes time
+
+677
+00:57:46,480 --> 00:57:55,920
+because the owner of the sensor and the platform has to do a couple of things. One, they have to
+
+678
+00:57:55,920 --> 00:58:03,360
+scrub the data down to remove anything that could be exploited by an adversary. And that can,
+
+679
+00:58:03,440 --> 00:58:09,200
+that can mean everything from reducing resolution to scrubbing all of the metadata and all the
+
+680
+00:58:09,200 --> 00:58:16,400
+things off of that. And then they have to evaluate it based on where it was taken,
+
+681
+00:58:16,960 --> 00:58:22,960
+because if it was taken during a sensitive operation, you don't want to give away details
+
+682
+00:58:22,960 --> 00:58:30,640
+about the operation. And so, you know, the owner operator has to sign off on that. All of that
+
+683
+00:58:30,640 --> 00:58:37,520
+takes time. And, and the time that it takes is directly proportional to the priority of said
+
+684
+00:58:37,520 --> 00:58:44,560
+thing. And so, for example, there was the incident last year, I think it was last year sometime where
+
+685
+00:58:44,560 --> 00:58:53,360
+the, where the Russians, you know, flew at the predator and we had the video, we got the video
+
+686
+00:58:53,360 --> 00:59:00,320
+declassified. And I want to say it was like 36 hours sent out. Well, that's because there was
+
+687
+00:59:00,320 --> 00:59:08,720
+a high, high, high priority with international relations with Russia. And the White House was
+
+688
+00:59:08,720 --> 00:59:15,200
+very interested in making sure we got that out. So under that kind of pressure, that declassification
+
+689
+00:59:15,200 --> 00:59:21,600
+is going to happen very quickly. Now, there's a whole other way that a set of data can become
+
+690
+00:59:21,600 --> 00:59:27,600
+classified. And this, this gets to, you know, commercial technology or scientific technology
+
+691
+00:59:27,600 --> 00:59:34,480
+that isn't, the sensor isn't classified. But if I take a camera and I go out and I,
+
+692
+00:59:34,480 --> 00:59:43,120
+I take a picture of the back end of the new B-21, that's classified because we're hiding
+
+693
+00:59:43,120 --> 00:59:50,720
+certain characteristics of the platform, even though the sensor wasn't. So you have to balance
+
+694
+00:59:50,800 --> 00:59:57,600
+and you have to understand what is being collected. So one of the, one of the,
+
+695
+00:59:57,600 --> 01:00:06,640
+one of the issues is not imagery, but actual signals. So what signals are being collected
+
+696
+01:00:06,640 --> 01:00:16,640
+off of say military comms systems or radar systems or platforms that you don't want others to know
+
+697
+01:00:16,640 --> 01:00:23,840
+about? Because then that gives them access to, you know, command and control and how the,
+
+698
+01:00:23,840 --> 01:00:33,040
+how the sensor RF might operate. And that's a, that's just as vulnerable as the imagery aspect.
+
+699
+01:00:33,040 --> 01:00:39,920
+So there's a, there's a wide range of things that affect classification,
+
+700
+01:00:40,880 --> 01:00:50,720
+but the collection of a UAP is not classified unless it comes from a classified sensor
+
+701
+01:00:51,520 --> 01:01:00,080
+that we have to then have declassified, unless it's being taken in front of a new stealthy
+
+702
+01:01:00,080 --> 01:01:05,280
+platform that we don't want anybody to know about. So those are the kinds of things that,
+
+703
+01:01:05,360 --> 01:01:09,600
+that affect classification and how fast you can get it declassified.
+
+704
+01:01:10,240 --> 01:01:16,000
+Now, what of agencies within the Pentagon that have a different classification system,
+
+705
+01:01:16,000 --> 01:01:22,800
+lesser perhaps, or classified for completely different reasons? And I would implicate the
+
+706
+01:01:22,800 --> 01:01:28,800
+Coast Guard here because they do similar things to the Navy. The Navy sees UAP. What does the
+
+707
+01:01:28,800 --> 01:01:34,800
+Coast Guard see? And is that less classified? So if the Coast Guard saw anything,
+
+708
+01:01:34,800 --> 01:01:40,560
+unless they're using a special sensor to collect it, it shouldn't be classified,
+
+709
+01:01:40,560 --> 01:01:43,360
+but the Coast Guard didn't give us any reports of any.
+
+710
+01:01:43,360 --> 01:01:46,720
+So nothing from the Coast Guard. That's interesting. Nope.
+
+711
+01:01:46,720 --> 01:01:51,040
+For comparison reasons, you know, with, with the Navy, but different, different instruments.
+
+712
+01:01:51,040 --> 01:01:56,720
+They're working with a completely different set of Coast Guard. Yeah. A Coast Guard cutter is
+
+713
+01:01:56,720 --> 01:02:01,120
+going to have a lot of different equipment related to law enforcement more than the military.
+
+714
+01:02:02,000 --> 01:02:07,360
+At least in peacetime anyway. Now, as the director of Arrow, now former director,
+
+715
+01:02:08,400 --> 01:02:13,360
+had you found something in the halls of government? Let's say a frozen alien body
+
+716
+01:02:13,360 --> 01:02:19,040
+sitting at an Air Force base or something like that, Area 51 or whatever. How would you have
+
+717
+01:02:19,040 --> 01:02:24,800
+handled that? And would you have disclosed it? I mean, what would you do if you had found something
+
+718
+01:02:24,800 --> 01:02:29,200
+and then a future director of Arrow? What, what if they find something hidden and they're like,
+
+719
+01:02:29,840 --> 01:02:31,440
+how do I release this or do I?
+
+720
+01:02:32,400 --> 01:02:38,560
+So nothing would have made me happier than to be able to actually find aliens, but I didn't.
+
+721
+01:02:40,720 --> 01:02:46,880
+So I've actually had this conversation with multiple folks in leadership, both my previous
+
+722
+01:02:46,880 --> 01:02:53,360
+boss, the deputy secretary and the undersecretary INS. And the, and the question was just that,
+
+723
+01:02:53,360 --> 01:02:58,320
+right? If we find something or we measure something or we collect on something,
+
+724
+01:02:58,320 --> 01:03:05,440
+what classification is it? What should it be? Is it even classified? And the answer that I think
+
+725
+01:03:05,440 --> 01:03:12,560
+we all settled on was the discovery of extraterrestrial life is not a department
+
+726
+01:03:12,560 --> 01:03:20,320
+of defense or IC mission. It is NASA's mission. And so if we had found anything to that sort,
+
+727
+01:03:20,320 --> 01:03:26,400
+it would have been turned over to NASA for disclosure and announcement and analysis.
+
+728
+01:03:27,120 --> 01:03:32,720
+Yes. But what if it was technologically advantageous? So you get a piece of UFO
+
+729
+01:03:32,720 --> 01:03:37,200
+that's very, very high technology that we could back engineer and use. I don't know that you
+
+730
+01:03:37,200 --> 01:03:41,200
+would hand that over to NASA. So how would you classify that? I don't know that anybody,
+
+731
+01:03:43,200 --> 01:03:52,640
+I don't know that anyone would actually do so. They might keep the technology to try and understand
+
+732
+01:03:52,640 --> 01:03:59,520
+how to use it, but the existence thereof would still be turned over to NASA.
+
+733
+01:03:59,520 --> 01:04:05,600
+So openness, were you happy with the openness that you got with, within investigating branches
+
+734
+01:04:05,600 --> 01:04:10,480
+of the government and asking around, were they, did you run into anything where you're like, well,
+
+735
+01:04:10,480 --> 01:04:15,520
+this person's being invasive or anything like that. And the thing is, is that, you know, you can't
+
+736
+01:04:15,520 --> 01:04:20,800
+read a person into every program, every SAP or everything, because that's dangerous. You don't
+
+737
+01:04:20,800 --> 01:04:26,640
+want somebody knowing too much. So were you happy with the openness or did you ever hit any brick
+
+738
+01:04:26,640 --> 01:04:31,360
+walls? Now people sometimes speak about that, that hitting brick walls in government, like the
+
+739
+01:04:31,360 --> 01:04:39,040
+Department of Energy perhaps, did you run into any of that? No. In fact, everybody across multiple
+
+740
+01:04:39,040 --> 01:04:48,720
+departments, Homeland Security, DOE, DOD, IC, everybody, NASA, everybody was fully open and
+
+741
+01:04:48,720 --> 01:04:58,000
+transparent because they wanted to put data to this problem. They wanted to address this problem
+
+742
+01:04:58,000 --> 01:05:04,160
+because frankly, they wanted to stop having to answer the questions. They wanted to move on with
+
+743
+01:05:04,160 --> 01:05:11,040
+the missions that were really important to them. I don't know, like a couple of world wars and
+
+744
+01:05:11,040 --> 01:05:17,920
+some conflicts and maybe going back to the moon and things of that nature. So I never ran into any
+
+745
+01:05:17,920 --> 01:05:25,920
+hesitation. I was given access across the board on everything that we needed, everything that we
+
+746
+01:05:25,920 --> 01:05:31,360
+came across. If I came across something that I didn't already have access to, I would get access
+
+747
+01:05:31,360 --> 01:05:38,880
+to it. And then we analyzed and assessed everything. And it's fascinating to me how folks
+
+748
+01:05:39,600 --> 01:05:47,280
+try to hide behind that. And I don't know how many ways I can say this clearly. Every program that
+
+749
+01:05:47,280 --> 01:05:57,680
+people named as being potentially part of this conspiracy, we had full access to hold the programs
+
+750
+01:05:57,680 --> 01:06:05,840
+out of the archives in many instances, got exactly what they were. And when I wrote up the final
+
+751
+01:06:05,840 --> 01:06:14,400
+assessment, there was a very classified version that had all of those programs that were identified
+
+752
+01:06:14,400 --> 01:06:20,080
+in there and what they actually were and what the conspiracy theorists were claiming they were.
+
+753
+01:06:20,720 --> 01:06:27,200
+And that is with the congressional leadership and with the department leadership and with the
+
+754
+01:06:27,200 --> 01:06:35,760
+IC leadership. And so going in the future, that will continue. The next director will
+
+755
+01:06:36,560 --> 01:06:42,000
+finish that analysis with the next set of data that had come in as I was retiring.
+
+756
+01:06:42,720 --> 01:06:51,040
+We had reviewed all of those programs. Same thing. Nothing extraterrestrial there, but
+
+757
+01:06:51,600 --> 01:06:55,840
+fascinating nonetheless. Do you think the government sometimes shoots itself in the
+
+758
+01:06:55,840 --> 01:07:00,720
+foot, however, and creates mistrust? And we have to point out during the Cold War, all sorts of
+
+759
+01:07:00,720 --> 01:07:06,800
+weird things happened. Things like, for example, the church committee uncovering hidden documents
+
+760
+01:07:06,800 --> 01:07:11,120
+that were stuck in a warehouse when a bunch of them had been destroyed by, I believe, the CIA.
+
+761
+01:07:11,760 --> 01:07:16,880
+Or testing radiation patterns by dumping radioactive materials off buildings in St. Louis,
+
+762
+01:07:16,880 --> 01:07:22,000
+giving people syphilis, all of that. The government has a terrible track record from that period
+
+763
+01:07:22,000 --> 01:07:27,200
+for openness and transparency and not sticking to government, you know, stuff that, you know,
+
+764
+01:07:27,200 --> 01:07:32,560
+ethical stuff that it should. I'm not saying that this is going on now, but it did. It did happen.
+
+765
+01:07:32,560 --> 01:07:38,320
+Could it be that during that period, the US government was perpetuating an alien origin
+
+766
+01:07:38,320 --> 01:07:43,440
+hypothesis for UAP in order to hide the very programs that you looked into that people are
+
+767
+01:07:43,440 --> 01:07:50,080
+associating with UFOs? Yeah, that is a very plausible hypothesis. And yes, the government
+
+768
+01:07:50,080 --> 01:07:58,000
+tends to shoot itself in the foot often. I think one of my windmills that I tilt at is the lack of
+
+769
+01:07:58,960 --> 01:08:03,840
+really communication and transparent, not transparency, but a lack of communication
+
+770
+01:08:04,560 --> 01:08:12,000
+in what they're finding and how it was found to try to mitigate some of the narrative and get
+
+771
+01:08:12,000 --> 01:08:18,720
+control of the narrative that's out there. Certainly that is a possibility. What we found,
+
+772
+01:08:18,720 --> 01:08:23,440
+and I think, again, what is important to understand from a historical perspective,
+
+773
+01:08:24,240 --> 01:08:34,080
+is there was no organized Pentagon level concerted effort to perpetrate such a cover story,
+
+774
+01:08:34,080 --> 01:08:44,880
+if you will. There is some anecdotal evidence of local officers or local commands jumping on that
+
+775
+01:08:44,880 --> 01:08:54,160
+bandwagon in order to hide programs because that was an easy cover story and it was fun to do.
+
+776
+01:08:54,800 --> 01:09:01,200
+But it's come back, I think, to really bite them. And now that you've got to be able to
+
+777
+01:09:01,200 --> 01:09:09,280
+demonstrate that through data documents and people who can attest to it, and that's
+
+778
+01:09:09,280 --> 01:09:14,160
+going to take time and investigation. And a lot of it, I'm sure, is going to be protected under
+
+779
+01:09:14,880 --> 01:09:21,360
+the Whistleblower Protection Act that everybody pushed to get forward. And while it protects both
+
+780
+01:09:21,360 --> 01:09:27,360
+ways, so anybody that comes forward to talk about their knowledge of that kind of a cover up is
+
+781
+01:09:27,360 --> 01:09:34,480
+also protected. So it's going to be hard to untangle a lot of that. Do you think it's possible
+
+782
+01:09:35,120 --> 01:09:39,680
+in your position, which everybody knew what you were doing and you were appointed to it and
+
+783
+01:09:40,320 --> 01:09:46,000
+doing it, do you think it's possible that you were misled by anybody, in the contractor system,
+
+784
+01:09:46,000 --> 01:09:50,640
+particularly? Do you think that, you know, was there any indication that you thought,
+
+785
+01:09:50,640 --> 01:09:56,080
+well, maybe I could be misled here? No, I had no indication of that. A lot of these folks,
+
+786
+01:09:56,080 --> 01:10:02,800
+especially in the contractor communities, I've known for many, many, many years, had working
+
+787
+01:10:02,800 --> 01:10:11,760
+relationships with. They bent over backwards to try to not only help me find records or evidence,
+
+788
+01:10:11,760 --> 01:10:18,960
+but also people who had knowledge, you know, kind of firsthand knowledge of story origins and what
+
+789
+01:10:18,960 --> 01:10:25,120
+was actually happening at the time that this particular event was said to have occurred,
+
+790
+01:10:25,840 --> 01:10:32,640
+and got them to come in to talk to us so that we could document all of that and write it down and
+
+791
+01:10:33,040 --> 01:10:41,120
+investigate it and cross-reference it. So we actually untangled quite a bit of one of the
+
+792
+01:10:42,000 --> 01:10:49,200
+allegations for a contractor, you know, hiding in this technology and where that actually came
+
+793
+01:10:49,200 --> 01:10:58,880
+from and how it was linked to some of these other stories that don't have any validity either.
+
+794
+01:10:58,960 --> 01:11:07,760
+So it's an interesting way that the stories propagated, but from a misled perspective,
+
+795
+01:11:07,760 --> 01:11:14,640
+no, I had no indication I was being misled by anyone other than some of the whistleblowers
+
+796
+01:11:14,640 --> 01:11:20,800
+that were coming in. Now, there is something burning the internet down, and it's another
+
+797
+01:11:20,800 --> 01:11:27,360
+FOIA thing, talking about recovery and materials transfer in a document. What did that mean? What
+
+798
+01:11:27,360 --> 01:11:36,880
+is the story behind that document? Okay, so Arrow is congressionally directed to come up with
+
+799
+01:11:37,440 --> 01:11:44,240
+not just standard reporting or procedures, but also mitigation and response procedures for,
+
+800
+01:11:45,040 --> 01:11:54,160
+in the event of a shootdown or a collection of any sort of UAP, keeping in mind that UAP
+
+801
+01:11:54,960 --> 01:12:04,960
+involves everything from balloons to drones to alleged alien tech. And so to do that,
+
+802
+01:12:05,600 --> 01:12:11,840
+mitigation and response, as well as standardized reporting, will occur through all of the combatant
+
+803
+01:12:11,840 --> 01:12:19,520
+commands. And so that particular meeting was to go meet with the J3, who's in charge of operations,
+
+804
+01:12:20,080 --> 01:12:26,880
+to start the discussion on how we're going to define those procedures and whether or not
+
+805
+01:12:26,880 --> 01:12:34,880
+we have to provide a flyaway team in the event of any sort of shootdown to collect whatever is there,
+
+806
+01:12:34,880 --> 01:12:42,400
+because by law, Congress told Arrow it had to come up with mitigation and response procedures,
+
+807
+01:12:42,400 --> 01:12:49,280
+as well as develop flyaway teams or whatnot to go and collect anything that had to be done.
+
+808
+01:12:50,000 --> 01:12:57,120
+The problem is, those types of activities are already covered under foreign material
+
+809
+01:12:58,000 --> 01:13:06,240
+collection and analysis. So there's already a process and procedures in place for many of
+
+810
+01:13:06,240 --> 01:13:13,520
+these things. And so this conversation was really to start, how do we document that for UAP? And
+
+811
+01:13:13,520 --> 01:13:18,560
+what kind of procedures do we need to put in place? What kind of processes do we need to put in place?
+
+812
+01:13:18,560 --> 01:13:24,960
+And I started with space command, because that's where I came from. And that was a kind of an easy
+
+813
+01:13:24,960 --> 01:13:35,360
+way to get this started to address congressional concerns. So there wasn't an actual thing. It was
+
+814
+01:13:35,360 --> 01:13:40,880
+a, hey, we need to go have a conversation about how we're going to do this and get the teams
+
+815
+01:13:40,880 --> 01:13:47,520
+started in documenting that, that goes into the J3, which is the director of operations,
+
+816
+01:13:48,560 --> 01:13:55,840
+operational procedures and processes. So you literally created a UFO recovery team,
+
+817
+01:13:56,400 --> 01:14:05,760
+in short, in the event something like that were to happen? It's any UAP recovery. And it was really
+
+818
+01:14:05,760 --> 01:14:10,240
+more the process and procedure, because they already have people in place that would collect,
+
+819
+01:14:10,400 --> 01:14:16,080
+if we shot down another Chinese high-optitude balloon, it's that team that would go and collect
+
+820
+01:14:16,080 --> 01:14:23,280
+it. It's those procedures and processes on how it gets notified and how we go and get it.
+
+821
+01:14:23,280 --> 01:14:28,720
+And that would be now true for pretty much anything. Does the government have an Indiana Jones
+
+822
+01:14:28,720 --> 01:14:34,000
+warehouse where they have all of these foreign materials, Russian, Soviet, materials from the
+
+823
+01:14:34,000 --> 01:14:38,720
+Cold War planes and things like that, that they recovered parts of the missiles and everything
+
+824
+01:14:38,720 --> 01:14:43,920
+else that are archived somewhere and still kept secret because it's sensitive because of foreign
+
+825
+01:14:43,920 --> 01:14:49,760
+relations? I wish we had a big old warehouse like that, but that would be fun. But we do,
+
+826
+01:14:50,640 --> 01:14:57,120
+the IC and the DOD collects foreign material and they exploit it, just like foreign adversaries
+
+827
+01:14:57,120 --> 01:15:03,200
+collect on us and exploit it. And so some of that stuff is stored in places. I had to ask a question
+
+828
+01:15:03,200 --> 01:15:08,960
+because obviously it's burning the internet down. So, all right, aliens. I got two more questions
+
+829
+01:15:08,960 --> 01:15:13,840
+for you. And this one's just aliens in general. Is that treated as a national security concern?
+
+830
+01:15:13,840 --> 01:15:18,560
+In other words, say you had found something, wouldn't that be really scary to have an alien
+
+831
+01:15:18,560 --> 01:15:25,120
+civilization of presence here of very highly advanced nature, far beyond anything we can do?
+
+832
+01:15:25,680 --> 01:15:29,520
+Does the government say that's a national security threat? In other words,
+
+833
+01:15:30,480 --> 01:15:35,120
+would that have been a high priority? You know, we need to build some missiles or something like
+
+834
+01:15:35,120 --> 01:15:39,840
+that. Or do they just assume they'd have done something by now if they were here?
+
+835
+01:15:41,280 --> 01:15:48,240
+No, and this will be a wholly unsatisfying answer. But when we actually, again, when we had this
+
+836
+01:15:48,240 --> 01:15:54,880
+conversation about if we actually found anything, what would the classification be and how would we
+
+837
+01:15:54,880 --> 01:16:01,280
+handle it? Most of that apart from, you know, the part of, okay, we're going to get, you know,
+
+838
+01:16:01,280 --> 01:16:07,040
+NASA will take lead, but it's also going to be, it's got to go up to the president for a decision on,
+
+839
+01:16:07,600 --> 01:16:13,120
+you know, is it a national security issue or is it a, you know, human, you know, humanity,
+
+840
+01:16:13,120 --> 01:16:20,480
+civilization issue? And so that's, I think, what would actually happen is it would get briefed
+
+841
+01:16:20,480 --> 01:16:30,160
+over probably in partnership with the department by NASA up to the president for a decision.
+
+842
+01:16:30,720 --> 01:16:34,560
+Yeah, and I know certain presidents have thought about it because I believe Ronald Reagan asked
+
+843
+01:16:34,560 --> 01:16:40,160
+Gorbachev if the Soviets would help us if there was an alien threat and Gorbachev said yes. But
+
+844
+01:16:40,160 --> 01:16:46,080
+again, you know, that's presidential level. Now, my last question, and this is a fun one.
+
+845
+01:16:46,880 --> 01:16:53,520
+In looking into all of these programs and past programs and finding, not evidence of aliens,
+
+846
+01:16:53,520 --> 01:16:58,080
+but did you find weird historical stuff that's eventually going to come out about programs that
+
+847
+01:16:58,080 --> 01:17:04,240
+we did that's just really cool? In other words, we really did make this kind of a plane or something
+
+848
+01:17:04,240 --> 01:17:08,400
+like that and it's just not out there yet. Was there anything that you thought, wow, that's amazing?
+
+849
+01:17:09,360 --> 01:17:21,440
+Well, obviously, I would have to say I am very impressed and deeply proud of both the DOD and the
+
+850
+01:17:21,440 --> 01:17:28,720
+IC's capabilities that they are developing and building to protect this nation. And I think
+
+851
+01:17:28,720 --> 01:17:34,880
+everybody should take some solace in that. There are some really, really great technologies that
+
+852
+01:17:34,880 --> 01:17:41,760
+are coming. Really great. I'm hoping for fusion energy. Well, everybody's hoping.
+
+853
+01:17:42,640 --> 01:17:48,240
+Everybody's hoping. Well, imagine if you had, I remember Lockheed was developing a compact
+
+854
+01:17:48,240 --> 01:17:52,560
+or trying to develop a compact fusion reactor that could be launched into space that was the
+
+855
+01:17:52,560 --> 01:17:58,240
+size of a truck. And I'm like, man, if we had that and we had fusion energy in space, it's
+
+856
+01:17:58,240 --> 01:18:05,120
+Battlestar Galactica. Oh yeah, that'd be awesome. It would be. All right, Dr Kirkpatrick. Oh yeah,
+
+857
+01:18:05,120 --> 01:18:09,120
+go ahead. No, I was just going to say there's a fusion energy conference coming up here at the
+
+858
+01:18:09,120 --> 01:18:16,640
+end of next month. I think we'll talk about the state of the art of fusion community. I think that
+
+859
+01:18:16,640 --> 01:18:22,160
+would be a fascinating thing to listen to. Oh, absolutely. All right, Dr Kirkpatrick,
+
+860
+01:18:22,160 --> 01:18:27,040
+thank you for joining us. I've been giving me so much time and good luck in your endeavors from
+
+861
+01:18:27,040 --> 01:18:31,920
+now on and I will continue to watch Arrow under the new director and see what they find, or don't
+
+862
+01:18:31,920 --> 01:18:37,280
+find. All right. Now we're not fine. Yes. All right. Well, I appreciate it. Thanks very much.
+
+863
+01:18:37,280 --> 01:18:44,160
+Let me know if there's anything else you need. Event Horizon and my channel are now available
+
+864
+01:18:44,160 --> 01:18:50,640
+as a podcast on Apple podcasts, Spotify, and YouTube memberships. Early ad-free episodes,
+
+865
+01:18:50,640 --> 01:18:56,080
+bonus episodes, and sleep-focused content. Sign up now by clicking the links below to
+
+866
+01:18:56,080 --> 01:18:59,200
+your platform of choice.
+

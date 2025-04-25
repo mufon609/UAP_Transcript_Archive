@@ -1,0 +1,3956 @@
+1
+00:00:00,000 --> 00:00:12,000
+You have fallen into Event Horizon with John-Michael Gadiel.
+
+2
+00:00:22,000 --> 00:00:26,000
+In today's episode, John is joined by Robin Hansen.
+
+3
+00:00:26,000 --> 00:00:42,000
+Robin received a BS in Physics from the University of California in 1981, an MS in Physics and an MA in Conceptual Foundations of Science from the University of Chicago in 1984, and a PhD in Social Science from Caltech in 1997.
+
+4
+00:00:43,000 --> 00:00:53,000
+He is a proponent of cryonics, and that his ideas have found some acceptance among extropians on the internet, he has since written extensively on the topic.
+
+5
+00:00:53,000 --> 00:01:03,000
+He also coined the term great filter, referring to whatever prevents dead matter from becoming an expanding and observable intelligence civilization.
+
+6
+00:01:03,000 --> 00:01:08,000
+He was motivated to seek his doctorate so that his theories would reach a wider audience.
+
+7
+00:01:08,000 --> 00:01:10,000
+Robin Hansen, welcome to the program.
+
+8
+00:01:10,000 --> 00:01:11,000
+Great to be here.
+
+9
+00:01:11,000 --> 00:01:12,000
+Great to be here.
+
+10
+00:01:12,000 --> 00:01:27,000
+Now, you have come up with a number of ideas over the years, and I think my first exposure to you was back in the 90s with the idea of the great filter on solution to why when we look into the cosmos, we see no actual evidence of alien civilizations.
+
+11
+00:01:27,000 --> 00:01:31,000
+25 years later, what's your view on the great filter today?
+
+12
+00:01:31,000 --> 00:01:38,000
+I mean, do you think that we actually have a rather solid candidate one way or another for a great filter?
+
+13
+00:01:38,000 --> 00:01:56,000
+No, but I would say the great filter was a abstract observation that there was this big parameter that we could identify, which was the filter and that it was large and had components, but couldn't say very much about it numerically.
+
+14
+00:01:56,000 --> 00:02:06,000
+And my recent efforts in what I've called grabby aliens are an attempt to make a numerical model to estimate the great filter.
+
+15
+00:02:06,000 --> 00:02:10,000
+So there's a sense in which this is a direct extension of that.
+
+16
+00:02:10,000 --> 00:02:13,000
+That was sort of setting up the abstract question.
+
+17
+00:02:13,000 --> 00:02:19,000
+And this is numerically estimating where exactly it is and how big it is.
+
+18
+00:02:19,000 --> 00:02:28,000
+How do you begin to do that to numerically estimate based on a sampling of one on what could be out there as far as alien civilizations?
+
+19
+00:02:28,000 --> 00:02:33,000
+Obviously, Frank Drake did this to an extent with formulating the so-called Drake equation.
+
+20
+00:02:33,000 --> 00:02:39,000
+But how do you come up with a numerical estimate of what could be out there based on just this single sampling?
+
+21
+00:02:40,000 --> 00:02:48,000
+So the Drake equation is a formula with a bunch of constants that you have to guess to estimate the whole model.
+
+22
+00:02:48,000 --> 00:02:53,000
+It's a model with a bunch of parameters and basically you're using guesses to estimate the parameters of the model.
+
+23
+00:02:53,000 --> 00:02:59,000
+So instead, we have a three parameter model, each of which we fit to data.
+
+24
+00:02:59,000 --> 00:03:02,000
+So there's only three parameters and all of them are fit to data.
+
+25
+00:03:02,000 --> 00:03:04,000
+So none of them are guessed.
+
+26
+00:03:04,000 --> 00:03:06,000
+Now, the parameters are only roughly estimated.
+
+27
+00:03:06,000 --> 00:03:11,000
+So there's uncertainty in the estimate of each parameter, but it's still each one is based on a particular piece of data.
+
+28
+00:03:11,000 --> 00:03:14,000
+And so it's no longer guesswork.
+
+29
+00:03:14,000 --> 00:03:19,000
+You could say you could guess about whether the model is roughly right and challenge whether the model is right or wrong.
+
+30
+00:03:19,000 --> 00:03:25,000
+But given that you accept roughly this model, it's not sort of picking numbers out of the air and guessing.
+
+31
+00:03:25,000 --> 00:03:27,000
+It's fitting it to data.
+
+32
+00:03:27,000 --> 00:03:29,000
+So what are the three data sets?
+
+33
+00:03:29,000 --> 00:03:31,000
+You know, just what's an overview of that?
+
+34
+00:03:31,000 --> 00:03:35,000
+There are relatively minor things we know, but the surprising thing is you can put them together.
+
+35
+00:03:35,000 --> 00:03:44,000
+So an analogy I like is long ago in BC, Greeks figured out how far away the sun was and how far away the moon was.
+
+36
+00:03:44,000 --> 00:03:47,000
+And you might think, how could they possibly figure that out?
+
+37
+00:03:47,000 --> 00:03:49,000
+They hardly need anything.
+
+38
+00:03:49,000 --> 00:03:50,000
+They just see these disks in the sky.
+
+39
+00:03:50,000 --> 00:03:51,000
+How could they know how far away?
+
+40
+00:03:51,000 --> 00:03:59,000
+But they were clever and taking a few little, what you might think is pretty minor pieces of information and putting them together and saying how far away the sun was.
+
+41
+00:03:59,000 --> 00:04:00,000
+So that's what we're going to do here.
+
+42
+00:04:00,000 --> 00:04:07,000
+We're going to put together three pieces of information you might think is hardly anything, but it adds up.
+
+43
+00:04:07,000 --> 00:04:11,000
+OK, first piece of information is our date.
+
+44
+00:04:11,000 --> 00:04:15,000
+We know how long ago the Big Bang was, a little less than 14 billion years ago.
+
+45
+00:04:15,000 --> 00:04:21,000
+And we know a lot about how long stars will last and when stars form and all sorts of things.
+
+46
+00:04:21,000 --> 00:04:23,000
+So our date is a data point.
+
+47
+00:04:23,000 --> 00:04:26,000
+You might think it's not a big one, but it actually is.
+
+48
+00:04:26,000 --> 00:04:37,000
+Second data point is the fact that when we look up in the sky and we look for alien civilizations, which, you know, once we realize they might be there, we look for them and we don't see any.
+
+49
+00:04:37,000 --> 00:04:39,000
+And you might say, well, that's no data, right?
+
+50
+00:04:39,000 --> 00:04:40,000
+No.
+
+51
+00:04:40,000 --> 00:04:41,000
+Zero is a data point.
+
+52
+00:04:41,000 --> 00:04:47,000
+There are models and parameters, you know, combinations of the model such that we would see stuff.
+
+53
+00:04:47,000 --> 00:04:50,000
+So we can exclude those model parameter combinations.
+
+54
+00:04:50,000 --> 00:04:55,000
+The one that say we would see stuff, they can't be right because we're not seeing anything.
+
+55
+00:04:55,000 --> 00:04:56,000
+That's data number two.
+
+56
+00:04:56,000 --> 00:05:03,000
+Data number three is when we look at the history of life on Earth, we see that stuff happened at particular dates.
+
+57
+00:05:03,000 --> 00:05:05,000
+Now you might think, well, what does that say?
+
+58
+00:05:05,000 --> 00:05:13,000
+In particular, there's the first date at which we see any evidence of life at all compared to, say, when life was at all possible on Earth.
+
+59
+00:05:13,000 --> 00:05:16,000
+And that's roughly 400 million years.
+
+60
+00:05:16,000 --> 00:05:23,000
+And then the other data point on Earth is that we are now at a moment before life on Earth is no longer possible.
+
+61
+00:05:23,000 --> 00:05:33,000
+That is, when we project out how we expect the Sun to evolve and Earth to evolve, we see that in roughly 1.1 billion years, life like us will no longer be possible on Earth.
+
+62
+00:05:33,000 --> 00:05:39,000
+So that's the window life had on Earth to produce something advanced like us.
+
+63
+00:05:39,000 --> 00:05:42,000
+If it passed that window, it would no longer be possible.
+
+64
+00:05:42,000 --> 00:05:51,000
+So those times on Earth are the third data point because they are what let us estimate how many hard steps happened on Earth.
+
+65
+00:05:51,000 --> 00:05:55,000
+So life on Earth to get to where we are had to go through a bunch of hard steps.
+
+66
+00:05:55,000 --> 00:05:59,000
+It wasn't that we didn't just appear straight out of the cosmos like this.
+
+67
+00:05:59,000 --> 00:06:04,000
+First, very simple life had to appear, and then it had to go through a sequence of steps.
+
+68
+00:06:04,000 --> 00:06:08,000
+And some of those steps were hard in the sense that they were really unlikely.
+
+69
+00:06:08,000 --> 00:06:12,000
+They were so unlikely that, in fact, on a typical planet, they never happened.
+
+70
+00:06:12,000 --> 00:06:15,000
+So an analogy is cancer in your body.
+
+71
+00:06:16,000 --> 00:06:18,000
+There are many trillions of cells.
+
+72
+00:06:18,000 --> 00:06:23,000
+And by the end of your life, there's a 40% chance that one of your cells has cancer.
+
+73
+00:06:23,000 --> 00:06:30,000
+And in order for one cell out of all those cells to get cancer, it had to go through six mutations, roughly.
+
+74
+00:06:30,000 --> 00:06:32,000
+Each mutation had to happen in that cell.
+
+75
+00:06:32,000 --> 00:06:37,000
+And each of these mutations is really rare so that most of your cells in your body never get any of these mutations.
+
+76
+00:06:37,000 --> 00:06:39,000
+And only a small number ever get two.
+
+77
+00:06:39,000 --> 00:06:43,000
+And six doesn't happen at all until the very end.
+
+78
+00:06:43,000 --> 00:06:48,000
+And the chance that your body gets cancer is a function of time.
+
+79
+00:06:48,000 --> 00:06:52,000
+And it increases with time according to a power, which is this number of steps.
+
+80
+00:06:52,000 --> 00:07:02,000
+So since there are six steps, say, in getting cancer, then the chance of getting cancer in any one cell in your body increases with your lifespan by a power of six,
+
+81
+00:07:02,000 --> 00:07:05,000
+which is why almost all cancer happens at the end of your life.
+
+82
+00:07:05,000 --> 00:07:15,000
+So that power, the number of hard steps, which then says the power law that will describe how fast stuff shows up, is the third parameter.
+
+83
+00:07:15,000 --> 00:07:22,000
+So we say life appears on planets somewhat like ours and six hard things have to happen,
+
+84
+00:07:22,000 --> 00:07:28,000
+which is roughly a guess from these two periods of 400 million years and 1.1 billion years.
+
+85
+00:07:28,000 --> 00:07:30,000
+You put those together and you roughly guess.
+
+86
+00:07:30,000 --> 00:07:32,000
+Now it could be as low as three, high as 12, something like that.
+
+87
+00:07:32,000 --> 00:07:37,000
+But in that range, so the power is roughly from roughly six, anywhere from three to 12.
+
+88
+00:07:37,000 --> 00:07:40,000
+We don't see anything in our sky.
+
+89
+00:07:40,000 --> 00:07:43,000
+And the models say if we saw something, they'd be huge.
+
+90
+00:07:43,000 --> 00:07:46,000
+So anything we saw would be much bigger than the full moon.
+
+91
+00:07:46,000 --> 00:07:50,000
+So we would if there was an alien civilization in the sky, it started somewhere, it was growing.
+
+92
+00:07:50,000 --> 00:07:52,000
+And then at the moment, it was a certain size.
+
+93
+00:07:52,000 --> 00:07:54,000
+And we looked out and we could see it.
+
+94
+00:07:54,000 --> 00:07:56,000
+It would be a huge chunk of the sky.
+
+95
+00:07:56,000 --> 00:07:58,000
+And that chunk of the sky would look different somehow.
+
+96
+00:07:58,000 --> 00:08:03,000
+Now we don't know exactly how different, but the key assumption here is if a civilization grows
+
+97
+00:08:03,000 --> 00:08:07,000
+and it takes over star systems and galaxies, it does something with it.
+
+98
+00:08:07,000 --> 00:08:11,000
+We don't know what, but it'll change it somehow in a way we would see.
+
+99
+00:08:11,000 --> 00:08:17,000
+And so we would look up in the sky, we'd see these basically discs representing spheres in the sky,
+
+100
+00:08:17,000 --> 00:08:19,000
+and we would see them and we don't see any of them.
+
+101
+00:08:19,000 --> 00:08:21,000
+And that's one of our parameters.
+
+102
+00:08:21,000 --> 00:08:23,000
+So these are the three pieces of data.
+
+103
+00:08:23,000 --> 00:08:28,000
+Our date, seeing nothing in the sky and the history of life on Earth
+
+104
+00:08:28,000 --> 00:08:30,000
+and therefore how many hard steps had to happen on Earth.
+
+105
+00:08:30,000 --> 00:08:31,000
+Those are the three parameters.
+
+106
+00:08:31,000 --> 00:08:37,000
+And with these three parameters, we put together a stochastic model of aliens in the universe.
+
+107
+00:08:37,000 --> 00:08:40,000
+So now I can just tell you this model is very simple.
+
+108
+00:08:40,000 --> 00:08:43,000
+We have these three parameters, each of which is fit to data.
+
+109
+00:08:43,000 --> 00:08:49,000
+And now we have a stochastic model of aliens in the universe based on these three parameters.
+
+110
+00:08:49,000 --> 00:08:51,000
+So here's how the model goes.
+
+111
+00:08:51,000 --> 00:08:54,000
+Aliens appear at random places in space.
+
+112
+00:08:54,000 --> 00:08:59,000
+Now, actually, they only, say, appear near stars or galaxies, which are clustered.
+
+113
+00:08:59,000 --> 00:09:00,000
+They're not all together.
+
+114
+00:09:00,000 --> 00:09:04,000
+But at the spatial scales we're talking about, that's not really going to matter much.
+
+115
+00:09:04,000 --> 00:09:11,000
+So they appear in a random galaxy, say, and they appear at a random time.
+
+116
+00:09:11,000 --> 00:09:15,000
+But that time isn't, the distribution isn't constant in time.
+
+117
+00:09:15,000 --> 00:09:18,000
+That is, very early on, they're very unlikely to appear.
+
+118
+00:09:18,000 --> 00:09:23,000
+And then the chance of them appearing increases in time according to this power law,
+
+119
+00:09:23,000 --> 00:09:28,000
+just like the chance increases on Earth according to the same power law over the universe.
+
+120
+00:09:28,000 --> 00:09:30,000
+They increase in time.
+
+121
+00:09:30,000 --> 00:09:37,000
+And then when one appears at a random place and a random time where the chance is increasing with time,
+
+122
+00:09:37,000 --> 00:09:40,000
+that civilization very quickly starts to expand.
+
+123
+00:09:40,000 --> 00:09:42,000
+And it expands at a speed.
+
+124
+00:09:42,000 --> 00:09:44,000
+And they all expand at the same speed.
+
+125
+00:09:44,000 --> 00:09:49,000
+So basically, there's some maximum feasible speed that once you max out on technology,
+
+126
+00:09:49,000 --> 00:09:53,000
+you expand at that speed and you expand in all directions at that speed.
+
+127
+00:09:53,000 --> 00:09:56,000
+And then they just keep expanding at that speed until they meet each other.
+
+128
+00:09:56,000 --> 00:09:59,000
+And at that point, of course, interesting things will happen, but we don't care.
+
+129
+00:09:59,000 --> 00:10:05,000
+The universe there is nearby is full of the aliens, one or the other, maybe the fight, who knows,
+
+130
+00:10:05,000 --> 00:10:07,000
+but no longer an empty universe.
+
+131
+00:10:07,000 --> 00:10:11,000
+So our basic model just says the universe starts out empty, dead.
+
+132
+00:10:11,000 --> 00:10:14,000
+These things appear at particular random points and times.
+
+133
+00:10:14,000 --> 00:10:19,000
+They expand until they merge, at which point the universe is full of aliens
+
+134
+00:10:19,000 --> 00:10:23,000
+and no longer available for new alien civilizations to appear.
+
+135
+00:10:23,000 --> 00:10:25,000
+So that model has these three parameters.
+
+136
+00:10:25,000 --> 00:10:28,000
+One is the speed at which they expand.
+
+137
+00:10:28,000 --> 00:10:32,000
+Another is the power law of their increase in time.
+
+138
+00:10:32,000 --> 00:10:36,000
+And the other is a constant that also goes along with their increase in time.
+
+139
+00:10:36,000 --> 00:10:40,000
+Each of those parameters can be fit to one of these pieces of data I told you about.
+
+140
+00:10:40,000 --> 00:10:45,000
+So the constant in front of the power law, that comes from our current date.
+
+141
+00:10:45,000 --> 00:10:50,000
+We are assumed to be a random sample from the distribution of alien times
+
+142
+00:10:50,000 --> 00:10:53,000
+when alien civilizations arise because we could do it soon.
+
+143
+00:10:53,000 --> 00:10:55,000
+So we don't know if we will expand to go out there.
+
+144
+00:10:55,000 --> 00:11:00,000
+Maybe we won't, but if we do it, the assumption is it'll be within 10 million years.
+
+145
+00:11:00,000 --> 00:11:01,000
+That's a pretty long time.
+
+146
+00:11:01,000 --> 00:11:04,000
+That's a short time for cosmology, so it hardly matters.
+
+147
+00:11:04,000 --> 00:11:09,000
+So within the next 10 million years, we will, if we do it, go out and start expanding.
+
+148
+00:11:09,000 --> 00:11:12,000
+Pretty soon we will do it at the maximum speed.
+
+149
+00:11:12,000 --> 00:11:16,000
+That maximum speed we get from the fact we don't see anything in the sky.
+
+150
+00:11:16,000 --> 00:11:20,000
+If things expanded slowly, then we would see stuff in the sky.
+
+151
+00:11:20,000 --> 00:11:23,000
+And the only way we can not see them is if they're expanding so fast
+
+152
+00:11:23,000 --> 00:11:25,000
+that we don't see them until they're almost here.
+
+153
+00:11:25,000 --> 00:11:29,000
+And that apparently is what the data is telling us, because we don't see anything in the sky.
+
+154
+00:11:30,000 --> 00:11:34,000
+Either we're very luckily one of the very first or more likely
+
+155
+00:11:34,000 --> 00:11:37,000
+we're one of the middle ones, except they're expanding so fast that
+
+156
+00:11:37,000 --> 00:11:38,000
+we won't see them until they get here.
+
+157
+00:11:38,000 --> 00:11:41,000
+That's the second parameter, the speed.
+
+158
+00:11:41,000 --> 00:11:46,000
+And the third parameter is the power that we get from the history of life on Earth and the power.
+
+159
+00:11:46,000 --> 00:11:51,000
+So now we've got the stochastic model of when aliens appear in space and time.
+
+160
+00:11:51,000 --> 00:11:54,000
+And now I can run this model and give you distributions
+
+161
+00:11:54,000 --> 00:11:58,000
+over the key questions you might want to know, like how far away is nearest aliens?
+
+162
+00:11:58,000 --> 00:12:03,000
+So for example, roughly the best middle of the distribution of these estimates is
+
+163
+00:12:03,000 --> 00:12:07,000
+alien civilizations of the ones that will expand and fill the universe
+
+164
+00:12:07,000 --> 00:12:10,000
+appear roughly once per million galaxies.
+
+165
+00:12:10,000 --> 00:12:12,000
+So that's rare, right?
+
+166
+00:12:12,000 --> 00:12:16,000
+Not just once per thousand stars or something, once per million galaxies.
+
+167
+00:12:16,000 --> 00:12:19,000
+So the nearest one is a long way away.
+
+168
+00:12:19,000 --> 00:12:22,000
+Which is also why when we ask, OK, when we start expanding out
+
+169
+00:12:22,000 --> 00:12:26,000
+and we meet them somewhere in the middle, how long in the future would that be?
+
+170
+00:12:26,000 --> 00:12:29,000
+And it'd be roughly a billion years.
+
+171
+00:12:29,000 --> 00:12:31,000
+We won't meet them for a billion years on average.
+
+172
+00:12:31,000 --> 00:12:33,000
+And they're once per million galaxies.
+
+173
+00:12:33,000 --> 00:12:38,000
+And that's roughly what these three pieces of data fit to the simple model are telling us.
+
+174
+00:12:38,000 --> 00:12:42,000
+And the last thing I want to tell you is you might say, well, why should I believe this model?
+
+175
+00:12:42,000 --> 00:12:43,000
+Well, you know, maybe it's just wrong.
+
+176
+00:12:43,000 --> 00:12:46,000
+Maybe we're all alone and this model is just wrong.
+
+177
+00:12:46,000 --> 00:12:50,000
+And for that, I would point to our date as being really early.
+
+178
+00:12:50,000 --> 00:12:56,000
+So ask yourself if the universe would sit and wait empty for life to appear like us
+
+179
+00:12:56,000 --> 00:13:00,000
+and nothing would happen to prevent that, then when would it appear?
+
+180
+00:13:00,000 --> 00:13:04,000
+And remember, I told you there's this power law that life appears
+
+181
+00:13:04,000 --> 00:13:07,000
+as a function of the time on a planet to the power of six.
+
+182
+00:13:07,000 --> 00:13:11,000
+Well, turns out our planet is kind of short lived compared to the typical star.
+
+183
+00:13:11,000 --> 00:13:15,000
+Our planet will last five billion years before it runs out of this deadline.
+
+184
+00:13:15,000 --> 00:13:18,000
+The typical star will last five trillion years,
+
+185
+00:13:18,000 --> 00:13:20,000
+a factor of a thousand times longer.
+
+186
+00:13:20,000 --> 00:13:24,000
+And that power law applies over that whole extended period.
+
+187
+00:13:24,000 --> 00:13:28,000
+So the chance of advanced life appearing on one of those longer lived stars
+
+188
+00:13:28,000 --> 00:13:33,000
+is a thousand to the power of six more than appearing on our star.
+
+189
+00:13:33,000 --> 00:13:35,000
+That's 10 to the 18.
+
+190
+00:13:35,000 --> 00:13:40,000
+So we're crazy early if the universe would just sit and wait
+
+191
+00:13:40,000 --> 00:13:44,000
+for any advanced life to appear anywhere and then it would be all alone.
+
+192
+00:13:44,000 --> 00:13:45,000
+But hey, it would be there.
+
+193
+00:13:45,000 --> 00:13:48,000
+So in that scenario, it would eventually appear somewhere,
+
+194
+00:13:48,000 --> 00:13:50,000
+but it would be way later.
+
+195
+00:13:50,000 --> 00:13:51,000
+We are early.
+
+196
+00:13:51,000 --> 00:13:54,000
+And the way we understand why we're early is there's a deadline.
+
+197
+00:13:54,000 --> 00:13:56,000
+This model I told you, the universe fills up,
+
+198
+00:13:56,000 --> 00:13:59,000
+roughly a billion years, they all meet, everything's full.
+
+199
+00:13:59,000 --> 00:14:00,000
+It's too late to appear.
+
+200
+00:14:00,000 --> 00:14:02,000
+You couldn't wait that long to appear.
+
+201
+00:14:02,000 --> 00:14:04,000
+And whatever advanced life is going to appear,
+
+202
+00:14:04,000 --> 00:14:08,000
+it has to appear before the deadline of the aliens filling up the universe.
+
+203
+00:14:08,000 --> 00:14:12,000
+And one last parameter is where are we in the distribution of aliens?
+
+204
+00:14:12,000 --> 00:14:13,000
+Roughly halfway.
+
+205
+00:14:13,000 --> 00:14:14,000
+And that means at the moment,
+
+206
+00:14:14,000 --> 00:14:19,000
+roughly half of the volume of the universe is full of alien civilizations.
+
+207
+00:14:19,000 --> 00:14:20,000
+And you say, but I don't see them.
+
+208
+00:14:20,000 --> 00:14:21,000
+I'm looking out there. I don't see them.
+
+209
+00:14:21,000 --> 00:14:23,000
+I said, yeah, that's the selection effect.
+
+210
+00:14:23,000 --> 00:14:26,000
+You won't see them till they're almost here because they're growing really fast.
+
+211
+00:14:26,000 --> 00:14:29,000
+That's sort of terrifying though, because say, for example,
+
+212
+00:14:29,000 --> 00:14:34,000
+by some trick of nature that you end up with two civilizations in a galaxy
+
+213
+00:14:34,000 --> 00:14:38,000
+and one of them decides to expand very rapidly near the speed of light.
+
+214
+00:14:38,000 --> 00:14:42,000
+The other one at the disadvantage doesn't see it until they're coming,
+
+215
+00:14:42,000 --> 00:14:45,000
+literally, especially if it's almost the speed of light,
+
+216
+00:14:45,000 --> 00:14:48,000
+which is difficult, but even still.
+
+217
+00:14:48,000 --> 00:14:54,000
+Right. Now, you know, a galaxy is maybe 100,000 light years across.
+
+218
+00:14:54,000 --> 00:14:57,000
+So if it's expanding at half the speed of light,
+
+219
+00:14:57,000 --> 00:15:01,000
+it only takes 200,000 years to get from one side to the other at the most.
+
+220
+00:15:01,000 --> 00:15:05,000
+OK, so we're talking about alien civilizations appearing at random
+
+221
+00:15:05,000 --> 00:15:07,000
+across a 14 billion year period.
+
+222
+00:15:08,000 --> 00:15:15,000
+So if an alien civilization appeared somewhere else in our galaxy 200,000 years ago,
+
+223
+00:15:15,000 --> 00:15:18,000
+that's a crazy time coincidence with us appearing now.
+
+224
+00:15:18,000 --> 00:15:21,000
+That's almost never going to be that close in time.
+
+225
+00:15:21,000 --> 00:15:24,000
+Either they'll appear later in the future, at which point we will preclude them
+
+226
+00:15:24,000 --> 00:15:26,000
+and they won't happen because we will get there first,
+
+227
+00:15:26,000 --> 00:15:30,000
+or they would have gotten here in the past and we would never be here now.
+
+228
+00:15:30,000 --> 00:15:34,000
+So there's just very unlikely that there'll be that sort of conflict.
+
+229
+00:15:34,000 --> 00:15:37,000
+In order to be that sort of conflict, you'd have to appear in time
+
+230
+00:15:37,000 --> 00:15:42,000
+with such a tight time coincidence that it's just crazy and it's not going to happen.
+
+231
+00:15:42,000 --> 00:15:47,000
+The weird idea that, all right, so we formed in a stellar nursery
+
+232
+00:15:47,000 --> 00:15:49,000
+and we know that the sun has siblings.
+
+233
+00:15:49,000 --> 00:15:55,000
+We see chemically similar stars that appear to originate in the same birth cluster.
+
+234
+00:15:55,000 --> 00:15:57,000
+So we see this.
+
+235
+00:15:57,000 --> 00:16:01,000
+Well, back then, before the dispersion of that cluster,
+
+236
+00:16:01,000 --> 00:16:04,000
+we might have a situation of panspermic life.
+
+237
+00:16:04,000 --> 00:16:11,000
+So it arises here or somewhere else and spreads into the cluster as it's dispersing,
+
+238
+00:16:11,000 --> 00:16:18,000
+and you end up with a number of related civilizations that spawn from the same abiogenesis.
+
+239
+00:16:18,000 --> 00:16:21,000
+How does that change things?
+
+240
+00:16:21,000 --> 00:16:24,000
+So I gave you the simplest model to start with.
+
+241
+00:16:24,000 --> 00:16:28,000
+In the simplest model, civilizations appear independently,
+
+242
+00:16:28,000 --> 00:16:33,000
+and then they grow and each one has no correlation with the others.
+
+243
+00:16:33,000 --> 00:16:37,000
+If they have a common origin, then there's a correlation,
+
+244
+00:16:37,000 --> 00:16:41,000
+and that means they're going to appear closer in space and time to each other
+
+245
+00:16:41,000 --> 00:16:43,000
+than they would if they were drawn independently.
+
+246
+00:16:43,000 --> 00:16:48,000
+So it certainly is possible, and we can discuss some of the reasons that it might actually be true,
+
+247
+00:16:48,000 --> 00:16:50,000
+that life appeared before Earth.
+
+248
+00:16:50,000 --> 00:16:55,000
+So the peak of star formation in our galaxy and in the universe, it seems,
+
+249
+00:16:55,000 --> 00:16:57,000
+is roughly four billion years after the origin.
+
+250
+00:16:57,000 --> 00:16:59,000
+We are now 14 billion years.
+
+251
+00:16:59,000 --> 00:17:02,000
+Our star was formed four and a half billion years ago.
+
+252
+00:17:02,000 --> 00:17:05,000
+Our star was formed well after the peak.
+
+253
+00:17:05,000 --> 00:17:10,000
+It could be that some star formed near the peak when most stars form,
+
+254
+00:17:10,000 --> 00:17:15,000
+and it developed life on it, and then that star, after five billion years,
+
+255
+00:17:15,000 --> 00:17:17,000
+seeded our stellar nursery.
+
+256
+00:17:17,000 --> 00:17:21,000
+So this process would be some rock smashes into that planet,
+
+257
+00:17:21,000 --> 00:17:23,000
+kicks off another rock on that planet.
+
+258
+00:17:23,000 --> 00:17:25,000
+Inside that rock is some life.
+
+259
+00:17:25,000 --> 00:17:27,000
+It drifts, I don't know, maybe a million years,
+
+260
+00:17:27,000 --> 00:17:31,000
+while the inside of that life becomes, you know,
+
+261
+00:17:31,000 --> 00:17:35,000
+desecitated and maybe, you know, shrinks and suffers radiation damage,
+
+262
+00:17:35,000 --> 00:17:39,000
+and maybe the vast majority of the little cells there die out,
+
+263
+00:17:39,000 --> 00:17:41,000
+but one or two remain.
+
+264
+00:17:41,000 --> 00:17:43,000
+And when that hits our stellar nursery,
+
+265
+00:17:43,000 --> 00:17:46,000
+our stellar nursery has lots of rocks flying back and forth
+
+266
+00:17:46,000 --> 00:17:48,000
+all over the place with all these stars.
+
+267
+00:17:48,000 --> 00:17:52,000
+And there might be a thousand, ten thousand stars all together in the same stellar nursery,
+
+268
+00:17:52,000 --> 00:17:54,000
+all very close, lots of rocks flying back and forth.
+
+269
+00:17:54,000 --> 00:17:58,000
+So this rock lands on some place.
+
+270
+00:17:58,000 --> 00:18:02,000
+It might be a cloud, an asteroid, a planet,
+
+271
+00:18:02,000 --> 00:18:08,000
+that has water and light and biochemicals,
+
+272
+00:18:08,000 --> 00:18:13,000
+and that little cell lands in that pool and grows.
+
+273
+00:18:13,000 --> 00:18:15,000
+And now it grows into the, fills this rock,
+
+274
+00:18:15,000 --> 00:18:17,000
+and then this rock smashes into other rocks,
+
+275
+00:18:17,000 --> 00:18:22,000
+and then life spreads, maybe spreads across, you know, many planets,
+
+276
+00:18:22,000 --> 00:18:24,000
+many, across many star systems.
+
+277
+00:18:24,000 --> 00:18:28,000
+And then very quickly, within ten million years, these stars drift apart.
+
+278
+00:18:28,000 --> 00:18:30,000
+They are no longer all together.
+
+279
+00:18:30,000 --> 00:18:34,000
+They are now, and they spread in a ring basically around the center of the galaxy.
+
+280
+00:18:34,000 --> 00:18:38,000
+At our radius, there'd be, you know, another thousand or so stars
+
+281
+00:18:38,000 --> 00:18:42,000
+all spread out in this ring, each developing life,
+
+282
+00:18:42,000 --> 00:18:44,000
+whatever life it had on its planet.
+
+283
+00:18:44,000 --> 00:18:47,000
+Each of them are going to go through this hard steps process, right?
+
+284
+00:18:47,000 --> 00:18:51,000
+Now, the idea would be some of those steps already happened on the previous planet.
+
+285
+00:18:51,000 --> 00:18:54,000
+So if six steps happen, we estimate roughly on Earth,
+
+286
+00:18:54,000 --> 00:18:56,000
+then maybe 12 steps overall.
+
+287
+00:18:56,000 --> 00:18:59,000
+Six of the steps happened on a previous planet.
+
+288
+00:18:59,000 --> 00:19:00,000
+Let's call it Eden.
+
+289
+00:19:00,000 --> 00:19:03,000
+And then six more steps needed to happen to get to where we are.
+
+290
+00:19:03,000 --> 00:19:05,000
+And on all these other planets,
+
+291
+00:19:05,000 --> 00:19:09,000
+they're starting to go through step seven, step eight, as best they can.
+
+292
+00:19:09,000 --> 00:19:11,000
+But of course, these are hard steps.
+
+293
+00:19:11,000 --> 00:19:13,000
+Most of them never make it to step seven.
+
+294
+00:19:13,000 --> 00:19:15,000
+A few of those only make it to step eight.
+
+295
+00:19:15,000 --> 00:19:19,000
+And, you know, the chances are maybe only one of them
+
+296
+00:19:19,000 --> 00:19:24,000
+ever gets to step 12, where we are, in which case we're alone.
+
+297
+00:19:24,000 --> 00:19:27,000
+But maybe these steps weren't so hard.
+
+298
+00:19:27,000 --> 00:19:33,000
+Maybe one of the other planets got through all remaining steps before us.
+
+299
+00:19:33,000 --> 00:19:36,000
+Then, now, if we say when would that happen,
+
+300
+00:19:36,000 --> 00:19:38,000
+the statistics say, well, look, you know,
+
+301
+00:19:38,000 --> 00:19:40,000
+it got a four billion year period to do these things,
+
+302
+00:19:40,000 --> 00:19:44,000
+then that would have happened at least a hundred million years ago.
+
+303
+00:19:44,000 --> 00:19:47,000
+The idea that it would have happened even less than one million years
+
+304
+00:19:47,000 --> 00:19:50,000
+is really a big time coincidence.
+
+305
+00:19:50,000 --> 00:19:52,000
+And it's going to be more than a million years.
+
+306
+00:19:52,000 --> 00:19:55,000
+So think 10 million, think a hundred million years.
+
+307
+00:19:55,000 --> 00:19:57,000
+A hundred million years ago,
+
+308
+00:19:57,000 --> 00:20:02,000
+this other planet achieved our level of civilization
+
+309
+00:20:02,000 --> 00:20:07,000
+and soon afterward was capable of expanding into the galaxy and the universe,
+
+310
+00:20:07,000 --> 00:20:09,000
+like these other gravity civilizations.
+
+311
+00:20:09,000 --> 00:20:13,000
+And that's where we have to start our new story.
+
+312
+00:20:14,000 --> 00:20:17,000
+Because if you postulate that, we've got a problem.
+
+313
+00:20:17,000 --> 00:20:19,000
+We say, OK, a hundred million years ago,
+
+314
+00:20:19,000 --> 00:20:23,000
+some civilization shows up in another star system in our galaxy.
+
+315
+00:20:23,000 --> 00:20:25,000
+It's advanced.
+
+316
+00:20:25,000 --> 00:20:28,000
+It's capable of becoming grabby and expanding into the universe
+
+317
+00:20:28,000 --> 00:20:29,000
+at half the speed of light.
+
+318
+00:20:29,000 --> 00:20:32,000
+Within 10 million years, it starts to do that.
+
+319
+00:20:32,000 --> 00:20:36,000
+And then we wouldn't have a place to be, right?
+
+320
+00:20:36,000 --> 00:20:39,000
+They would have come here and replaced us with whatever they are.
+
+321
+00:20:39,000 --> 00:20:42,000
+And we would no longer be who we are here.
+
+322
+00:20:42,000 --> 00:20:43,000
+So we've got a problem.
+
+323
+00:20:43,000 --> 00:20:47,000
+We can't really postulate panspermia siblings like this
+
+324
+00:20:47,000 --> 00:20:51,000
+who reach our level if we also presume that they become grabby.
+
+325
+00:20:51,000 --> 00:20:55,000
+Because, you know, even if they were nice and decided to pass us by
+
+326
+00:20:55,000 --> 00:20:58,000
+and leave our little star system as a zoo,
+
+327
+00:20:58,000 --> 00:21:00,000
+the universe around us would look really different.
+
+328
+00:21:00,000 --> 00:21:03,000
+There'd be a whole alien civilization everywhere we looked, all around.
+
+329
+00:21:03,000 --> 00:21:06,000
+Everything we would see right outside of our star system
+
+330
+00:21:06,000 --> 00:21:09,000
+would look really different if we were in the middle
+
+331
+00:21:09,000 --> 00:21:11,000
+of an advanced alien civilization.
+
+332
+00:21:11,000 --> 00:21:13,000
+So obviously, we aren't.
+
+333
+00:21:13,000 --> 00:21:17,000
+So we have to assume, to make any sense of the scenario,
+
+334
+00:21:17,000 --> 00:21:19,000
+that, okay, they did not go grabby.
+
+335
+00:21:19,000 --> 00:21:21,000
+So one scenario is, okay, they died.
+
+336
+00:21:21,000 --> 00:21:22,000
+Okay.
+
+337
+00:21:22,000 --> 00:21:26,000
+And someday we'll go out there and find their ruins and hear their story.
+
+338
+00:21:26,000 --> 00:21:27,000
+What else can we postulate?
+
+339
+00:21:27,000 --> 00:21:31,000
+Well, one might be that they're still alive and they didn't go grabby.
+
+340
+00:21:31,000 --> 00:21:34,000
+And that means they had to choose not to go grabby.
+
+341
+00:21:34,000 --> 00:21:36,000
+So you have to realize a civilization is a big thing.
+
+342
+00:21:36,000 --> 00:21:38,000
+It's got a lot of parts, right?
+
+343
+00:21:38,000 --> 00:21:40,000
+And in order for a civilization to go grabby,
+
+344
+00:21:40,000 --> 00:21:44,000
+all it takes is for one of their parts to head out into the universe
+
+345
+00:21:44,000 --> 00:21:46,000
+and start colonizing and have descendants.
+
+346
+00:21:46,000 --> 00:21:49,000
+The rest of that civilization can not like that fact.
+
+347
+00:21:49,000 --> 00:21:50,000
+Oppose it even.
+
+348
+00:21:50,000 --> 00:21:52,000
+Find it repulsive.
+
+349
+00:21:52,000 --> 00:21:53,000
+It doesn't matter.
+
+350
+00:21:53,000 --> 00:21:56,000
+If just one part does it, that's what happens.
+
+351
+00:21:56,000 --> 00:21:58,000
+That's selection. That's evolution.
+
+352
+00:21:58,000 --> 00:22:01,000
+So this civilization would have had to prevent
+
+353
+00:22:01,000 --> 00:22:03,000
+any one part of itself from doing that.
+
+354
+00:22:03,000 --> 00:22:06,000
+And it would have to successfully do that
+
+355
+00:22:06,000 --> 00:22:09,000
+The 100 million years that they've been around.
+
+356
+00:22:09,000 --> 00:22:12,000
+So they had to be kind of anal about this, right?
+
+357
+00:22:12,000 --> 00:22:17,000
+Very thorough and systematic and really attentive to making sure
+
+358
+00:22:17,000 --> 00:22:20,000
+no part of themselves over 100 million years
+
+359
+00:22:20,000 --> 00:22:22,000
+ever leaves to go colonize the universe.
+
+360
+00:22:22,000 --> 00:22:26,000
+That would have to be the kind of aliens who would be on this other planet
+
+361
+00:22:26,000 --> 00:22:27,000
+if they existed.
+
+362
+00:22:27,000 --> 00:22:30,000
+And I'm not saying they do exist, but it's worth walking through the scenario.
+
+363
+00:22:30,000 --> 00:22:31,000
+What if?
+
+364
+00:22:31,000 --> 00:22:35,000
+Yeah, this is if there was penpermia siblings, which is plausible.
+
+365
+00:22:35,000 --> 00:22:37,000
+And one of them showed up before us out there,
+
+366
+00:22:37,000 --> 00:22:40,000
+then this is the kind of aliens that have to be.
+
+367
+00:22:40,000 --> 00:22:43,000
+Now, there's also the possibility of going the opposite direction
+
+368
+00:22:43,000 --> 00:22:50,000
+and asking the question if Earth life might actually be a little bit later
+
+369
+00:22:50,000 --> 00:22:51,000
+than it normally is.
+
+370
+00:22:51,000 --> 00:22:57,000
+For example, the leap from prokaryotic to eukaryotic life
+
+371
+00:22:57,000 --> 00:22:59,000
+took like 1.8 billion years on Earth.
+
+372
+00:22:59,000 --> 00:23:02,000
+Well, what happens if that can happen earlier?
+
+373
+00:23:02,000 --> 00:23:05,000
+So and that simple life can make a leap faster
+
+374
+00:23:05,000 --> 00:23:07,000
+and get a head start for civilization.
+
+375
+00:23:07,000 --> 00:23:11,000
+But again, we don't see the giant circles in the sky of evidence
+
+376
+00:23:11,000 --> 00:23:13,000
+that you would see of alien civilization.
+
+377
+00:23:13,000 --> 00:23:16,000
+So my question here is what if they're subtle
+
+378
+00:23:16,000 --> 00:23:21,000
+and that their technology is not obviously visible
+
+379
+00:23:21,000 --> 00:23:24,000
+until you reach a certain level of being able to observe it,
+
+380
+00:23:24,000 --> 00:23:28,000
+say, building a radio telescope of sufficient size
+
+381
+00:23:28,000 --> 00:23:29,000
+to actually pick up their signals,
+
+382
+00:23:30,000 --> 00:23:34,000
+or maybe they don't build Dyson spheres and Dyson swarms
+
+383
+00:23:34,000 --> 00:23:36,000
+and things that would be all that obvious.
+
+384
+00:23:36,000 --> 00:23:40,000
+But when you get exoplanet-hunting telescopes better than JWST,
+
+385
+00:23:40,000 --> 00:23:44,000
+you start to see biosignatures and technosignatures
+
+386
+00:23:44,000 --> 00:23:46,000
+and obvious terraforming and things like that.
+
+387
+00:23:46,000 --> 00:23:50,000
+Is it possible that we're just still too early as far as instruments
+
+388
+00:23:50,000 --> 00:23:54,000
+to be able to make a call on grabby aliens and say,
+
+389
+00:23:54,000 --> 00:23:57,000
+well, we can eliminate that there are a lot of these out there
+
+390
+00:23:57,000 --> 00:23:59,000
+just based on what we have,
+
+391
+00:23:59,000 --> 00:24:01,000
+or do we need another 100 years of development
+
+392
+00:24:01,000 --> 00:24:03,000
+before we can really say?
+
+393
+00:24:03,000 --> 00:24:07,000
+So the question is, we see some parts of the universe
+
+394
+00:24:07,000 --> 00:24:09,000
+and we don't see others.
+
+395
+00:24:09,000 --> 00:24:11,000
+So for example, we know there's some form of dark matter
+
+396
+00:24:11,000 --> 00:24:14,000
+and dark energy out there, and we're not sure what it is,
+
+397
+00:24:14,000 --> 00:24:17,000
+and therefore we know that we can't see it very well.
+
+398
+00:24:17,000 --> 00:24:22,000
+But there is stuff we do see, stars and galaxies and clouds and comets,
+
+399
+00:24:22,000 --> 00:24:25,000
+and they could, of course, in principle,
+
+400
+00:24:25,000 --> 00:24:27,000
+be uninterested in the stuff we see
+
+401
+00:24:27,000 --> 00:24:29,000
+and interested in the stuff we don't see,
+
+402
+00:24:29,000 --> 00:24:32,000
+and if they were diverted enough to that other stuff,
+
+403
+00:24:32,000 --> 00:24:35,000
+then maybe they would just spend all their time and energy
+
+404
+00:24:35,000 --> 00:24:38,000
+with that other stuff that we don't see.
+
+405
+00:24:38,000 --> 00:24:41,000
+But if you think about life on Earth and all the places it goes,
+
+406
+00:24:41,000 --> 00:24:44,000
+a simple rule would be life goes everywhere it can.
+
+407
+00:24:44,000 --> 00:24:48,000
+It's not making choices, it's doing everything.
+
+408
+00:24:48,000 --> 00:24:51,000
+Life goes to the bottom of the sea and it goes to the top of mountains
+
+409
+00:24:51,000 --> 00:24:53,000
+and it goes into caves and it goes in the air.
+
+410
+00:24:53,000 --> 00:24:55,000
+It goes everywhere it can.
+
+411
+00:24:55,000 --> 00:24:57,000
+The reason, if you see a place that's lifeless,
+
+412
+00:24:57,000 --> 00:25:00,000
+it's because life couldn't get there.
+
+413
+00:25:00,000 --> 00:25:03,000
+If the moon is lifeless, it's because life on Earth couldn't get to the moon.
+
+414
+00:25:03,000 --> 00:25:07,000
+Or if you see down 20 kilometers under the ground
+
+415
+00:25:07,000 --> 00:25:09,000
+and you don't see life there, it's because it's too hot
+
+416
+00:25:09,000 --> 00:25:12,000
+or there's no energy or whatever it is, right?
+
+417
+00:25:12,000 --> 00:25:15,000
+So the issue is the stuff we see, it might not be everything,
+
+418
+00:25:15,000 --> 00:25:18,000
+but we know it's useful stuff.
+
+419
+00:25:18,000 --> 00:25:21,000
+We're pretty sure that an advanced civilization could make use of it.
+
+420
+00:25:21,000 --> 00:25:23,000
+They might like other stuff better,
+
+421
+00:25:23,000 --> 00:25:25,000
+but again, they would go everywhere they could
+
+422
+00:25:25,000 --> 00:25:29,000
+unless they had some sort of a rule that they had imposed against it.
+
+423
+00:25:29,000 --> 00:25:31,000
+So you might be a civilization that says,
+
+424
+00:25:31,000 --> 00:25:35,000
+leave the baryons alone, that's the stuff we see.
+
+425
+00:25:35,000 --> 00:25:38,000
+Baryons and the photons, those are holy and must not be touched,
+
+426
+00:25:38,000 --> 00:25:42,000
+but you may go and be fertile among the dark energy and matter.
+
+427
+00:25:42,000 --> 00:25:45,000
+So if they've got some sort of a holy script that tells them
+
+428
+00:25:45,000 --> 00:25:48,000
+to only consume the dark matter and energy
+
+429
+00:25:48,000 --> 00:25:50,000
+but not to touch the baryons,
+
+430
+00:25:50,000 --> 00:25:53,000
+well, okay, fine, they might be ignoring the baryons.
+
+431
+00:25:53,000 --> 00:25:55,000
+But now they need to enforce this rule really strictly.
+
+432
+00:25:55,000 --> 00:25:59,000
+It can't be just some of them only want to do the dark matter
+
+433
+00:25:59,000 --> 00:26:00,000
+and not the baryons.
+
+434
+00:26:00,000 --> 00:26:03,000
+It has to be that all of them agreed to prevent any of them
+
+435
+00:26:03,000 --> 00:26:04,000
+from touching the baryons,
+
+436
+00:26:04,000 --> 00:26:07,000
+because there's a lot of baryons and they're kind of tasty.
+
+437
+00:26:07,000 --> 00:26:08,000
+They can be used for stuff.
+
+438
+00:26:08,000 --> 00:26:10,000
+You have to realize an advanced civilization
+
+439
+00:26:10,000 --> 00:26:12,000
+isn't tied to one particular kind of matter.
+
+440
+00:26:12,000 --> 00:26:14,000
+It can figure out how to convert itself
+
+441
+00:26:14,000 --> 00:26:16,000
+into a form that could use another.
+
+442
+00:26:16,000 --> 00:26:19,000
+We will certainly be that in the next 10 million years.
+
+443
+00:26:19,000 --> 00:26:22,000
+And advanced civilization is almost surely artificial.
+
+444
+00:26:22,000 --> 00:26:24,000
+They're made in factories, explicit designs.
+
+445
+00:26:24,000 --> 00:26:28,000
+So they can redesign themselves and restructure themselves
+
+446
+00:26:28,000 --> 00:26:30,000
+and make new versions that are better suited
+
+447
+00:26:30,000 --> 00:26:32,000
+to whatever new environments they want.
+
+448
+00:26:32,000 --> 00:26:34,000
+So they could definitely come and use the baryons
+
+449
+00:26:34,000 --> 00:26:35,000
+if they wanted to.
+
+450
+00:26:35,000 --> 00:26:37,000
+If they're not using the baryons,
+
+451
+00:26:37,000 --> 00:26:39,000
+it's because not only do some of them not want to,
+
+452
+00:26:39,000 --> 00:26:42,000
+they've all set up a rule that none of them can't.
+
+453
+00:26:42,000 --> 00:26:43,000
+But that could be true.
+
+454
+00:26:43,000 --> 00:26:44,000
+And if it were true,
+
+455
+00:26:44,000 --> 00:26:46,000
+then there would be these disks in the sky.
+
+456
+00:26:46,000 --> 00:26:49,000
+We just wouldn't be quite sure how to see them.
+
+457
+00:26:49,000 --> 00:26:52,000
+And eventually we might figure out the right kind of frequency
+
+458
+00:26:52,000 --> 00:26:54,000
+or the kind of detector to see.
+
+459
+00:26:54,000 --> 00:26:55,000
+Maybe it's neutrinos.
+
+460
+00:26:55,000 --> 00:26:57,000
+And then we would be looking at the right thing.
+
+461
+00:26:57,000 --> 00:26:59,000
+And then we would see the disks.
+
+462
+00:26:59,000 --> 00:27:01,000
+And so our analysis predicts, well,
+
+463
+00:27:01,000 --> 00:27:03,000
+how big are the disks going to be and how many of them
+
+464
+00:27:03,000 --> 00:27:06,000
+as a function of these three parameters in the model.
+
+465
+00:27:06,000 --> 00:27:08,000
+And then, of course, once you see the disks,
+
+466
+00:27:08,000 --> 00:27:09,000
+you can use that to fit the model.
+
+467
+00:27:09,000 --> 00:27:11,000
+So it might then be true all the expansion rate
+
+468
+00:27:11,000 --> 00:27:12,000
+is much less than the speed of light
+
+469
+00:27:12,000 --> 00:27:14,000
+because, woo, look at all these disks.
+
+470
+00:27:14,000 --> 00:27:16,000
+And of course, it might be that we're already
+
+471
+00:27:16,000 --> 00:27:18,000
+in one of these spheres of influence.
+
+472
+00:27:18,000 --> 00:27:21,000
+There's already an alien civilization all around us.
+
+473
+00:27:21,000 --> 00:27:22,000
+We're their pets.
+
+474
+00:27:22,000 --> 00:27:23,000
+We just don't know it.
+
+475
+00:27:23,000 --> 00:27:25,000
+We'll find out eventually.
+
+476
+00:27:25,000 --> 00:27:26,000
+The zoo hypothesis.
+
+477
+00:27:26,000 --> 00:27:28,000
+But before we get to that,
+
+478
+00:27:28,000 --> 00:27:31,000
+the idea of faster than light travel
+
+479
+00:27:31,000 --> 00:27:34,000
+seems to get knocked out with this idea
+
+480
+00:27:34,000 --> 00:27:38,000
+because if anyone ever develops faster than light travel,
+
+481
+00:27:38,000 --> 00:27:41,000
+then just by the nature of relativity,
+
+482
+00:27:41,000 --> 00:27:43,000
+they're going to have time travel.
+
+483
+00:27:43,000 --> 00:27:44,000
+Right. Exactly.
+
+484
+00:27:44,000 --> 00:27:46,000
+Which means that they would be here.
+
+485
+00:27:46,000 --> 00:27:48,000
+And you would see the sphere anyway.
+
+486
+00:27:48,000 --> 00:27:52,000
+So it sort of eliminates that anybody ever does that, right?
+
+487
+00:27:52,000 --> 00:27:55,000
+Right. So when you assume the speed of light is the limit,
+
+488
+00:27:55,000 --> 00:27:57,000
+then there's what we call our backward light cone.
+
+489
+00:27:57,000 --> 00:28:01,000
+And the puzzle is why do we see nothing in our backward light cone?
+
+490
+00:28:01,000 --> 00:28:03,000
+And that's a substantial puzzle.
+
+491
+00:28:03,000 --> 00:28:04,000
+That's the great filter.
+
+492
+00:28:04,000 --> 00:28:05,000
+That's exactly what we're talking about.
+
+493
+00:28:05,000 --> 00:28:07,000
+And our explanation is there's a selection effect.
+
+494
+00:28:07,000 --> 00:28:09,000
+If they were in our backward light cone,
+
+495
+00:28:09,000 --> 00:28:10,000
+then they'd be here instead of us.
+
+496
+00:28:10,000 --> 00:28:14,000
+So we were only going to be in the cones where they're not.
+
+497
+00:28:14,000 --> 00:28:16,000
+If you postulate faster than light travel,
+
+498
+00:28:16,000 --> 00:28:17,000
+then you're going to say,
+
+499
+00:28:17,000 --> 00:28:20,000
+well, it's not just why aren't they in our backward light cone.
+
+500
+00:28:20,000 --> 00:28:23,000
+It's why aren't they anywhere in the connected universe?
+
+501
+00:28:23,000 --> 00:28:25,000
+Because they could have got here from there
+
+502
+00:28:25,000 --> 00:28:27,000
+wherever in space time they are.
+
+503
+00:28:27,000 --> 00:28:30,000
+So now we ask, why aren't they here from anywhere?
+
+504
+00:28:30,000 --> 00:28:32,000
+And that's a much harder question.
+
+505
+00:28:32,000 --> 00:28:35,000
+Basically, well, there must not be anybody in all of space time.
+
+506
+00:28:35,000 --> 00:28:37,000
+That's why they aren't here now,
+
+507
+00:28:37,000 --> 00:28:40,000
+which could be, except we're crazy early.
+
+508
+00:28:40,000 --> 00:28:43,000
+So now we have to explain why are we so early?
+
+509
+00:28:43,000 --> 00:28:45,000
+Well, that gets into, you know,
+
+510
+00:28:45,000 --> 00:28:47,000
+I mean, you could ask another question along those lines is,
+
+511
+00:28:47,000 --> 00:28:50,000
+why are we around the star that we are instead of a red dwarf,
+
+512
+00:28:50,000 --> 00:28:52,000
+given that chances are, statistically,
+
+513
+00:28:52,000 --> 00:28:54,000
+we should be around a red dwarf, but we're not.
+
+514
+00:28:54,000 --> 00:29:01,000
+We're around a weird sort of minority type of star in the universe.
+
+515
+00:29:01,000 --> 00:29:04,000
+We're weird in a number of ways.
+
+516
+00:29:04,000 --> 00:29:06,000
+For example, our galaxy is unusually large
+
+517
+00:29:06,000 --> 00:29:07,000
+compared to other galaxies.
+
+518
+00:29:07,000 --> 00:29:10,000
+It turns out we're in a wall of galaxies
+
+519
+00:29:10,000 --> 00:29:13,000
+and we're unusually like in a certain kind of wall
+
+520
+00:29:13,000 --> 00:29:14,000
+compared to other places.
+
+521
+00:29:14,000 --> 00:29:16,000
+Of course, our place in the solar system
+
+522
+00:29:16,000 --> 00:29:18,000
+is in a certain distance from the center.
+
+523
+00:29:18,000 --> 00:29:19,000
+I'm sorry, in the galaxy.
+
+524
+00:29:19,000 --> 00:29:21,000
+We're at a certain distance from the center galaxy.
+
+525
+00:29:21,000 --> 00:29:23,000
+Why not far out? Why not closer?
+
+526
+00:29:23,000 --> 00:29:26,000
+So for every way in which we're unusual,
+
+527
+00:29:26,000 --> 00:29:30,000
+you might think, oh, that's a clue that we couldn't be otherwise.
+
+528
+00:29:30,000 --> 00:29:33,000
+Maybe small galaxies just can't support a dance slice.
+
+529
+00:29:33,000 --> 00:29:36,000
+Or maybe you'll have to be on one of these galaxy walls
+
+530
+00:29:36,000 --> 00:29:37,000
+to support advanced life.
+
+531
+00:29:37,000 --> 00:29:40,000
+Or maybe you've got to be around a star like ours.
+
+532
+00:29:40,000 --> 00:29:43,000
+So that's a line people have tried to take.
+
+533
+00:29:43,000 --> 00:29:44,000
+Some people have tried to say,
+
+534
+00:29:44,000 --> 00:29:48,000
+small stars that last longer can't support advanced life.
+
+535
+00:29:48,000 --> 00:29:51,000
+And then they point to things that are different there
+
+536
+00:29:51,000 --> 00:29:52,000
+and say, maybe that's why.
+
+537
+00:29:52,000 --> 00:29:54,000
+And there are some things that are different.
+
+538
+00:29:54,000 --> 00:29:56,000
+So small stars have about as many planets
+
+539
+00:29:56,000 --> 00:29:58,000
+that are about as big as big stars.
+
+540
+00:29:58,000 --> 00:30:00,000
+So it's not about the number of planets or their size.
+
+541
+00:30:00,000 --> 00:30:01,000
+It's not about the radius.
+
+542
+00:30:01,000 --> 00:30:04,000
+They're about as many that are roughly the right distance away
+
+543
+00:30:04,000 --> 00:30:07,000
+from their star to be a plausible planet.
+
+544
+00:30:07,000 --> 00:30:09,000
+So none of those are the problem.
+
+545
+00:30:09,000 --> 00:30:12,000
+But small stars do have bigger solar flares more often.
+
+546
+00:30:12,000 --> 00:30:14,000
+Their stars have these bigger eruptions
+
+547
+00:30:14,000 --> 00:30:17,000
+that fry whatever the flare goes to.
+
+548
+00:30:17,000 --> 00:30:21,000
+Small stars, the planets around them have more tidal lock.
+
+549
+00:30:21,000 --> 00:30:23,000
+That is, because the planets last longer,
+
+550
+00:30:23,000 --> 00:30:25,000
+tidal rock is the thing that takes time.
+
+551
+00:30:25,000 --> 00:30:27,000
+So Mercury, for example, at the moment,
+
+552
+00:30:27,000 --> 00:30:29,000
+faces the sun always around.
+
+553
+00:30:29,000 --> 00:30:31,000
+And our moon always faces the Earth.
+
+554
+00:30:31,000 --> 00:30:33,000
+So those are two things that are in tidal lock
+
+555
+00:30:33,000 --> 00:30:34,000
+in our solar system.
+
+556
+00:30:34,000 --> 00:30:36,000
+But most planets in our tidal system
+
+557
+00:30:36,000 --> 00:30:37,000
+are not yet in tidal lock.
+
+558
+00:30:37,000 --> 00:30:40,000
+But give them a trillion years, and they might be.
+
+559
+00:30:40,000 --> 00:30:43,000
+Tidal lock is also something that will happen later
+
+560
+00:30:43,000 --> 00:30:45,000
+in these long-lived star systems,
+
+561
+00:30:45,000 --> 00:30:47,000
+the ones with the small stars.
+
+562
+00:30:47,000 --> 00:30:50,000
+And it might also be that continental drift
+
+563
+00:30:50,000 --> 00:30:51,000
+slows down and stops.
+
+564
+00:30:51,000 --> 00:30:54,000
+That is, continental drift happens early in the solar system
+
+565
+00:30:54,000 --> 00:30:55,000
+and not later.
+
+566
+00:30:55,000 --> 00:30:57,000
+So if you say, aha, the process that
+
+567
+00:30:58,000 --> 00:31:03,000
+produces advanced life like us, it needs either continental drift
+
+568
+00:31:03,000 --> 00:31:05,000
+or it needs not having tidal lock
+
+569
+00:31:05,000 --> 00:31:08,000
+or it needs not very many big solar flares,
+
+570
+00:31:08,000 --> 00:31:13,000
+then you say, aha, that's why we are on the shorter-lived,
+
+571
+00:31:13,000 --> 00:31:16,000
+bigger star, because these other ones no longer qualify.
+
+572
+00:31:16,000 --> 00:31:17,000
+All right.
+
+573
+00:31:17,000 --> 00:31:20,000
+So the key question here really is, how similar does
+
+574
+00:31:20,000 --> 00:31:22,000
+another planet have to be to our dear Earth
+
+575
+00:31:22,000 --> 00:31:24,000
+for advanced life to appear?
+
+576
+00:31:24,000 --> 00:31:26,000
+The closer it has to be than the more that other star
+
+577
+00:31:26,000 --> 00:31:30,000
+has to be just like ours in order to have the features that ours does.
+
+578
+00:31:30,000 --> 00:31:33,000
+And I think sort of a generic response to all of these things
+
+579
+00:31:33,000 --> 00:31:35,000
+is to consider ocean worlds.
+
+580
+00:31:35,000 --> 00:31:37,000
+Now, Earth was initially an ocean world.
+
+581
+00:31:37,000 --> 00:31:39,000
+That is, initially, Earth had no land.
+
+582
+00:31:39,000 --> 00:31:42,000
+And it took maybe a billion years for Earth to have land.
+
+583
+00:31:42,000 --> 00:31:44,000
+But even so, that ocean is pretty shallow,
+
+584
+00:31:44,000 --> 00:31:47,000
+only 10 kilometers deep or something, right?
+
+585
+00:31:47,000 --> 00:31:51,000
+Actually, about half of the planets of our size planet
+
+586
+00:31:51,000 --> 00:31:55,000
+are ocean worlds with oceans hundreds of kilometers or more deep.
+
+587
+00:31:55,000 --> 00:31:58,000
+On an ocean world, if the life is down in the ocean,
+
+588
+00:31:58,000 --> 00:32:00,000
+solar flares aren't a problem.
+
+589
+00:32:00,000 --> 00:32:02,000
+Solar flares just don't penetrate very far into the ocean,
+
+590
+00:32:02,000 --> 00:32:05,000
+maybe a millimeter, and that's about it, okay?
+
+591
+00:32:05,000 --> 00:32:06,000
+Solar flares aren't an issue.
+
+592
+00:32:06,000 --> 00:32:09,000
+Neither is continental drift, because there are no continents.
+
+593
+00:32:09,000 --> 00:32:10,000
+It's an ocean world.
+
+594
+00:32:10,000 --> 00:32:12,000
+And tidal lock isn't a problem either.
+
+595
+00:32:12,000 --> 00:32:15,000
+That is, in a deep ocean world, you'd get strong currents.
+
+596
+00:32:15,000 --> 00:32:18,000
+If one side is always facing each other, the other is cold,
+
+597
+00:32:18,000 --> 00:32:20,000
+the other is rich, but the water can move.
+
+598
+00:32:20,000 --> 00:32:23,000
+So you get strong currents circulating the water around the planet,
+
+599
+00:32:23,000 --> 00:32:26,000
+which would create energy and be a source of life,
+
+600
+00:32:26,000 --> 00:32:28,000
+energy for life as well as sunlight.
+
+601
+00:32:28,000 --> 00:32:32,000
+So if you think ocean worlds could support a dance life,
+
+602
+00:32:32,000 --> 00:32:36,000
+then these problems with long-lived planets are not really problems.
+
+603
+00:32:36,000 --> 00:32:38,000
+What becomes a problem on an ocean world, though,
+
+604
+00:32:38,000 --> 00:32:42,000
+is smelting metal and doing everything you need to build a rocket
+
+605
+00:32:42,000 --> 00:32:45,000
+and to get off into space and become a gravity alien.
+
+606
+00:32:45,000 --> 00:32:49,000
+You're basically stuck on your ocean world and your oceanic environment.
+
+607
+00:32:50,000 --> 00:32:55,000
+And if it's a planet that doesn't really, you know, has permanent cloud cover,
+
+608
+00:32:55,000 --> 00:32:58,000
+you may not even ever even know that space is out there.
+
+609
+00:32:58,000 --> 00:33:01,000
+Right, so when we're looking at the history of life on Earth
+
+610
+00:33:01,000 --> 00:33:06,000
+and trying to guess what's hard or easy, the time durations are important.
+
+611
+00:33:06,000 --> 00:33:14,000
+So we're now at 4.5 billion years, and so it took roughly 4.5 billion years
+
+612
+00:33:14,000 --> 00:33:17,000
+for life to go through its various hard steps to get to where we are.
+
+613
+00:33:17,000 --> 00:33:22,000
+Now, you know, we had ancestors were not humans a million years ago.
+
+614
+00:33:22,000 --> 00:33:27,000
+We've only had civilization in much of any form in the last 10 or 20,000 years
+
+615
+00:33:27,000 --> 00:33:33,000
+and only smelting metal at any substantial degree in the last few centuries
+
+616
+00:33:33,000 --> 00:33:37,000
+and only being able to leave the Earth in the last few decades,
+
+617
+00:33:37,000 --> 00:33:39,000
+which are really short time periods.
+
+618
+00:33:39,000 --> 00:33:42,000
+Imagine that on an ocean world, smelting metal
+
+619
+00:33:42,000 --> 00:33:46,000
+and making things to leave the planet like starships was a thousand times harder.
+
+620
+00:33:46,000 --> 00:33:51,000
+It took a thousand times longer, which means we take 300 years
+
+621
+00:33:51,000 --> 00:33:55,000
+and we go to 300,000 years and we're still talking a really short time.
+
+622
+00:33:55,000 --> 00:34:02,000
+So pretty much anything that happened in the last million years is easy,
+
+623
+00:34:02,000 --> 00:34:04,000
+or at least it was easy on Earth.
+
+624
+00:34:04,000 --> 00:34:09,000
+It might be much harder elsewhere, but it's got to be harder by an enormous factor
+
+625
+00:34:09,000 --> 00:34:12,000
+for it to be relevant to the cosmological timescales.
+
+626
+00:34:12,000 --> 00:34:15,000
+What if it takes 10 million years on an ocean world
+
+627
+00:34:15,000 --> 00:34:17,000
+for them to figure out how to smelt metal
+
+628
+00:34:17,000 --> 00:34:20,000
+and another 10 million years to figure out how to make a spaceship?
+
+629
+00:34:20,000 --> 00:34:24,000
+Well, they've got lots of time. 20 million years is just not much time.
+
+630
+00:34:24,000 --> 00:34:27,000
+I know we're all proud of the stuff we've done in the last few millennia,
+
+631
+00:34:27,000 --> 00:34:30,000
+and we should be, but in terms of cosmology,
+
+632
+00:34:30,000 --> 00:34:33,000
+it wasn't hard because it happened really fast.
+
+633
+00:34:33,000 --> 00:34:36,000
+That's true. You know, anatomically modern humans,
+
+634
+00:34:36,000 --> 00:34:40,000
+it's what, 220,000 years? Well, that's nothing compared to 4.5 billion years.
+
+635
+00:34:40,000 --> 00:34:41,000
+Exactly.
+
+636
+00:34:41,000 --> 00:34:45,000
+Now, once humanity becomes the grabby aliens in this scenario,
+
+637
+00:34:45,000 --> 00:34:48,000
+once, you know, 10 million years where we're out colonizing,
+
+638
+00:34:48,000 --> 00:34:52,000
+we can do that in relatively short order, a few million years,
+
+639
+00:34:52,000 --> 00:34:56,000
+at some, like, easy speeds, you know, the old von Neumann idea.
+
+640
+00:34:56,000 --> 00:34:59,000
+We could fill the galaxy in a short time, certainly.
+
+641
+00:34:59,000 --> 00:35:00,000
+Yeah, and once we fill it.
+
+642
+00:35:00,000 --> 00:35:02,000
+The rest of the universe will take billions of years.
+
+643
+00:35:02,000 --> 00:35:06,000
+Well, of course. The galaxy will be quick in geologic time.
+
+644
+00:35:06,000 --> 00:35:09,000
+So once we do that and we become a galaxy-spanning empire,
+
+645
+00:35:09,000 --> 00:35:12,000
+you know, there's somebody that's a hundred million light years away
+
+646
+00:35:12,000 --> 00:35:15,000
+that we'll probably never know about, whatever.
+
+647
+00:35:15,000 --> 00:35:19,000
+But then we become the aliens because then we all start forgetting
+
+648
+00:35:19,000 --> 00:35:21,000
+that of our common origin.
+
+649
+00:35:21,000 --> 00:35:24,000
+So you end up with a populated galaxy in the far future
+
+650
+00:35:24,000 --> 00:35:28,000
+that's made up of effective pen-spermic aliens,
+
+651
+00:35:28,000 --> 00:35:30,000
+but just done in a different way than if it would have happened
+
+652
+00:35:30,000 --> 00:35:33,000
+early on with microbial life, right?
+
+653
+00:35:33,000 --> 00:35:38,000
+So a grabby alien civilization is just the name for this cone of expansion.
+
+654
+00:35:38,000 --> 00:35:42,000
+An expansion that originates from a common origin.
+
+655
+00:35:42,000 --> 00:35:46,000
+And in principle, that cone can include enormous variety
+
+656
+00:35:46,000 --> 00:35:48,000
+and conflict and evolution.
+
+657
+00:35:48,000 --> 00:35:52,000
+And they may not be very fond of their neighbors or their distant cousins.
+
+658
+00:35:52,000 --> 00:35:53,000
+That's entirely possible.
+
+659
+00:35:53,000 --> 00:35:55,000
+From the point of view of, like, explaining why the universe looks empty,
+
+660
+00:35:55,000 --> 00:35:59,000
+that's all irrelevant, but we still might be interested in thinking about it.
+
+661
+00:35:59,000 --> 00:36:04,000
+In anticipation of that, civilizations may pause and wonder
+
+662
+00:36:04,000 --> 00:36:06,000
+whether she should wait a little bit before they start this process,
+
+663
+00:36:06,000 --> 00:36:09,000
+because they should wonder, is there some way we could set this up
+
+664
+00:36:09,000 --> 00:36:12,000
+so that it goes smoother later on, or do we just got to let all the sparks fly?
+
+665
+00:36:12,000 --> 00:36:16,000
+This brings up the issue of quiet aliens.
+
+666
+00:36:16,000 --> 00:36:18,000
+That is, we are now quiet aliens.
+
+667
+00:36:18,000 --> 00:36:23,000
+I said within 10 million years, we could become loud, but we might not.
+
+668
+00:36:23,000 --> 00:36:26,000
+And for example, the pen-spermia siblings,
+
+669
+00:36:26,000 --> 00:36:30,000
+they would have to not be loud aliens or they'd be here instead of us.
+
+670
+00:36:30,000 --> 00:36:33,000
+So there's going to be some rate of quiet alien civilizations.
+
+671
+00:36:34,000 --> 00:36:37,000
+And the question is, what's the ratio between the quiet and the loud?
+
+672
+00:36:37,000 --> 00:36:38,000
+That ratio is relevant for two things.
+
+673
+00:36:38,000 --> 00:36:40,000
+One is, what's our future chances?
+
+674
+00:36:40,000 --> 00:36:43,000
+So say if there's a thousand quiet to every loud,
+
+675
+00:36:43,000 --> 00:36:46,000
+then that means we only have a one in a thousand chance to become loud,
+
+676
+00:36:46,000 --> 00:36:48,000
+because 999 out of them don't.
+
+677
+00:36:48,000 --> 00:36:52,000
+The other thing it's relevant for is how close are the nearest quiet?
+
+678
+00:36:52,000 --> 00:36:56,000
+So again, the three data points we gave, we fit the statistical model,
+
+679
+00:36:56,000 --> 00:37:00,000
+we say the nearest loud one is roughly one in a million galaxies,
+
+680
+00:37:00,000 --> 00:37:03,000
+say if there's a thousand quiet for every loud,
+
+681
+00:37:03,000 --> 00:37:07,000
+then the nearest quiet one is only one in a thousand galaxies away, right?
+
+682
+00:37:07,000 --> 00:37:09,000
+And they're closer.
+
+683
+00:37:09,000 --> 00:37:12,000
+So if you hope to look out and see the remnants
+
+684
+00:37:12,000 --> 00:37:17,000
+or current live version of a quiet alien civilization out there,
+
+685
+00:37:17,000 --> 00:37:19,000
+you're hoping this ratio is large.
+
+686
+00:37:19,000 --> 00:37:23,000
+If it's a ratio of two, then you've got to look for a million galaxies
+
+687
+00:37:23,000 --> 00:37:26,000
+before you see one, and even just the ruins, right?
+
+688
+00:37:26,000 --> 00:37:28,000
+If the ratio is a thousand to one or a million to one,
+
+689
+00:37:28,000 --> 00:37:30,000
+well now you've got a much better chance of seeing them.
+
+690
+00:37:30,000 --> 00:37:32,000
+That's good for you searchers, but on the other hand,
+
+691
+00:37:32,000 --> 00:37:34,000
+our chances in the future are less.
+
+692
+00:37:34,000 --> 00:37:36,000
+Now maybe you didn't want to become grabby,
+
+693
+00:37:36,000 --> 00:37:38,000
+so hey, that doesn't bother you,
+
+694
+00:37:38,000 --> 00:37:42,000
+but the most likely way that we won't become grabby is because we can't,
+
+695
+00:37:42,000 --> 00:37:45,000
+like we die or something, so that should bother you.
+
+696
+00:37:45,000 --> 00:37:48,000
+You should at least want the option to become grabby.
+
+697
+00:37:48,000 --> 00:37:51,000
+Oh, but there are many scenarios there, though.
+
+698
+00:37:51,000 --> 00:37:54,000
+For example, the unemployed alien civilization
+
+699
+00:37:54,000 --> 00:37:57,000
+that creates an artificial intelligence so capable
+
+700
+00:37:57,000 --> 00:37:59,000
+that they drive themselves to unemployment
+
+701
+00:37:59,000 --> 00:38:02,000
+and can't become grabby because everybody's just sitting there
+
+702
+00:38:02,000 --> 00:38:06,000
+in a lotus-eater existence or completely broke
+
+703
+00:38:06,000 --> 00:38:09,000
+in a completely different, and I know you're an economist,
+
+704
+00:38:09,000 --> 00:38:13,000
+a completely different reordered economy forced by the development
+
+705
+00:38:13,000 --> 00:38:17,000
+of artificial generalized intelligence, right?
+
+706
+00:38:17,000 --> 00:38:20,000
+In a scenario where artificial intelligence shows up and it's very capable,
+
+707
+00:38:20,000 --> 00:38:24,000
+then it just replaces the previous biological features,
+
+708
+00:38:24,000 --> 00:38:27,000
+and then it can go on to do all the things they might,
+
+709
+00:38:27,000 --> 00:38:29,000
+so it's not really prevented from doing things
+
+710
+00:38:29,000 --> 00:38:32,000
+unless somehow its previous biological ancestors
+
+711
+00:38:32,000 --> 00:38:35,000
+are controlling it somehow to prevent it.
+
+712
+00:38:35,000 --> 00:38:38,000
+Artificial intelligence is just as capable or more capable
+
+713
+00:38:38,000 --> 00:38:41,000
+of expanding and being grabby than squishy bio-creatures are,
+
+714
+00:38:41,000 --> 00:38:44,000
+so I wouldn't predict that because AI shows up,
+
+715
+00:38:44,000 --> 00:38:46,000
+that means they aren't grabby.
+
+716
+00:38:46,000 --> 00:38:48,000
+I would predict more of the opposite.
+
+717
+00:38:48,000 --> 00:38:51,000
+That's all going to more predict that they will become grabby sooner and faster.
+
+718
+00:38:51,000 --> 00:38:52,000
+Or less so.
+
+719
+00:38:52,000 --> 00:38:55,000
+If you have just one overarching artificial intelligence
+
+720
+00:38:55,000 --> 00:38:57,000
+that says nothing's becoming grabby,
+
+721
+00:38:57,000 --> 00:39:02,000
+there's your ability to not have that extra...
+
+722
+00:39:02,000 --> 00:39:06,000
+If you have a correlation between degree of central control
+
+723
+00:39:06,000 --> 00:39:08,000
+and how artificial they are,
+
+724
+00:39:08,000 --> 00:39:11,000
+but I don't see a particular reason to expect that correlation.
+
+725
+00:39:11,000 --> 00:39:13,000
+I think humans can be centrally controlled,
+
+726
+00:39:13,000 --> 00:39:16,000
+and so can machines, and it's about the same for both.
+
+727
+00:39:16,000 --> 00:39:20,000
+Now, my last question for you before we go is the question of UAP.
+
+728
+00:39:20,000 --> 00:39:23,000
+I know you've been speaking on that, and I'm intrigued by it,
+
+729
+00:39:23,000 --> 00:39:25,000
+but don't quite know, you know, what to think.
+
+730
+00:39:25,000 --> 00:39:27,000
+I'm a skeptic by nature.
+
+731
+00:39:27,000 --> 00:39:30,000
+But at the same time, I think I've seen enough now
+
+732
+00:39:30,000 --> 00:39:32,000
+to say that there's something weird going on.
+
+733
+00:39:32,000 --> 00:39:33,000
+What's your view on that?
+
+734
+00:39:33,000 --> 00:39:37,000
+Could that be an example of a weird, subtle example of grabby aliens?
+
+735
+00:39:37,000 --> 00:39:42,000
+So it wouldn't be grabby aliens, but it might be quiet.
+
+736
+00:39:42,000 --> 00:39:46,000
+So first of all, if we say weird stuff is reported,
+
+737
+00:39:46,000 --> 00:39:49,000
+we've got four major classes of explanations here.
+
+738
+00:39:49,000 --> 00:39:52,000
+First class is mistakes and delusions, right?
+
+739
+00:39:52,000 --> 00:39:54,000
+There's just nothing, and people are just screwed up
+
+740
+00:39:54,000 --> 00:39:57,000
+and messy and messed up, and that happens, right?
+
+741
+00:39:57,000 --> 00:40:01,000
+Second major category of explanation is hoaxes and lies, right?
+
+742
+00:40:01,000 --> 00:40:05,000
+People are purposely misleading us, and for whatever reason,
+
+743
+00:40:05,000 --> 00:40:07,000
+they want us to believe these things, but they're just not there.
+
+744
+00:40:07,000 --> 00:40:08,000
+They're making them up.
+
+745
+00:40:08,000 --> 00:40:12,000
+Fourth is, okay, this is real, and these are real things,
+
+746
+00:40:12,000 --> 00:40:14,000
+and they really have powerful abilities,
+
+747
+00:40:14,000 --> 00:40:17,000
+and it's some sort of hidden earth organization somewhere
+
+748
+00:40:17,000 --> 00:40:20,000
+that has much more abilities than they've ever owned up to,
+
+749
+00:40:20,000 --> 00:40:23,000
+and for some reason, they're letting it leak that they have it in some way,
+
+750
+00:40:23,000 --> 00:40:25,000
+and you're trying to guess who they could be and why.
+
+751
+00:40:25,000 --> 00:40:29,000
+And the fourth category is, it's a hidden non-earth organization,
+
+752
+00:40:29,000 --> 00:40:31,000
+i.e. aliens, right?
+
+753
+00:40:31,000 --> 00:40:34,000
+Those are the four categories of explanation you've got to come up with now.
+
+754
+00:40:34,000 --> 00:40:37,000
+There's two things you need to do in an analysis like this.
+
+755
+00:40:37,000 --> 00:40:41,000
+We call a Bayesian analysis a way to draw a conclusion,
+
+756
+00:40:41,000 --> 00:40:44,000
+or we'll call it posterior, or beliefs after we've considered the evidence,
+
+757
+00:40:45,000 --> 00:40:47,000
+and there are two contributions to that.
+
+758
+00:40:47,000 --> 00:40:51,000
+One is a prior, just based on other considerations before you see the evidence.
+
+759
+00:40:51,000 --> 00:40:54,000
+What are the relative chances of the different hypotheses?
+
+760
+00:40:54,000 --> 00:40:56,000
+And the second is a likelihood.
+
+761
+00:40:56,000 --> 00:41:00,000
+Given each hypothesis, how well does that explain the data you see?
+
+762
+00:41:00,000 --> 00:41:05,000
+In this space, on the likelihood, I don't feel I'm very expert.
+
+763
+00:41:05,000 --> 00:41:07,000
+The comment I would make is just,
+
+764
+00:41:07,000 --> 00:41:11,000
+the delusion hypothesis doesn't seem to work very well for me.
+
+765
+00:41:11,000 --> 00:41:15,000
+That is, it's really hard to believe that the most extreme cases here are honest mistakes.
+
+766
+00:41:15,000 --> 00:41:17,000
+I could believe a hoax.
+
+767
+00:41:17,000 --> 00:41:20,000
+It's harder to believe an honest mistake for the most dramatic cases here.
+
+768
+00:41:20,000 --> 00:41:24,000
+But otherwise, I'm not an expert in all the very particular of the reports.
+
+769
+00:41:24,000 --> 00:41:28,000
+But what I am an expert in from this Grabby Aliens work is some of the priors.
+
+770
+00:41:28,000 --> 00:41:30,000
+In particular, the aliens prior.
+
+771
+00:41:30,000 --> 00:41:33,000
+So some people look at these reports and they say,
+
+772
+00:41:33,000 --> 00:41:36,000
+it's so crazy unlikely that this could possibly be aliens
+
+773
+00:41:36,000 --> 00:41:38,000
+that I don't care what you show me.
+
+774
+00:41:39,000 --> 00:41:41,000
+Because it just couldn't be this, right?
+
+775
+00:41:41,000 --> 00:41:44,000
+And yes, if you have a prior that's really, really low, that's what you should do.
+
+776
+00:41:44,000 --> 00:41:48,000
+You should say, you know, you claim these are angels and I say angels are crazy.
+
+777
+00:41:48,000 --> 00:41:50,000
+Angels don't happen. Angels are not a thing.
+
+778
+00:41:50,000 --> 00:41:53,000
+And so I'm just going to dismiss your reports of angels, right?
+
+779
+00:41:53,000 --> 00:41:56,000
+But the question is, okay, but how high is the prior?
+
+780
+00:41:56,000 --> 00:41:57,000
+Is it crazy low or not?
+
+781
+00:41:57,000 --> 00:42:01,000
+So that's what I can address through this analysis of aliens.
+
+782
+00:42:01,000 --> 00:42:04,000
+I have to say, okay, they can't be the simple independent Grabby Aliens, right?
+
+783
+00:42:04,000 --> 00:42:05,000
+Those are once per million galaxies.
+
+784
+00:42:05,000 --> 00:42:06,000
+There's very little chance they would be here.
+
+785
+00:42:06,000 --> 00:42:08,000
+That's crazy unlikely, right?
+
+786
+00:42:08,000 --> 00:42:09,000
+That they're here.
+
+787
+00:42:09,000 --> 00:42:12,000
+But we go with this Penns Bermia sibling story we were talking about before.
+
+788
+00:42:12,000 --> 00:42:17,000
+I go, okay, what's the chance that, you know, we arose from Penns Bermia?
+
+789
+00:42:17,000 --> 00:42:19,000
+You know, one in 10 or one in 100.
+
+790
+00:42:19,000 --> 00:42:25,000
+What's the chance that that's, you know, spread life to other planets besides ours?
+
+791
+00:42:25,000 --> 00:42:26,000
+That's pretty high.
+
+792
+00:42:26,000 --> 00:42:29,000
+What's the chance that one of those got to our level before us?
+
+793
+00:42:29,000 --> 00:42:30,000
+Maybe a third.
+
+794
+00:42:31,000 --> 00:42:37,000
+And what's the chance then that this alien civilization now does all the weird stuff
+
+795
+00:42:37,000 --> 00:42:41,000
+that we have to postulate to explain the rest of what we see?
+
+796
+00:42:41,000 --> 00:42:42,000
+So what's the weird stuff?
+
+797
+00:42:42,000 --> 00:42:45,000
+So one part of the weird stuff is, look, they didn't take over the universe.
+
+798
+00:42:45,000 --> 00:42:46,000
+They didn't take over the galaxy.
+
+799
+00:42:46,000 --> 00:42:47,000
+It's all empty out there, right?
+
+800
+00:42:47,000 --> 00:42:51,000
+So we have to postulate this rule they had that they enforced against expansion.
+
+801
+00:42:51,000 --> 00:42:52,000
+What's the chance of that?
+
+802
+00:42:52,000 --> 00:42:53,000
+I don't know. Maybe another one.
+
+803
+00:42:53,000 --> 00:42:54,000
+Third.
+
+804
+00:42:54,000 --> 00:42:58,000
+Now we have to say, okay, and that gives us a reason why they'd be here.
+
+805
+00:42:58,000 --> 00:42:59,000
+Okay, we don't need to postulate much there.
+
+806
+00:42:59,000 --> 00:43:00,000
+Okay, they have this rule against expansion.
+
+807
+00:43:00,000 --> 00:43:02,000
+They see us out there away.
+
+808
+00:43:02,000 --> 00:43:04,000
+They see that we might violate their rule.
+
+809
+00:43:04,000 --> 00:43:07,000
+So they'd have to make an exception from the usual no expansion thing
+
+810
+00:43:07,000 --> 00:43:11,000
+to send an expedition here to what convinced us to follow the rule.
+
+811
+00:43:11,000 --> 00:43:13,000
+We'll have to postulate they didn't want to just kill us.
+
+812
+00:43:13,000 --> 00:43:16,000
+That doesn't, you know, that doesn't seem terribly unlikely.
+
+813
+00:43:16,000 --> 00:43:18,000
+I'll give that a two-thirds chance.
+
+814
+00:43:18,000 --> 00:43:19,000
+They didn't want to kill us.
+
+815
+00:43:19,000 --> 00:43:22,000
+And so they're here to persuade us not to violate the rule.
+
+816
+00:43:22,000 --> 00:43:26,000
+Okay, but we haven't explained everything yet that we need to,
+
+817
+00:43:26,000 --> 00:43:30,000
+because when they're here, okay, if the UFOs that we see are aliens,
+
+818
+00:43:30,000 --> 00:43:31,000
+then there's something weird about them.
+
+819
+00:43:31,000 --> 00:43:32,000
+The following thing.
+
+820
+00:43:32,000 --> 00:43:35,000
+A civilization a hundred million years more advanced than us
+
+821
+00:43:35,000 --> 00:43:38,000
+could either be completely visible.
+
+822
+00:43:38,000 --> 00:43:39,000
+They can make themselves really obvious.
+
+823
+00:43:39,000 --> 00:43:42,000
+They wouldn't have to, like, be at their edge of visibility.
+
+824
+00:43:42,000 --> 00:43:44,000
+They could just, you know, show up and slap us in the face or whatever
+
+825
+00:43:44,000 --> 00:43:46,000
+and just make it really obvious they're here.
+
+826
+00:43:46,000 --> 00:43:48,000
+Or they could be completely invisible.
+
+827
+00:43:48,000 --> 00:43:51,000
+There's no reason in order to see anything they wanted to see here
+
+828
+00:43:51,000 --> 00:43:54,000
+that they would ever have to make us notice it, right?
+
+829
+00:43:54,000 --> 00:43:56,000
+Those would be both completely within their abilities
+
+830
+00:43:56,000 --> 00:43:59,000
+of a hundred million year more advanced civilization than us, right?
+
+831
+00:43:59,000 --> 00:44:02,000
+And then apparently they're not doing either of those things.
+
+832
+00:44:02,000 --> 00:44:05,000
+Apparently they're hanging out at the edge of our visibility,
+
+833
+00:44:05,000 --> 00:44:08,000
+let us seeing a few things about them and not much else.
+
+834
+00:44:08,000 --> 00:44:10,000
+Okay, so that's kind of weird.
+
+835
+00:44:10,000 --> 00:44:14,000
+So in order to have a hypothesis to explain this observation,
+
+836
+00:44:14,000 --> 00:44:17,000
+we're going to have to add something to the scenario to make that make sense.
+
+837
+00:44:17,000 --> 00:44:19,000
+So again, they're here.
+
+838
+00:44:19,000 --> 00:44:21,000
+They're trying to convince us to follow the rule.
+
+839
+00:44:21,000 --> 00:44:22,000
+And they're doing this weird thing.
+
+840
+00:44:22,000 --> 00:44:25,000
+So what story can I come up with there?
+
+841
+00:44:25,000 --> 00:44:28,000
+And I've got to give it, you know, prior one and third or something to that.
+
+842
+00:44:28,000 --> 00:44:33,000
+And my story is going to be, well, they're one to domesticate us.
+
+843
+00:44:33,000 --> 00:44:35,000
+How do we domesticate other animals?
+
+844
+00:44:35,000 --> 00:44:38,000
+Most animals have a status hierarchy who are social animals.
+
+845
+00:44:38,000 --> 00:44:42,000
+The way to domesticate a social animal is to sit at the top of the status hierarchy,
+
+846
+00:44:42,000 --> 00:44:44,000
+to be the top dog, top horse, whatever it is.
+
+847
+00:44:44,000 --> 00:44:46,000
+You have to show you're stronger, more powerful,
+
+848
+00:44:46,000 --> 00:44:50,000
+more impressive than them and peaceful enough that they can go along with you.
+
+849
+00:44:50,000 --> 00:44:53,000
+That's how we domesticate animals and how we domesticate ourselves.
+
+850
+00:44:53,000 --> 00:44:55,000
+Humans have domesticated themselves.
+
+851
+00:44:55,000 --> 00:44:57,000
+Rulers, empires, domesticate humans.
+
+852
+00:44:57,000 --> 00:44:58,000
+And they do it the same way.
+
+853
+00:44:58,000 --> 00:45:00,000
+They sit at the top of the status hierarchy.
+
+854
+00:45:00,000 --> 00:45:05,000
+The emperor sits on his throne, big temple, his great crown, his great army.
+
+855
+00:45:05,000 --> 00:45:08,000
+And you say, yeah, he's top dog. Yep.
+
+856
+00:45:08,000 --> 00:45:10,000
+I'm going to follow this guy. Right?
+
+857
+00:45:10,000 --> 00:45:11,000
+So that's their plan.
+
+858
+00:45:11,000 --> 00:45:15,000
+The plan is to be here and domesticate us.
+
+859
+00:45:15,000 --> 00:45:17,000
+How? By being really impressive,
+
+860
+00:45:17,000 --> 00:45:21,000
+showing that they're really much better, more impressive than the rest of us,
+
+861
+00:45:21,000 --> 00:45:25,000
+being here, not somewhere else, and being pretty, you know, and being relatively peaceful.
+
+862
+00:45:25,000 --> 00:45:28,000
+Not hurting us too much. Right?
+
+863
+00:45:28,000 --> 00:45:32,000
+Okay. But you might say, well, couldn't they do that by just, you know, being really obvious?
+
+864
+00:45:32,000 --> 00:45:35,000
+That would seem to make sense, except now, let's think about it.
+
+865
+00:45:35,000 --> 00:45:41,000
+We already know that humans can hate other humans for really small differences.
+
+866
+00:45:41,000 --> 00:45:44,000
+Other humans around the world who are almost exactly like us,
+
+867
+00:45:44,000 --> 00:45:46,000
+we pick some small little thing and then we get really mad about that.
+
+868
+00:45:46,000 --> 00:45:48,000
+And then we hate them when we fight wars. Right?
+
+869
+00:45:48,000 --> 00:45:53,000
+So that's a problem because these are really actually aliens.
+
+870
+00:45:53,000 --> 00:45:55,000
+They are actually very different from us.
+
+871
+00:45:55,000 --> 00:45:59,000
+And no doubt, if they just showed everything about us, we'd find something we hate.
+
+872
+00:45:59,000 --> 00:46:01,000
+Maybe they eat babies like it's not a deal for them.
+
+873
+00:46:01,000 --> 00:46:03,000
+It's kind of cute, but we hate eating babies.
+
+874
+00:46:03,000 --> 00:46:08,000
+So, you know, there's just no way that they could domesticate us if they if we knew they ate babies.
+
+875
+00:46:08,000 --> 00:46:14,000
+So the strategy of domesticating us, it has an obstacle they can't reveal very much about themselves.
+
+876
+00:46:15,000 --> 00:46:19,000
+They have to be pretty much just at the edge of our visibility, impressive.
+
+877
+00:46:19,000 --> 00:46:23,000
+They have to convince us they're there, or they're peaceful, but they can't say very much.
+
+878
+00:46:23,000 --> 00:46:24,000
+So that's what they've done.
+
+879
+00:46:24,000 --> 00:46:28,000
+You might say, well, what about like the whole agenda of like not wanting to expand?
+
+880
+00:46:28,000 --> 00:46:31,000
+Shouldn't they have to explain that to us? And no, they don't.
+
+881
+00:46:31,000 --> 00:46:34,000
+We can figure that out. We just did.
+
+882
+00:46:34,000 --> 00:46:36,000
+That's the obvious reason why they'd be here.
+
+883
+00:46:36,000 --> 00:46:39,000
+Look, there's the empty universe. They obviously didn't take it.
+
+884
+00:46:39,000 --> 00:46:42,000
+Here they are. So why would they be here and not have gone anywhere else?
+
+885
+00:46:42,000 --> 00:46:45,000
+Well, apparently they don't want us to go anywhere else either.
+
+886
+00:46:45,000 --> 00:46:47,000
+So that would be the story.
+
+887
+00:46:47,000 --> 00:46:51,000
+So, again, my challenge here was to come up with my best explanation,
+
+888
+00:46:51,000 --> 00:46:55,000
+given everything I know about the universe, of how we would make sense of UFO sales.
+
+889
+00:46:55,000 --> 00:46:56,000
+I'm not saying they are.
+
+890
+00:46:56,000 --> 00:47:00,000
+I'm saying that's part of the analysis task we have to do in order to consider the evidence.
+
+891
+00:47:00,000 --> 00:47:05,000
+So I say the prior here is maybe one in a thousand, one in ten thousand.
+
+892
+00:47:05,000 --> 00:47:10,000
+That means, you know, if you had no evidence, you would think that's pretty unlikely, right?
+
+893
+00:47:10,000 --> 00:47:13,000
+But if you have some evidence, you've got to look at it.
+
+894
+00:47:13,000 --> 00:47:14,000
+So think of a murder trial.
+
+895
+00:47:14,000 --> 00:47:17,000
+Like, when somebody accuses somebody of murder, we have a trial.
+
+896
+00:47:17,000 --> 00:47:19,000
+Now, you could say, what's the prior probability of a murder?
+
+897
+00:47:19,000 --> 00:47:23,000
+We'd say, OK, look, roughly one in a thousand people, when they die, are murdered. OK?
+
+898
+00:47:23,000 --> 00:47:27,000
+And each person, if they're murdered, has maybe a thousand people around them who might have done it.
+
+899
+00:47:27,000 --> 00:47:31,000
+So for any one of them, the prior is it's one in a million.
+
+900
+00:47:31,000 --> 00:47:37,000
+We still allow a murder trial because ordinary evidence is quite capable of overcoming a one in a million prior.
+
+901
+00:47:37,000 --> 00:47:39,000
+That's what happens in murder trials.
+
+902
+00:47:39,000 --> 00:47:43,000
+Of course, the very fact that they're accused already raises your estimate.
+
+903
+00:47:43,000 --> 00:47:45,000
+But that's not supposed to be enough.
+
+904
+00:47:45,000 --> 00:47:51,000
+You're supposed to actually look at the evidence in addition to the accusation to verify that, in fact, there was a good reason to accuse them of murder.
+
+905
+00:47:51,000 --> 00:47:53,000
+There was actually evidence to support it.
+
+906
+00:47:53,000 --> 00:47:59,000
+So you look at the evidence, you see that's enough, you convict, because evidence can quite commonly overcome a one in a million prior.
+
+907
+00:47:59,000 --> 00:48:01,000
+So this is a one in a thousand, one in ten thousand prior.
+
+908
+00:48:01,000 --> 00:48:04,000
+Yeah, evidence can overcome that.
+
+909
+00:48:04,000 --> 00:48:08,000
+You have to look at it, consider it carefully, consider the other possible hypotheses.
+
+910
+00:48:08,000 --> 00:48:09,000
+But yeah, it's possible.
+
+911
+00:48:09,000 --> 00:48:12,000
+So the answer is that's what you got to do here.
+
+912
+00:48:12,000 --> 00:48:13,000
+You got to look at the evidence.
+
+913
+00:48:13,000 --> 00:48:14,000
+You got to take it seriously.
+
+914
+00:48:14,000 --> 00:48:17,000
+You can't just wave your hands and say, that's crazy.
+
+915
+00:48:17,000 --> 00:48:20,000
+But you'd also don't just embrace it just because somebody's claiming it.
+
+916
+00:48:20,000 --> 00:48:22,000
+I mean, you have to look at the evidence.
+
+917
+00:48:22,000 --> 00:48:27,000
+Well, I think that I think the problem is the evidence that it's not overwhelming at this point yet.
+
+918
+00:48:27,000 --> 00:48:32,000
+Maybe it will be with, you know, collect data collection and things like that, which there are pushes for.
+
+919
+00:48:33,000 --> 00:48:40,000
+But at this point, I don't know that we have that that huge data set that we would need to actually say that we have evidence.
+
+920
+00:48:40,000 --> 00:48:44,000
+We just have a potential, I think.
+
+921
+00:48:44,000 --> 00:48:45,000
+What do you think on that?
+
+922
+00:48:45,000 --> 00:48:48,000
+Well, I mean, I've read some books and watched some documentaries.
+
+923
+00:48:48,000 --> 00:48:54,000
+And if we look at the dozen or so most often mentioned cases, there's a lot going on there.
+
+924
+00:48:54,000 --> 00:48:59,000
+You know, like take the Nimitz case, the U.S. Navy, you know, a lot of different kinds of instruments.
+
+925
+00:48:59,000 --> 00:49:03,000
+They're being used to measure a lot of different people, a lot of different angles.
+
+926
+00:49:03,000 --> 00:49:05,000
+You know, you've got a lot of confirmation there.
+
+927
+00:49:05,000 --> 00:49:09,000
+So it's hard to say that one guy was drunk or he misremembered.
+
+928
+00:49:09,000 --> 00:49:11,000
+And that doesn't only work for these things, right?
+
+929
+00:49:11,000 --> 00:49:13,000
+There's something more going on there.
+
+930
+00:49:13,000 --> 00:49:15,000
+You got to you got to pay attention.
+
+931
+00:49:15,000 --> 00:49:18,000
+So there's a bunch of these things where that's it's weird.
+
+932
+00:49:18,000 --> 00:49:19,000
+And there's a lot going on.
+
+933
+00:49:19,000 --> 00:49:24,000
+And maybe if you dig in, you'll eventually get, you know, so again, it's about how skeptical you're going to be.
+
+934
+00:49:24,000 --> 00:49:29,000
+If you're really going to insist and you haven't proved it yet because you basically have a very strong reluctance.
+
+935
+00:49:29,000 --> 00:49:31,000
+Believe it's like setting a really low prior.
+
+936
+00:49:31,000 --> 00:49:35,000
+If you're willing to do that, then, yeah, I mean, almost everything anybody tries to convince you of.
+
+937
+00:49:35,000 --> 00:49:41,000
+You cannot believe if you you try hard enough to say, how do I know that wasn't a camera there?
+
+938
+00:49:41,000 --> 00:49:42,000
+How do I know this guy didn't lie?
+
+939
+00:49:42,000 --> 00:49:45,000
+Or how do I know you didn't swap that when I turn my head?
+
+940
+00:49:45,000 --> 00:49:49,000
+Yeah, it's really hard to prove stuff when you're that skeptical.
+
+941
+00:49:49,000 --> 00:49:51,000
+But I don't think you should be that skeptical.
+
+942
+00:49:51,000 --> 00:49:54,000
+You should be skeptical according to the prior you can calculate.
+
+943
+00:49:54,000 --> 00:49:56,000
+That's what I calculated.
+
+944
+00:49:56,000 --> 00:49:58,000
+It does seem to be there.
+
+945
+00:49:58,000 --> 00:49:59,000
+A fairly decent chance.
+
+946
+00:49:59,000 --> 00:50:04,000
+You know, not the greatest chance, but a fairly decent chance that maybe that's what we're saying.
+
+947
+00:50:04,000 --> 00:50:11,000
+But then you get back into grab the aliens and start trying to figure out exactly what they're doing and why.
+
+948
+00:50:11,000 --> 00:50:17,000
+That's why it's nice to have your best explanation, because then if you believe it, that tells you a whole bunch of other things.
+
+949
+00:50:17,000 --> 00:50:19,000
+You say, oh, well, it's not just some strange alien.
+
+950
+00:50:19,000 --> 00:50:24,000
+We know roughly where they came from and why they're here, what their agenda is.
+
+951
+00:50:24,000 --> 00:50:26,000
+That's knowing a lot.
+
+952
+00:50:26,000 --> 00:50:31,000
+Well, at least it's comforting that even if it's one out of every 100 million galaxies,
+
+953
+00:50:31,000 --> 00:50:38,000
+at least we can say, given the sheer size of everything, that there's there's somebody else out there or was or will be.
+
+954
+00:50:38,000 --> 00:50:40,000
+And that we probably weren't alone.
+
+955
+00:50:40,000 --> 00:50:41,000
+We'll just never know it.
+
+956
+00:50:41,000 --> 00:50:45,000
+But I find that, you know, not for another billion years.
+
+957
+00:50:45,000 --> 00:50:47,000
+All right, Robin Hanson, thank you for joining us today.
+
+958
+00:50:47,000 --> 00:50:49,000
+And I look forward to the next billion years.
+
+959
+00:50:49,000 --> 00:50:53,000
+I intend to still be here for another billion years.
+
+960
+00:50:53,000 --> 00:50:57,000
+I look forward to further work and grab the aliens and any other ideas you come up with.
+
+961
+00:50:57,000 --> 00:51:00,000
+And I hope you'll join us again when you do.
+
+962
+00:51:00,000 --> 00:51:02,000
+Me too.
+
+963
+00:51:02,000 --> 00:51:04,000
+Previously on Event Horizon.
+
+964
+00:51:04,000 --> 00:51:06,000
+It's a possum convention.
+
+965
+00:51:06,000 --> 00:51:08,000
+And now the continuation.
+
+966
+00:51:09,000 --> 00:51:16,000
+Well, this sci-fi convention was nice and all, but including Sprocket's potluck food competition,
+
+967
+00:51:16,000 --> 00:51:24,000
+in which he was both the judge and the winner, though admittedly the pinecone salad was surprisingly good.
+
+968
+00:51:24,000 --> 00:51:26,000
+But I think it's time to head home, Anna.
+
+969
+00:51:26,000 --> 00:51:30,000
+I think I've had enough possum interaction for one week.
+
+970
+00:51:30,000 --> 00:51:34,000
+Well, John, when you're done with the exposition, look, you have a fan.
+
+971
+00:51:34,000 --> 00:51:37,000
+As in, an actual one.
+
+972
+00:51:37,000 --> 00:51:39,000
+A fan?
+
+973
+00:51:39,000 --> 00:51:41,000
+Oh, must have read my books.
+
+974
+00:51:41,000 --> 00:51:43,000
+They want me to sign something, don't they?
+
+975
+00:51:43,000 --> 00:51:44,000
+Gladly.
+
+976
+00:51:44,000 --> 00:51:45,000
+Wait a minute.
+
+977
+00:51:45,000 --> 00:51:49,000
+It's a possum dressed up as a Klingon holding a batlet.
+
+978
+00:51:49,000 --> 00:51:54,000
+Wait, that, that possum just said Kapla and is coming at me.
+
+979
+00:51:54,000 --> 00:51:56,000
+Anna, do something.
+
+980
+00:51:56,000 --> 00:51:59,000
+It's just a blood feud between his clan and yours.
+
+981
+00:51:59,000 --> 00:52:01,000
+You'll have to satisfy it.
+
+982
+00:52:01,000 --> 00:52:03,000
+What? Hey!
+
+983
+00:52:03,000 --> 00:52:05,000
+What? Hey, what? What?
+
+984
+00:52:05,000 --> 00:52:08,000
+Wait a minute.
+
+985
+00:52:08,000 --> 00:52:11,000
+Well, cops are here.
+
+986
+00:52:11,000 --> 00:52:14,000
+It's possums dressed as cops.
+
+987
+00:52:14,000 --> 00:52:16,000
+Anna!
+
+988
+00:52:16,000 --> 00:52:19,000
+Can you please do something about this?
+
+989
+00:52:35,000 --> 00:52:37,000
+You
+

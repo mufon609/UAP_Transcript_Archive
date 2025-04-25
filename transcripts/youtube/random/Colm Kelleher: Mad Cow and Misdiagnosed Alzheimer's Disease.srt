@@ -1,0 +1,1948 @@
+1
+00:00:00,000 --> 00:00:06,000
+We are talking today with Colm Kelleher. He is the author of the new book Brain Trust,
+
+2
+00:00:06,000 --> 00:00:11,000
+The Hidden Connection Between Mad Cow and Misdiagnosed Alzheimer's Disease.
+
+3
+00:00:11,000 --> 00:00:12,500
+Colm, thanks for coming in today.
+
+4
+00:00:12,500 --> 00:00:14,000
+Good to be here.
+
+5
+00:00:14,000 --> 00:00:19,000
+Start out and tell us, what was the motivation in writing your book Brain Trust?
+
+6
+00:00:19,000 --> 00:00:25,000
+Well, my motivation really arose from several fronts.
+
+7
+00:00:25,000 --> 00:00:35,000
+As a long-time research biochemist, I've always been interested in the underlying causes behind these mysterious brain diseases.
+
+8
+00:00:35,000 --> 00:00:41,000
+And the underlying cause is a very strange protein called a prion.
+
+9
+00:00:41,000 --> 00:00:48,000
+Now, if you're looking at it from a scientific point of view, prions break all the rules, or prions as they're also called.
+
+10
+00:00:48,000 --> 00:00:54,000
+They break all of the rules. They're not like viruses, they're not like bacteria.
+
+11
+00:00:54,000 --> 00:01:02,000
+They're almost indestructible. They are very difficult to kill, but yet they seem to behave like infectious organisms.
+
+12
+00:01:02,000 --> 00:01:05,000
+So that really got my attention.
+
+13
+00:01:05,000 --> 00:01:12,000
+And the second thing that really got my attention was a study done from Yale University in the last few years,
+
+14
+00:01:12,000 --> 00:01:20,000
+and the University of Pittsburgh, in which they went into the autopsy banks of Alzheimer's disease patients,
+
+15
+00:01:20,000 --> 00:01:27,000
+people who had died of Alzheimer's, and they looked at their brains and they found that their brains were not,
+
+16
+00:01:27,000 --> 00:01:35,000
+5% or 10% of these brains were not actually Alzheimer's disease.
+
+17
+00:01:35,000 --> 00:01:46,000
+They had died of a totally separate disease called CJD, Christophel Jakob disease, which has ties to mad cow disease.
+
+18
+00:01:46,000 --> 00:01:57,000
+Now, the reason that's important is because it strongly implies that the numbers of CJD cases in the United States
+
+19
+00:01:57,000 --> 00:02:01,000
+is dramatically underestimated by the health authorities.
+
+20
+00:02:01,000 --> 00:02:09,000
+Usually, if the health authorities ever talk about this, they usually talk in terms of one in a million cases, very, very rare disease.
+
+21
+00:02:10,000 --> 00:02:19,000
+But these studies from Yale University, University of Pittsburgh, documenting about 5% to 10% of Alzheimer's disease patients
+
+22
+00:02:19,000 --> 00:02:23,000
+are actually misdiagnosed and that they're really CJD.
+
+23
+00:02:23,000 --> 00:02:31,000
+Currently, we have between 4 and 5 million Alzheimer's patients in the United States. It is an epidemic.
+
+24
+00:02:32,000 --> 00:02:44,000
+Alzheimer's disease has increased dramatically since the late 1970s by a factor of about 9,000%, which is an unbelievable number.
+
+25
+00:02:44,000 --> 00:02:51,000
+So if you look at even a tiny fraction of those Alzheimer's disease patients,
+
+26
+00:02:51,000 --> 00:02:59,000
+maybe even if you take a low number like 2% or 1% that are misdiagnosed and they're really CJD patients,
+
+27
+00:02:59,000 --> 00:03:03,000
+that is still an enormous number of CJD cases.
+
+28
+00:03:03,000 --> 00:03:09,000
+Now, the other issue that I found that motivated me to write the book is that I discovered that CJD
+
+29
+00:03:09,000 --> 00:03:15,000
+is not a mandatory reportable disease in the United States, in most of the states in the country.
+
+30
+00:03:15,000 --> 00:03:22,000
+So that's another reason for saying that the number of cases in CJD in the United States is simply not known.
+
+31
+00:03:22,000 --> 00:03:28,000
+And that has other implications for possibilities of numbers.
+
+32
+00:03:28,000 --> 00:03:39,000
+And the more numbers that are discovered for CJD, the less likely it is that these diseases arise randomly,
+
+33
+00:03:39,000 --> 00:03:47,000
+which is that CJD in the United States is mostly a variant called sporadic CJD,
+
+34
+00:03:47,000 --> 00:03:55,000
+which the CDC and the USDA, that's the Center for Disease Control and the United States Department of Agriculture,
+
+35
+00:03:55,000 --> 00:04:02,000
+routinely dismiss as having nothing to do with eating tainted beef.
+
+36
+00:04:02,000 --> 00:04:11,000
+Well, there's evidence that's coming out in the scientific literature, which has been buried really in obscure journals,
+
+37
+00:04:11,000 --> 00:04:17,000
+rarely sees the light of day in the media, which are definitely questioning that premise.
+
+38
+00:04:17,000 --> 00:04:24,000
+In other words, they're questioning the idea that mad cow disease and sporadic CJD are not connected.
+
+39
+00:04:24,000 --> 00:04:29,000
+They're suggesting that there may be a connection between BSE and sporadic CJD.
+
+40
+00:04:29,000 --> 00:04:37,000
+So if you tie all those things together, you've got a potentially much larger number of CJD patients in the United States.
+
+41
+00:04:37,000 --> 00:04:41,000
+You've got a potential linkage between BSE and sporadic CJD.
+
+42
+00:04:41,000 --> 00:04:49,000
+And then you've got this large number that are buried in this Alzheimer's disease epidemic in the United States.
+
+43
+00:04:49,000 --> 00:04:56,000
+Then I think this sort of aura of complacency in the United States that has happened
+
+44
+00:04:56,000 --> 00:05:02,000
+since the first case of mad cow disease was announced in Washington a year ago may be unwarranted.
+
+45
+00:05:02,000 --> 00:05:05,000
+This sense of complacency may be unwarranted.
+
+46
+00:05:05,000 --> 00:05:11,000
+Talk a bit about why our system wouldn't discover people having CJD.
+
+47
+00:05:11,000 --> 00:05:21,000
+The real definitive way of discovering whether somebody has CJD, unfortunately, is waiting for them to die,
+
+48
+00:05:21,000 --> 00:05:28,000
+doing an autopsy on their brain, and looking at the pathology of the disease under the microscope.
+
+49
+00:05:29,000 --> 00:05:37,000
+A recent survey of pathologists in California came out just in the last six weeks
+
+50
+00:05:37,000 --> 00:05:47,000
+showed that over 70% of pathologists in California have a strong aversion to doing any autopsies on CJD patients.
+
+51
+00:05:47,000 --> 00:05:49,000
+And why is that?
+
+52
+00:05:49,000 --> 00:05:56,000
+Because the infectious organisms associated with, or infectious entities, prions associated with CJD
+
+53
+00:05:56,000 --> 00:06:04,000
+are not destroyed by the usual sterilization methods that are used to treat surgical instruments.
+
+54
+00:06:04,000 --> 00:06:11,000
+So it has already been shown that surgical instruments will transmit the disease to other people,
+
+55
+00:06:11,000 --> 00:06:16,000
+and other people have died because contaminated surgical instruments have been used.
+
+56
+00:06:16,000 --> 00:06:25,000
+70% of the pathologists in California do not want to contaminate their surgical instruments or their facilities with CJD.
+
+57
+00:06:25,000 --> 00:06:36,000
+So that is one reason why there has not been a rush to increase the numbers of autopsies
+
+58
+00:06:36,000 --> 00:06:40,000
+in order to define the number of CJD patients.
+
+59
+00:06:40,000 --> 00:06:45,000
+At the state level, the disease is not mandatory reportable.
+
+60
+00:06:45,000 --> 00:06:57,000
+So if a CJD patient is discovered in a rural locale outside the university research hospital system,
+
+61
+00:06:57,000 --> 00:07:05,000
+chances that a primary physician will diagnose CJD versus dementia, versus Alzheimer's disease,
+
+62
+00:07:05,000 --> 00:07:11,000
+is fairly low because CJD has not had a lot of press, medical press or media press.
+
+63
+00:07:11,000 --> 00:07:20,000
+So there's a tendency to lump these initial diagnoses into sort of a catch-all that includes dementia and Alzheimer's disease.
+
+64
+00:07:20,000 --> 00:07:26,000
+So therefore, a lot of these CJD cases would be dropping through the cracks.
+
+65
+00:07:26,000 --> 00:07:37,000
+Now the other issue is in the United Kingdom and in Europe, mad cow disease had a dramatic effect
+
+66
+00:07:37,000 --> 00:07:44,000
+right across the board, both on the health of people as well as on the economics of the beef industry over there.
+
+67
+00:07:44,000 --> 00:07:52,000
+The people in the United States have looked across the Atlantic and have seen the devastation that has happened across the Atlantic.
+
+68
+00:07:52,000 --> 00:08:00,000
+And I would wager that there's many, many people at the CDC and the USDA who do not want to see a repeat
+
+69
+00:08:00,000 --> 00:08:11,000
+of what happened over in the United Kingdom and in Europe with over a million cows slaughtered to prevent spread of mad cow disease,
+
+70
+00:08:11,000 --> 00:08:20,000
+150 young people, teenagers in their 20s and counting dead from a human variant of mad cow disease.
+
+71
+00:08:20,000 --> 00:08:28,000
+So I think there's a strong kind of selection in the health authorities and in the agricultural authorities
+
+72
+00:08:28,000 --> 00:08:33,000
+to try to downplay the seriousness of these diseases.
+
+73
+00:08:33,000 --> 00:08:38,000
+I think the American population tends to look at these as specifically a European problem.
+
+74
+00:08:38,000 --> 00:08:41,000
+It has nothing to do with what's going on in the United States.
+
+75
+00:08:41,000 --> 00:08:48,000
+And my book, you know, another motivation for my book is to argue that that is not the case.
+
+76
+00:08:48,000 --> 00:08:57,000
+Well, I think one can understand how the USDA, which is more a front organization for the beef industry,
+
+77
+00:08:57,000 --> 00:09:03,000
+would not be so concerned with repeating what happened in the UK.
+
+78
+00:09:03,000 --> 00:09:09,000
+But you'd expect the CDC, which you have the impression that it's concerned with the health
+
+79
+00:09:09,000 --> 00:09:15,000
+and well-being of the citizens of this country, to be a little more on the ball on this.
+
+80
+00:09:15,000 --> 00:09:17,000
+Yeah, that's a very good point.
+
+81
+00:09:17,000 --> 00:09:25,000
+I think there's a strong drive at the CDC to downplay alarming the public,
+
+82
+00:09:25,000 --> 00:09:30,000
+unless there's data there that are actually beating you over the head.
+
+83
+00:09:30,000 --> 00:09:36,000
+And if you look at the experience of what happened in the United Kingdom,
+
+84
+00:09:36,000 --> 00:09:39,000
+I think you can really draw some very useful lessons.
+
+85
+00:09:39,000 --> 00:09:47,000
+And, you know, in my book, there's a very famous photograph of the agriculture minister,
+
+86
+00:09:47,000 --> 00:09:53,000
+John Gummer and his daughter Cordelia, posing in front of the cameras eating hamburgers.
+
+87
+00:09:53,000 --> 00:09:58,000
+And the purpose of that was to assure the British public that eating beef was safe.
+
+88
+00:09:58,000 --> 00:10:03,000
+And then within a short period of time, the first teenagers started dying of human mad cow disease.
+
+89
+00:10:03,000 --> 00:10:06,000
+Young people in their 20s started dying of human mad cow disease.
+
+90
+00:10:06,000 --> 00:10:10,000
+That was the kind of the attitude in the ministries,
+
+91
+00:10:10,000 --> 00:10:15,000
+both the health ministries and the agriculture ministries over in Britain, is do not alarm the public.
+
+92
+00:10:15,000 --> 00:10:25,000
+Let's continue along this line until we see everything is, you know, all the data are in, so to speak.
+
+93
+00:10:25,000 --> 00:10:30,000
+But in the meantime, you know, there were people dying of mad cow disease.
+
+94
+00:10:30,000 --> 00:10:34,000
+Over in the United States, even in the last nine months,
+
+95
+00:10:34,000 --> 00:10:41,000
+there have been a couple of worrying clusters of sporadic CJD in New York State.
+
+96
+00:10:41,000 --> 00:10:50,000
+It was announced in the last eight weeks that there was about five people had died in a small area in Ulster County in New York State.
+
+97
+00:10:50,000 --> 00:10:54,000
+The Catskills had died in the last few months from sporadic CJD.
+
+98
+00:10:54,000 --> 00:10:57,000
+Nine months ago in New Jersey, the state of New Jersey,
+
+99
+00:10:57,000 --> 00:11:02,000
+there were reports of about 15 people who had died over a period of time.
+
+100
+00:11:03,000 --> 00:11:09,000
+And all of those people had eaten at a single restaurant at a racetrack in New Jersey.
+
+101
+00:11:09,000 --> 00:11:16,000
+The CDC was tasked to go into both of these and to investigate.
+
+102
+00:11:16,000 --> 00:11:20,000
+Immediately, what they said was that these cases were sporadic CJD.
+
+103
+00:11:20,000 --> 00:11:22,000
+They had nothing whatever to do with mad cow disease.
+
+104
+00:11:22,000 --> 00:11:25,000
+They had nothing whatever to do with eating meat.
+
+105
+00:11:25,000 --> 00:11:29,000
+And therefore, they probably were statistical blips.
+
+106
+00:11:29,000 --> 00:11:36,000
+In other words, the number that's usually thrown out is that sporadic CJD is one in a million.
+
+107
+00:11:36,000 --> 00:11:44,000
+So here we have 15 people in New Jersey dying over a couple of years, which is a statistical aberration, to put it mildly.
+
+108
+00:11:44,000 --> 00:11:49,000
+CDC said it had nothing to do with eating tainted meat.
+
+109
+00:11:49,000 --> 00:11:52,000
+Therefore, they weren't going to fully investigate it.
+
+110
+00:11:52,000 --> 00:11:54,000
+It was kind of like a chicken and egg situation.
+
+111
+00:11:54,000 --> 00:11:56,000
+It has nothing to do with eating tainted meat.
+
+112
+00:11:56,000 --> 00:11:57,000
+Therefore, it's not a problem.
+
+113
+00:11:57,000 --> 00:11:59,000
+Therefore, we're not going to fully investigate it.
+
+114
+00:11:59,000 --> 00:12:04,000
+We're not going to go into these premises and check for prion contamination, that kind of thing.
+
+115
+00:12:04,000 --> 00:12:12,000
+Now, interestingly, the data in the science journals started to contradict that a couple of years ago.
+
+116
+00:12:12,000 --> 00:12:17,000
+And all of this research is coming out of London and Europe,
+
+117
+00:12:17,000 --> 00:12:24,000
+where the research into prion diseases for obvious reasons is a lot more sophisticated than it is over here.
+
+118
+00:12:25,000 --> 00:12:35,000
+What they found over in the United Kingdom is that BSE may cause different forms of CJD in humans,
+
+119
+00:12:35,000 --> 00:12:44,000
+not only the so-called variant CJD, which has been unambiguously tied with tainted meat, but also perhaps sporadic CJD.
+
+120
+00:12:44,000 --> 00:12:51,000
+So there's research in the science journals, and the latest research came out less than a week ago,
+
+121
+00:12:52,000 --> 00:13:00,000
+documenting exactly the same thing, that BSE may give rise to different forms of CJD in humans,
+
+122
+00:13:00,000 --> 00:13:08,000
+and that we may be missing the boat only by focusing on the so-called variant CJD, the human mad cow disease.
+
+123
+00:13:08,000 --> 00:13:11,000
+There may be other forms of CJD that BSE gives rise to.
+
+124
+00:13:11,000 --> 00:13:24,000
+So when the CDC confidently announces that sporadic CJD has nothing whatever to do with eating tainted beef,
+
+125
+00:13:24,000 --> 00:13:30,000
+the science is beginning to say otherwise. The science is trending in the opposite direction.
+
+126
+00:13:30,000 --> 00:13:36,000
+So I think one of the reasons that the CDC can get away with saying the one in a million number,
+
+127
+00:13:36,000 --> 00:13:42,000
+in addition to the fact that, as you pointed out earlier, the current climate is not to go in and test people
+
+128
+00:13:42,000 --> 00:13:50,000
+after they die to see if they have this disease, is that in this country there hasn't been a lot of coverage
+
+129
+00:13:50,000 --> 00:13:58,000
+of the vast history of the different parallel diseases that are similar to BSE.
+
+130
+00:13:58,000 --> 00:14:03,000
+I'm wondering if we can go into some of the details on that, fill people in.
+
+131
+00:14:03,000 --> 00:14:13,000
+My understanding is it actually starts in a couple of places. One is the sheep in the UK that we're getting.
+
+132
+00:14:13,000 --> 00:14:14,000
+Is it Scrapey?
+
+133
+00:14:14,000 --> 00:14:15,000
+Scrapey, yeah, that's right.
+
+134
+00:14:15,000 --> 00:14:19,000
+And then also, tell us about Papua New Guinea.
+
+135
+00:14:19,000 --> 00:14:30,000
+Yeah, the disease actually, the oldest known variant, if you want to call it, of these so-called prion diseases are sheep.
+
+136
+00:14:30,000 --> 00:14:39,000
+And it's been known that sheep have dropped from these neurological symptoms for a couple of centuries in the United Kingdom.
+
+137
+00:14:39,000 --> 00:14:45,000
+So it goes way, way back. But the really, I think from the United States perspective,
+
+138
+00:14:45,000 --> 00:14:53,000
+the really interesting events occurred in Papua New Guinea in the late 1950s
+
+139
+00:14:53,000 --> 00:15:03,000
+when a scientist, Carlton Gajusek, who was funded by the Walter Reed Army Hospital
+
+140
+00:15:03,000 --> 00:15:11,000
+and Dr. Joe Smaddell, who was kind of like a kingpin at the NIH in Washington,
+
+141
+00:15:11,000 --> 00:15:19,000
+arrived over in Papua New Guinea in 1957 and began researching a mysterious brain disease that was killing
+
+142
+00:15:19,000 --> 00:15:26,000
+hundreds and eventually killed thousands of Foray tribespeople in the highlands in New Guinea.
+
+143
+00:15:26,000 --> 00:15:30,000
+They were dying of this mysterious brain disease.
+
+144
+00:15:30,000 --> 00:15:38,000
+The local tribespeople ascribed it to sorcery, and Gajusek was a brilliant physician.
+
+145
+00:15:38,000 --> 00:15:45,000
+I mean, he was one of these extraordinary people who could go into a country,
+
+146
+00:15:45,000 --> 00:15:53,000
+basically live in the wild with different tribespeople, sleep in flea-infested huts for months on end,
+
+147
+00:15:53,000 --> 00:16:01,000
+take enormous amounts of blood samples, do autopsies at 2 a.m. in the middle of a rainstorm, this kind of thing.
+
+148
+00:16:01,000 --> 00:16:08,000
+I mean, he was an extraordinary guy in terms of his ability to do this kind of medical research.
+
+149
+00:16:08,000 --> 00:16:16,000
+So what he began to do as a way of researching this was to autopsy several of these Foray people
+
+150
+00:16:16,000 --> 00:16:18,000
+who had died from this mysterious disease.
+
+151
+00:16:18,000 --> 00:16:23,000
+And by the way, these Foray people were cannibals, and the way they were spreading this disease,
+
+152
+00:16:23,000 --> 00:16:27,000
+it was found out later, was that they were eating their dead relatives after death.
+
+153
+00:16:28,000 --> 00:16:33,000
+So they would eat brain material, they would eat the rest of the corpse,
+
+154
+00:16:33,000 --> 00:16:40,000
+and that way the people who ingested it were getting the infectious entities, and they were dying.
+
+155
+00:16:40,000 --> 00:16:43,000
+And then when they died, they would spread it to their relatives.
+
+156
+00:16:43,000 --> 00:16:49,000
+So over a period of several decades, over 3,000 people died in that community.
+
+157
+00:16:49,000 --> 00:16:55,000
+So Gajusek, in his brilliant, inimitable way, began doing autopsies on these people,
+
+158
+00:16:55,000 --> 00:17:00,000
+persuaded them to do autopsies because it took a lot of persuasion,
+
+159
+00:17:00,000 --> 00:17:04,000
+because they didn't like their relatives being cut open and their brains being removed.
+
+160
+00:17:04,000 --> 00:17:14,000
+And he shipped a series of these brains back to the facilities at Bethesda and Fort Detrick, but mostly Bethesda.
+
+161
+00:17:14,000 --> 00:17:23,000
+What they started doing for a variety of reasons is they began to test whether or not this brain disease was transmissible.
+
+162
+00:17:23,000 --> 00:17:34,000
+So they found an isolated wildlife refuge at Patuxent, Maryland, between Washington and Baltimore, I believe it is.
+
+163
+00:17:34,000 --> 00:17:41,000
+And they got a bunch of chimpanzees, a whole bunch of different primates, and a whole bunch of different species of animals,
+
+164
+00:17:41,000 --> 00:17:47,000
+and they ground up the brains from these dead cannibals, made a brain slurry of them,
+
+165
+00:17:47,000 --> 00:17:57,000
+injected them into chimpanzees and primates and a whole variety of different species to see if these diseases were transmissible and they were.
+
+166
+00:17:57,000 --> 00:18:03,000
+The chimps came down with the brain disease and they died.
+
+167
+00:18:03,000 --> 00:18:10,000
+But this was in the middle of a wildlife refuge in Patuxent, Maryland.
+
+168
+00:18:10,000 --> 00:18:17,000
+The USDA actually in 1963 visited the facility and they were so appalled at the containment,
+
+169
+00:18:17,000 --> 00:18:24,000
+the restrictions and whether or not the animals could escape, they tried to shut the place down.
+
+170
+00:18:24,000 --> 00:18:26,000
+It was that bad.
+
+171
+00:18:26,000 --> 00:18:37,000
+So one of the theories in my book is that this kind of intense series of inoculations that had happened over a multiple year period in the 60s
+
+172
+00:18:37,000 --> 00:18:42,000
+may have contributed to spreading these prion diseases into the wildlife.
+
+173
+00:18:42,000 --> 00:18:48,000
+Because nothing was known in those days that prions could jump species.
+
+174
+00:18:48,000 --> 00:18:59,000
+The dramatic jump from cattle to humans that happened in the United Kingdom in the 90s was a very good example of how prions can jump species.
+
+175
+00:18:59,000 --> 00:19:06,000
+The way I would look at that whole thing is that it was like throwing gasoline on a fire.
+
+176
+00:19:06,000 --> 00:19:10,000
+There may have been low levels of prions.
+
+177
+00:19:10,000 --> 00:19:18,000
+For example, sheep were imported from the United Kingdom in 1947 into the United States that had scrapie.
+
+178
+00:19:18,000 --> 00:19:26,000
+So there may have been low levels of prion in sheep in the United States and maybe even mink.
+
+179
+00:19:26,000 --> 00:19:35,000
+But this kind of massive parallel inoculation series of experiments that happened out in Maryland in the 1960s,
+
+180
+00:19:35,000 --> 00:19:41,000
+my theory is that this could have spread to wildlife.
+
+181
+00:19:41,000 --> 00:19:52,000
+Now the other part of this thing is about 20 years after this whole episode of injection into wildlife,
+
+182
+00:19:52,000 --> 00:19:58,000
+there was a mysterious outbreak in 1985 in Stetsonville, Wisconsin,
+
+183
+00:19:58,000 --> 00:20:07,000
+where 4,000 mink died of a strange, and these were farm mink, they died of a strange brain disease.
+
+184
+00:20:07,000 --> 00:20:15,000
+A University of Wisconsin research veterinarian called Dr. Richard Marsh went up there to investigate.
+
+185
+00:20:15,000 --> 00:20:19,000
+What he did was he took the brains from these mink and examined them.
+
+186
+00:20:19,000 --> 00:20:24,000
+And he found that all of those mink had died of essentially mad mink disease.
+
+187
+00:20:24,000 --> 00:20:28,000
+They had died from the brain disease.
+
+188
+00:20:28,000 --> 00:20:33,000
+So he investigated how these animals might have got this disease.
+
+189
+00:20:33,000 --> 00:20:37,000
+He looked at their feeding habits, he looked at what they had been fed,
+
+190
+00:20:37,000 --> 00:20:42,000
+and it happened that the owner of the mink ranch had kept extremely meticulous records.
+
+191
+00:20:42,000 --> 00:20:47,000
+And it turned out that this rancher had been feeding the mink dead cows.
+
+192
+00:20:48,000 --> 00:20:50,000
+Ground up remains of dead cows.
+
+193
+00:20:50,000 --> 00:20:56,000
+So this was 1985, this was not 2003, this was 1985.
+
+194
+00:20:56,000 --> 00:21:02,000
+So the strong implication from Dr. Richard Marsh's investigations,
+
+195
+00:21:02,000 --> 00:21:04,000
+and he published all this stuff in science journals,
+
+196
+00:21:04,000 --> 00:21:12,000
+was that there was a mad cow disease variant present in beef that had been fed to mink
+
+197
+00:21:12,000 --> 00:21:15,000
+and had caused the mink to die of mad mink disease.
+
+198
+00:21:15,000 --> 00:21:22,000
+So the idea that mad cow disease has only been discovered in one single animal
+
+199
+00:21:22,000 --> 00:21:27,000
+in Washington state in 2003 is not exactly the truth,
+
+200
+00:21:27,000 --> 00:21:34,000
+because there is strong evidence that this disease has been around in this country for decades.
+
+201
+00:21:36,000 --> 00:21:42,000
+And so while all this is happening, I understand there was also independent efforts
+
+202
+00:21:42,000 --> 00:21:45,000
+by different scientists kind of working this at different angles,
+
+203
+00:21:45,000 --> 00:21:51,000
+looking at the transmissibility of the disease between, let's say,
+
+204
+00:21:51,000 --> 00:21:59,000
+mice they were testing and hamsters and the cows and seeing which directions the disease could go.
+
+205
+00:21:59,000 --> 00:22:04,000
+My impression was it looked like it could pretty much go in any direction they wanted it to.
+
+206
+00:22:05,000 --> 00:22:15,000
+Yes, there's really now very little doubt that these prion diseases can transmit between species.
+
+207
+00:22:15,000 --> 00:22:20,000
+And as you mentioned, yeah, there have been a lot of experiments done with mice and hamsters.
+
+208
+00:22:20,000 --> 00:22:28,000
+And the interesting thing is if you set up these series of experiments properly,
+
+209
+00:22:28,000 --> 00:22:36,000
+which has been done many times, you can find that if you transmit prion diseases between species
+
+210
+00:22:36,000 --> 00:22:39,000
+and then retransmit them back to the original species,
+
+211
+00:22:39,000 --> 00:22:45,000
+the prions that are retransmitted are actually more virulent than the original prions.
+
+212
+00:22:45,000 --> 00:22:51,000
+In other words, if they cycle through species, they become even more virulent if they come back to the original species.
+
+213
+00:22:51,000 --> 00:23:03,000
+So that is obviously very worrying if you look at it in terms of wildlife being infected with these prion diseases.
+
+214
+00:23:03,000 --> 00:23:05,000
+There's a good example of that.
+
+215
+00:23:05,000 --> 00:23:14,000
+There was a couple of clusters of CJD that erupted in Kentucky in the 1980s and 1990s.
+
+216
+00:23:14,000 --> 00:23:19,000
+It turned out that a lot of these people had been eating squirrel brains.
+
+217
+00:23:19,000 --> 00:23:24,000
+It was kind of apparently it's a local delicacy in those areas.
+
+218
+00:23:24,000 --> 00:23:28,000
+And people had died from CJD from eating squirrel brains.
+
+219
+00:23:28,000 --> 00:23:33,000
+Well, how do the squirrels get these prion diseases?
+
+220
+00:23:33,000 --> 00:23:39,000
+Unknown. There was another couple of cases that were found in Texas for the same reason.
+
+221
+00:23:39,000 --> 00:23:47,000
+So the whole idea that prions jump species is gaining an awful lot of attention.
+
+222
+00:23:47,000 --> 00:23:53,000
+And actually there's, overlaid on the mad cow topic,
+
+223
+00:23:53,000 --> 00:24:00,000
+there's a second major epidemic that's running through the wildlife in the United States, and that is the deer and elk.
+
+224
+00:24:00,000 --> 00:24:12,000
+Deer and elk in between 15 and 20 states now have been documented to have this same brain disease, prion disease,
+
+225
+00:24:12,000 --> 00:24:16,000
+only in deer and elk it's called chronic wasting disease because the deer become emaciated.
+
+226
+00:24:16,000 --> 00:24:20,000
+They can't eat. They start dripping saliva, that kind of thing.
+
+227
+00:24:20,000 --> 00:24:24,000
+Their symptoms are pretty bad and then they die.
+
+228
+00:24:24,000 --> 00:24:29,000
+And when their autopsies and necropsies are done, their brains are full of holes.
+
+229
+00:24:29,000 --> 00:24:31,000
+They look like Swiss cheese.
+
+230
+00:24:31,000 --> 00:24:43,000
+So overlaid upon the concern about beef, we have a second major situation here in the United States that may have relevance to hunters.
+
+231
+00:24:43,000 --> 00:24:51,000
+We know right now as we speak that about 11 million hunters throughout the country are beginning their annual hunting season
+
+232
+00:24:51,000 --> 00:24:55,000
+and they're shooting a lot of deer and a lot of elk.
+
+233
+00:24:55,000 --> 00:25:01,000
+This disease in deer and elk originated in a research facility.
+
+234
+00:25:01,000 --> 00:25:08,000
+It was found originally in a research facility in Colorado, Northern Colorado, and in a sister facility in Wyoming.
+
+235
+00:25:08,000 --> 00:25:18,000
+Since then, it has transmitted to the wild deer population and wild elk population, first in Colorado, then Wyoming, Nebraska.
+
+236
+00:25:18,000 --> 00:25:26,000
+There was an epicenter that sort of grew in the 1970s and 1980s,
+
+237
+00:25:26,000 --> 00:25:34,000
+but it was really only in the last two or three years where these wildlife diseases in deer and elk really started spreading quickly.
+
+238
+00:25:34,000 --> 00:25:44,000
+And only in 2002 and 2003, these wildlife diseases jumped into Utah, they jumped into Wisconsin,
+
+239
+00:25:44,000 --> 00:25:54,000
+and they're now in Wisconsin and Illinois where there's two million hunters embarking I think this week or next week on hunting season in Wisconsin and Illinois.
+
+240
+00:25:54,000 --> 00:26:02,000
+The disease also jumped in all the way down to the south part of New Mexico near the White Sands Proving Grounds.
+
+241
+00:26:02,000 --> 00:26:08,000
+And it has since trafficked up across the border from the United States into Canada.
+
+242
+00:26:08,000 --> 00:26:12,000
+It's both in Saskatchewan and in Alberta.
+
+243
+00:26:12,000 --> 00:26:18,000
+So, you know, you've got lots of hunters who are field dressing carcasses.
+
+244
+00:26:18,000 --> 00:26:22,000
+They're stripping meat from the spinal cord of deer and elk.
+
+245
+00:26:22,000 --> 00:26:26,000
+They're eating venison, you know, they're cooking up venison, they're eating venison.
+
+246
+00:26:27,000 --> 00:26:33,000
+Right now, there are still questions about whether or not prions can jump from deer or elk into humans,
+
+247
+00:26:33,000 --> 00:26:38,000
+or where prions can jump from deer or elk into cattle and then into humans.
+
+248
+00:26:38,000 --> 00:26:41,000
+Those questions are unknown.
+
+249
+00:26:41,000 --> 00:26:49,000
+In the last couple of years, there have been reports of a couple of reports of young hunters dying of CJD.
+
+250
+00:26:49,000 --> 00:26:51,000
+And these people are in their 20s.
+
+251
+00:26:51,000 --> 00:26:55,000
+CJD is supposed to be an old people's disease, quote unquote.
+
+252
+00:26:55,000 --> 00:27:01,000
+You know, people in their 60s and 70s are supposed to die of CJD, not people in their 20s and 30s.
+
+253
+00:27:01,000 --> 00:27:08,000
+So when you've got a couple of young hunters in the last couple of years who have died of CJD,
+
+254
+00:27:08,000 --> 00:27:11,000
+you start beginning to be concerned.
+
+255
+00:27:11,000 --> 00:27:18,000
+The CDC investigated those cases of hunters, and they said there was no relationship with eating venison or hunting.
+
+256
+00:27:18,000 --> 00:27:25,000
+But again, they said it was a statistical blip that these people died at a young age for unknown reasons.
+
+257
+00:27:25,000 --> 00:27:33,000
+But there have been many, many different instances now in the United States of apparent clusters of CJD cases
+
+258
+00:27:33,000 --> 00:27:38,000
+that have cropped up, have been explained away, and kind of disappeared off the horizon.
+
+259
+00:27:38,000 --> 00:27:44,000
+And at the same time, there's this mounting body of circumstantial evidence,
+
+260
+00:27:45,000 --> 00:27:52,000
+and it's all trending in the same direction that indicates that we have a problem in the United States.
+
+261
+00:27:52,000 --> 00:28:01,000
+And all we have to do is to look across at the United Kingdom to see how they handled their problem in the 1990s,
+
+262
+00:28:01,000 --> 00:28:04,000
+to see that we need to learn some lessons here.
+
+263
+00:28:04,000 --> 00:28:12,000
+Well, it begs the question with the problem with the deer that currently is growing exponentially.
+
+264
+00:28:12,000 --> 00:28:17,000
+You can understand it with the mink that they were fed rendered cows.
+
+265
+00:28:17,000 --> 00:28:21,000
+You can understand it with the cows because they're eating rendered, again, rendered parts and stuff.
+
+266
+00:28:21,000 --> 00:28:26,000
+You can understand perhaps a jump from deer to humans because the humans are eating the deer.
+
+267
+00:28:26,000 --> 00:28:29,000
+But my understanding is you generally don't, when you're driving by on the side of the road,
+
+268
+00:28:29,000 --> 00:28:33,000
+see the deer down there like chowing on each other, you know, eating some other animal.
+
+269
+00:28:33,000 --> 00:28:36,000
+So how would the deer be picking that up?
+
+270
+00:28:37,000 --> 00:28:44,000
+I know deer can transmit the prion disease very, very easily among species.
+
+271
+00:28:44,000 --> 00:28:56,000
+In other words, if a deer in a farm, a farmed elk or a farmed deer rubbed noses with a wild animal that comes up to the fence line,
+
+272
+00:28:56,000 --> 00:29:00,000
+that wild animal can get the deer disease and spread it.
+
+273
+00:29:00,000 --> 00:29:06,000
+Now, in terms of how it actually arrived into the deer population, that's another large question mark.
+
+274
+00:29:06,000 --> 00:29:12,000
+Was it connected with these wildlife or these inoculation experiments that happened in the 60s?
+
+275
+00:29:12,000 --> 00:29:14,000
+Right now, there's no smoking gun.
+
+276
+00:29:14,000 --> 00:29:27,000
+But, you know, the traffic, if you look at the sort of the traffic of the squirrels in Kentucky, mink in Wisconsin, deer and elk in Colorado,
+
+277
+00:29:27,000 --> 00:29:42,000
+you do see that there seems to be a pattern of these, and it's way under the radar, of these wildlife species coming down with prion disease or brain disease
+
+278
+00:29:42,000 --> 00:29:45,000
+and then maybe spreading it to other species.
+
+279
+00:29:45,000 --> 00:29:56,000
+There's a study ongoing right now in Wisconsin where they're putting deer carcasses out there with cameras on the deer.
+
+280
+00:29:56,000 --> 00:30:02,000
+And they're documenting exactly how many species come in there to feed on those deer.
+
+281
+00:30:02,000 --> 00:30:16,000
+And, you know, they've already documented 10 different species, including foxes and coyotes and raccoons and squirrels and even crows that come in there to feed on those dead deer.
+
+282
+00:30:16,000 --> 00:30:27,000
+And the intent is to start trapping those animals, those wild animals, to see if those wild animals do pick up those prion diseases from dead deer.
+
+283
+00:30:27,000 --> 00:30:38,000
+Because there's a lot of concern that, you know, if you've got 10 different species feeding on a carcass, how many of those species can get prions?
+
+284
+00:30:38,000 --> 00:30:46,000
+It's already been shown, for example, it's very easy to transmit prions from, say, mink to raccoons.
+
+285
+00:30:46,000 --> 00:30:51,000
+Very easy, you know, because genetically they're very, very susceptible.
+
+286
+00:30:51,000 --> 00:31:03,000
+There's a whole sort of slew of worried wildlife officials right through the country who are not speaking to the press.
+
+287
+00:31:03,000 --> 00:31:10,000
+I've talked to a couple, you know, but all of these interviews are off the record.
+
+288
+00:31:10,000 --> 00:31:20,000
+But a lot of these people are very concerned about how this disease has jumped so quickly across so many different states in such a short time.
+
+289
+00:31:21,000 --> 00:31:34,000
+I talked to one guy in New Mexico, for example, who could not explain the jump in the brain disease from deer from the supposed epicenter in northeastern Colorado,
+
+290
+00:31:34,000 --> 00:31:41,000
+all the way down to the border, you know, the border of the southern, south part of New Mexico.
+
+291
+00:31:41,000 --> 00:31:45,000
+And, you know, these guys had examined deer migration routes.
+
+292
+00:31:45,000 --> 00:31:50,000
+They'd examined trucking deer into the state and all of this, and they had ruled it out.
+
+293
+00:31:50,000 --> 00:31:52,000
+That was not the explanation.
+
+294
+00:31:52,000 --> 00:32:00,000
+Somehow these deer, you know, down in the south part of New Mexico had contracted prion disease.
+
+295
+00:32:00,000 --> 00:32:04,000
+Now, where did it come from? These guys didn't know.
+
+296
+00:32:04,000 --> 00:32:11,000
+And, you know, there's another jump right into the middle of Utah, which is not consistent with deer migration routes either.
+
+297
+00:32:11,000 --> 00:32:20,000
+Wisconsin, you know, the suspicions that some cowboy operator may have brought contaminated deer into the state or elk into an elk farm kind of thing.
+
+298
+00:32:20,000 --> 00:32:23,000
+But nobody has really got the smoking gun there.
+
+299
+00:32:23,000 --> 00:32:29,000
+So these these diseases are spreading very, very quickly through the through the wildlife.
+
+300
+00:32:29,000 --> 00:32:35,000
+Talk about a little bit about because we're talking about different technically have been labeled different diseases.
+
+301
+00:32:35,000 --> 00:32:41,000
+Let's say Scrapey, BSE, CJD, but they all share something in common.
+
+302
+00:32:41,000 --> 00:32:45,000
+They're all exactly the same mechanism of disease.
+
+303
+00:32:45,000 --> 00:32:49,000
+And that is this mysterious infectious entity called the prion.
+
+304
+00:32:49,000 --> 00:32:53,000
+Now, a prion is not a virus. It's not a bacterium.
+
+305
+00:32:53,000 --> 00:32:56,000
+It is a protein that everybody has.
+
+306
+00:32:56,000 --> 00:33:01,000
+But the difference is that protein changes shape into a new lethal form.
+
+307
+00:33:01,000 --> 00:33:12,000
+And that the change once it changes shape, it's almost like a different structure of a protein that that creates a lethal form of this protein.
+
+308
+00:33:12,000 --> 00:33:23,000
+The normal form is supposedly protective in the cell, but the lethal form is is associated with widespread cell death.
+
+309
+00:33:23,000 --> 00:33:35,000
+So if you eat a hamburger that's tainted with prions, it goes first into the gut and then it moves into the gut associated lymphoid tissue,
+
+310
+00:33:35,000 --> 00:33:44,000
+which is called GALT, which is a dense area of lymph lymphatic tissue around the gut.
+
+311
+00:33:44,000 --> 00:33:50,000
+It then moves into the lymph system and then moves into the peripheral nervous system and eventually central nervous system,
+
+312
+00:33:51,000 --> 00:34:00,000
+which is the spinal cord and brain. But it does it is known to migrate through the through the lymphoid tissue.
+
+313
+00:34:00,000 --> 00:34:15,000
+The prion is definitely one of the most mysterious things known in infectious disease because it breaks every single rule that's been known in science in the last 50 years.
+
+314
+00:34:15,000 --> 00:34:22,000
+It doesn't carry DNA, doesn't carry RNA, which are the two things that viruses and bacteria use to replicate.
+
+315
+00:34:22,000 --> 00:34:31,000
+These prions seem to be able to force normal prions to adopt the lethal shape.
+
+316
+00:34:31,000 --> 00:34:39,000
+And so it's kind of like a chain reaction in the cell and in the cells next to those cells where it's over many,
+
+317
+00:34:39,000 --> 00:34:49,000
+many years these hundreds of millions of cells and then billions of brain cells die from this slow transmission like a chain reaction in the brain.
+
+318
+00:34:49,000 --> 00:35:00,000
+And it's only when the terminal stages of this whole process, which can take years if not decades, that the person begins to notice symptoms.
+
+319
+00:35:00,000 --> 00:35:17,000
+The person begins to notice forgetfulness, mood changes, feeling really, really weird and feeling off, shaking, start trembling, muscle spasms and then seizures.
+
+320
+00:35:17,000 --> 00:35:26,000
+And then it really starts getting serious where all memory begins to go, person doesn't recognize family members.
+
+321
+00:35:26,000 --> 00:35:34,000
+This all happens right after the first initial symptoms and it may take months, sometimes maybe a year or two to die.
+
+322
+00:35:34,000 --> 00:35:44,000
+Now, the very initial symptoms of this, of CJD, are there's some overlap with the very initial symptoms of Alzheimer's.
+
+323
+00:35:44,000 --> 00:35:50,000
+The difference with CJD and Alzheimer's is Alzheimer's takes much, much longer to progress.
+
+324
+00:35:50,000 --> 00:35:57,000
+People can last for years if not maybe even a decade between the initial symptoms and final terminal stages.
+
+325
+00:35:57,000 --> 00:36:03,000
+With CJD, it is usually months, sometimes maybe 18 months kind of thing.
+
+326
+00:36:04,000 --> 00:36:13,000
+But the prion has already been the subject of two Nobel Prizes that have been won,
+
+327
+00:36:13,000 --> 00:36:22,000
+first by Carlton Gajuszek for the discovery of the infectiousness in the kuru population in New Guinea,
+
+328
+00:36:22,000 --> 00:36:30,000
+and then the second one by Dr. Stanley Prusner from the University of California in San Francisco for his actual discovery of the prions.
+
+329
+00:36:30,000 --> 00:36:37,000
+And, you know, the still scientists around, even in 2004, who were saying that prions cannot possibly exist,
+
+330
+00:36:37,000 --> 00:36:47,000
+it's like a bad science fiction movie, you know, that these entities, they don't even require DNA, RNA to replicate.
+
+331
+00:36:47,000 --> 00:36:51,000
+They infect other people, they jump species, they're indestructible.
+
+332
+00:36:52,000 --> 00:36:58,000
+If you try to sterilize surgical instruments after autopsy of a CJD patient,
+
+333
+00:36:58,000 --> 00:37:03,000
+you've got to raise the temperature to 600 or 700 degrees before you will kill these things.
+
+334
+00:37:03,000 --> 00:37:12,000
+They last in a pasture. If a deer loses saliva that's infected with prions onto a pasture,
+
+335
+00:37:12,000 --> 00:37:18,000
+then those deer are removed. Two years later, a new herd of deer are put on the pasture.
+
+336
+00:37:18,000 --> 00:37:26,000
+And those new herd of deer will come down with that disease because the prions remain infectious in the pasture for up to a couple of years.
+
+337
+00:37:26,000 --> 00:37:35,000
+So, you know, not only is this mysterious prion breaking all the rules in molecular biology and all of that, but it's also indestructible.
+
+338
+00:37:35,000 --> 00:37:44,000
+So from so many different angles, these prions and these diseases associated with prions are quite scary.
+
+339
+00:37:45,000 --> 00:37:54,000
+You know, the disease is 100% fatal. There has never been a known case where a person, once they have initial symptoms, do not die.
+
+340
+00:37:54,000 --> 00:37:57,000
+It's usually a question of just when.
+
+341
+00:37:57,000 --> 00:38:08,000
+Talk a bit about why Scrapey, which has been known for, I believe you said hundreds of years, and people have been consuming that sheep meat,
+
+342
+00:38:08,000 --> 00:38:13,000
+why didn't this whole thing pop up in the population earlier?
+
+343
+00:38:13,000 --> 00:38:20,000
+Well, that's a very good question. There are a number of possible explanations for that.
+
+344
+00:38:20,000 --> 00:38:26,000
+One explanation is that it did crop up in the population, but was not detected.
+
+345
+00:38:26,000 --> 00:38:37,000
+Another possibility is that somehow the Scrapey form of the prion is not capable of jumping straight to humans.
+
+346
+00:38:37,000 --> 00:38:47,000
+There is a possibility, for example, that the Scrapey form may have been the cause of the epidemic in deer and elk,
+
+347
+00:38:47,000 --> 00:38:53,000
+but that has not been absolutely tied down. It is more sort of speculation.
+
+348
+00:38:53,000 --> 00:39:06,000
+But there is no really good explanation of why the Scrapey has not led to the same kind of epidemic of people dying of CJD that mad cow disease has caused.
+
+349
+00:39:06,000 --> 00:39:18,000
+One of the things that is becoming increasingly clear, as more research is done, is how little we know about these prions and how they act.
+
+350
+00:39:18,000 --> 00:39:30,000
+We do know that there is genetics involved and that the type of mutations that are in the gene, the prion gene,
+
+351
+00:39:30,000 --> 00:39:38,000
+do have an effect on the kinds of shape that it can adopt in the cell and therefore have an effect on species transmission.
+
+352
+00:39:38,000 --> 00:39:49,000
+So it may be simply, for example, that the sheep Scrapey is much more difficult for it to transmit to humans than, say, the cow variant.
+
+353
+00:39:49,000 --> 00:39:56,000
+But it may be easier to transmit from sheep to cattle and then cattle to humans. We don't know that.
+
+354
+00:39:57,000 --> 00:40:07,000
+There are so many unanswered questions. For example, the actual use or the biology of the normal prion in the cell is really not known.
+
+355
+00:40:07,000 --> 00:40:13,000
+Nobody really knows what the normal prion protein in the cell does. It's not known.
+
+356
+00:40:13,000 --> 00:40:20,000
+So when you've got that kind of level of knowledge base with respect to this,
+
+357
+00:40:20,000 --> 00:40:29,000
+making confident statements and making confident predictions about, oh, yeah, this has nothing to do with mad cow disease is way premature.
+
+358
+00:40:29,000 --> 00:40:38,000
+And yet if you were sitting back and looking at all these epidemic levels of these different variants of this disease
+
+359
+00:40:38,000 --> 00:40:50,000
+and how it's racing through different species and that we're dealing with something that apparently does look like something from, you know, attack from Planet Nine or whatever.
+
+360
+00:40:50,000 --> 00:40:57,000
+If I was in charge, I would be directing a lot of resources towards finding out what the heck was going on with this.
+
+361
+00:40:57,000 --> 00:41:04,000
+Yeah, you're absolutely right. You're absolutely right. And that is one of the reasons. Another reason that I wrote this book.
+
+362
+00:41:04,000 --> 00:41:13,000
+You know, there are two main areas that need to be tested very, very quickly. And the first is the cow population in this country.
+
+363
+00:41:13,000 --> 00:41:24,000
+You know, you may remember before December of 2003 when the mad cow case appeared in Washington state that got all the news.
+
+364
+00:41:25,000 --> 00:41:34,000
+Only twenty thousand animals in this country were tested for mad cow disease out of an annual slaughter of thirty five million.
+
+365
+00:41:34,000 --> 00:41:40,000
+So thirty five million cattle are slaughtered before they arrive on the dinner table every every year in this country.
+
+366
+00:41:40,000 --> 00:41:49,000
+So before the 2003 announcement, twenty thousand cases or twenty thousand animals were tested after the announced case.
+
+367
+00:41:50,000 --> 00:41:57,000
+They they made a lot of press coverage about the fact they were increasing the numbers of animals tested to two hundred thousand.
+
+368
+00:41:57,000 --> 00:42:01,000
+Two hundred thousand animals out of thirty five million is still less than one percent.
+
+369
+00:42:01,000 --> 00:42:10,000
+If you look across at the Europeans, Europeans on average test 30 percent of all animals that go to the dinner dinner table.
+
+370
+00:42:10,000 --> 00:42:17,000
+Japan tests 100 percent. Ireland has just begun to test 100 percent.
+
+371
+00:42:17,000 --> 00:42:23,000
+So the you know, the kinds of statements that have been issued very successfully, by the way,
+
+372
+00:42:23,000 --> 00:42:30,000
+from the USDA in the last twelve months saying that all of the all of the bases are now covered.
+
+373
+00:42:30,000 --> 00:42:36,000
+You know, we're testing two hundred thousand animals. It is still a very, very low number.
+
+374
+00:42:36,000 --> 00:42:44,000
+In fact, Dr. Dr. Prusner, the Nobel Prize winner for for discovering prions, issued a statement in the last month or so
+
+375
+00:42:44,000 --> 00:42:51,000
+saying that the the level of testing is absolutely woefully inadequate in the in the USDA.
+
+376
+00:42:51,000 --> 00:42:56,000
+Now, the second part of this whole thing is is testing of humans.
+
+377
+00:42:56,000 --> 00:43:07,000
+You've you've really got to dramatically increase the number of of autopsies that are being conducted on CJD and on on,
+
+378
+00:43:07,000 --> 00:43:15,000
+quote unquote, dementia patients in order to get some kind of a baseline figure on what the actual numbers are.
+
+379
+00:43:15,000 --> 00:43:18,000
+Got to have a real good national database.
+
+380
+00:43:18,000 --> 00:43:25,000
+Right now, there's the National Prion Surveillance in Cleveland case Western, which is woefully inadequately funded.
+
+381
+00:43:25,000 --> 00:43:34,000
+And it is you know, it does not cover all the bases that there is a lot of evidence that there's a lot of cases dropping through the cracks.
+
+382
+00:43:34,000 --> 00:43:39,000
+So you've got to test test in humans. You've got to test in in cows.
+
+383
+00:43:39,000 --> 00:43:43,000
+You've got to put a lot of resources into this.
+
+384
+00:43:43,000 --> 00:43:51,000
+NIH just shut down their their national prion research laboratory about two months ago.
+
+385
+00:43:51,000 --> 00:43:53,000
+You know, that doesn't exist anymore.
+
+386
+00:43:53,000 --> 00:44:00,000
+I mean, that is a measure of the level of you could call a complacency in this country in terms of research.
+
+387
+00:44:00,000 --> 00:44:03,000
+I'm not saying there's no prion research in the United States.
+
+388
+00:44:03,000 --> 00:44:04,000
+I think there's centers of excellence.
+
+389
+00:44:04,000 --> 00:44:09,000
+I mean, there's some brilliant research, Nobel Prize winning research that has come out of the United States.
+
+390
+00:44:09,000 --> 00:44:17,000
+But if you're looking at the for the groundbreaking research in the last five years that is looking at the effects on humans,
+
+391
+00:44:17,000 --> 00:44:22,000
+you have to go to the United Kingdom and you have to go to Europe because, you know, they have learned the lessons.
+
+392
+00:44:22,000 --> 00:44:28,000
+And, you know, one of the things I say in my book is that a lot of the European scientists
+
+393
+00:44:29,000 --> 00:44:35,000
+who have come through this this gut wrenching experience in the last 10 years in UK and Europe,
+
+394
+00:44:35,000 --> 00:44:41,000
+when they look across at the United States and they see the circumstantial data in the cattle,
+
+395
+00:44:41,000 --> 00:44:49,000
+you know, going back to Dr. Richard Marsh's 1985 discoveries and all the way to now on the wildlife,
+
+396
+00:44:49,000 --> 00:44:55,000
+they really shake their heads at the lack of attention that's being focused on this whole thing.
+
+397
+00:44:56,000 --> 00:45:03,000
+And then on top of everything else is this epidemic in deer and elk that's spreading through the country, brain waste and diseases.
+
+398
+00:45:03,000 --> 00:45:07,000
+And they're all the same thing. They're all prion based diseases.
+
+399
+00:45:07,000 --> 00:45:19,000
+You know, they're suggesting that the United States may be able to learn from the mistakes that were made in the United Kingdom and in Europe.
+
+400
+00:45:19,000 --> 00:45:24,000
+But, you know, I think history has a habit of repeating itself endlessly.
+
+401
+00:45:24,000 --> 00:45:35,000
+And, you know, there's a photograph in my book right beside that British agriculture minister and his daughter eating hamburgers.
+
+402
+00:45:35,000 --> 00:45:41,000
+There's a photograph in my book of the then Prime Minister of Canada, Jean Chrétien.
+
+403
+00:45:41,000 --> 00:45:48,000
+He's two days after the announcement in May 2003 of the first mad cow in Canada.
+
+404
+00:45:48,000 --> 00:45:57,000
+Prime Minister Jean Chrétien sat down in a restaurant in Ottawa and in front of the cameras put a whole bunch of beef into his mouth and started eating beef.
+
+405
+00:45:57,000 --> 00:46:04,000
+Again, the message was exactly the same as the minister and his daughter in Britain that eating beef was perfectly safe.
+
+406
+00:46:04,000 --> 00:46:09,000
+There's nothing to worry about. Canadians should continue eating beef. You know, everything is okay.
+
+407
+00:46:09,000 --> 00:46:14,000
+Same thing happened in the United States right after the mad cow case in Washington.
+
+408
+00:46:14,000 --> 00:46:27,000
+There was a relentless, you know, overdrive of publicity and public relations for about two to three months right after that announcement.
+
+409
+00:46:27,000 --> 00:46:40,000
+And, you know, Secretary Anne Veneman retired just in the last few days, and she has been praised and credited with keeping American confidence in beef,
+
+410
+00:46:40,000 --> 00:46:44,000
+consumers' confidence in beef at an all-time high.
+
+411
+00:46:44,000 --> 00:46:54,000
+Just a mere three months after the announcement in Washington of this mad cow case, CNN ran a story entitled Cow Brain Sandwiches.
+
+412
+00:46:54,000 --> 00:47:02,000
+And there was a, I'm not sure if it was in Georgia or somewhere in the southeastern part of the United States,
+
+413
+00:47:02,000 --> 00:47:11,000
+but there was a story about this group of people, families, down in this area who were still eating cow brain sandwiches, which is apparently a local delicacy.
+
+414
+00:47:11,000 --> 00:47:16,000
+This was a mere three months after the first documented case of mad cow disease.
+
+415
+00:47:16,000 --> 00:47:23,000
+Now, you know, eating cow brain sandwiches is, I would consider, a fairly high-risk procedure,
+
+416
+00:47:23,000 --> 00:47:30,000
+but it was a measure of the success of the public relations exercise that the USDA had successfully completed
+
+417
+00:47:31,000 --> 00:47:39,000
+that people, the American consumers, were happily continuing to eat, you know, beef, including cow brain sandwiches.
+
+418
+00:47:39,000 --> 00:47:44,000
+My understanding as well, jumping back to the amount of cattle being tested here in the U.S.,
+
+419
+00:47:44,000 --> 00:47:50,000
+in addition to it being a microscopic number of the actual herd of 35 million being tested,
+
+420
+00:47:50,000 --> 00:47:57,000
+that they're only focusing on the downer cows, and because I talked to Dave Luther earlier in this year,
+
+421
+00:47:57,000 --> 00:48:05,000
+if we look at the single cow that turned up as being the first recognized case of BSC in the U.S., that was not a downer cow.
+
+422
+00:48:05,000 --> 00:48:12,000
+So they're ignoring, you know, the very portion of the herd, the bulk of the herd that turned out as positive.
+
+423
+00:48:12,000 --> 00:48:21,000
+Yes, I think Dave Lothan did the country a tremendous service by coming forward and explaining how exactly that whole thing went down.
+
+424
+00:48:22,000 --> 00:48:27,000
+The implications, I think, of what Dave Lothan was saying are really staggering,
+
+425
+00:48:27,000 --> 00:48:36,000
+because what they're saying is that the program, the USDA program that was focused on testing only downer cows,
+
+426
+00:48:36,000 --> 00:48:43,000
+which are cows that drop for any number of reasons and can't walk anymore,
+
+427
+00:48:43,000 --> 00:48:51,000
+is that the cow that was found in Washington State was not a downer cow, it was actually walking, it was quite capable of standing up.
+
+428
+00:48:51,000 --> 00:48:58,000
+That means that the program that the USDA was focusing on just downer cows was missing the boat,
+
+429
+00:48:58,000 --> 00:49:01,000
+and that that cow was found completely by accident.
+
+430
+00:49:02,000 --> 00:49:13,000
+I understand that there's still an ongoing investigation at the federal level into falsifying the records out there in Washington State
+
+431
+00:49:13,000 --> 00:49:17,000
+regarding whether that animal was a downer or a walker.
+
+432
+00:49:17,000 --> 00:49:22,000
+And, you know, that's winding its way through the bureaucratic channels right now.
+
+433
+00:49:22,000 --> 00:49:33,000
+But there's sufficient concern about that whole thing that the idea that the cow, the single cow that has been admitted to,
+
+434
+00:49:33,000 --> 00:49:40,000
+was actually walking rather than downing, a downer, is staggering.
+
+435
+00:49:40,000 --> 00:49:48,000
+Because it means that how many other cows have been missed if the USDA is only focusing on downer cows.
+
+436
+00:49:48,000 --> 00:49:58,000
+And, you know, that raises a whole series of questions about symptoms, how long it takes for symptoms to appear in cattle.
+
+437
+00:49:58,000 --> 00:50:03,000
+Is it only at this much-talked-about 30-month period?
+
+438
+00:50:03,000 --> 00:50:10,000
+30-month is supposedly the break-off period where cows begin to develop symptoms of mad cow disease.
+
+439
+00:50:11,000 --> 00:50:20,000
+The saying goes that there's no point in testing pre-30-month, but only post-30-month.
+
+440
+00:50:20,000 --> 00:50:25,000
+So you've got a higher probability of detecting mad cow disease in the older animals, which is true.
+
+441
+00:50:25,000 --> 00:50:32,000
+But does that mean that any animals that are less than 30 months of age do not have prion disease?
+
+442
+00:50:32,000 --> 00:50:44,000
+Again, there's a whole slew of convoluted logic that is really self-defeating in this whole thing.
+
+443
+00:50:44,000 --> 00:50:53,000
+I think Dave Lutheran really put his finger on the whole thing by coming forward like that and saying that the animal that he killed was not a downer cow.
+
+444
+00:50:53,000 --> 00:50:58,000
+And I think the implications are still reverberating through the country.
+
+445
+00:50:58,000 --> 00:51:06,000
+But by and large, in terms of the media, that particular part was not picked up on the way it should have been,
+
+446
+00:51:06,000 --> 00:51:13,000
+because it really exposed a sort of a flank in the whole testing process in this country that, you know,
+
+447
+00:51:13,000 --> 00:51:18,000
+I think people are really going through the motions of testing rather than, you know,
+
+448
+00:51:18,000 --> 00:51:26,000
+genuinely going after to see what kind of the baseline is in the United States with regard to numbers of mad cows.
+
+449
+00:51:26,000 --> 00:51:35,000
+And finally, quickly, the media has repeated what has come out of Anne Veneman and the USDA,
+
+450
+00:51:35,000 --> 00:51:43,000
+saying that if you just take out, for instance, the brains and the spinal cord and maybe a couple other organs,
+
+451
+00:51:43,000 --> 00:51:50,000
+that, you know, you'll be relatively safe, that the beef will be clean. What's the truth to that?
+
+452
+00:51:50,000 --> 00:51:58,000
+Well, you know, that's another of these issues that needs to be intensively researched.
+
+453
+00:51:58,000 --> 00:52:03,000
+If you look at the New England Journal of Medicine recently came out in the last year,
+
+454
+00:52:03,000 --> 00:52:09,000
+came out with an article showing that CJD humans had lots of prions in their muscle.
+
+455
+00:52:09,000 --> 00:52:14,000
+They had detectable, I should say, rather than lots, detectable prions in their muscle.
+
+456
+00:52:14,000 --> 00:52:19,000
+Sheep, scrapie-infected sheep, have prions detectable in their muscle.
+
+457
+00:52:19,000 --> 00:52:23,000
+Hamsters have detectable prions in their muscle.
+
+458
+00:52:23,000 --> 00:52:29,000
+What the USDA has been saying is that there have never been prions found in cow muscle.
+
+459
+00:52:29,000 --> 00:52:35,000
+And, you know, there have been a couple of studies published so far, but the numbers are so low
+
+460
+00:52:35,000 --> 00:52:41,000
+that there really needs to be a large increase in the resources devoted to testing.
+
+461
+00:52:41,000 --> 00:52:48,000
+Asking that simple question, you know, do we really need to increase the sensitivity of the tests
+
+462
+00:52:48,000 --> 00:52:54,000
+in order to be able to detect these prion proteins in cow muscle?
+
+463
+00:52:54,000 --> 00:53:00,000
+Because if prions are detected in cow muscle, that means that the entire beef supply,
+
+464
+00:53:00,000 --> 00:53:05,000
+which is, you know, steaks that people eat, again, is at risk.
+
+465
+00:53:05,000 --> 00:53:12,000
+You know, muscle is full of nerves, it's full of blood vessels.
+
+466
+00:53:12,000 --> 00:53:19,000
+It's already known through, again, research from the United Kingdom that prions are transmitted in blood.
+
+467
+00:53:19,000 --> 00:53:27,000
+Both the blood donors and acceptors of blood transfusions in the United Kingdom have died of CJD.
+
+468
+00:53:27,000 --> 00:53:34,000
+And in France, they're currently tracking a donor who has died of CJD,
+
+469
+00:53:34,000 --> 00:53:37,000
+who has donated blood to multiple different people.
+
+470
+00:53:37,000 --> 00:53:40,000
+So, you know, it's known that the blood carries prions, too.
+
+471
+00:53:40,000 --> 00:53:49,000
+So the idea that beef, which is infused with both nerves and with blood vessels, would be entirely free of prions.
+
+472
+00:53:49,000 --> 00:53:57,000
+Again, you know, if you look at the science and you look at the public relations, I think there's a definite gap.
+
+473
+00:53:57,000 --> 00:54:02,000
+All right. What final thoughts would you like to share with our listeners?
+
+474
+00:54:02,000 --> 00:54:13,000
+Well, I think the real essence of this book is really, if you will, a wake-up call to the people in this country,
+
+475
+00:54:13,000 --> 00:54:20,000
+that there have been a tremendous amount of experiences that have happened across the water.
+
+476
+00:54:20,000 --> 00:54:27,000
+The United Kingdom in the last few years have put up thousands and thousands of pages of documents on their website,
+
+477
+00:54:27,000 --> 00:54:35,000
+the BSE Inquiry website, which people can go to to look to see what the mistakes, the bureaucratic mistakes,
+
+478
+00:54:35,000 --> 00:54:40,000
+there were so many and they were so varied.
+
+479
+00:54:40,000 --> 00:54:44,000
+The United States has a tremendous amount of lessons to learn.
+
+480
+00:54:44,000 --> 00:54:51,000
+I believe that the complacency that exists in the United States regarding mad cow disease,
+
+481
+00:54:51,000 --> 00:54:58,000
+regarding prion diseases, both in the wildlife and in the beef and dairy supply.
+
+482
+00:54:58,000 --> 00:55:02,000
+I think that that sense of complacency is misplaced.
+
+483
+00:55:02,000 --> 00:55:12,000
+I believe that we really need to get a whole program, series of programs of testing urgently in this country.
+
+484
+00:55:12,000 --> 00:55:15,000
+All right. Well, I want to thank you for spending time with us today.
+
+485
+00:55:15,000 --> 00:55:18,000
+You're very welcome. It was really good to talk to you.
+
+486
+00:55:18,000 --> 00:55:21,000
+We have just been talking with Colm Keller.
+
+487
+00:55:21,000 --> 00:55:29,000
+He is the author of Brain Trust, the hidden connection between mad cow and misdiagnosed Alzheimer's disease.
+

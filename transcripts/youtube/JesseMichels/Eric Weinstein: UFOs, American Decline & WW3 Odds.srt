@@ -1,0 +1,3784 @@
+1
+00:00:00,000 --> 00:00:02,520
+But here's the thing, Jesse.
+
+2
+00:00:02,520 --> 00:00:04,720
+I don't really care about the inner person.
+
+3
+00:00:04,720 --> 00:00:07,680
+Buckle up and brace for impact because our next guest
+
+4
+00:00:07,680 --> 00:00:09,800
+is cultural commentator, mathematician,
+
+5
+00:00:09,800 --> 00:00:12,240
+and brain masseuse, Eric Weinstein.
+
+6
+00:00:12,240 --> 00:00:14,120
+Hello, you ready to get some burgers?
+
+7
+00:00:14,120 --> 00:00:14,920
+How are you?
+
+8
+00:00:14,920 --> 00:00:15,680
+How you doing?
+
+9
+00:00:15,680 --> 00:00:18,880
+If the ideas in GU are wrong, then they're just wrong.
+
+10
+00:00:18,880 --> 00:00:21,120
+When I first met Eric, it was three years ago,
+
+11
+00:00:21,120 --> 00:00:22,480
+and he had just started a movement
+
+12
+00:00:22,480 --> 00:00:24,360
+called the Intellectual Dark Web.
+
+13
+00:00:24,360 --> 00:00:26,640
+The movement is not as ominous as it sounds.
+
+14
+00:00:26,640 --> 00:00:29,680
+In fact, it's just a bunch of pro-reason, pro-democracy
+
+15
+00:00:29,680 --> 00:00:31,200
+centrist intellectuals.
+
+16
+00:00:31,200 --> 00:00:33,840
+Other members of the group included Joe Rogan, Jordan
+
+17
+00:00:33,840 --> 00:00:36,160
+Peterson, Sam Harris, and last but not least,
+
+18
+00:00:36,160 --> 00:00:38,000
+Eric's brother, Brett Weinstein,
+
+19
+00:00:38,000 --> 00:00:40,720
+badass evolutionary biologist perennially
+
+20
+00:00:40,720 --> 00:00:42,600
+on YouTube's Most Wanted list.
+
+21
+00:00:42,600 --> 00:00:46,160
+So I thought more people should be aware of Eric and his ideas.
+
+22
+00:00:46,160 --> 00:00:47,880
+Thus began a year and a half of me
+
+23
+00:00:47,880 --> 00:00:50,160
+hounding him to start a podcast in effort
+
+24
+00:00:50,160 --> 00:00:51,680
+that eventually became The Portal.
+
+25
+00:00:51,680 --> 00:00:52,720
+Hello and welcome.
+
+26
+00:00:52,720 --> 00:00:53,720
+You found The Portal.
+
+27
+00:00:53,720 --> 00:00:56,320
+I brought my producer, Jesse Michaels, here.
+
+28
+00:00:56,320 --> 00:00:58,400
+I was a pain in the ass to this guy.
+
+29
+00:00:58,440 --> 00:01:00,160
+I did not return his phone calls.
+
+30
+00:01:00,160 --> 00:01:02,280
+I get messages from you that would be like,
+
+31
+00:01:02,280 --> 00:01:05,800
+well, it's three days later, and you still don't have a podcast.
+
+32
+00:01:05,800 --> 00:01:09,000
+The way I describe Eric to people who might not know who he is
+
+33
+00:01:09,000 --> 00:01:11,440
+is if Stephen Hawking and Christopher Hitchens
+
+34
+00:01:11,440 --> 00:01:14,640
+had a baby while listening to A Whole Lot of Love by Led Zeppelin.
+
+35
+00:01:16,640 --> 00:01:18,480
+Eric is a complete polymath.
+
+36
+00:01:18,480 --> 00:01:19,960
+He knows multiple languages.
+
+37
+00:01:19,960 --> 00:01:21,400
+He plays multiple instruments.
+
+38
+00:01:21,400 --> 00:01:24,240
+He can go toe to toe with the top physicists in the country.
+
+39
+00:01:24,240 --> 00:01:26,040
+His brain is a rare mutation.
+
+40
+00:01:26,040 --> 00:01:27,320
+What is an American tradition?
+
+41
+00:01:27,320 --> 00:01:28,080
+What is it?
+
+42
+00:01:28,080 --> 00:01:29,720
+Something a baby boomer did twice.
+
+43
+00:01:35,720 --> 00:01:38,240
+We discuss Eric's theory of everything in physics,
+
+44
+00:01:38,240 --> 00:01:41,360
+the institutional and economic headwinds facing young people
+
+45
+00:01:41,360 --> 00:01:44,000
+in this country, artificial general intelligence,
+
+46
+00:01:44,000 --> 00:01:45,680
+and even UFOs.
+
+47
+00:01:45,680 --> 00:01:46,800
+What was that?
+
+48
+00:01:46,800 --> 00:01:49,400
+Please enjoy this special long-form interview
+
+49
+00:01:49,400 --> 00:01:52,400
+with the love of my work life, the bane of my existence,
+
+50
+00:01:52,400 --> 00:01:55,400
+and this week's American alchemist, Eric Weinstein.
+
+51
+00:01:58,080 --> 00:01:59,400
+So let's just get right into it.
+
+52
+00:01:59,400 --> 00:02:02,640
+It's a very strange time that we're living in.
+
+53
+00:02:02,640 --> 00:02:04,360
+I was just trying to measure that, actually.
+
+54
+00:02:04,360 --> 00:02:05,760
+How strange this morning.
+
+55
+00:02:05,760 --> 00:02:08,360
+Let's give people a little history.
+
+56
+00:02:08,360 --> 00:02:12,000
+So gain-of-function research is basically
+
+57
+00:02:12,000 --> 00:02:15,160
+creating, trying to look around the corner on maybe
+
+58
+00:02:15,160 --> 00:02:17,600
+what the next pathogen or virus will be,
+
+59
+00:02:17,600 --> 00:02:20,480
+creating it in an artificial lab setting
+
+60
+00:02:20,480 --> 00:02:23,000
+so that you can then come up with the cure.
+
+61
+00:02:23,000 --> 00:02:25,480
+Obama actually sunsets it because he
+
+62
+00:02:25,960 --> 00:02:28,480
+thinks that it's too dangerous.
+
+63
+00:02:28,480 --> 00:02:31,280
+Fauci kind of takes advantage of the chaos
+
+64
+00:02:31,280 --> 00:02:33,720
+of the Trump administration and restarts
+
+65
+00:02:33,720 --> 00:02:39,200
+the gain-of-function funding that the NIH is doing in 2017.
+
+66
+00:02:39,200 --> 00:02:42,760
+And we're now giving money to the Wuhan Institute of Virology,
+
+67
+00:02:42,760 --> 00:02:45,520
+which is a lab with a poor safety record.
+
+68
+00:02:45,520 --> 00:02:48,640
+A lot of what this has to do with is bio warfare
+
+69
+00:02:48,640 --> 00:02:51,320
+being something that we're uncomfortable with,
+
+70
+00:02:51,320 --> 00:02:53,200
+just the way it's like doing chemistry.
+
+71
+00:02:54,200 --> 00:02:56,600
+Just the way it's like doing chemical weapons research.
+
+72
+00:02:56,600 --> 00:02:59,200
+You have to do the research in a defensive capacity.
+
+73
+00:02:59,200 --> 00:03:01,400
+Everything has a dual role.
+
+74
+00:03:01,400 --> 00:03:03,760
+My point is that you're listening to Colonel Jessup.
+
+75
+00:03:03,760 --> 00:03:05,960
+You snotty little bastard.
+
+76
+00:03:05,960 --> 00:03:07,680
+You may find my existence repugnant,
+
+77
+00:03:07,680 --> 00:03:09,400
+but you want me on that wall.
+
+78
+00:03:09,400 --> 00:03:11,280
+You want me on that post.
+
+79
+00:03:11,280 --> 00:03:14,120
+And the fact that you can't stomach what it is.
+
+80
+00:03:14,120 --> 00:03:16,200
+You may have an idea that it's really important
+
+81
+00:03:16,200 --> 00:03:19,320
+that we be good, kind stewards of the planet,
+
+82
+00:03:19,320 --> 00:03:21,360
+but you want your burger, don't you?
+
+83
+00:03:21,360 --> 00:03:25,680
+And somebody's got to kill that cow and take the organs out
+
+84
+00:03:25,680 --> 00:03:27,040
+and serve it up so you can pretend
+
+85
+00:03:27,040 --> 00:03:29,520
+that that little piece of protein
+
+86
+00:03:29,520 --> 00:03:32,680
+came from a protein factory, which it didn't.
+
+87
+00:03:32,680 --> 00:03:34,400
+Well, that's what Anthony Fauci thinks.
+
+88
+00:03:34,400 --> 00:03:37,560
+It's like, for whatever reason, I'm
+
+89
+00:03:37,560 --> 00:03:39,360
+the guy that you've put in this position
+
+90
+00:03:39,360 --> 00:03:41,960
+to handle this really terrible portfolio of things
+
+91
+00:03:41,960 --> 00:03:44,320
+we're not supposed to be doing, but we have to be doing.
+
+92
+00:03:44,320 --> 00:03:46,680
+Not gain-of-function.
+
+93
+00:03:46,680 --> 00:03:48,920
+But if you think about it, we do this with our military.
+
+94
+00:03:48,920 --> 00:03:51,000
+We tell the military what it can and cannot do,
+
+95
+00:03:51,000 --> 00:03:52,960
+and then we find out that it uses contractors,
+
+96
+00:03:52,960 --> 00:03:55,040
+because they may not be covered under what
+
+97
+00:03:55,040 --> 00:03:56,560
+you can ask the military to do.
+
+98
+00:03:56,560 --> 00:03:59,600
+For example, you might put your secrets inside
+
+99
+00:03:59,600 --> 00:04:02,600
+of an aerospace company, because you don't want to hold them
+
+100
+00:04:02,600 --> 00:04:04,720
+inside of government, because inside of government,
+
+101
+00:04:04,720 --> 00:04:05,440
+they're vulnerable.
+
+102
+00:04:05,440 --> 00:04:06,840
+Boyer requests and scrutiny.
+
+103
+00:04:06,840 --> 00:04:09,480
+Likewise, tyranny of censorship.
+
+104
+00:04:09,480 --> 00:04:11,520
+You want that done through private corporations,
+
+105
+00:04:11,520 --> 00:04:14,960
+because the government is under all sorts of requirements
+
+106
+00:04:14,960 --> 00:04:16,440
+not to do that.
+
+107
+00:04:16,440 --> 00:04:18,880
+So when people say things like, well, it's a private company.
+
+108
+00:04:18,880 --> 00:04:20,120
+It can do whatever it wants.
+
+109
+00:04:20,120 --> 00:04:22,840
+Well, not really.
+
+110
+00:04:22,840 --> 00:04:24,920
+You ever tried to produce food and not
+
+111
+00:04:24,920 --> 00:04:27,320
+say what the ingredient list is?
+
+112
+00:04:27,320 --> 00:04:28,880
+It's pretty tough to sell food.
+
+113
+00:04:28,880 --> 00:04:29,440
+Right.
+
+114
+00:04:29,440 --> 00:04:30,400
+Right?
+
+115
+00:04:30,400 --> 00:04:30,880
+OK.
+
+116
+00:04:30,880 --> 00:04:32,760
+Why don't I know what the ingredient list is
+
+117
+00:04:32,760 --> 00:04:36,880
+in the algorithms that mutate my conversations?
+
+118
+00:04:36,880 --> 00:04:38,080
+I can't see a thing.
+
+119
+00:04:38,080 --> 00:04:42,400
+And at some level, we farmed out tyranny to private companies.
+
+120
+00:04:42,400 --> 00:04:45,440
+Let's talk about what COVID exposed
+
+121
+00:04:45,440 --> 00:04:48,800
+as far as the dynamic between the US and China for a second.
+
+122
+00:04:48,800 --> 00:04:51,960
+So very broadly and crudely speaking,
+
+123
+00:04:51,960 --> 00:04:55,080
+we've moved away from a manufacturing economy
+
+124
+00:04:55,080 --> 00:04:57,920
+towards more of a kind of service-based economy.
+
+125
+00:04:57,920 --> 00:05:00,520
+And we've become dependent on supply chains
+
+126
+00:05:00,520 --> 00:05:04,880
+abroad for all sorts of essential goods and services.
+
+127
+00:05:04,880 --> 00:05:07,560
+We've basically outsourced our sort of self-sufficiency.
+
+128
+00:05:07,560 --> 00:05:09,400
+And so what do we do?
+
+129
+00:05:09,400 --> 00:05:11,800
+It feels like we've done nothing as far as.
+
+130
+00:05:11,800 --> 00:05:12,640
+We don't exist.
+
+131
+00:05:12,640 --> 00:05:14,360
+I think you're thinking too small.
+
+132
+00:05:14,360 --> 00:05:15,000
+OK.
+
+133
+00:05:15,000 --> 00:05:17,160
+I don't think, when you say the US and China,
+
+134
+00:05:17,160 --> 00:05:18,840
+that you're talking about two countries.
+
+135
+00:05:18,840 --> 00:05:21,680
+You're talking about a country that exists, which is China,
+
+136
+00:05:21,680 --> 00:05:24,720
+and a country that has existed in the past that
+
+137
+00:05:24,720 --> 00:05:26,240
+does not exist now.
+
+138
+00:05:26,240 --> 00:05:27,880
+And that what happened in World War II
+
+139
+00:05:27,880 --> 00:05:32,520
+is that we had such a coherence that it took a very long time
+
+140
+00:05:32,520 --> 00:05:35,360
+for the decay function to eradicate
+
+141
+00:05:35,360 --> 00:05:37,480
+the ability of that country to do things.
+
+142
+00:05:37,480 --> 00:05:39,240
+And now we've gotten to that point
+
+143
+00:05:39,240 --> 00:05:42,160
+where we're looking for a disaster to call us
+
+144
+00:05:42,160 --> 00:05:43,480
+into being a country again.
+
+145
+00:05:43,480 --> 00:05:44,000
+That's right.
+
+146
+00:05:44,000 --> 00:05:46,080
+And our elites are inherently transnational.
+
+147
+00:05:46,320 --> 00:05:48,920
+We don't have any.
+
+148
+00:05:48,920 --> 00:05:51,040
+So the elites aren't.
+
+149
+00:05:51,040 --> 00:05:52,760
+Sitting in an elite chair does not
+
+150
+00:05:52,760 --> 00:05:54,480
+make you elite any more than sitting
+
+151
+00:05:54,480 --> 00:05:57,440
+in a pilot seat in a plane gives you the ability to fly it.
+
+152
+00:05:57,440 --> 00:06:00,840
+Somebody once asked George Burns, do you play the violin?
+
+153
+00:06:00,840 --> 00:06:02,640
+He says, I don't know, I never tried.
+
+154
+00:06:02,640 --> 00:06:06,600
+You want an elite surgeon for your child's heart operation.
+
+155
+00:06:06,600 --> 00:06:09,960
+You want elite commandos to go in and take the bad guys out
+
+156
+00:06:09,960 --> 00:06:12,480
+without hurting anybody else.
+
+157
+00:06:12,480 --> 00:06:14,240
+But we don't want an elite anywhere else,
+
+158
+00:06:14,280 --> 00:06:16,280
+because we keep hearing about the elite, the elite, the elite.
+
+159
+00:06:16,280 --> 00:06:17,800
+Well, they aren't.
+
+160
+00:06:17,800 --> 00:06:23,400
+Is it safe to say that Wall Street consulting and big tech
+
+161
+00:06:23,400 --> 00:06:26,280
+are all good examples where the incentives
+
+162
+00:06:26,280 --> 00:06:32,120
+around protecting America, those are after self-enrichment?
+
+163
+00:06:32,120 --> 00:06:34,920
+You've picked three really interesting, weird examples.
+
+164
+00:06:34,920 --> 00:06:38,480
+Because these are like the only places where
+
+165
+00:06:38,480 --> 00:06:40,840
+smart college graduates can reliably
+
+166
+00:06:40,840 --> 00:06:44,120
+go to earn six figures if they're willing to work themselves
+
+167
+00:06:44,120 --> 00:06:45,520
+to a crisp.
+
+168
+00:06:45,520 --> 00:06:48,680
+And that's the only way to not have debt, basically,
+
+169
+00:06:48,680 --> 00:06:50,120
+is to do one of those three things.
+
+170
+00:06:50,120 --> 00:06:52,880
+Well, you didn't mention porn or cannabis.
+
+171
+00:06:52,880 --> 00:06:55,280
+That was also possible new creation.
+
+172
+00:06:55,280 --> 00:06:59,760
+Well, look, I did this program with Sugar Baby University.
+
+173
+00:06:59,760 --> 00:07:02,440
+And I tried to shock the boomers and say,
+
+174
+00:07:02,440 --> 00:07:04,840
+you do realize that you're selling your daughters
+
+175
+00:07:04,840 --> 00:07:09,440
+into gray area prostitution through sugar dating.
+
+176
+00:07:09,440 --> 00:07:10,640
+And they don't even hear it.
+
+177
+00:07:11,240 --> 00:07:13,880
+You ask your kids going to college campuses,
+
+178
+00:07:13,880 --> 00:07:17,760
+how many people are sugaring in order
+
+179
+00:07:17,760 --> 00:07:20,000
+to make sure that they graduate without debt.
+
+180
+00:07:20,000 --> 00:07:22,800
+And it's an open secret among the kids.
+
+181
+00:07:27,680 --> 00:07:30,480
+There's not much of anything left, Jesse.
+
+182
+00:07:30,480 --> 00:07:33,720
+What we're doing is we're watching the decay of things
+
+183
+00:07:33,720 --> 00:07:36,400
+that were built by previous generations.
+
+184
+00:07:36,400 --> 00:07:38,960
+And we're not excited to get up off the couch.
+
+185
+00:07:39,440 --> 00:07:43,160
+Is there any way to reboot any of these institutions?
+
+186
+00:07:43,160 --> 00:07:44,680
+Sure, sure, sure, sure.
+
+187
+00:07:44,680 --> 00:07:46,240
+How do we do that?
+
+188
+00:07:46,240 --> 00:07:48,240
+Well, first of all, you have to pick one.
+
+189
+00:07:48,240 --> 00:07:49,200
+We don't know which one.
+
+190
+00:07:49,200 --> 00:07:50,640
+We don't know how.
+
+191
+00:07:50,640 --> 00:07:52,880
+But assume that you could take back one.
+
+192
+00:07:52,880 --> 00:07:54,800
+And you gave it the ability to say no.
+
+193
+00:07:54,800 --> 00:07:59,360
+It'd be very easy, for example, to endow a university
+
+194
+00:07:59,360 --> 00:08:01,040
+to just insulate it.
+
+195
+00:08:01,040 --> 00:08:05,600
+We're going to take the most dangerous safe thinkers, who
+
+196
+00:08:05,840 --> 00:08:08,240
+actually have new ideas that are reasonable and not
+
+197
+00:08:08,240 --> 00:08:09,320
+mean-spirited.
+
+198
+00:08:09,320 --> 00:08:11,320
+And we're going to make sure that they're not
+
+199
+00:08:11,320 --> 00:08:12,800
+subject to market forces.
+
+200
+00:08:12,800 --> 00:08:14,960
+So they can do whatever they want and protect them.
+
+201
+00:08:14,960 --> 00:08:18,360
+But you have individuals who are still not dead.
+
+202
+00:08:18,360 --> 00:08:22,520
+That's a great segue into you've attempted to almost
+
+203
+00:08:22,520 --> 00:08:26,200
+do the impossible, which is to coalesce these sort of
+
+204
+00:08:26,200 --> 00:08:31,760
+atomized truth-teller gadflies, where sometimes small
+
+205
+00:08:31,760 --> 00:08:33,920
+disagreements between the students and the students
+
+206
+00:08:33,920 --> 00:08:37,520
+sometimes small disagreements between them make it hard to
+
+207
+00:08:37,520 --> 00:08:39,280
+create a coherent unit.
+
+208
+00:08:39,280 --> 00:08:43,560
+And I think if I were to create one sort of pin for all
+
+209
+00:08:43,560 --> 00:08:45,720
+of it, you might be it.
+
+210
+00:08:45,720 --> 00:08:46,880
+How do you do that?
+
+211
+00:08:46,880 --> 00:08:49,000
+We try it.
+
+212
+00:08:49,000 --> 00:08:51,360
+It works vaguely.
+
+213
+00:08:51,360 --> 00:08:53,000
+But you need brick and mortar.
+
+214
+00:08:53,000 --> 00:08:55,520
+And you need people who are empowered.
+
+215
+00:08:55,520 --> 00:08:58,920
+And you need people with stakes in the game.
+
+216
+00:08:58,920 --> 00:09:01,800
+I get very bored of saying this, because it doesn't do
+
+217
+00:09:01,800 --> 00:09:03,320
+good things for me.
+
+218
+00:09:03,320 --> 00:09:05,880
+Yes, I am trying to coalesce people.
+
+219
+00:09:05,880 --> 00:09:11,080
+But let's be honest, nobody wants to put FU money into
+
+220
+00:09:11,080 --> 00:09:12,960
+people who actually say FU.
+
+221
+00:09:12,960 --> 00:09:14,840
+You're not comfortable with actual heroes.
+
+222
+00:09:14,840 --> 00:09:15,480
+I think that's right.
+
+223
+00:09:15,480 --> 00:09:18,840
+I mean, your line on it is Charles Lindbergh is our last
+
+224
+00:09:18,840 --> 00:09:19,600
+hero.
+
+225
+00:09:19,600 --> 00:09:21,960
+Well, he was a scoundrel.
+
+226
+00:09:21,960 --> 00:09:22,560
+He was a scoundrel.
+
+227
+00:09:22,560 --> 00:09:23,080
+He was a scoundrel.
+
+228
+00:09:23,080 --> 00:09:24,760
+He didn't like our people.
+
+229
+00:09:24,760 --> 00:09:25,440
+He did not.
+
+230
+00:09:25,440 --> 00:09:29,400
+But the point was, he was a national hero who had the
+
+231
+00:09:29,400 --> 00:09:33,960
+power to lead the country out of a war orientation and say
+
+232
+00:09:33,960 --> 00:09:37,880
+this is a Jewish-British problem, America first.
+
+233
+00:09:37,880 --> 00:09:40,800
+And the idea that an individual would amass that
+
+234
+00:09:40,800 --> 00:09:43,000
+kind of power was something I think that we, the
+
+235
+00:09:43,000 --> 00:09:46,080
+government, we officialdom, learned we can't have anymore.
+
+236
+00:09:46,080 --> 00:09:49,160
+And it feels like there's a general malaise among my
+
+237
+00:09:49,160 --> 00:09:52,400
+generation and Gen Z to some extent.
+
+238
+00:09:52,400 --> 00:09:55,760
+Millennials own 4.8% of the wealth in this country.
+
+239
+00:09:55,760 --> 00:10:01,000
+Look at a city like LA, real wages have basically
+
+240
+00:10:01,000 --> 00:10:03,920
+stagnated, maybe risen slightly.
+
+241
+00:10:03,920 --> 00:10:07,760
+And then cost of living has 20 to 30x if you just take real
+
+242
+00:10:07,760 --> 00:10:09,080
+estate or something like that.
+
+243
+00:10:09,080 --> 00:10:11,440
+Doesn't fucking make any sense anymore.
+
+244
+00:10:11,440 --> 00:10:15,160
+And you guys need to fall in love with each other and get
+
+245
+00:10:15,160 --> 00:10:18,560
+each other pregnant and deal with the responsibility of the
+
+246
+00:10:18,560 --> 00:10:20,960
+consequences of those actions.
+
+247
+00:10:20,960 --> 00:10:22,880
+And you're not equipped.
+
+248
+00:10:22,920 --> 00:10:27,040
+And as I'm fond of saying, I love you guys not as much as I
+
+249
+00:10:27,040 --> 00:10:27,840
+love Gen Z.
+
+250
+00:10:27,840 --> 00:10:30,720
+Gen Z is my children, right?
+
+251
+00:10:30,720 --> 00:10:33,560
+So you guys are my audience, but Gen Z is my kids.
+
+252
+00:10:33,560 --> 00:10:38,480
+So I love you, but not as much as Gen Z.
+
+253
+00:10:38,480 --> 00:10:42,320
+Your parents don't love you as much as I love you guys, and
+
+254
+00:10:42,320 --> 00:10:43,560
+that's what kills me.
+
+255
+00:10:52,880 --> 00:10:55,720
+All of that is basically algorithmic, and it's the
+
+256
+00:10:55,720 --> 00:10:57,880
+algorithms that break your heart.
+
+257
+00:10:57,880 --> 00:11:03,440
+You don't realize that Pachelbel is emotional because
+
+258
+00:11:03,440 --> 00:11:04,680
+it's not even music.
+
+259
+00:11:04,680 --> 00:11:05,920
+It's math.
+
+260
+00:11:07,920 --> 00:11:11,880
+So the reason that it's your parents' wedding song is that
+
+261
+00:11:11,880 --> 00:11:14,800
+your parents wanted people to feel.
+
+262
+00:11:14,800 --> 00:11:16,440
+So they chose an algorithm.
+
+263
+00:11:16,440 --> 00:11:18,680
+Let's talk about boomer neglect.
+
+264
+00:11:18,680 --> 00:11:20,480
+Who understands these people?
+
+265
+00:11:20,880 --> 00:11:21,640
+No one.
+
+266
+00:11:21,640 --> 00:11:26,760
+You had to go through what they went through to understand
+
+267
+00:11:26,760 --> 00:11:28,720
+their crazy mindset.
+
+268
+00:11:28,720 --> 00:11:32,600
+And I don't mean to say that individually, we don't have
+
+269
+00:11:32,600 --> 00:11:34,360
+lovely relationships with them.
+
+270
+00:11:34,360 --> 00:11:35,200
+We do.
+
+271
+00:11:35,200 --> 00:11:37,440
+But they went through something.
+
+272
+00:11:37,440 --> 00:11:38,680
+What did they go?
+
+273
+00:11:38,680 --> 00:11:41,480
+Because it feels like, in some sense, they
+
+274
+00:11:41,480 --> 00:11:42,400
+went through nothing.
+
+275
+00:11:42,400 --> 00:11:46,600
+They benefited from massive growth post-World War II.
+
+276
+00:11:46,800 --> 00:11:50,320
+46 through 64 is the rough sort of range.
+
+277
+00:11:50,320 --> 00:11:53,760
+And so that, I feel like, creates all sorts of weird
+
+278
+00:11:53,760 --> 00:11:56,640
+psychological dynamics where you're given, if you were to
+
+279
+00:11:56,640 --> 00:12:01,400
+buy real estate between the 50s and the 80s and on the
+
+280
+00:12:01,400 --> 00:12:05,720
+coasts, the amount of wealth you accrue just through that.
+
+281
+00:12:05,720 --> 00:12:06,280
+Right.
+
+282
+00:12:06,280 --> 00:12:08,040
+Our whole story is off.
+
+283
+00:12:08,040 --> 00:12:11,120
+One, the greatest generation, which supposedly won World War
+
+284
+00:12:11,120 --> 00:12:14,160
+II by fighting the Germans hand-to-hand and blocking the
+
+285
+00:12:14,200 --> 00:12:16,880
+tube, by fighting the Germans hand-to-hand and blah, blah,
+
+286
+00:12:16,880 --> 00:12:20,840
+blah, always ignores that the Soviets did a ton, and the
+
+287
+00:12:20,840 --> 00:12:24,000
+physicists finished it off in Japan.
+
+288
+00:12:24,000 --> 00:12:25,840
+So yeah, we took casualties.
+
+289
+00:12:25,840 --> 00:12:28,240
+And people went through things, and they saw things.
+
+290
+00:12:28,240 --> 00:12:31,880
+But we didn't go through Stalingrad.
+
+291
+00:12:31,880 --> 00:12:35,080
+So first of all, you have this problem that a lot of GIs came
+
+292
+00:12:35,080 --> 00:12:40,040
+back home as the conquering heroes who didn't see the kind
+
+293
+00:12:40,040 --> 00:12:42,680
+of action, let's say, that the Soviets saw.
+
+294
+00:12:42,680 --> 00:12:45,600
+Then you have the silent generation that follows the
+
+295
+00:12:45,600 --> 00:12:48,920
+greatest generation, which actually, Joe Biden comes from
+
+296
+00:12:48,920 --> 00:12:49,680
+that generation.
+
+297
+00:12:49,680 --> 00:12:54,080
+We've gone backwards from boomers into the silence now.
+
+298
+00:12:54,080 --> 00:12:57,280
+And they sort of grow up with this post-World War II
+
+299
+00:12:57,280 --> 00:12:59,160
+prosperity that they can't get to work.
+
+300
+00:12:59,160 --> 00:13:04,760
+So Joe Biden begins as a 29-year-old senator in 1972.
+
+301
+00:13:04,760 --> 00:13:08,680
+And then the boomers are like after this, and they're set to
+
+302
+00:13:08,680 --> 00:13:11,160
+be the first generation that can't get the
+
+303
+00:13:11,160 --> 00:13:14,040
+American dream to work.
+
+304
+00:13:14,040 --> 00:13:16,640
+And because of the culture of personal responsibility, the
+
+305
+00:13:16,640 --> 00:13:20,440
+idea of just failing at the American dream,
+
+306
+00:13:20,440 --> 00:13:23,200
+it's like not an option.
+
+307
+00:13:23,200 --> 00:13:26,440
+So China becomes the source of the American dream.
+
+308
+00:13:26,440 --> 00:13:30,960
+It's really the Chinese dream of getting wealthy Americans to
+
+309
+00:13:30,960 --> 00:13:33,920
+sell things off to China so that they can pretend to live
+
+310
+00:13:33,920 --> 00:13:37,680
+better than their parents in a weird way.
+
+311
+00:13:37,680 --> 00:13:38,920
+So then what's Gen X?
+
+312
+00:13:39,920 --> 00:13:42,360
+We're the jet-washed generation.
+
+313
+00:13:42,360 --> 00:13:45,160
+We follow the boomers and the silence.
+
+314
+00:13:45,160 --> 00:13:49,520
+We get a chance to see the world that they sort of saw.
+
+315
+00:13:49,520 --> 00:13:51,600
+We're the last ones to have any vision of
+
+316
+00:13:51,600 --> 00:13:54,040
+functional journalism.
+
+317
+00:13:54,040 --> 00:13:55,800
+I remember functional journalism from when I was
+
+318
+00:13:55,800 --> 00:13:59,120
+five in Vietnam.
+
+319
+00:13:59,120 --> 00:14:06,000
+And we grow up in a 75-year peace bubble.
+
+320
+00:14:06,000 --> 00:14:08,200
+So we don't know reality.
+
+321
+00:14:08,200 --> 00:14:10,200
+You guys know less about reality because you didn't
+
+322
+00:14:10,200 --> 00:14:16,000
+even see the tail end of functional society.
+
+323
+00:14:16,000 --> 00:14:20,080
+And Gen Z is looking at all of us and saying, are you all just
+
+324
+00:14:20,080 --> 00:14:21,840
+effing crazy?
+
+325
+00:14:21,840 --> 00:14:25,760
+So if something close to 40% of the wealth that millennials
+
+326
+00:14:25,760 --> 00:14:30,520
+hold is in one set of hands of a guy who's on a hydrofoil with
+
+327
+00:14:30,520 --> 00:14:34,160
+an American flag for July 4th saying, hey, we've got a
+
+328
+00:14:34,160 --> 00:14:35,320
+terrible labor shortage.
+
+329
+00:14:35,320 --> 00:14:37,360
+Please give me all the visas so I don't actually have to
+
+330
+00:14:37,360 --> 00:14:42,680
+pay my workers, no.
+
+331
+00:14:42,680 --> 00:14:44,560
+You can't do that.
+
+332
+00:14:44,560 --> 00:14:46,120
+Because that's an advertisement for
+
+333
+00:14:46,120 --> 00:14:47,640
+redistribution of wealth.
+
+334
+00:14:47,640 --> 00:14:52,640
+If you want an unequal society as I do, where different
+
+335
+00:14:52,640 --> 00:14:55,480
+levels of ability and different levels of drive and
+
+336
+00:14:55,480 --> 00:14:59,800
+risk management are rewarded at different levels, it can't
+
+337
+00:14:59,800 --> 00:15:01,600
+be this dumb.
+
+338
+00:15:01,600 --> 00:15:04,000
+This is an argument for communism.
+
+339
+00:15:04,000 --> 00:15:08,360
+Our current capitalism is an argument for communism.
+
+340
+00:15:08,360 --> 00:15:12,800
+We need a capitalism that is an argument for capitalism.
+
+341
+00:15:12,800 --> 00:15:17,320
+Is there a point at which if you're a burgeoning tech
+
+342
+00:15:17,320 --> 00:15:20,800
+entrepreneur and you start to scale and you start to make
+
+343
+00:15:20,800 --> 00:15:23,920
+money and you start to connect with people at high levels of
+
+344
+00:15:23,920 --> 00:15:27,960
+society, you just sort of become co-opted and all of
+
+345
+00:15:27,960 --> 00:15:31,440
+your ideas go out the window?
+
+346
+00:15:31,440 --> 00:15:37,720
+Nobody plans for what success is going to do to them.
+
+347
+00:15:37,720 --> 00:15:40,520
+We talked about this earlier on the car ride over.
+
+348
+00:15:40,520 --> 00:15:42,400
+It's sort of a scilla and charybdis a
+
+349
+00:15:42,400 --> 00:15:44,280
+young person has to face.
+
+350
+00:15:44,280 --> 00:15:48,480
+And on the one hand, it's work on scholarly academic things
+
+351
+00:15:48,480 --> 00:15:50,160
+but don't get any support.
+
+352
+00:15:50,160 --> 00:15:52,920
+You can't really do too many interesting things.
+
+353
+00:15:52,920 --> 00:15:57,400
+Or it's go into commercial activity, try to make as much
+
+354
+00:15:57,400 --> 00:15:59,360
+money as possible, but lose the plot.
+
+355
+00:15:59,360 --> 00:16:01,440
+But what are you doing?
+
+356
+00:16:01,440 --> 00:16:05,240
+I'm attempting to marry the two.
+
+357
+00:16:05,240 --> 00:16:08,080
+And it's a tightrope act.
+
+358
+00:16:08,080 --> 00:16:09,200
+And I don't know if I'm going to pull it off.
+
+359
+00:16:09,200 --> 00:16:10,520
+That's why I'm here.
+
+360
+00:16:10,520 --> 00:16:11,160
+Thank you, Eric.
+
+361
+00:16:11,160 --> 00:16:14,080
+No, because this is an amazing idea.
+
+362
+00:16:14,080 --> 00:16:17,840
+If you can not get sucked in to doing cool stuff that gets
+
+363
+00:16:17,840 --> 00:16:20,000
+you clicks, and keep in mind, you're going to get captured
+
+364
+00:16:20,000 --> 00:16:21,840
+by your audience.
+
+365
+00:16:21,840 --> 00:16:24,560
+If you confuse these two things, then you can
+
+366
+00:16:24,560 --> 00:16:28,320
+potentially do something financial that creates the
+
+367
+00:16:28,320 --> 00:16:32,320
+monetary input to allow you to do something scholarly that
+
+368
+00:16:32,320 --> 00:16:35,280
+allows you to gain insight to inform your ability to make
+
+369
+00:16:35,280 --> 00:16:35,760
+more money.
+
+370
+00:16:35,760 --> 00:16:38,720
+If you can get that figure eight thing going, that's the
+
+371
+00:16:38,720 --> 00:16:39,840
+holy grail.
+
+372
+00:16:39,840 --> 00:16:43,560
+Let's talk about another example of this in Elon Musk.
+
+373
+00:16:43,560 --> 00:16:47,920
+I think you both have the same premise but then come to
+
+374
+00:16:47,920 --> 00:16:50,840
+almost vastly different conclusions as to what to do
+
+375
+00:16:50,840 --> 00:16:52,800
+about that premise.
+
+376
+00:16:52,800 --> 00:16:56,720
+He seems to think that we need to get off this earth with
+
+377
+00:16:56,720 --> 00:16:58,080
+physical rockets.
+
+378
+00:16:58,480 --> 00:17:01,320
+He thinks that we need to get off this earth.
+
+379
+00:17:01,320 --> 00:17:02,280
+Let's start there.
+
+380
+00:17:02,280 --> 00:17:03,280
+Yes.
+
+381
+00:17:03,280 --> 00:17:04,120
+Same premise.
+
+382
+00:17:04,120 --> 00:17:06,040
+The same premise.
+
+383
+00:17:06,040 --> 00:17:08,680
+We don't know if he thinks that it's with rockets or rockets
+
+384
+00:17:08,680 --> 00:17:10,320
+is the best he can do.
+
+385
+00:17:10,320 --> 00:17:13,640
+If you believe that humans have to diversify because a
+
+386
+00:17:13,640 --> 00:17:16,280
+single planetary surface effectively creates one
+
+387
+00:17:16,280 --> 00:17:19,960
+synchronized experiment, you'd have to ask how many
+
+388
+00:17:19,960 --> 00:17:23,240
+different ways are there of getting off of this planet.
+
+389
+00:17:23,240 --> 00:17:25,760
+And there's getting off with the chemistry and physics that
+
+390
+00:17:25,760 --> 00:17:28,120
+we know, which is rockets.
+
+391
+00:17:28,120 --> 00:17:30,200
+And we know that that's good enough for the moon.
+
+392
+00:17:30,200 --> 00:17:33,080
+And marginally, it may be good enough for Mars.
+
+393
+00:17:33,080 --> 00:17:36,720
+Super tough to imagine that working, but OK.
+
+394
+00:17:36,720 --> 00:17:38,360
+You can imagine a space station or two.
+
+395
+00:17:38,360 --> 00:17:42,600
+You can even go crazier and imagine Titan around Saturn.
+
+396
+00:17:42,600 --> 00:17:44,240
+But Elon's a physics guy.
+
+397
+00:17:44,240 --> 00:17:45,480
+He's got a physics background.
+
+398
+00:17:48,280 --> 00:17:54,240
+The other great option is to say Einstein recovered Newton
+
+399
+00:17:54,240 --> 00:17:55,680
+in a limit.
+
+400
+00:17:55,680 --> 00:18:01,040
+You may be able to evade faster than light problems
+
+401
+00:18:01,040 --> 00:18:03,680
+because faster than light is about space time.
+
+402
+00:18:03,680 --> 00:18:07,520
+That's an Einsteinian concept.
+
+403
+00:18:07,520 --> 00:18:14,280
+GU is intended to say, here are some extra parameters that
+
+404
+00:18:14,280 --> 00:18:16,560
+you've never had access to that can
+
+405
+00:18:16,560 --> 00:18:18,960
+recover relativity theory.
+
+406
+00:18:18,960 --> 00:18:22,000
+Relativity might live within something broader.
+
+407
+00:18:22,000 --> 00:18:23,440
+Right.
+
+408
+00:18:23,440 --> 00:18:26,640
+And in GU, you can say exactly where it lives.
+
+409
+00:18:26,640 --> 00:18:29,560
+Now, that's an insanely exciting prospect.
+
+410
+00:18:29,560 --> 00:18:34,120
+And you went on Joe Rogan and presented this to the world.
+
+411
+00:18:34,120 --> 00:18:37,360
+This is all very hard for the average person to follow.
+
+412
+00:18:37,360 --> 00:18:42,440
+But I think it's incredibly valuable
+
+413
+00:18:42,440 --> 00:18:44,280
+to just release it for the average.
+
+414
+00:18:44,280 --> 00:18:46,200
+I'm sorry to everybody.
+
+415
+00:18:46,200 --> 00:18:47,840
+And this is my cursory understanding.
+
+416
+00:18:47,840 --> 00:18:51,200
+But it feels like there are, what, five people on Earth
+
+417
+00:18:51,200 --> 00:18:54,480
+or something who can even try to read this stuff.
+
+418
+00:18:54,480 --> 00:18:55,920
+Maybe there are no people on Earth.
+
+419
+00:18:55,920 --> 00:18:57,640
+I don't know.
+
+420
+00:18:57,640 --> 00:19:00,560
+How do you get this stuff out?
+
+421
+00:19:00,560 --> 00:19:03,480
+People don't understand what I did or why I did it.
+
+422
+00:19:03,480 --> 00:19:06,080
+Because it's different enough and it was weird enough
+
+423
+00:19:06,080 --> 00:19:07,280
+that they didn't grasp it.
+
+424
+00:19:07,280 --> 00:19:12,720
+It wasn't about teaching Joe Rogan physics inside of a show.
+
+425
+00:19:12,720 --> 00:19:17,840
+It's about the fact that there is no way now
+
+426
+00:19:17,840 --> 00:19:25,200
+to go back and take that theory away because there's
+
+427
+00:19:25,200 --> 00:19:28,360
+a record of when it happened.
+
+428
+00:19:28,360 --> 00:19:31,400
+And the reason that Joe Rogan's program is so important
+
+429
+00:19:31,400 --> 00:19:32,880
+is it has so many eyeballs on it.
+
+430
+00:19:32,880 --> 00:19:34,800
+So I think that there's a famous scene in one
+
+431
+00:19:34,800 --> 00:19:38,320
+of the Mission Impossible movies where Tom Cruise has to meet
+
+432
+00:19:38,320 --> 00:19:40,200
+with people who want him dead.
+
+433
+00:19:40,200 --> 00:19:42,840
+And he chooses to meet in a public square.
+
+434
+00:19:42,840 --> 00:19:45,320
+And he's got the only copy of the information
+
+435
+00:19:45,360 --> 00:19:47,360
+inside of his head so that killing him
+
+436
+00:19:47,360 --> 00:19:51,120
+will destroy the information.
+
+437
+00:19:51,120 --> 00:19:53,240
+In essence, that's the sort of a problem.
+
+438
+00:19:53,240 --> 00:19:55,680
+Academics has become so poisonous,
+
+439
+00:19:55,680 --> 00:20:00,480
+so focused on enforcing the rules that nobody
+
+440
+00:20:00,480 --> 00:20:01,680
+can afford to think.
+
+441
+00:20:01,680 --> 00:20:05,160
+In order to get things right, you have to get things wrong.
+
+442
+00:20:05,160 --> 00:20:07,000
+And we won't allow people to get things wrong
+
+443
+00:20:07,000 --> 00:20:11,160
+unless it's part of a program that's been blessed.
+
+444
+00:20:11,160 --> 00:20:15,240
+So that was a time stamped ubiquitously scene.
+
+445
+00:20:15,240 --> 00:20:16,160
+That was the point of it.
+
+446
+00:20:16,160 --> 00:20:17,320
+People didn't understand it.
+
+447
+00:20:17,320 --> 00:20:21,120
+The other thing is that there are no protections
+
+448
+00:20:21,120 --> 00:20:25,120
+inside of science for taking somebody else's work
+
+449
+00:20:25,120 --> 00:20:28,120
+and putting another person's name on it.
+
+450
+00:20:28,120 --> 00:20:29,280
+This was a good protection.
+
+451
+00:20:29,280 --> 00:20:31,520
+Well, and I put something saying that I
+
+452
+00:20:31,520 --> 00:20:34,600
+choose to be an entertainer rather than a scientist.
+
+453
+00:20:34,600 --> 00:20:37,280
+And therefore, it has copyright protection.
+
+454
+00:20:37,280 --> 00:20:40,120
+Where do we go from here on GU in terms of?
+
+455
+00:20:40,120 --> 00:20:46,160
+Somebody is going to have to actually grasp
+
+456
+00:20:46,160 --> 00:20:49,400
+the ideas inside of GU.
+
+457
+00:20:49,400 --> 00:20:51,640
+But here's the thing, Jesse.
+
+458
+00:20:51,640 --> 00:20:55,000
+I don't really care about the interpersonal.
+
+459
+00:20:55,000 --> 00:20:56,240
+I want a nice life.
+
+460
+00:20:56,240 --> 00:20:59,720
+I want my family left alone.
+
+461
+00:20:59,720 --> 00:21:03,600
+And I want to be insulated, so I don't need to worry every day.
+
+462
+00:21:03,600 --> 00:21:05,080
+But it's the ideas.
+
+463
+00:21:05,080 --> 00:21:10,400
+If the ideas in GU are wrong, then they're just wrong.
+
+464
+00:21:10,400 --> 00:21:14,200
+If the GU ideas are right, but there are small errors,
+
+465
+00:21:14,200 --> 00:21:17,480
+as there have been every time anybody's accomplished anything
+
+466
+00:21:17,480 --> 00:21:20,840
+in this kind of a way, fine.
+
+467
+00:21:20,840 --> 00:21:21,600
+Not a big deal.
+
+468
+00:21:21,600 --> 00:21:23,600
+Let's fix some errors.
+
+469
+00:21:23,600 --> 00:21:26,320
+But people have these weird things that they want to do.
+
+470
+00:21:26,320 --> 00:21:28,720
+They want to turn this into drama.
+
+471
+00:21:28,720 --> 00:21:33,280
+So for example, Einstein and Hilbert.
+
+472
+00:21:33,320 --> 00:21:36,560
+Supposedly, Hilbert almost scooped Einstein,
+
+473
+00:21:36,560 --> 00:21:38,640
+but Einstein pulled it out of the, no.
+
+474
+00:21:38,640 --> 00:21:40,920
+Nothing like this remotely happened.
+
+475
+00:21:40,920 --> 00:21:44,840
+Einstein and Grossman were on general relativity.
+
+476
+00:21:44,840 --> 00:21:46,240
+Hilbert did something.
+
+477
+00:21:46,240 --> 00:21:48,200
+Even if Hilbert had gotten there first, it wouldn't have
+
+478
+00:21:48,200 --> 00:21:51,000
+mattered, the ideas were from Einstein.
+
+479
+00:21:51,000 --> 00:21:57,160
+We want to create moronic horse races because it's exciting.
+
+480
+00:21:57,160 --> 00:21:58,960
+You have like eight different frames.
+
+481
+00:21:58,960 --> 00:22:02,760
+Like you can go, yeah, you could talk to a biologist.
+
+482
+00:22:02,760 --> 00:22:04,560
+You can talk to a physicist.
+
+483
+00:22:04,560 --> 00:22:06,960
+You can talk math.
+
+484
+00:22:06,960 --> 00:22:09,120
+You're a cultural commentator.
+
+485
+00:22:09,120 --> 00:22:13,480
+And so I might have annoyed the shit out of you in the
+
+486
+00:22:13,480 --> 00:22:17,360
+process of trying to get you to start the portal.
+
+487
+00:22:17,360 --> 00:22:21,120
+No, the issue is I didn't want to become famous.
+
+488
+00:22:21,120 --> 00:22:23,840
+I wanted my ideas to become famous, and I wanted to be the
+
+489
+00:22:23,840 --> 00:22:25,520
+owner of those ideas.
+
+490
+00:22:25,520 --> 00:22:31,400
+If it weren't for you, I wouldn't know that the problem
+
+491
+00:22:31,400 --> 00:22:34,280
+isn't getting the ideas out there.
+
+492
+00:22:34,280 --> 00:22:36,520
+You can get the ideas out there.
+
+493
+00:22:36,520 --> 00:22:40,080
+The problem now is that the ideas are like seeds that need
+
+494
+00:22:40,080 --> 00:22:44,320
+to find soil and rain and the proper temperature.
+
+495
+00:22:44,320 --> 00:22:45,720
+We don't have that at the moment.
+
+496
+00:22:45,720 --> 00:22:51,680
+We have a world in which you can teach a person to fish.
+
+497
+00:22:51,680 --> 00:22:52,520
+You're not even giving them fish.
+
+498
+00:22:52,520 --> 00:22:55,160
+You can teach them to fish, and they will starve for lack
+
+499
+00:22:55,160 --> 00:22:58,560
+of, like they won't understand that when you're gone, they
+
+500
+00:22:58,560 --> 00:23:00,440
+have to go fish.
+
+501
+00:23:00,440 --> 00:23:03,400
+We don't have culture that's proper.
+
+502
+00:23:03,400 --> 00:23:05,040
+It's really important to understand how
+
+503
+00:23:05,040 --> 00:23:09,160
+counterintuitive the US, where we live, is as an
+
+504
+00:23:09,160 --> 00:23:10,800
+intellectual system.
+
+505
+00:23:10,800 --> 00:23:14,760
+We expect you to not take advantage of all of the
+
+506
+00:23:14,760 --> 00:23:16,880
+freedoms that we give you.
+
+507
+00:23:16,880 --> 00:23:20,480
+The purpose of freedom is not understood by people.
+
+508
+00:23:20,480 --> 00:23:23,080
+I often compare it to things like freedom,
+
+509
+00:23:23,080 --> 00:23:25,040
+potential, and sperm.
+
+510
+00:23:25,040 --> 00:23:29,640
+You're not supposed to use all of it.
+
+511
+00:23:29,640 --> 00:23:30,320
+So you have potential.
+
+512
+00:23:30,320 --> 00:23:31,320
+You could do anything in your life.
+
+513
+00:23:31,320 --> 00:23:33,840
+But you're not going to both become an opera singer and a
+
+514
+00:23:33,840 --> 00:23:41,480
+Formula One driver and a nutrient company CEO, and
+
+515
+00:23:41,480 --> 00:23:42,480
+et cetera, et cetera, et cetera.
+
+516
+00:23:42,480 --> 00:23:43,720
+You're not going to get to do everything.
+
+517
+00:23:43,720 --> 00:23:48,600
+Every life is about the forgoing of opportunity.
+
+518
+00:23:48,600 --> 00:23:52,080
+There's something about the hard choice thing that seems
+
+519
+00:23:52,080 --> 00:23:53,920
+lost on my generation.
+
+520
+00:23:53,920 --> 00:23:57,200
+We seem to all have an illusion of omnipossibility.
+
+521
+00:23:57,200 --> 00:23:59,280
+And that's all you've been given.
+
+522
+00:23:59,280 --> 00:24:01,400
+You've been given your future because you're not being
+
+523
+00:24:01,400 --> 00:24:03,080
+given your present.
+
+524
+00:24:03,080 --> 00:24:05,280
+And the future that you're being given is
+
+525
+00:24:05,280 --> 00:24:07,400
+largely illusory.
+
+526
+00:24:07,400 --> 00:24:10,880
+And that thing is making me crazy, because I would rather
+
+527
+00:24:10,880 --> 00:24:15,040
+deal you guys in on a future that's real.
+
+528
+00:24:15,040 --> 00:24:18,280
+My favorite tweet that I let off recently was something
+
+529
+00:24:18,280 --> 00:24:20,800
+about, for all of you who decided to have a kid during
+
+530
+00:24:20,800 --> 00:24:23,800
+coming, I have to be careful not to tear up on camera, but
+
+531
+00:24:23,800 --> 00:24:25,680
+people started sending me ultrasounds.
+
+532
+00:24:25,680 --> 00:24:27,760
+We've got two in the oven.
+
+533
+00:24:28,680 --> 00:24:31,000
+We have to thank you for telling us to have kids.
+
+534
+00:24:31,000 --> 00:24:34,280
+And I realized, nobody's yelling at you guys, get
+
+535
+00:24:34,280 --> 00:24:35,840
+married, have the babies.
+
+536
+00:24:35,840 --> 00:24:37,600
+Yes, it all sucks.
+
+537
+00:24:37,600 --> 00:24:40,320
+You don't have the money.
+
+538
+00:24:40,320 --> 00:24:42,240
+Don't waste your fertility windows.
+
+539
+00:24:42,240 --> 00:24:44,960
+Don't waste your ability to form families.
+
+540
+00:24:44,960 --> 00:24:46,440
+Yes, it's tough.
+
+541
+00:24:46,440 --> 00:24:48,880
+And there is divorce, and things go wrong, and people
+
+542
+00:24:48,880 --> 00:24:49,720
+come to hate each other.
+
+543
+00:24:49,720 --> 00:24:50,800
+But you know what?
+
+544
+00:24:50,800 --> 00:24:56,960
+A lot of those dysfunctional families are still families.
+
+545
+00:24:56,960 --> 00:25:00,920
+Family is barely doable, but it is barely doable.
+
+546
+00:25:00,920 --> 00:25:04,640
+And quite honestly, I want to see you guys dealt in.
+
+547
+00:25:04,640 --> 00:25:14,520
+And for me, the thing I like least about being famous is
+
+548
+00:25:14,520 --> 00:25:18,760
+having a family, because you can't protect your, there's
+
+549
+00:25:18,760 --> 00:25:20,880
+so many psychopaths in the world.
+
+550
+00:25:20,880 --> 00:25:23,640
+And it doesn't mean that there's like tens of thousands
+
+551
+00:25:23,640 --> 00:25:26,080
+of psychopaths, but it just takes a small
+
+552
+00:25:26,080 --> 00:25:29,840
+amount of psychopathy to get you to really come to look at
+
+553
+00:25:29,840 --> 00:25:33,080
+this fame question differently.
+
+554
+00:25:33,080 --> 00:25:36,840
+I think it's very interesting to think about media as sort
+
+555
+00:25:36,840 --> 00:25:39,680
+of, not a loss leader, maybe it's a loss leader, maybe it's
+
+556
+00:25:39,680 --> 00:25:44,080
+break even, but you're creating a lighthouse for
+
+557
+00:25:44,080 --> 00:25:46,800
+really young, high agency people.
+
+558
+00:25:46,800 --> 00:25:48,720
+And then you invest in them.
+
+559
+00:25:48,720 --> 00:25:52,600
+And venture economics might be riskier, but they're a whole
+
+560
+00:25:52,600 --> 00:25:57,280
+lot better than ads and the BuzzFeed model.
+
+561
+00:25:57,280 --> 00:26:02,520
+And so is the media company of the future actually media as
+
+562
+00:26:02,520 --> 00:26:06,920
+kind of the front, and then the back end is investing?
+
+563
+00:26:06,920 --> 00:26:08,760
+Well, that's the funnel theory.
+
+564
+00:26:08,760 --> 00:26:14,400
+And my belief about this was there's clearly a roll up play
+
+565
+00:26:14,400 --> 00:26:16,680
+where you take the people that people want to listen to, and
+
+566
+00:26:16,680 --> 00:26:18,720
+you put them inside a container, and then you let
+
+567
+00:26:18,720 --> 00:26:20,520
+the rest of the system hate on it.
+
+568
+00:26:20,560 --> 00:26:23,320
+And it's not Fox News because it's not conservative.
+
+569
+00:26:23,320 --> 00:26:24,560
+It's an easy play.
+
+570
+00:26:24,560 --> 00:26:26,720
+I don't know why it doesn't happen.
+
+571
+00:26:26,720 --> 00:26:29,080
+They don't understand where we are.
+
+572
+00:26:29,080 --> 00:26:32,000
+I just don't know the people who want to do it.
+
+573
+00:26:32,000 --> 00:26:32,840
+We should do it.
+
+574
+00:26:32,840 --> 00:26:33,400
+Let's do it.
+
+575
+00:26:33,400 --> 00:26:34,800
+OK.
+
+576
+00:26:34,800 --> 00:26:38,680
+I want to talk about UFOs, a subject which, if I brought
+
+577
+00:26:38,680 --> 00:26:42,000
+this up with you three years ago, you probably would have
+
+578
+00:26:42,000 --> 00:26:43,680
+said, Jesse, shut the hell up.
+
+579
+00:26:43,680 --> 00:26:44,800
+Well, you did try to bring it up.
+
+580
+00:26:44,800 --> 00:26:45,760
+What did happen?
+
+581
+00:26:45,760 --> 00:26:47,840
+You said, Jesse, shut the hell up.
+
+582
+00:26:47,840 --> 00:26:49,280
+Yeah, except you used the word hell.
+
+583
+00:26:49,280 --> 00:26:50,120
+No, you didn't.
+
+584
+00:26:50,120 --> 00:26:57,280
+But I think reasonably, you were like this wacky and crazy.
+
+585
+00:26:57,280 --> 00:26:58,640
+It's dumb.
+
+586
+00:26:58,640 --> 00:27:00,160
+It's incredibly dumb.
+
+587
+00:27:00,160 --> 00:27:03,960
+The idea that you would have phenomena that can only be
+
+588
+00:27:03,960 --> 00:27:06,640
+seen by special people, and that there's no good video of
+
+589
+00:27:06,640 --> 00:27:09,120
+it, and we have a world full of smartphones, we've got a
+
+590
+00:27:09,120 --> 00:27:11,880
+video of absolutely everything, is completely
+
+591
+00:27:11,880 --> 00:27:13,800
+stupid and insane.
+
+592
+00:27:13,800 --> 00:27:15,600
+And I was wrong.
+
+593
+00:27:15,600 --> 00:27:18,440
+What's changed since?
+
+594
+00:27:18,480 --> 00:27:22,440
+Nine pages came out from the Pentagon, six of which are
+
+595
+00:27:22,440 --> 00:27:25,920
+relevant, three, I think, like a cover and a back page.
+
+596
+00:27:25,920 --> 00:27:27,600
+I don't know what it is.
+
+597
+00:27:27,600 --> 00:27:31,080
+And it's very clear in that report that that report was
+
+598
+00:27:31,080 --> 00:27:34,080
+meant to be as dull as is humanly possible about the
+
+599
+00:27:34,080 --> 00:27:37,120
+most exciting thing that you could possibly imagine, which
+
+600
+00:27:37,120 --> 00:27:40,120
+is that either we're engaged in an incredible psychological
+
+601
+00:27:40,120 --> 00:27:45,360
+operation coming out of the Pentagon, or some people
+
+602
+00:27:45,360 --> 00:27:48,600
+inside the Pentagon believe with near certainty that we've
+
+603
+00:27:48,600 --> 00:27:55,000
+been contacted and observed by extraterrestrials
+
+604
+00:27:55,000 --> 00:27:56,640
+visiting Earth.
+
+605
+00:27:56,640 --> 00:27:58,560
+That's pretty insane.
+
+606
+00:27:58,560 --> 00:28:02,240
+And what's really crazy is that the data is locked up.
+
+607
+00:28:02,240 --> 00:28:04,720
+You just said, we talked about the government is not
+
+608
+00:28:04,720 --> 00:28:07,360
+attracting our best and brightest scientists.
+
+609
+00:28:07,360 --> 00:28:11,840
+Why are the top physicists in the country, why are the top
+
+610
+00:28:11,840 --> 00:28:15,200
+astronomers in the country not looking at?
+
+611
+00:28:15,200 --> 00:28:20,800
+Nobody that I know who's very good at physics, or
+
+612
+00:28:20,800 --> 00:28:24,320
+astrophysics, or astronomy, or anything, knows what the
+
+613
+00:28:24,320 --> 00:28:26,440
+hell's going on.
+
+614
+00:28:26,440 --> 00:28:32,640
+And I've never seen anything remotely like this, Jesse.
+
+615
+00:28:32,640 --> 00:28:34,400
+I thought you were completely wrong.
+
+616
+00:28:34,400 --> 00:28:38,000
+This is a situation where you would not come off of this
+
+617
+00:28:38,000 --> 00:28:42,280
+point, and I was convinced that you were brain damaged on
+
+618
+00:28:42,280 --> 00:28:43,240
+this one issue.
+
+619
+00:28:43,240 --> 00:28:44,480
+No, I really was.
+
+620
+00:28:45,400 --> 00:28:46,400
+And you were right.
+
+621
+00:28:46,400 --> 00:28:47,640
+I was wrong.
+
+622
+00:28:50,280 --> 00:28:52,800
+I don't understand it.
+
+623
+00:28:52,800 --> 00:28:56,480
+The key thing is whatever's going on is non-Copernican.
+
+624
+00:28:56,480 --> 00:28:59,480
+We're not in a situation where we all have equal access to
+
+625
+00:28:59,480 --> 00:29:01,320
+the same thing.
+
+626
+00:29:01,320 --> 00:29:04,840
+Either it's a PsiOp and almost nobody has
+
+627
+00:29:04,840 --> 00:29:06,840
+information about it.
+
+628
+00:29:06,840 --> 00:29:11,760
+Or there's something out there that fits this paradigm that
+
+629
+00:29:11,760 --> 00:29:14,360
+is not trying to be noticed.
+
+630
+00:29:14,360 --> 00:29:17,800
+And I've given the example of North Sentinel Island, where
+
+631
+00:29:17,800 --> 00:29:21,120
+India manages North Sentinel Island but doesn't land there.
+
+632
+00:29:21,120 --> 00:29:25,000
+And in such a circumstance, there would be a Fermi paradox
+
+633
+00:29:25,000 --> 00:29:27,240
+among the natives of North Sentinel Island.
+
+634
+00:29:27,240 --> 00:29:29,800
+Why don't we see anybody almost ever?
+
+635
+00:29:29,800 --> 00:29:32,960
+And the answer is, well, you're sort of owned.
+
+636
+00:29:32,960 --> 00:29:34,920
+And you're being protected from anybody
+
+637
+00:29:34,920 --> 00:29:36,240
+landing on your shores.
+
+638
+00:29:36,240 --> 00:29:41,200
+Now, if that's what's going on, that's astounding.
+
+639
+00:29:41,200 --> 00:29:42,880
+That's astounding.
+
+640
+00:29:42,880 --> 00:29:46,680
+On the other hand, if humanity has a future, and I'm right,
+
+641
+00:29:46,680 --> 00:29:51,240
+so I'm happy to give you your due, but give me mine, we have
+
+642
+00:29:51,240 --> 00:29:54,400
+a future because we got off this planet and we diversified.
+
+643
+00:29:54,400 --> 00:29:57,360
+Now, if we got off this planet and diversified, and that's
+
+644
+00:29:57,360 --> 00:30:01,560
+how we survive, then it means anyone else out there could
+
+645
+00:30:01,560 --> 00:30:04,080
+come here, and not with rockets.
+
+646
+00:30:04,080 --> 00:30:06,080
+We're pretty sure that they're not on the moon, and they're
+
+647
+00:30:06,080 --> 00:30:09,680
+not on Mars, and secret colony, I would imagine.
+
+648
+00:30:09,680 --> 00:30:12,640
+Do you have a sense on the genetic stuff?
+
+649
+00:30:12,640 --> 00:30:16,520
+It feels like a lot of people are just waiting for the data
+
+650
+00:30:16,520 --> 00:30:17,320
+to come in.
+
+651
+00:30:17,320 --> 00:30:20,800
+And they talk a lot about bioinformatics.
+
+652
+00:30:20,800 --> 00:30:23,080
+It's just a big sort of pattern matching issue.
+
+653
+00:30:23,080 --> 00:30:27,960
+And as long as we have genetic sequences, and we're matching
+
+654
+00:30:27,960 --> 00:30:30,640
+them with phenotypes, and we get this big harmonized
+
+655
+00:30:30,640 --> 00:30:34,080
+database, right now it exists in a bunch of silos.
+
+656
+00:30:34,080 --> 00:30:37,600
+You have BGI, UK Biobank, whatever, we just put them all
+
+657
+00:30:37,640 --> 00:30:40,920
+together, and then we know exactly the genetic code.
+
+658
+00:30:40,920 --> 00:30:43,520
+I tend to think that's not the case.
+
+659
+00:30:43,520 --> 00:30:45,840
+It's not just a data collection problem.
+
+660
+00:30:45,840 --> 00:30:47,640
+Do you have sort of an opinion on that?
+
+661
+00:30:47,640 --> 00:30:49,800
+It's very interesting what's going on with machine learning
+
+662
+00:30:49,800 --> 00:30:52,920
+on something like protein folding, where if you manage to
+
+663
+00:30:52,920 --> 00:30:56,280
+attack something with machine learning, you don't always
+
+664
+00:30:56,280 --> 00:30:59,320
+understand why you were able to solve what your machine
+
+665
+00:30:59,320 --> 00:31:00,920
+was able to solve.
+
+666
+00:31:00,920 --> 00:31:06,800
+It's very hard to interpret a successful neural net, right?
+
+667
+00:31:06,800 --> 00:31:07,560
+What did it find?
+
+668
+00:31:07,560 --> 00:31:08,720
+What did it understand?
+
+669
+00:31:08,720 --> 00:31:09,600
+Black box.
+
+670
+00:31:09,600 --> 00:31:10,520
+Somewhat.
+
+671
+00:31:10,520 --> 00:31:11,840
+Maybe we'll get to the point where you can
+
+672
+00:31:11,840 --> 00:31:13,000
+inspect the black box.
+
+673
+00:31:13,000 --> 00:31:14,440
+I don't know.
+
+674
+00:31:14,440 --> 00:31:17,840
+But one thing you can say is that, OK, if you can get
+
+675
+00:31:17,840 --> 00:31:21,120
+better at protein folding using some sort of a deep
+
+676
+00:31:21,120 --> 00:31:24,840
+learning system, then there's probably something there that
+
+677
+00:31:24,840 --> 00:31:26,080
+can be understood analytically.
+
+678
+00:31:28,440 --> 00:31:33,400
+So I'm excited about some of the data science.
+
+679
+00:31:33,400 --> 00:31:35,640
+But people are really looking for data science
+
+680
+00:31:35,640 --> 00:31:37,000
+to replace thinking.
+
+681
+00:31:37,000 --> 00:31:38,240
+Totally.
+
+682
+00:31:38,240 --> 00:31:42,680
+And it's very interesting, because the old issue with
+
+683
+00:31:42,680 --> 00:31:46,960
+artificial intelligence was trying to get something to be
+
+684
+00:31:46,960 --> 00:31:48,160
+intelligent.
+
+685
+00:31:48,160 --> 00:31:51,360
+The dirty little secret is intelligence was needed for
+
+686
+00:31:51,360 --> 00:31:52,280
+almost nothing.
+
+687
+00:31:52,280 --> 00:31:55,560
+So with mere deep learning, you were able to do all sorts
+
+688
+00:31:55,560 --> 00:31:57,320
+of things that we previously thought may have
+
+689
+00:31:57,320 --> 00:31:59,400
+required intelligence.
+
+690
+00:31:59,400 --> 00:32:04,680
+I think a line I have on AI is it's like the Daft Punk song,
+
+691
+00:32:04,680 --> 00:32:06,240
+harder, better, faster, stronger.
+
+692
+00:32:06,240 --> 00:32:07,560
+And that's all it can do.
+
+693
+00:32:07,560 --> 00:32:10,160
+It can do what humans can do.
+
+694
+00:32:10,160 --> 00:32:12,240
+And sometimes it's harder, better, faster, stronger.
+
+695
+00:32:12,240 --> 00:32:15,040
+Sometimes it's not even as good as humans.
+
+696
+00:32:15,040 --> 00:32:18,120
+But that is different than innovation.
+
+697
+00:32:18,120 --> 00:32:19,920
+Brute force is different than innovation.
+
+698
+00:32:19,920 --> 00:32:22,640
+Whenever I see a startup that says we're resting on some
+
+699
+00:32:22,640 --> 00:32:28,640
+data set or AI to create innovation, I'm always fairly
+
+700
+00:32:28,640 --> 00:32:31,600
+skeptical of it just being a data collection problem.
+
+701
+00:32:31,600 --> 00:32:35,360
+I think real innovation is inter-domain knowledge and
+
+702
+00:32:35,360 --> 00:32:36,120
+conciliance.
+
+703
+00:32:36,120 --> 00:32:40,240
+GU, for you, is inter-domain knowledge.
+
+704
+00:32:40,240 --> 00:32:43,160
+And so I don't think AI is very good at that right now.
+
+705
+00:32:43,160 --> 00:32:45,360
+You know, it's not a morality play.
+
+706
+00:32:45,360 --> 00:32:54,440
+You see, I love the romance of science where Jim Watson and
+
+707
+00:32:54,440 --> 00:32:56,920
+Francis Crick are able to figure this thing out that
+
+708
+00:32:56,920 --> 00:33:00,560
+Linus Pauling cannot.
+
+709
+00:33:00,600 --> 00:33:03,080
+That's one thing.
+
+710
+00:33:03,080 --> 00:33:07,400
+But sometimes you can easily imagine that the problem
+
+711
+00:33:07,400 --> 00:33:08,560
+wasn't what you thought it was.
+
+712
+00:33:08,560 --> 00:33:10,080
+It was much easier.
+
+713
+00:33:10,080 --> 00:33:12,560
+Or you could prove that it's undecidable or
+
+714
+00:33:12,560 --> 00:33:14,000
+something like this.
+
+715
+00:33:14,000 --> 00:33:18,480
+So you have to sort of not overlay what is true with what
+
+716
+00:33:18,480 --> 00:33:20,920
+is meaningful.
+
+717
+00:33:20,920 --> 00:33:23,600
+It would be great if human intelligence had a place going
+
+718
+00:33:23,600 --> 00:33:25,840
+forward for the rest of eternity.
+
+719
+00:33:25,840 --> 00:33:28,480
+But I think that you'll get to the point where the songs
+
+720
+00:33:28,480 --> 00:33:32,480
+that you love are written by computers.
+
+721
+00:33:32,480 --> 00:33:33,760
+And it's going to flip you out.
+
+722
+00:33:33,760 --> 00:33:35,760
+And then the question is going to be, well, do you start
+
+723
+00:33:35,760 --> 00:33:38,280
+caring less and less about music the way we care less and
+
+724
+00:33:38,280 --> 00:33:40,920
+less about chess?
+
+725
+00:33:40,920 --> 00:33:44,320
+What does it really mean if two chess machines go at it?
+
+726
+00:33:44,320 --> 00:33:46,880
+Do we really want to play through this as if this is
+
+727
+00:33:46,880 --> 00:33:48,680
+speaking to the human soul?
+
+728
+00:33:48,680 --> 00:33:50,600
+I don't know about that.
+
+729
+00:33:50,600 --> 00:33:54,000
+I do think that none of this really matters.
+
+730
+00:33:54,000 --> 00:33:58,040
+We have a very brief window to save ourselves.
+
+731
+00:33:58,040 --> 00:34:01,240
+And the way out is super romantic.
+
+732
+00:34:01,240 --> 00:34:03,800
+It's beautiful.
+
+733
+00:34:03,800 --> 00:34:05,040
+But we're not motivated.
+
+734
+00:34:05,040 --> 00:34:08,000
+It's like nobody wants to follow David Goggins.
+
+735
+00:34:08,000 --> 00:34:09,520
+Nobody wants to follow Jocko Willink.
+
+736
+00:34:09,520 --> 00:34:12,640
+Those guys want to get up at 4 in the morning
+
+737
+00:34:12,640 --> 00:34:14,200
+and start training.
+
+738
+00:34:14,200 --> 00:34:18,920
+And I don't see that on behalf of our scientific community.
+
+739
+00:34:18,920 --> 00:34:23,080
+And I don't think the machines at least can search while
+
+740
+00:34:23,080 --> 00:34:29,680
+everybody else pops an edible and watches Netflix.
+
+741
+00:34:29,680 --> 00:34:34,960
+Maybe AI, which is one of the few areas where people say
+
+742
+00:34:34,960 --> 00:34:38,160
+things are accelerating, is actually just a form of
+
+743
+00:34:38,160 --> 00:34:41,080
+learned helplessness and outsourcing our agency.
+
+744
+00:34:41,080 --> 00:34:42,000
+I think it is.
+
+745
+00:34:42,000 --> 00:34:47,320
+I think that at some level, we're going to find that it's
+
+746
+00:34:47,320 --> 00:34:49,280
+not good enough to know whether things are true or
+
+747
+00:34:49,280 --> 00:34:50,400
+that something can do them.
+
+748
+00:34:50,400 --> 00:34:53,000
+We're going to want to know why things are true.
+
+749
+00:34:53,000 --> 00:34:58,360
+And I think that that's part of the game is what if we can
+
+750
+00:34:58,360 --> 00:35:01,600
+actually predict protein folding fairly well, but
+
+751
+00:35:01,600 --> 00:35:05,600
+nobody has any idea of how we're able to do that?
+
+752
+00:35:05,600 --> 00:35:08,760
+How much is that going to actually hold us back?
+
+753
+00:35:08,760 --> 00:35:10,920
+And so I do think that we're going to get to a point where
+
+754
+00:35:10,920 --> 00:35:15,200
+we've learned some things and we're now angry that we don't
+
+755
+00:35:15,200 --> 00:35:18,840
+know why the things that we know how to do, we just don't
+
+756
+00:35:18,840 --> 00:35:21,040
+know why we know how.
+
+757
+00:35:21,080 --> 00:35:27,240
+And I think that that kind of ruthless pragmatism eventually
+
+758
+00:35:27,240 --> 00:35:29,840
+will cause itself its own problem.
+
+759
+00:35:29,840 --> 00:35:32,360
+We'll be too powerful with too little wisdom.
+
+760
+00:35:32,360 --> 00:35:34,840
+We're going to have all sorts of things that we know how to
+
+761
+00:35:34,840 --> 00:35:37,800
+do that we're going to have unintended consequences of
+
+762
+00:35:37,800 --> 00:35:39,800
+because we don't know how it's working.
+
+763
+00:35:39,800 --> 00:35:43,400
+We don't understand the bedrock foundation.
+
+764
+00:35:43,400 --> 00:35:45,160
+I agree with you, sir.
+
+765
+00:35:45,160 --> 00:35:45,840
+OK.
+
+766
+00:35:45,840 --> 00:35:46,600
+Let's go eat.
+
+767
+00:35:46,600 --> 00:35:47,840
+Let's go eat.
+
+768
+00:35:52,040 --> 00:35:54,840
+What kind of cheese for your cheeseburger?
+
+769
+00:35:54,840 --> 00:35:56,240
+It's American cheese.
+
+770
+00:35:56,240 --> 00:35:58,240
+Can I get a hamburger with lettuce only?
+
+771
+00:36:01,240 --> 00:36:03,240
+That's going to be $15.72.
+
+772
+00:36:03,240 --> 00:36:04,240
+Cool, man.
+
+773
+00:36:04,240 --> 00:36:04,740
+Thanks.
+
+774
+00:36:04,740 --> 00:36:07,740
+Are you going paleo?
+
+775
+00:36:07,740 --> 00:36:10,240
+Yeah, you got a lettuce wrap.
+
+776
+00:36:10,240 --> 00:36:11,240
+Right?
+
+777
+00:36:11,240 --> 00:36:12,240
+I don't know what I got.
+
+778
+00:36:15,240 --> 00:36:17,640
+Here's something I've been thinking about recently.
+
+779
+00:36:17,640 --> 00:36:21,440
+An ironic effect of Snowden is there are all these
+
+780
+00:36:21,440 --> 00:36:23,140
+revelations.
+
+781
+00:36:23,140 --> 00:36:26,240
+You had prism, bull run, heartbeat.
+
+782
+00:36:26,240 --> 00:36:28,640
+The NSA has a back door into everything, was the
+
+783
+00:36:28,640 --> 00:36:30,680
+revelation.
+
+784
+00:36:30,680 --> 00:36:32,520
+And then we didn't do anything about it.
+
+785
+00:36:32,520 --> 00:36:37,640
+And think about the pinopticon effect that ends up having on
+
+786
+00:36:37,640 --> 00:36:41,800
+an individual, where it's like we know that they can hear and
+
+787
+00:36:41,800 --> 00:36:44,480
+listen to everything that we do and say, and it's indexed
+
+788
+00:36:44,480 --> 00:36:46,720
+and searchable.
+
+789
+00:36:46,800 --> 00:36:50,200
+And then we're not really doing anything about it.
+
+790
+00:36:50,200 --> 00:36:55,800
+The half-silvered mirror only works if the people behind the
+
+791
+00:36:55,800 --> 00:37:01,200
+half-silvered mirror rarely, if ever, intrude into your life
+
+792
+00:37:01,200 --> 00:37:05,800
+in a distinct, identifiable fashion.
+
+793
+00:37:05,800 --> 00:37:10,200
+So I think that the new thing that we believe is different.
+
+794
+00:37:10,200 --> 00:37:14,000
+I think that the new thing that we believe is, yes, they're
+
+795
+00:37:14,080 --> 00:37:16,560
+watching us, but for some reason, they can't afford to
+
+796
+00:37:16,560 --> 00:37:19,480
+let us know what they know.
+
+797
+00:37:19,480 --> 00:37:23,120
+So most of the information that they have is useless.
+
+798
+00:37:23,120 --> 00:37:27,080
+Because you'd be crazy to sacrifice the whole program to
+
+799
+00:37:27,080 --> 00:37:32,240
+go after somebody with an unpaid library fine.
+
+800
+00:37:35,200 --> 00:37:37,840
+What are you excited about, like crazily excited about that
+
+801
+00:37:37,840 --> 00:37:39,080
+doesn't involve money?
+
+802
+00:37:39,080 --> 00:37:44,120
+I think there are certain anomalies, and I'm not excited
+
+803
+00:37:44,120 --> 00:37:46,440
+about those things in their current form.
+
+804
+00:37:46,440 --> 00:37:49,120
+But I want to do them in a more rigorous way.
+
+805
+00:37:49,120 --> 00:37:51,600
+So like the UFO thing, stuff like that.
+
+806
+00:37:51,600 --> 00:37:53,920
+Make 12 figures just to be safe.
+
+807
+00:37:53,920 --> 00:37:55,160
+12 figures.
+
+808
+00:37:55,160 --> 00:37:56,400
+Yeah.
+
+809
+00:37:56,400 --> 00:37:58,920
+We can put that back there.
+
+810
+00:37:58,920 --> 00:38:00,920
+First of all, L'chaim, my friend.
+
+811
+00:38:00,920 --> 00:38:02,400
+L'chaim.
+
+812
+00:38:02,400 --> 00:38:06,240
+There's a way in which, growing up in Los Angeles,
+
+813
+00:38:06,600 --> 00:38:11,960
+the primary association is that home is alienation.
+
+814
+00:38:11,960 --> 00:38:15,360
+In some sense, I don't feel like I'm home unless I'm in a
+
+815
+00:38:15,360 --> 00:38:16,880
+place of alienation.
+
+816
+00:38:16,880 --> 00:38:19,440
+It's sort of like I likened it to growing up in a
+
+817
+00:38:19,440 --> 00:38:22,800
+D'Curico painting, some industrial landscape where
+
+818
+00:38:22,800 --> 00:38:23,960
+you've abandoned everything.
+
+819
+00:38:23,960 --> 00:38:27,320
+There's a child with a hoop running down the street.
+
+820
+00:38:27,320 --> 00:38:28,320
+There's nothing.
+
+821
+00:38:28,320 --> 00:38:31,600
+And for me, in a weird way, the doors are maybe the
+
+822
+00:38:31,600 --> 00:38:33,360
+quintessential L.A.B.
+
+823
+00:38:33,400 --> 00:38:35,280
+Of course, you had the birds and all that kind of stuff.
+
+824
+00:38:35,280 --> 00:38:35,840
+Yeah.
+
+825
+00:38:35,840 --> 00:38:40,080
+Speaking of the doors and great music, you know I live in
+
+826
+00:38:40,080 --> 00:38:41,520
+Laurel Canyon.
+
+827
+00:38:41,520 --> 00:38:43,640
+There's a pretty amazing music history there.
+
+828
+00:38:43,640 --> 00:38:45,080
+Are you aware of it?
+
+829
+00:38:45,080 --> 00:38:46,320
+Some of it.
+
+830
+00:38:46,320 --> 00:38:50,480
+I mean, I definitely go to the store where the creatures
+
+831
+00:38:50,480 --> 00:38:54,640
+meet, and I'm familiar with the romance of Wunderland
+
+832
+00:38:54,640 --> 00:38:59,440
+Avenue and Carole King's Tapestry has been a place of
+
+833
+00:38:59,440 --> 00:39:00,920
+pilgrimage for me.
+
+834
+00:39:00,920 --> 00:39:04,040
+It's been a place of pilgrimage for myself and my
+
+835
+00:39:04,040 --> 00:39:06,680
+daughter, where she wrote it.
+
+836
+00:39:06,680 --> 00:39:10,520
+Laurel Canyon and Topanga Canyon are, to the extent that
+
+837
+00:39:10,520 --> 00:39:13,360
+L.A. has spiritual energy, probably the two places that
+
+838
+00:39:13,360 --> 00:39:15,640
+have the strongest spiritual energy.
+
+839
+00:39:15,640 --> 00:39:17,080
+It was such a weird place, too.
+
+840
+00:39:17,080 --> 00:39:21,600
+I mean, you know Jim Morrison's dad?
+
+841
+00:39:21,600 --> 00:39:25,600
+Rear Admiral Stephen Morrison was in the Navy and in charge
+
+842
+00:39:25,600 --> 00:39:27,680
+of the Gulf of Tolkien.
+
+843
+00:39:27,680 --> 00:39:30,080
+Really crazy.
+
+844
+00:39:30,080 --> 00:39:32,920
+That's a very strange one.
+
+845
+00:39:32,920 --> 00:39:37,400
+And as you point out, Lookout Mountain is a CIA facility in
+
+846
+00:39:37,400 --> 00:39:40,640
+Laurel Canyon, and the whole history of drugs and the
+
+847
+00:39:40,640 --> 00:39:43,440
+government and Vietnam and espionage and all this kind of
+
+848
+00:39:43,440 --> 00:39:45,240
+stuff, very hard to sort out.
+
+849
+00:39:45,240 --> 00:39:46,160
+Hard to sort out.
+
+850
+00:39:46,160 --> 00:39:46,640
+Very weird.
+
+851
+00:39:46,640 --> 00:39:49,200
+There are all these sort of anomalous, bizarre facts.
+
+852
+00:39:49,200 --> 00:39:51,400
+It feels like L.A. was a crazy place in the 80s.
+
+853
+00:39:51,400 --> 00:39:52,200
+It was dangerous.
+
+854
+00:39:52,200 --> 00:39:53,840
+It was exciting.
+
+855
+00:39:53,840 --> 00:39:58,000
+Now it feels like a weird Instagram hologram thing.
+
+856
+00:39:58,000 --> 00:40:00,000
+You go to Bo's Steakhouse and there are TikTokers
+
+857
+00:40:00,000 --> 00:40:02,400
+everywhere or Saddle Ranch.
+
+858
+00:40:02,400 --> 00:40:03,120
+It feels like a weird place.
+
+859
+00:40:03,120 --> 00:40:04,440
+Every place is over.
+
+860
+00:40:04,440 --> 00:40:06,240
+OK.
+
+861
+00:40:06,240 --> 00:40:08,280
+And I mean that.
+
+862
+00:40:08,280 --> 00:40:11,400
+You can't move to New York and say it's happening in New
+
+863
+00:40:11,400 --> 00:40:14,880
+York, it's going down in Austin.
+
+864
+00:40:14,880 --> 00:40:16,200
+No, you're not getting it, man.
+
+865
+00:40:16,200 --> 00:40:17,840
+We're going to move to the Black Rock Desert.
+
+866
+00:40:17,840 --> 00:40:21,600
+Burning Man's going to be 365.
+
+867
+00:40:21,600 --> 00:40:23,400
+No, that's true.
+
+868
+00:40:23,400 --> 00:40:25,640
+No place is happening.
+
+869
+00:40:25,640 --> 00:40:27,000
+There are things that are happening, but they're
+
+870
+00:40:27,000 --> 00:40:30,240
+happening between people.
+
+871
+00:40:30,240 --> 00:40:31,840
+Sometimes they're happening between people who have never
+
+872
+00:40:31,840 --> 00:40:32,920
+actually met in person.
+
+873
+00:40:32,920 --> 00:40:34,840
+But I've always thought that secretly this was an
+
+874
+00:40:34,840 --> 00:40:38,400
+incredibly intellectual town.
+
+875
+00:40:38,400 --> 00:40:39,520
+Yeah, I think it's both.
+
+876
+00:40:39,520 --> 00:40:41,120
+I think there are many L.A.'s.
+
+877
+00:40:41,120 --> 00:40:46,120
+And that lack of identity, as frustrating as it can be to
+
+878
+00:40:46,120 --> 00:40:50,440
+deal with, makes me hopeful towards creating a Laurel
+
+879
+00:40:50,440 --> 00:40:58,360
+Canyon of tech, science, out there ideas, and cool shit.
+
+880
+00:40:58,360 --> 00:41:01,120
+I detect a spark of inspiration.
+
+881
+00:41:01,120 --> 00:41:07,920
+I think, in a weird way, I've come back after 37 years away.
+
+882
+00:41:07,920 --> 00:41:09,640
+I was conceived in Laurel Canyon.
+
+883
+00:41:09,640 --> 00:41:12,200
+I was born in what is now the Church of Scientology.
+
+884
+00:41:12,200 --> 00:41:13,560
+It used to be Cedars of Lebanon.
+
+885
+00:41:13,560 --> 00:41:14,560
+That's amazing.
+
+886
+00:41:14,560 --> 00:41:19,760
+And I ran away from this place at 16 so hard and so fast, I
+
+887
+00:41:19,760 --> 00:41:22,840
+never thought I would be back.
+
+888
+00:41:22,840 --> 00:41:23,760
+And I explored the world.
+
+889
+00:41:23,760 --> 00:41:25,560
+And I lived in places that I needed to.
+
+890
+00:41:25,560 --> 00:41:28,480
+I went back to Philadelphia, which was my family's
+
+891
+00:41:28,480 --> 00:41:31,560
+ancestral seat, to the extent that you can claim something
+
+892
+00:41:31,560 --> 00:41:33,200
+as immigrants in the US.
+
+893
+00:41:33,200 --> 00:41:35,880
+Went to Boston, which I thought was the center of
+
+894
+00:41:35,880 --> 00:41:38,280
+academics and science.
+
+895
+00:41:38,280 --> 00:41:40,560
+Moved to New York, which was hot for hedge funds.
+
+896
+00:41:40,560 --> 00:41:43,680
+At least it could support creativity and rule breaking.
+
+897
+00:41:43,680 --> 00:41:47,160
+Moved out to San Francisco to do tech.
+
+898
+00:41:47,160 --> 00:41:51,920
+Went to Jerusalem for two years because it's the belly
+
+899
+00:41:51,920 --> 00:41:54,720
+button of the universe.
+
+900
+00:41:54,720 --> 00:41:58,440
+And I think I came back to LA not quite sure why I was here
+
+901
+00:41:58,440 --> 00:42:00,040
+anymore.
+
+902
+00:42:00,040 --> 00:42:03,560
+What I think I've put together is it's
+
+903
+00:42:03,560 --> 00:42:06,240
+not happening anywhere.
+
+904
+00:42:06,240 --> 00:42:09,040
+It's happening wherever you happen to be and wherever you
+
+905
+00:42:09,040 --> 00:42:11,120
+can make it happen.
+
+906
+00:42:11,120 --> 00:42:15,760
+And there's no point in city chasing, right?
+
+907
+00:42:15,800 --> 00:42:17,640
+Something is pulling me towards Austin.
+
+908
+00:42:17,640 --> 00:42:22,240
+Somebody else is saying come to Montana, come to Miami.
+
+909
+00:42:22,240 --> 00:42:25,400
+I think at this late stage in the game,
+
+910
+00:42:25,400 --> 00:42:27,520
+I'm actually back home.
+
+911
+00:42:27,520 --> 00:42:29,120
+I'm from this place.
+
+912
+00:42:29,120 --> 00:42:32,760
+My son is the fifth generation now of Los Angelinos in our
+
+913
+00:42:32,760 --> 00:42:36,120
+family, which effectively never happens.
+
+914
+00:42:36,120 --> 00:42:43,200
+And whether it's the flood from the dam that burst in
+
+915
+00:42:43,200 --> 00:42:48,680
+Baldwin Hills or whether it's the 71 earthquake or the
+
+916
+00:42:48,680 --> 00:42:51,720
+Bel Air fire, in some sense, there was somebody from my
+
+917
+00:42:51,720 --> 00:42:55,160
+family here for all of those things.
+
+918
+00:42:55,160 --> 00:42:59,720
+And what I said to Brother Easton Ellis is LA is this
+
+919
+00:42:59,720 --> 00:43:01,840
+weird town where everybody has lived here.
+
+920
+00:43:01,840 --> 00:43:05,600
+Because if you've consumed media, so much of it is shot
+
+921
+00:43:05,600 --> 00:43:09,160
+in Los Angeles that you actually have a feel for this
+
+922
+00:43:09,160 --> 00:43:11,840
+place whether you live here or not.
+
+923
+00:43:11,880 --> 00:43:14,680
+And even though it sort of feels vapid and random and
+
+924
+00:43:14,680 --> 00:43:23,320
+pointless at times, I think about maybe its magic is that
+
+925
+00:43:23,320 --> 00:43:24,480
+it's several different things.
+
+926
+00:43:24,480 --> 00:43:26,160
+It's an oil field.
+
+927
+00:43:26,160 --> 00:43:27,600
+We live on an oil field.
+
+928
+00:43:27,600 --> 00:43:30,160
+It's an aerospace place, like the home of the
+
+929
+00:43:30,160 --> 00:43:32,640
+Rand Corporation.
+
+930
+00:43:32,640 --> 00:43:35,320
+It's not really clear that it's just entertainment.
+
+931
+00:43:35,320 --> 00:43:38,280
+Entertainment, yeah, once upon a time, maybe that was
+
+932
+00:43:38,280 --> 00:43:40,480
+really, really dominant.
+
+933
+00:43:40,480 --> 00:43:45,360
+But in a certain sense, it's just a big canvas.
+
+934
+00:43:45,360 --> 00:43:51,120
+And maybe a laurel canyon of heterodoxy for different
+
+935
+00:43:51,120 --> 00:43:55,280
+things, for science, for future-pointed culture that
+
+936
+00:43:55,280 --> 00:43:59,800
+isn't necessarily so easy to pin down to popular music.
+
+937
+00:43:59,800 --> 00:44:00,600
+Maybe it's time.
+
+938
+00:44:00,600 --> 00:44:01,880
+And maybe it can be done here.
+
+939
+00:44:01,880 --> 00:44:06,240
+But I think I'm home.
+
+940
+00:44:06,240 --> 00:44:07,280
+I can't follow that.
+
+941
+00:44:07,280 --> 00:44:08,640
+Eric, thank you for doing this.
+
+942
+00:44:08,640 --> 00:44:09,880
+Man, that was beautiful.
+
+943
+00:44:09,880 --> 00:44:11,400
+Let's end on that note.
+
+944
+00:44:11,400 --> 00:44:12,400
+Jesse, thanks for a great day.
+
+945
+00:44:12,400 --> 00:44:13,160
+I love you, man.
+
+946
+00:44:13,160 --> 00:44:14,400
+You too, man.
+
