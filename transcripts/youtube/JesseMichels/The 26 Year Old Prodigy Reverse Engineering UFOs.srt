@@ -1,0 +1,1244 @@
+1
+00:00:00,000 --> 00:00:04,880
+We have to be comfortable with the fact that maybe when we study the abyss it studies us back.
+
+2
+00:00:06,640 --> 00:00:11,600
+On this episode of American Alchemy we meet a 26 year old whose name is Deep Prasad
+
+3
+00:00:11,600 --> 00:00:17,760
+reverse engineering UFOs using quantum computers. Andy's raised 15 million dollars for his startup
+
+4
+00:00:17,760 --> 00:00:24,320
+quantum generative materials to do just that. There are too many anomalies around the world
+
+5
+00:00:24,320 --> 00:00:28,640
+for us to ignore. So now you're probably asking yourself how the hell do you reverse engineer
+
+6
+00:00:28,640 --> 00:00:34,000
+materials that you don't even have access to? Well luckily the pentagon has hundreds of instances
+
+7
+00:00:34,000 --> 00:00:41,360
+of optical radar and infrared detections of UFOs and from those records the DoD has laid out five
+
+8
+00:00:41,360 --> 00:00:46,240
+observable properties that are very consistent among the UFO sightings. These are things like
+
+9
+00:00:46,240 --> 00:00:51,680
+sudden and instantaneous acceleration, hypersonic velocity with no signatures. All of these are
+
+10
+00:00:51,680 --> 00:00:57,920
+properties that as my colleague Eric Weinstein loves to say exhibit wholly new physics not just
+
+11
+00:00:57,920 --> 00:01:03,680
+new engineering. If we're taking visitation seriously it almost certainly means that Einstein
+
+12
+00:01:03,680 --> 00:01:09,040
+isn't the last word gravitational. To me immediately I realized that's not your average
+
+13
+00:01:09,040 --> 00:01:14,160
+macroscopic interaction. He thinks that the five observables point to UFOs engaging in quantum
+
+14
+00:01:14,160 --> 00:01:19,760
+macroscopic behavior. So what exactly do I mean by that? Quantum physics generally governs the
+
+15
+00:01:19,760 --> 00:01:25,760
+properties of the very small things like atoms photons and electrons tiny elementary particles
+
+16
+00:01:25,760 --> 00:01:31,040
+that do spooky things like entangle at a distance tunnel through physical barriers and sometimes
+
+17
+00:01:31,040 --> 00:01:36,800
+exhibit wave particle duality. Similarly Deep believes that UFOs could simply be large macroscopic
+
+18
+00:01:36,800 --> 00:01:42,640
+quantum objects. What's to say that what we're observing now today with UAPs aren't just materials
+
+19
+00:01:42,640 --> 00:01:47,200
+more advanced materials than we have access to today whose emergent properties we just can't
+
+20
+00:01:47,200 --> 00:01:51,920
+model with today's physicists and mathematics right? But imagine if you have a computer that's
+
+21
+00:01:51,920 --> 00:01:56,560
+doing it a quantum computer with a much more powerful brain than any other human on the planet
+
+22
+00:01:56,560 --> 00:02:02,000
+they may be able to figure out what these materials are. So strap yourself in and grab some salt
+
+23
+00:02:02,000 --> 00:02:06,800
+because your brain is about to be scrambled by the master quantum chef himself this week's
+
+24
+00:02:06,800 --> 00:02:08,720
+American Alchemist Deep Prasad.
+
+25
+00:02:08,720 --> 00:02:36,960
+Why don't academics in Silicon Valley, serious high functioning people, why the
+
+26
+00:02:36,960 --> 00:02:43,280
+fuck don't they take it more seriously? Yeah there's just so much social pressures basically
+
+27
+00:02:43,280 --> 00:02:47,360
+deterring people even highly intelligent people from wanting to study this subject.
+
+28
+00:02:48,320 --> 00:02:54,400
+I'm here with Deep Prasad who is 26 years old he has a quantum computing startup but part of the
+
+29
+00:02:54,400 --> 00:03:01,200
+mission of this quantum computing startup it's actually reverse engineering UAPs or UFOs based
+
+30
+00:03:01,280 --> 00:03:08,320
+on their observable properties. In some sense the most interesting starting point is like how does
+
+31
+00:03:08,320 --> 00:03:15,200
+one get into both quantum computing and UAPs. It completely blew my mind that the technologies
+
+32
+00:03:15,200 --> 00:03:21,760
+the observables and what was being reported there was no way in my personal opinion that that could
+
+33
+00:03:21,760 --> 00:03:28,560
+be a derivative of any human science. So you have hypersonic velocities for example right with no
+
+34
+00:03:28,560 --> 00:03:38,800
+signature. As the waves get created around your craft the waves at the beginning the sound waves
+
+35
+00:03:38,800 --> 00:03:43,920
+at the top will get bunched up and compressed and that's the sonic boom that you hear. So when an
+
+36
+00:03:43,920 --> 00:03:48,560
+object can travel at greater than five times the speed of sound like the tic tac which is estimated
+
+37
+00:03:48,560 --> 00:03:53,680
+to reach at least 31 times the speed of sound and it doesn't disturb the air around you to me
+
+38
+00:03:53,680 --> 00:03:58,320
+immediately I realized that's not your average macroscopic interaction so the physics that we
+
+39
+00:03:58,320 --> 00:04:03,600
+use to describe macroscopic bodies no longer applies to these things. Like my colleague Eric
+
+40
+00:04:03,600 --> 00:04:09,840
+Weinstein likes to say this isn't new engineering it's new physics. Correct. The role of aerospace
+
+41
+00:04:09,840 --> 00:04:15,440
+companies as holders of potentially basic scientific knowledge not shared with the academic
+
+42
+00:04:15,440 --> 00:04:22,000
+world seems very wrong to me. Maybe wrong but it's true. It is true you believe it's true.
+
+43
+00:04:22,000 --> 00:04:28,560
+Yeah I know it's true. You know that there's physics knowledge held by aerospace companies
+
+44
+00:04:28,560 --> 00:04:33,600
+that is not known. There certainly is materials knowledge which involves topological physics.
+
+45
+00:04:33,600 --> 00:04:39,200
+Eric and I had a pretty trippy conversation with the guy that briefs all of the presidents on UFOs
+
+46
+00:04:39,200 --> 00:04:42,800
+a guy named Hal Putoff. For more of that conversation you might have to wait a couple
+
+47
+00:04:42,800 --> 00:04:49,120
+of weeks but let's get back to deep. Okay so how does this relate to your interest in quantum
+
+48
+00:04:49,120 --> 00:04:53,920
+computing? You know what let me give you like an actual example and why this might apply to UAPs.
+
+49
+00:04:53,920 --> 00:05:03,360
+Yeah. So okay so let's rewind to 1911 because we can never ever observe absolute zero we should
+
+50
+00:05:03,360 --> 00:05:11,280
+never be able to observe exactly zero resistance and in 1911 when Dr. Ohm's discovered the first
+
+51
+00:05:11,280 --> 00:05:16,400
+superconductor it blew everybody's mind because this was supposed to be thought impossible and
+
+52
+00:05:16,400 --> 00:05:21,920
+40 years later we finally understood why this was even possible at all and we learned that
+
+53
+00:05:21,920 --> 00:05:26,880
+it's because of quantum mechanics that quantum mechanical behavior occurs at the macroscopic
+
+54
+00:05:26,880 --> 00:05:31,920
+scale and that's what we're observing and it only applies to keep in mind low temperature
+
+55
+00:05:31,920 --> 00:05:36,320
+superconductors we still don't know how high temperature superconductors work we know that
+
+56
+00:05:36,320 --> 00:05:42,320
+it's some weird quantum phenomenon but we don't have the physics and perhaps mathematics to
+
+57
+00:05:42,400 --> 00:05:48,560
+describe what's happening there or the computers. So what did we learn in 1911? We learned that
+
+58
+00:05:48,560 --> 00:05:54,160
+when a material breaks the laws of physics when anything does it's actually probably because it's
+
+59
+00:05:54,160 --> 00:05:59,840
+an emergent property or an emergent phenomenon right of underlying strange quantum mechanics
+
+60
+00:05:59,840 --> 00:06:05,920
+that are going on. Okay so you're looking at properties of UAPs things like you know
+
+61
+00:06:06,000 --> 00:06:12,160
+hypersonic travel with no signatures or you know breaking conservation of momentum
+
+62
+00:06:13,840 --> 00:06:19,920
+you can't make that work in sort of our classical physics or aerospace you know abilities so you
+
+63
+00:06:19,920 --> 00:06:25,760
+have that and then you have this interest sort of in quantum field theory how does this relate to
+
+64
+00:06:25,760 --> 00:06:31,200
+quantum computing and yeah how do you tie it all together? So look when I first started quantum
+
+65
+00:06:31,200 --> 00:06:37,840
+computing my goal was to be able to simulate any new material and predict it before having
+
+66
+00:06:37,840 --> 00:06:43,120
+to make it in the lab right I wanted to be able to tell is this new combination of atoms going
+
+67
+00:06:43,120 --> 00:06:48,880
+to be the next semiconductor will it be the next solar cell the next batteries that's cool so you
+
+68
+00:06:48,880 --> 00:06:54,160
+wanted like the ultimate modeling software or something you got it like the what Tesla could
+
+69
+00:06:54,160 --> 00:07:00,560
+do in his brain and you would be able to do that with quantum computing or we will oh absolutely
+
+70
+00:07:00,560 --> 00:07:06,240
+here's why the classic equation that we'd use to simulate the properties of atoms would be the
+
+71
+00:07:06,240 --> 00:07:11,840
+Schrodinger's many-body equation if you can solve that many-body Schrodinger equation you will know
+
+72
+00:07:11,840 --> 00:07:16,000
+everything about that material you will know the speed of sound in that material you will know its
+
+73
+00:07:16,000 --> 00:07:21,840
+resonance frequency you will know its heat capacity its strength the problem is that in the past we
+
+74
+00:07:21,840 --> 00:07:27,120
+haven't been able to do this equation for more than about three atoms yeah not much it's not
+
+75
+00:07:27,200 --> 00:07:32,640
+it's not very useful right in other words the many-body equation has a scaling problem as Paul
+
+76
+00:07:32,640 --> 00:07:38,720
+Dirac said he literally said everything we want to know about materials hasn't figured out we
+
+77
+00:07:38,720 --> 00:07:42,800
+just don't have the computational resources interesting to solve this equation deep thinks
+
+78
+00:07:42,800 --> 00:07:48,160
+that the bottleneck for solving this equation at scale is basically just using classical computers
+
+79
+00:07:48,160 --> 00:07:52,960
+and with quantum computing we might actually be able to do it and simulate meta materials that
+
+80
+00:07:52,960 --> 00:07:55,920
+exhibit the five observable properties of ufos
+
+81
+00:08:02,240 --> 00:08:08,080
+we engineer every technology today and in the sense that we treat quantum effects as a side
+
+82
+00:08:08,080 --> 00:08:13,680
+effect an artifact a consequence that we have to engineer around quantum computers
+
+83
+00:08:13,680 --> 00:08:18,000
+decide they take a different approach they say instead of treating quantum effects
+
+84
+00:08:18,080 --> 00:08:23,280
+as this unwanted thing that we're engineering around right incorporating accounting for
+
+85
+00:08:23,280 --> 00:08:29,360
+let's actually leverage it let's create quantum systems of our own and manipulate them so that
+
+86
+00:08:29,360 --> 00:08:35,840
+we can simulate other quantum systems because in order to simulate nature and nature's quantum
+
+87
+00:08:35,840 --> 00:08:42,640
+mechanical you need a system that is also quantum mechanical the quantum mechanical world is like a
+
+88
+00:08:43,440 --> 00:08:48,800
+powerful and ethereal anything can happen in it however as soon as somebody on the outside disturbs
+
+89
+00:08:48,800 --> 00:08:54,240
+you you wake up and all you're left with are memories similarly subatomic particles exist
+
+90
+00:08:54,240 --> 00:08:59,520
+in a probabilistic state of many possibilities but when they interact with an observer they
+
+91
+00:08:59,520 --> 00:09:05,440
+collapse into a single state as a result quantum hardware which relies on maintaining two or more
+
+92
+00:09:05,440 --> 00:09:10,720
+states in quantum superposition will decohere if they're interfered with by anything from the
+
+93
+00:09:10,720 --> 00:09:16,880
+outside this is the main bottleneck for building fully fledged and functional quantum computers
+
+94
+00:09:16,880 --> 00:09:21,680
+they're incredibly sensitive and they often require very specific and energy intensive
+
+95
+00:09:21,680 --> 00:09:26,720
+environments in order to maintain coherence this is why initially deep is using a quantum
+
+96
+00:09:26,720 --> 00:09:32,800
+computer simulator instead of quantum hardware all quantum computers the algorithms that we're
+
+97
+00:09:32,800 --> 00:09:39,360
+running on them they are universal computations what that means is that we will be able to model
+
+98
+00:09:39,360 --> 00:09:46,400
+any algorithm we want on quantum computers and so what we can do is if you're smart enough if
+
+99
+00:09:46,400 --> 00:09:50,000
+you're clever enough you can figure out the right mathematical representation of the many
+
+100
+00:09:50,000 --> 00:09:54,960
+bodies showing your equation and port it onto a quantum computer simply by the fact that you can
+
+101
+00:09:54,960 --> 00:10:00,320
+approximate any algorithm you want on a quantum computer so if you have algorithms and mathematical
+
+102
+00:10:00,320 --> 00:10:05,680
+models that that map right from quantum computing to many bodies showing equations you're in the
+
+103
+00:10:05,680 --> 00:10:12,240
+money and that's what we do right we do hardcore research into how to map these material science
+
+104
+00:10:12,240 --> 00:10:18,560
+problems on a quantum computers describe to the audience what a qubit is it's the quantum version
+
+105
+00:10:18,560 --> 00:10:25,040
+of a bit a bit is the fundamental unit of information for classical computers right one or zero one or
+
+106
+00:10:25,040 --> 00:10:31,280
+zero exactly but the fundamental smallest unit of information you can have in a quantum system
+
+107
+00:10:31,360 --> 00:10:37,360
+is a qubit qubits can take on superpositions of states right and so what a lot of people in
+
+108
+00:10:37,360 --> 00:10:43,040
+popular culture popular science butcher when they describe superpositions is that they say that the
+
+109
+00:10:43,040 --> 00:10:49,280
+qubit is both one and zero at the same time that's not true it's not in the one state it's not in the
+
+110
+00:10:49,280 --> 00:10:55,120
+zero state it's not in the one and zero state either it's also not not in the one and not in
+
+111
+00:10:55,120 --> 00:11:02,240
+the zero state it's in a superposition state but how does that equate to transmitting more information
+
+112
+00:11:02,240 --> 00:11:07,680
+more information yeah exactly if i were to have let's say just 10 bits right it sounds trivial
+
+113
+00:11:07,680 --> 00:11:14,080
+but it takes 10 bits to describe the state of 10 bits right but if i have 10 qubits then i need
+
+114
+00:11:14,080 --> 00:11:20,640
+two to the 10 classical bits to represent the entire quantum state of those 10 qubits because
+
+115
+00:11:20,640 --> 00:11:28,160
+you can have all the qubits entangled with each other meaning that they can all to describe one
+
+116
+00:11:28,160 --> 00:11:32,880
+you have to describe what's happening to all the others take a caffeine molecule right the
+
+117
+00:11:33,440 --> 00:11:40,480
+the caffeine molecule is sesame to have about like 97 electrons right at least and to describe
+
+118
+00:11:40,480 --> 00:11:47,840
+97 electrons fully like fully entangled 97 electrons right to properly account for that
+
+119
+00:11:47,840 --> 00:11:54,080
+you would need to to the 97 classical bits and that's more atoms than the surface and
+
+120
+00:11:54,080 --> 00:12:00,240
+all planet earth right minus the air so even if i took every single atom on planet earth
+
+121
+00:12:00,240 --> 00:12:05,920
+and convert it into classical bit i wouldn't be able to store the quantum state of a caffeine molecule
+
+122
+00:12:08,800 --> 00:12:15,200
+for some reason nature is able to do a level of bookkeeping in the background
+
+123
+00:12:15,280 --> 00:12:22,880
+with quantum states that we don't fully know how it does it nature does this bookkeeping
+
+124
+00:12:22,880 --> 00:12:28,320
+that's so computationally impossible for us to do today right and that's where like ideas of the
+
+125
+00:12:28,320 --> 00:12:32,960
+multiverse and into multiverse interpretation comes in and so on right where people will say
+
+126
+00:12:32,960 --> 00:12:36,800
+well nature's not actually storing it anywhere it's actually just distributed across different
+
+127
+00:12:36,800 --> 00:12:41,600
+universes we have a sense of where it gets stored so obviously but there's a way in which quantum
+
+128
+00:12:41,600 --> 00:12:47,200
+computing sort of simulates nature more accurately and so can store more but do we have a sense of
+
+129
+00:12:47,200 --> 00:12:52,000
+how the computing is storing either that's also somewhat of a black box where complete black box
+
+130
+00:12:52,000 --> 00:12:57,680
+we can engineer them interesting but we have no fucking clue why it works wow that's pretty nutty
+
+131
+00:13:02,320 --> 00:13:09,360
+every physical material ever is a quantum system your brain your skin everything is made of atoms
+
+132
+00:13:09,360 --> 00:13:15,040
+and all atoms are described by quantum mechanical rules it's almost a form of blind exceptionalism
+
+133
+00:13:15,040 --> 00:13:19,040
+to say that the body is not quantum because everything else is quantum so that how much
+
+134
+00:13:19,040 --> 00:13:25,040
+quantum sensing is going on that's unclear but exactly it's not like we we came into existence
+
+135
+00:13:25,040 --> 00:13:29,680
+as giant macroscopic bodies right we literally started from amoeba we were closer than the
+
+136
+00:13:29,680 --> 00:13:35,280
+quantum scale when we started out so it's hard to imagine that that we didn't evolve even at
+
+137
+00:13:35,280 --> 00:13:41,280
+the cellular level some ability to use quantum effects for sure do you think your brain is a
+
+138
+00:13:41,280 --> 00:13:47,200
+quantum sensor like the the penrose argument would be so it's like we don't perceive anything
+
+139
+00:13:47,200 --> 00:13:51,920
+kind of in its quantum form obviously we perceive you know a bigger proportion kind of classical
+
+140
+00:13:51,920 --> 00:13:58,160
+stuff right and the penrose argument would be that you know you have a probabilistic universe
+
+141
+00:13:58,160 --> 00:14:03,760
+you have schrodinger's wave equation and we're collapsing schrodinger's wave into a specific
+
+142
+00:14:03,760 --> 00:14:09,760
+eigenstate right using you know this some some quantum sensor in our brain maybe microtubules
+
+143
+00:14:09,760 --> 00:14:15,600
+or maybe something else right do you believe that or the thing is that with our brain there may be
+
+144
+00:14:15,600 --> 00:14:21,120
+parts of our brain that could behave like a quantum sensor we know that there are birds that can
+
+145
+00:14:21,120 --> 00:14:27,040
+navigate the earth's magnetic field and sense it right using quantum sensing essentially biological
+
+146
+00:14:27,120 --> 00:14:34,160
+quantum sensing yeah the body in biology at large is typically warm wet and noisy not conditions
+
+147
+00:14:34,160 --> 00:14:39,280
+that you think of as conducive to maintaining quantum coherence or exhibiting quantum properties
+
+148
+00:14:39,280 --> 00:14:44,320
+but scientists now know that there are actually parts of biology that do exhibit quantum effects
+
+149
+00:14:44,320 --> 00:14:49,920
+for example there are birds called robins that have a specific protein called a crypto chrome
+
+150
+00:14:49,920 --> 00:14:57,440
+in their eye called cry4 that actually uses quantum effects to sense the magnetic field of
+
+151
+00:14:57,440 --> 00:15:05,040
+the earth electron pairs in the cry4 protein arrange themselves based on the robin's position
+
+152
+00:15:05,040 --> 00:15:09,280
+and direct the bird where it needs to go based on the magnetic field of the earth
+
+153
+00:15:09,280 --> 00:15:16,160
+it's basically biological gps lockheed observed these birds right or like the physics and and they
+
+154
+00:15:16,160 --> 00:15:21,520
+decided can we replicate this with existing sensors can we create a quantum sensor that does
+
+155
+00:15:21,520 --> 00:15:25,440
+the same thing yeah that these birds are doing to detect the earth's magnetic field and they
+
+156
+00:15:25,440 --> 00:15:31,360
+succeeded as of six years ago they created what's called a dark ice magnetometer so with these
+
+157
+00:15:31,360 --> 00:15:38,000
+magnetometers they can navigate anywhere on earth without a gps with gps precision they don't need
+
+158
+00:15:38,000 --> 00:15:42,160
+a satellite they can be underwater they can be wherever the hell they want and they can that's
+
+159
+00:15:42,160 --> 00:15:47,200
+pretty amazing right all sorts of issues national security vulnerabilities with gps satellites for
+
+160
+00:15:47,200 --> 00:15:52,240
+sure for sure and then if you don't have access to gps for whatever reason and imagine if you're
+
+161
+00:15:52,240 --> 00:15:58,080
+an extraterrestrial species visiting a new planet and you don't have access to gps magnetometer
+
+162
+00:15:58,080 --> 00:16:03,120
+that's it as we build more powerful quantum sensors we're going to be able to learn things
+
+163
+00:16:03,120 --> 00:16:07,040
+about the human body that will actually be medically useful there's already research being
+
+164
+00:16:07,120 --> 00:16:12,800
+done and devices being built for sensing the heart and like the activity of each you know
+
+165
+00:16:12,800 --> 00:16:18,080
+basically atom in the heart right so imagine having atomic resolution into the human body
+
+166
+00:16:18,080 --> 00:16:25,840
+wow these are this is what's going to happen right it's inevitable you see all of la so that's west
+
+167
+00:16:25,840 --> 00:16:31,760
+hollywood right here downtown all the way east right there and then you can see the beach during
+
+168
+00:16:31,760 --> 00:16:40,320
+the day all the way what yeah it's beautiful i think your blog is fascinating and i want to
+
+169
+00:16:40,320 --> 00:16:45,360
+go through some of your blog posts because i think the the titles themselves i think are worthy of
+
+170
+00:16:45,360 --> 00:16:49,600
+explanation so i'm just going to go through a couple of them and you can sort of give me
+
+171
+00:16:49,600 --> 00:16:56,320
+the summary if that works sure okay the evolution of science and the interactive universe so
+
+172
+00:16:56,960 --> 00:17:02,480
+when we look at the modern scientific method right it was invented by the credit gosus or
+
+173
+00:17:02,480 --> 00:17:08,480
+francis bacon his assumption the scientific method naturally assumes that whatever you
+
+174
+00:17:08,480 --> 00:17:13,200
+are deriving about the universe should be repeatable right and if it's not repeatable
+
+175
+00:17:13,200 --> 00:17:19,600
+if it's not testable and controlled then it's not scientific and it's not useful information
+
+176
+00:17:19,600 --> 00:17:25,440
+the issue with that is that it assumes that the universe is static that if i were to measure a
+
+177
+00:17:25,440 --> 00:17:31,360
+certain volume of air that it will never change if i measure the the particle composition of this
+
+178
+00:17:31,360 --> 00:17:36,240
+air nothing ever changes the the repeatability is there because the laws of physics are the same and
+
+179
+00:17:36,240 --> 00:17:40,960
+so on so forth nothing will ever affect my measurements other than the errors i already
+
+180
+00:17:40,960 --> 00:17:46,080
+know the the fundamental issue with sir francis bacon is assumption was that as commander favor
+
+181
+00:17:46,080 --> 00:17:52,480
+flies through the air that air the composition everything about it should be repeatable however
+
+182
+00:17:52,480 --> 00:17:57,920
+that day something happened that was not repeatable the existence of the tic tac so somewhere in that
+
+183
+00:17:57,920 --> 00:18:05,280
+air was this anomaly this thing that does not and is not repeatable yet it was clearly something
+
+184
+00:18:05,280 --> 00:18:10,960
+that needs to be studied so the scientific method needs a modification and that's what
+
+185
+00:18:10,960 --> 00:18:16,880
+this article is about that yeah it well yeah another model of science and this is maybe like
+
+186
+00:18:16,880 --> 00:18:22,640
+a kunian model is that there are anomalies that don't go like we're talking about quantum field
+
+187
+00:18:22,640 --> 00:18:29,840
+theory like you had black body radiation in the 1860s discovered by some german guy and it didn't
+
+188
+00:18:29,840 --> 00:18:35,520
+make any sense you'd expect sort of you know uh runaway heat in this in this black body or whatever
+
+189
+00:18:36,400 --> 00:18:42,000
+if you were talking about kind of a typical newtonian system and that wasn't the case we
+
+190
+00:18:42,000 --> 00:18:47,520
+figured out mathematically why that wasn't the case when max planck figured that out you know
+
+191
+00:18:47,520 --> 00:18:53,360
+that that that light was actually quantized in the early 20th century right but you have these
+
+192
+00:18:53,360 --> 00:18:59,520
+things where it's like little little pokes in the formal convention of the time and the standard
+
+193
+00:18:59,520 --> 00:19:03,680
+paradigm and you're like what is that doesn't quite make sense it doesn't quite make sense
+
+194
+00:19:03,680 --> 00:19:09,600
+and i love that there's a carl popper line it's called materialist promissory notes and it's you
+
+195
+00:19:09,600 --> 00:19:16,480
+know all the gaps of materialist reductionism will get filled in inevitably but but um that in
+
+196
+00:19:16,480 --> 00:19:21,760
+itself takes faith and so i think i think studying anomalies is incredibly important
+
+197
+00:19:21,760 --> 00:19:26,320
+absolutely and should be should be seen as a possibly a harbinger of the next paradigm
+
+198
+00:19:26,320 --> 00:19:31,440
+absolutely and and and not shoved away and not i mean i think we're over indexed on like people
+
+199
+00:19:31,440 --> 00:19:36,160
+like michael schermer like justifying the current paradigm that doesn't move science forward that's
+
+200
+00:19:36,160 --> 00:19:42,240
+not exciting at all it doesn't it also doesn't face reality i really believe in you know as
+
+201
+00:19:42,240 --> 00:19:48,080
+cheesy as it sounds facing reality if we're realizing that the scientific method is not
+
+202
+00:19:48,080 --> 00:19:55,280
+giving us uh the full picture we should be looking at new methods too that complement
+
+203
+00:19:55,280 --> 00:20:02,800
+right science as well because we know now at least no we have good indications that the universe is
+
+204
+00:20:02,800 --> 00:20:10,560
+indeed not static as in if i were to measure something there is a non-zero chance some crazy
+
+205
+00:20:10,560 --> 00:20:16,960
+anomaly that has never been properly characterized will occur in my measurement in my experiment
+
+206
+00:20:16,960 --> 00:20:22,160
+and we need to be able to quantify that somehow we need to account for it we have to be comfortable
+
+207
+00:20:22,160 --> 00:20:26,000
+with the fact that maybe when we study the abyss it steadies us back
+
+208
+00:20:26,000 --> 00:20:29,200
+okay
+
+209
+00:20:30,240 --> 00:20:34,400
+one of the interesting things we've been talking about like physics with uaps but what i find very
+
+210
+00:20:34,400 --> 00:20:41,920
+interesting is if you look at all into the subject it's not just new physics or if it is new physics
+
+211
+00:20:41,920 --> 00:20:46,240
+there's one component that doesn't fit with our current model of physics outside of the
+
+212
+00:20:46,240 --> 00:20:52,080
+observables of the actual uaps being very weird and that's that certain people see the uaps and
+
+213
+00:20:52,080 --> 00:21:00,080
+those people see the certain uaps often in various states true and so again the ockham's razor easy
+
+214
+00:21:00,080 --> 00:21:04,640
+way to explain that away is the person is crazy right but often these people have no mental health
+
+215
+00:21:04,640 --> 00:21:10,000
+history why do you think certain people see uaps and is there science that we'll discover
+
+216
+00:21:10,640 --> 00:21:15,360
+that might be able to explain that i have two answers right one is much more rational and
+
+217
+00:21:15,360 --> 00:21:19,680
+doesn't make me sound crazy the other one makes me sound completely let's start with the second
+
+218
+00:21:20,000 --> 00:21:31,280
+okay sure my lunatic answer is it's based on cellular automata so cellular automata is a
+
+219
+00:21:31,280 --> 00:21:37,200
+notion that comes from computer science and mathematics and it's the idea that you can create
+
+220
+00:21:37,200 --> 00:21:44,480
+highly complex highly emergent systems from very basic cells and very very basic rules right where
+
+221
+00:21:44,480 --> 00:21:50,080
+you just define um you know a couple cells on a grid and how they'll behave well whether they die
+
+222
+00:21:50,080 --> 00:21:54,800
+or not right this is where like conway's game of life comes and so on and then we see that if you
+
+223
+00:21:54,800 --> 00:22:00,000
+let the simulation run and you let the play out you imagine you see this completely different
+
+224
+00:22:00,000 --> 00:22:06,240
+immersion phenomena right that's so complex my crazy theory is that these uap sightings that
+
+225
+00:22:06,240 --> 00:22:12,560
+we're seeing and so on are part of the cellular automata where individually they may seem like
+
+226
+00:22:12,640 --> 00:22:18,400
+one-offs and weird events but what we're experiencing could be part of this
+
+227
+00:22:19,200 --> 00:22:26,880
+essentially a game or strategy where the end goal is this very very complex emergent phenomenon
+
+228
+00:22:26,880 --> 00:22:32,880
+that cellular automata leads us to and i think that we're part of a more intelligent organism's
+
+229
+00:22:32,880 --> 00:22:39,760
+cellular automata game i guess if you will interesting i think that it's the whole point
+
+230
+00:22:39,760 --> 00:22:48,160
+is that is to change society towards a new state an emergent property like a very complex society
+
+231
+00:22:48,160 --> 00:22:53,680
+that we don't even have like we're not even near right now like we're we're getting pushed
+
+232
+00:22:53,680 --> 00:22:58,640
+towards it in ways that we don't even realize that's what's weird is it almost feels like
+
+233
+00:22:58,640 --> 00:23:05,280
+there's an arc of tech innovation or civilization civilizational progress or something that sure
+
+234
+00:23:05,920 --> 00:23:10,800
+it's like what you know why are there certain discoveries at the same time in places that
+
+235
+00:23:10,800 --> 00:23:15,040
+didn't have any contact with one another people were having sort of the same same thoughts at
+
+236
+00:23:15,040 --> 00:23:22,400
+the same time there's obviously you know esoteric traditions of kind of cyclical civilizations that
+
+237
+00:23:22,400 --> 00:23:28,000
+you know rose up and then they declined and it's i don't it's all very hard to explain but maybe
+
+238
+00:23:28,000 --> 00:23:33,440
+maybe tech is more pre-ordained than we than we think it is or maybe per like the william james
+
+239
+00:23:33,440 --> 00:23:38,720
+transmission theory of consciousness these things are sort of zapped into us and all ideas are kind
+
+240
+00:23:38,720 --> 00:23:44,080
+of zapped into us okay let's go through some more blogs we have resolving key issues in quantum
+
+241
+00:23:44,080 --> 00:23:51,920
+mechanics while simultaneously debunking every ufo case in history i love that is that yeah so
+
+242
+00:23:51,920 --> 00:23:58,880
+that was just an april fools prank okay okay curiosity as a time capsule what is that awesome
+
+243
+00:23:58,880 --> 00:24:07,040
+so that's where i lay out my predictions for where i think uap research is going that was
+
+244
+00:24:07,040 --> 00:24:14,240
+my version of a time capsule so that one day the hope is that you know five years 10 years
+
+245
+00:24:14,240 --> 00:24:20,800
+20 years from now as we develop a deeper understanding of what uaps are and the ecosystem
+
+246
+00:24:20,800 --> 00:24:26,400
+around it what it means or where that's going to leave us so that's what that yeah what are
+
+247
+00:24:26,400 --> 00:24:34,720
+your predictions um my prediction is that over the next 10 years i think that we will have
+
+248
+00:24:34,720 --> 00:24:40,560
+collected enough scientific evidence enough groups will have collaborated and worked together
+
+249
+00:24:41,360 --> 00:24:46,400
+and also post-scientific groups too right like i mentioned when you make some modifications to
+
+250
+00:24:46,400 --> 00:24:51,040
+scientific method i think that we're going to be stay in a decade from now where we acknowledge
+
+251
+00:24:51,040 --> 00:24:55,600
+that we are not the only life forms that are intelligent and super intelligent on this planet
+
+252
+00:24:55,600 --> 00:25:01,280
+i vaguely believe that failure and that would be an insane thing say we all were like okay so we
+
+253
+00:25:01,280 --> 00:25:08,400
+have scientific verification that aliens are you know i have a basis somewhere whatever uh all of
+
+254
+00:25:08,400 --> 00:25:12,960
+a sudden you replace angels and demons in the bible with aliens and you're like okay that was
+
+255
+00:25:12,960 --> 00:25:18,160
+probably real right and like a lot of that stuff might be happening now and actually my cousin who
+
+256
+00:25:18,160 --> 00:25:22,880
+had a vision you know or whatever like maybe he really did have a vision and they had something
+
+257
+00:25:22,880 --> 00:25:28,560
+to tell him and and all of a sudden the world becomes much more magical place totally and it's
+
+258
+00:25:28,560 --> 00:25:34,400
+not just these like folkloric funny stories that people are telling in the form of religion that
+
+259
+00:25:34,400 --> 00:25:38,320
+people think you know it's just the sort of garden variety thing that you do you show up it's for the
+
+260
+00:25:38,320 --> 00:25:43,760
+community whatever but it's ultimately there's no metaphysical truth in it and then there's science
+
+261
+00:25:43,760 --> 00:25:49,520
+which is like cold and amoral but it's it's real somehow this would marry those two things in this
+
+262
+00:25:49,520 --> 00:25:55,120
+like freaky way it's amazing it would be kind of crazy but i i don't know if it's happening
+
+263
+00:25:55,120 --> 00:26:03,280
+it's inevitable it is inevitable there are too many anomalies that are being reported and that
+
+264
+00:26:03,280 --> 00:26:09,680
+are being measured and observed around the world that for us to ignore you know that relates to
+
+265
+00:26:09,680 --> 00:26:15,680
+almost religious like experiences right yeah um i think that it's night it would be so painfully
+
+266
+00:26:15,680 --> 00:26:20,800
+naive of us and it is to conclude that we know everything there is about the universe where
+
+267
+00:26:20,800 --> 00:26:25,920
+we're so close that we can say that there's no such thing as like you know aliens for example
+
+268
+00:26:25,920 --> 00:26:30,640
+right like think about our quantum mechanics and general relativity that describes five percent of
+
+269
+00:26:30,640 --> 00:26:37,200
+the damn universe yeah the other 95 isn't even describable with our physics yeah right like yet
+
+270
+00:26:37,200 --> 00:26:42,880
+people are so damn confident about their worldview yeah it's crazy i think they mistake the map for
+
+271
+00:26:42,880 --> 00:26:48,240
+the territory it's because a love it yes that's exactly it that's brilliant what would you be
+
+272
+00:26:48,240 --> 00:26:53,440
+working on if it wasn't quantum computing if quantum computers didn't exist i would definitely
+
+273
+00:26:53,440 --> 00:27:01,440
+be an artificial intelligence do you think ai will ever get to a point where it's generative
+
+274
+00:27:01,440 --> 00:27:07,520
+and a human doesn't need to feed it some ideal end state that it's sort of judging it off yes yes
+
+275
+00:27:07,520 --> 00:27:13,280
+it will be when our fundamental machine learning models are better and improved and we go beyond
+
+276
+00:27:13,280 --> 00:27:17,600
+the neural networks of today and when they have their own physical body because that's what
+
+277
+00:27:17,600 --> 00:27:21,200
+they're missing is the ability to actually interact with the world around them where i
+
+278
+00:27:21,200 --> 00:27:27,120
+would disagree with like elon musk or nick bostrom or those those that camp of people is like they
+
+279
+00:27:27,120 --> 00:27:32,080
+seem to have these like doomsday scenarios in their head that are like near term where like
+
+280
+00:27:32,720 --> 00:27:39,360
+these like sentient killer robots decide that you know human meat space is useless
+
+281
+00:27:39,360 --> 00:27:44,080
+and you know or they don't fit into some objective function and then we end up getting thrown out
+
+282
+00:27:44,080 --> 00:27:50,000
+and killed and where we are now which is like statistics on steroids to that just feels like
+
+283
+00:27:50,000 --> 00:27:55,200
+this insane leap of logic and i actually think the more insidious narrative is that ai is already
+
+284
+00:27:55,200 --> 00:28:01,840
+killing us but ai is just consumer apps and consumer apps are eating us uh our brains
+
+285
+00:28:02,640 --> 00:28:06,480
+i think it's brilliant no that's a very very wise insight because most people who
+
+286
+00:28:06,480 --> 00:28:12,720
+use tiktok for example right yes they have no freaking clue yes how much they are being
+
+287
+00:28:12,720 --> 00:28:18,320
+manipulated by an artificial intelligence no idea the extent of it why she ain't put the news at
+
+288
+00:28:18,320 --> 00:28:24,880
+the bottom then that's disgusting so imagine you know we already saw problems with facebook when
+
+289
+00:28:24,880 --> 00:28:30,240
+people were experimenting with facebook's news feed to see how it affect people's mood and then
+
+290
+00:28:30,240 --> 00:28:34,560
+you know alleged suicides and deaths would increase during this the results of this
+
+291
+00:28:34,560 --> 00:28:38,720
+experimentation right how do we know that's not also happening with tiktok and other
+
+292
+00:28:39,440 --> 00:28:44,320
+outlets and so on yeah so absolutely there's an insidious aspect of ai that we should worry about
+
+293
+00:28:44,320 --> 00:28:48,560
+that's outside i think so too i think it's killing us with a whimper not with a bang
+
+294
+00:28:48,560 --> 00:28:52,240
+love it that's just eating eating away at us sort of parasitically
+
+295
+00:28:53,040 --> 00:28:58,400
+quantum computers in the next like let's say to be conservative 15 years i will i'm being highly
+
+296
+00:28:58,400 --> 00:29:04,640
+conservative there will become powerful enough to completely make rsa obsolete rsa encryption is
+
+297
+00:29:04,640 --> 00:29:10,560
+the backbone of society right it's it's what allows you to securely access your bank account
+
+298
+00:29:10,560 --> 00:29:15,520
+to send messages you could reverse engineer that with quantum computing exactly that will happen
+
+299
+00:29:15,520 --> 00:29:21,360
+it is not a matter of if but when so you could double spend bitcoin you could double the whole
+
+300
+00:29:21,920 --> 00:29:28,160
+all of these yeah most of these cryptocurrencies today will become obsolete because of quantum
+
+301
+00:29:28,160 --> 00:29:33,200
+computing well that's an interesting sort of black swan event around crypto it will happen
+
+302
+00:29:33,200 --> 00:29:37,760
+yeah totally and it's gonna get a lot of people will get blindsided and caught blindsided in that
+
+303
+00:29:37,760 --> 00:29:43,360
+absolutely interesting absolutely and so what happens when there are nation-state actors or
+
+304
+00:29:43,360 --> 00:29:48,160
+people who are intelligent enough that can build quantum computers and suddenly the whole world's
+
+305
+00:29:48,160 --> 00:29:52,640
+information is exposed right what happens if i can read your facebook messages now that you've
+
+306
+00:29:52,640 --> 00:29:58,560
+sent throughout your whole life right how disturbing would that be so um i think that
+
+307
+00:29:58,560 --> 00:30:05,760
+that that event alone will force society the apocalypse exactly or like force us to work
+
+308
+00:30:05,760 --> 00:30:10,880
+together basically like because like everybody will lose their leverage right at the same time
+
+309
+00:30:10,880 --> 00:30:17,360
+yeah well dude thank you for doing this this is a lot of fun absolutely likewise jesse yeah
+
+310
+00:30:17,360 --> 00:30:21,360
+thanks deep it was such a pleasure man we'll do this again sometime we'll definitely do this again
+
+311
+00:30:21,360 --> 00:30:29,680
+dude in miami absolutely yes
+
